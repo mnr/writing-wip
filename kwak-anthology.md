@@ -12,8 +12,14 @@ Ovens were probably *not* supposed to explode, although ovens were rare, so thei
 
 Araci stood at the feet of Dakota Williams, the deceased occupant of the condominium. She lay on her back in the middle of the room. Her right arm was near the earthquake pillar, severed at the shoulder. Her left forearm lay near the door. Bits of face, hair, and scalp were stuck to the broken window. The explosion had burned through her clothing and flesh, leaving fourth-degree burn marks matching the wall behind the no-longer-existing oven.
 
-What happened was clear. The oven exploded. No mystery here. Dakota had been standing in front of the oven, possibly opening the door when the thing unexpectedly distributed a high-velocity cloud of sharp plastic, metal, and glass shrapnel through Dakota and into the room.
+What happened was clear. The oven exploded. No mystery here. Dakota had been standing in front of the oven, possibly opening the door when the thing unexpectedly distributed a high-velocity cloud of sharp plastic, metal, and glass shrapnel through her and into the room.
 
-His visor alerted him to the arrival of the scan of the condo, signed by Officer Guadalupe Reyes. *Guadalupe* - sometimes "Lupe" - was Araci's partner in the Portland Police Self-Defense class. Their relationship was professional, although there were signals of a potential for something more. 
+"The scan is ready," said Officer Guadalupe Reyes. "I've put the render in the report folder. You interested in grabbing some dinner?" 
 
-As to this condo, there was nothing more. He generated the report, shipped it off to the Portland Police server and headed home. His daughter was making dinner one last time before she left for disaster relief in Mississippi.
+*Guadalupe* - sometimes "Lupe" - was Araci's partner in the Portland Police Self-Defense class. Their relationship was professional, although there were signals of something more. 
+
+"Not tonight," replied Araci. "My daughter is leaving for another year in Mississippi and has promised to make dinner before she leaves. She's trying to make up for asking me to babysit her bird. Dinner tomorrow?"
+
+Lupe smiled. "Dinner tomorrow, then."
+
+As to this condo, there was nothing more. He shipped the report to the Portland Police server and left the apartment clean-up to the forensics team.
