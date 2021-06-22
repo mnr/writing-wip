@@ -12,4 +12,6 @@ Ovens were probably *not* supposed to explode, although they were rare, so their
 
 Araci stood at the feet of Dakota Williams, the owner. She lay on her back in the middle of the room. Her right arm was near the earthquake pillar, severed at the shoulder. Her left forearm lay near the door. Bits of face, hair, and scalp were stuck to the broken window. The explosion had burned through her clothing and flesh, leaving deep burn marks that matched the wall behind the no-longer-existing oven.
 
-What had happened was clear. The oven exploded. No mystery here. Dakota had been standing in front, possibly getting ready to open the oven door when the thing unexpectedly distributed a high-velocity cloud of sharp plastic, metal, and glass shrapnel into Dakota and the room.
+What had happened was clear. The oven exploded. No mystery here. Dakota had been standing in front, possibly getting ready to open the door when the thing unexpectedly distributed a high-velocity cloud of sharp plastic, metal, and glass shrapnel through Dakota and into the room.
+
+He had the scan of the condo, completed by Officer Guadalupe Reyes. Lupe and Araci were partners in the Portland Police Self-Defense class. Their relationship was professional, although there were signals of a potential for something more. As to this condo, there was nothing more. He generated the report, shipped it off to the Portland Police server and headed home. His daughter was making dinner one last time before she left for disaster relief in Mississippi.
