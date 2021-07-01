@@ -40,30 +40,30 @@ As to this condo, there was nothing more. He shipped the report to the Portland 
 
 Callista was making dinner. Nothing special. Spaghetti in a packet, boil and serve. The spaghetti was in a separate package from the sauce - which made it special. The salad and wine made it almost as good as his mother created in their antique kitchen.
 
-"Did you ever consider one of the modern ovens?" asked Araci. "They don't need gas lines anymore. There's a propane tank built-in."
+"Did you ever consider one of those new ovens?" asked Araci. "They don't need gas lines anymore. There's a propane tank built-in."
 
 "Dad, that's a luxury item I can't afford," she replied. "I'm too busy to fuss around with one of those things. Besides, those special cook packets are expensive. It's not like you can just whip up some dough and bake a cake. You have to buy the specific tray for whatever it is you want to cook - and it has to be compatible with your oven. You can't buy a bread kit from Red Mill and expect it to work with an oven that isn't red-mill-certified. It's so much easier with boil and serve pouches. Cheaper too."
 
-"Probably safer as well," said Araci. He forked up spaghetti, fending off Rifkin from his plate. It was easier to give Rifkin run of the apartment. The alternative was to lock him into his cage and endure deafening complaints. "I just saw the results from one of those things exploding. Killed the occupant."
+"Probably safer as well," said Araci. He forked up spaghetti, fending off Rifkin from his plate. It was easier to give Rifkin run of the apartment. The alternative was to lock him into his cage and endure deafening complaints. "I just saw the result from one of those things exploding. Killed the occupant."
 
 "That's not supposed to happen," she said. "Everything I see says they are as safe as tissue paper. Was it arson?"
 
 "Arson is always possible," he said. "But you can't rule out human ingenuity. Who's to say the victim didn't try to warm up some petroleum based beauty product at the same time as making dinner. Dumber things happen."
 
-"Do you know anything about the victim. Was it an accident, or did someone have a grudge?"
+"Do you know anything about the victim. Was it an accident?"
 
 "Her name was Dakota Williams. I don't know her net worth, but she had a fancy apartment with a luxury oven. She was a programmer, recently moved here from Montevideo. Used to work for a publically-held ransomware company. Looks to be social from her online profile, but not sure how long-term any of those relationships are."
 
-"Isn't ransomware a career path in felonies?"
+"I thought ransomware was outlawed?"
 
-"Not necessarily," Araci said. He pushed his plate to Rifkin, who grabbed a noodle and flew into the other room. Spaghetti sauce dripped behine. Nothing was clean with Rifkin. "Ransomware is a messy business, but when it goes public, it has shareholder value. Mutual funds have political sway, and profits talk. Big Pharm made big money on opiods, and passed that money to shareholders. Same with ransomware. Worry not about the careless corporate IT group, insurance covers the cost. It's all very corporate and can be a resume builder."
+"Not necessarily," Araci said. He pushed his plate to Rifkin, who grabbed a noodle and flew into the other room. Spaghetti sauce dripped behind, nothing was clean with Rifkin. "Ransomware is a messy business, but when it goes public, it has shareholder value. Mutual funds have political sway, and profits talk. Big Pharm made big money on opiods and made money for shareholders. Same with ransomware. Worry not about the careless corporate victim, insurance covers the cost. She was from Uruguay where it is all very respectable and can be a resume builder."
 
-"So moves, then dies in a freak accident. Nothing to see here?"
+"So she moves, then dies in a freak accident. That's not suspicious?"
 
-"Point taken," says Araci. "Could be she was escaping from something. Could be something was unhappy about her departure. Could be her next move was not approved by her previous employer. Possibly a jealous boyfriend. Possibly an international cartel. All I have is a burned out condominium and a smoking corpse."
+"Point taken," says Araci. "Could be she was escaping from something. Could be someone was unhappy about her departure. Could be her next move was not approved by her previous employer. Possibly a jealous boyfriend. Possibly an international cartel. All I have is a burned out condominium and a smoking corpse."
 
-"You didn't mention what she was doing when the oven exploded. Was there a cook package left in the room? Probably in bits - but there must have been some parts left laying around."
+"You didn't mention what she was doing when the oven exploded. Was there a cook package? Probably in bits - but there must have been some parts left laying around."
 
-Araci had already reviewed the scans. Replaying the reconstruction on the way to dinner, Araci had identified the victim's last intended meal. The meal was a non-standard speciality version of Chicken Marsala. Not available in grocery stores, at least not this version. It wasn't even a beta release, sometimes available from manufacturers for testing. This meal was entirely outside of the public distribution chain. He didn't share this with Rifkin or his daughter, but it placed this outside the range of acceptable accidents. Dakota's move from a dicey ransomware company coupled with her quick demise from a non-standard tray of chicken marsala was one coincidence too many.
+Araci had already reviewed the scans. Replaying the reconstruction on the way to dinner, Araci had identified the victim's last intended meal. The meal was a non-standard speciality version of Chicken Marsala. Not available in grocery stores, at least not this version. It wasn't even a beta release, sometimes available from manufacturers for testing. This meal was entirely outside of the public distribution chain. Dakota's move from a dicey ransomware company coupled with her quick demise from a non-standard tray of Chicken Marsala was one coincidence too many.
 
 // -----
