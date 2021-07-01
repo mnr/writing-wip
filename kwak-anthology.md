@@ -24,23 +24,23 @@ As to this condo, there was nothing more. He shipped the report to the Portland 
 
 // -----
 
-"HUMAN ERROR," screeched Rifkin. The African Gray parrot belonged to Araci's daughter, but was Araci's foster bird for the next year. He agreed to host the bird in his small apartment while his daughter handled disaster relief in Mississippi. Rifkin's previous owner had watched a lot of *2001 - A Space Oddessy* and Rifkin communicated with random quotes from the movie. Always at full volume. 
+"HUMAN ERROR," screeched Rifkin. The African Gray parrot belonged to Callista Belo, Araci's daughter. Araci agreed to babysit the bird while his daughter handled disaster relief in Mississippi. Rifkin's previous owner had watched a lot of *2001 - A Space Oddessy* and Rifkin communicated with random quotes from the movie. Always at full volume. 
 
-His daughter was making dinner. Nothing special. Spaghetti in a packet, boil and serve. The spaghetti was in a separate package from the sauce which made it special. The salad and wine made it almost as good as Araci remembered his mother creating in an antique kitchen.
+Callista was making dinner. Nothing special. Spaghetti in a packet, boil and serve. The spaghetti was in a separate package from the sauce - which made it special. The salad and wine made it almost as good as his mother created in their antique kitchen.
 
-"Did you ever consider one of the modern ovens?" asked Araci. "They don't need gas lines anymore. The tank is included with the cabinet."
+"Did you ever consider one of the modern ovens?" asked Araci. "They don't need gas lines anymore. There's a propane tank built-in."
 
-"Dad, that's a luxury item I can't afford," she replied. "I'm too busy to fuss around with one of those things. Besides, they require special cook packets. It's not like you can just whip up some dough and bake a cake. You have to buy the specific tray for whatever it is you want to cook - and it has to be compatible with your oven. You can't buy a bread kit from Red Mill and expect it to work with an oven that isn't red-mill-certified. It's so much easier with boil and serve pouches. Cheaper too."
+"Dad, that's a luxury item I can't afford," she replied. "I'm too busy to fuss around with one of those things. Besides, those special cook packets are expensive. It's not like you can just whip up some dough and bake a cake. You have to buy the specific tray for whatever it is you want to cook - and it has to be compatible with your oven. You can't buy a bread kit from Red Mill and expect it to work with an oven that isn't red-mill-certified. It's so much easier with boil and serve pouches. Cheaper too."
 
-"Probably safer as well," said Araci. He forked up spaghetti, fending off Rifkin from his plate. It was easier to give Rifkin run of the apartment. The alternative was to lock him into his cage and endure deafening complaints. "I just came from an over explosion. Killed the occupant."
+"Probably safer as well," said Araci. He forked up spaghetti, fending off Rifkin from his plate. It was easier to give Rifkin run of the apartment. The alternative was to lock him into his cage and endure deafening complaints. "I just saw the results from one of those things exploding. Killed the occupant."
 
-"That's not supposed to happen," she said. "Everything I see says they are as safe as tissue paper. Any possibility it was arson?"
+"That's not supposed to happen," she said. "Everything I see says they are as safe as tissue paper. Was it arson?"
 
-"Arson is always possible," he said. "But I can't rule out human ingenuity. Who's to say the victim didn't try to warm up some petroleum based beauty product at the same time as making dinner. Dumber things happen."
+"Arson is always possible," he said. "But you can't rule out human ingenuity. Who's to say the victim didn't try to warm up some petroleum based beauty product at the same time as making dinner. Dumber things happen."
 
 "Do you know anything about the victim. Was it an accident, or did someone have a grudge?"
 
-"Her name was Dakota Williams. Wealthy somehow - don't know her net worth, but she had a fancy apartment with a luxury oven. She was a programmer, recently moved here from Montevideo. Worked remotely for a publically-held ransomeware company. Looks to be social from her online profile, but not sure how long-term any of those relationships are."
+"Her name was Dakota Williams. I don't know her net worth, but she had a fancy apartment with a luxury oven. She was a programmer, recently moved here from Montevideo. Worked remotely for a publically-held ransomware company. Looks to be social from her online profile, but not sure how long-term any of those relationships are."
 
 "Isn't ransomware a career path in felonies?"
 
