@@ -1,22 +1,34 @@
-Downtown Portland was almost cleared of debris. Two decades after the earthquake, new buildings were rising to optimistic heights and the river was again flowing. Detective Araci Belo considered the view for a full half-minute, then shifted his focus back to the shattered glass between him and downtown.
+Downtown Portland was almost cleared of debris. Two decades after the earthquake, new buildings were rising to optimistic heights and the river was again flowing. Detective Araci Belo considered the view for a full half-minute, then shifted his focus back to the shattered glass between him and downtown. 
 
-This building was one of the two luxury condominiums built by the city. The hope was to attract new business and to dispell the perception of Portland as a disaster zone. Which it actually was - or had been. The current state of this apartment was not helping the reconstruction narrative. The explosion had propelled improvised missles towards the window, but none had broken through. Despite the cracks and bulls-eyes, the windows were the most intact feature of the room. They were earthquake-proof, designed not to shred the pedestrians below with lethal glass daggers. 
+This building was one of the two luxury condominiums built by the city. The hope was to attract new business and to dispell the perception of Portland as a disaster zone. Which it actually was - or had been.
 
-The opening to his left showed the bedroom and bath. The bed was tidy and the floor clean, outside of a few kitchen items thrown there by the explosion. The wall running through the center of the condo had directed the blast in one direction - like a cannon - towards the external wall. Two body parts had bounced off the earthquake pillars, leaving blood at the impact points. The sprinklers hadn't removed all the evidence.
+Araci liked Portland. Aside from the constant re-construction, it was clean and friendly. It didn't smell and transportation had been planned for efficient travel. Most other cities were a scribble of roads, rails, and bike paths placed around existing buildings.
+
+The room he stood in was unlike Portland in every way. An explosion had propelled improvised missles towards the window, but none had broken through. They were earthquake-proof, designed not to shred the pedestrians below with lethal glass daggers. Despite the cracks and bulls-eyes, they were the most intact feature of this room.
+
+There were more people in this room than it was intended to host. Two fire inspectors, a police imaging technician, two appliance maintenance people, a condo maintenance administrator, and her assistant all tried not to disturb the chaos. Three home owners association board members and neighbors on all sides of this condo stood in the hallway.
+
+The coppery, sweet, meaty smell of burnt flesh emanated from Dakota Williams, the recently deceased occupant of the condominium. She lay on her back in the middle of the room, her right arm near the earthquake pillar, severed at the shoulder. Her left forearm lay near the door. Bits of face, hair, and scalp were stuck to the broken window. The explosion had burned through her clothing and flesh.
+
+Araci stepped around Dakota and through the door to his left. This showed the bedroom and a small bathroom. The bathroom was tidy, but not spotless. There were two toothbrushes in a cup. Before Araci could access the medical records kept by the bathroom mirror he'd need a privacy waiver. He filed the request, but it would be days before department lawyers could get it cleared.
+
+The bed was ruffled and a few kitchen items thrown in by the explosion. A small desk was cluttered with electronics parts and tools, the sorts of things an Electronics Engineer might use.
+
+The wall running through the center of the condo had directed the blast in one direction - like a cannon - towards the external wall. Two body parts had bounced off the earthquake pillars, leaving blood at the impact points. The sprinklers hadn't removed all the evidence.
 
 "The scan is ready," said Officer Guadalupe Reyes. She pushed a few buttons on the back of a camera. "I've put the render in the report folder. You interested in grabbing some dinner tonight?" 
 
 *Guadalupe* - sometimes "Lupe" - was Araci's sparring partner in the Portland Police Self-Defense class. Their relationship was professional, although there were signals something more might be possible. 
 
-"Not tonight," replied Araci. "My daughter is leaving for another year in Mississippi and has promised to make dinner before she leaves. She's trying to make up for asking me to babysit her bird. Dinner tomorrow?"
+"Not tonight," replied Araci. "Callista is leaving for another year in Mississippi and has promised to make dinner before she leaves. She's trying to make up for asking me to babysit her bird. Dinner tomorrow?"
 
-Lupe smiled. "Dinner tomorrow, then." She grabbed her bags and jostled her way through the crowd of two fire inspectors, three home owners association board members, two appliance maintenance people, a condo maintenance administrator, her assistant, and neighbors on all sides of this condo. 
+Lupe smiled. "Dinner tomorrow, then." She grabbed her bags and pushed through the crowd. 
 
-Araci engaged the scan in his visor and re-surveyed the room. The semi-transparent image of the counter filled in the missing parts of the real counter. There was less of the real oven; all that remained was the back plane, stove, and fuel tank. The tank was burned, but intact, but at a crazy angle from where it was supposed to be. Everything splayed outwards from the oven cavity where the explosion had clearly occured. Behind the oven the wall had a shallow crater. 
+Araci engaged the scan in his visor and re-surveyed the room. The semi-transparent image of the counter filled in the missing parts of the real counter. There was less of the real oven; all that remained was the back plane, stove, and fuel tank. The tank was burned, but intact, but at a crazy angle from where it was supposed to be. Everything splayed outwards from the oven cavity where the explosion had clearly occured. Behind the oven the wall had a shallow crater.
 
-Ovens were probably *not* supposed to explode, although ovens were rare, so their expected behavior was statistically unknown. Araci assumed it would be crazy for a manufacturer to build a luxury kitchen device with the expectation it would kill the owner. Which it had.
+The scan allowed for an animated reconstruction of the explosion, tracing the path of scattered oven parts back to their original assembly. Araci played it forward and reverse three times; some parts were marked as errors in position, probably due to online blueprints being out-of-date.
 
-Araci stood at the feet of Dakota Williams, the deceased occupant of the condominium. She lay on her back in the middle of the room. Her right arm was near the earthquake pillar, severed at the shoulder. Her left forearm lay near the door. Bits of face, hair, and scalp were stuck to the broken window. The explosion had burned through her clothing and flesh, leaving fourth-degree burn marks.
+Araci attached a summary of Dakota's history to the case file. She had recently moved here from Montevideo, Uruguay, leaving behind an electrical engineer position with a publically-held ransomware company. Her resume listed a current affiliation with an amorphous non-profit.
 
 What happened was clear. The oven exploded. Dakota had been standing in front of the oven, possibly opening the door when the thing unexpectedly distributed a high-velocity cloud of sharp plastic, metal, and glass shrapnel through her and into the room.
 
@@ -24,7 +36,7 @@ As to this condo, there was nothing more. He shipped the report to the Portland 
 
 // -----
 
-"HUMAN ERROR," screeched Rifkin. The African Gray parrot belonged to Callista Belo, Araci's daughter. Araci agreed to babysit the bird while his daughter handled disaster relief in Mississippi. Rifkin's previous owner had watched a lot of *2001 - A Space Oddessy* and Rifkin communicated with random quotes from the movie. Always at full volume. 
+"HUMAN ERROR," screeched Rifkin. The African Gray parrot belonged to Callista Belo, Araci's daughter. Araci agreed to care for the bird while his daughter handled disaster relief in Mississippi. Rifkin's previous owner had watched a lot of *2001 - A Space Oddessy* and Rifkin communicated with random quotes from the movie. Always at full volume. 
 
 Callista was making dinner. Nothing special. Spaghetti in a packet, boil and serve. The spaghetti was in a separate package from the sauce - which made it special. The salad and wine made it almost as good as his mother created in their antique kitchen.
 
@@ -40,7 +52,7 @@ Callista was making dinner. Nothing special. Spaghetti in a packet, boil and ser
 
 "Do you know anything about the victim. Was it an accident, or did someone have a grudge?"
 
-"Her name was Dakota Williams. I don't know her net worth, but she had a fancy apartment with a luxury oven. She was a programmer, recently moved here from Montevideo. Worked remotely for a publically-held ransomware company. Looks to be social from her online profile, but not sure how long-term any of those relationships are."
+"Her name was Dakota Williams. I don't know her net worth, but she had a fancy apartment with a luxury oven. She was a programmer, recently moved here from Montevideo. Used to work for a publically-held ransomware company. Looks to be social from her online profile, but not sure how long-term any of those relationships are."
 
 "Isn't ransomware a career path in felonies?"
 
