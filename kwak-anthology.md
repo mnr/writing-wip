@@ -80,5 +80,9 @@ The more he found out about David Lopez, the more interesting he became. David w
 
 David worked with Abundancy, the same non-profit Dakota listed as her current project. Love and philanthropy often travelled together.
 
-However, Abundancy had been accused of some violent activism. 
+However, Abundancy had been accused of some violent activism. They hadn't gone as far as claiming responsibility for breaking windows at Hestia factories, slashing tires of delivery vehicles, or the small-time arson at showrooms. They had disrupted shareholder meetings and sent letters just shy of threatening bodily harm. There was a dark side to Abundancy, and it seemed possible David was not the intelligent pacifist Dakota had followed to Portland.
+
+And if David was fighting with Hestia's manufacturers, what was Dakota doing with one of the units in her apartment. David's toothbrush was testimony he knew exactly  where his meals were coming from. Was Dakota the unexpected result of a lover's argument? It was about that time in a relationship where the flower of young love began to get lost in arguments about minutia. Lovers had killed lovers because of the way they chewed food, cheated at cards, or felt about religion, politics, or family.
+
+Dakota herself wasn't an innocent young thing. Working for a ransomware corporation might look corporate but in the end, it was about fraud. IT managers lost their jobs because of ransomware. CEOs were asked to step down. Stock prices fell. Customer data was enslaved and sold to less scrupulous operators. Dakota knew this and still accepted a paycheck.
 
