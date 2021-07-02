@@ -1,10 +1,10 @@
-Downtown Portland was almost cleared of debris. Two decades after the earthquake, new buildings were rising to optimistic heights and the river was again flowing. Detective Araci Belo considered the view for a full half-minute, then shifted his focus back to the shattered glass between him and downtown. 
+﻿Downtown Portland was almost cleared of debris. Two decades after the earthquake, new buildings were rising to optimistic heights and the river was again flowing. Detective Araci Belo considered the view for a full half-minute, then shifted his focus back to the shattered glass between him and downtown. 
 
-This building was one of the two luxury condominiums built by the city. The hope was to attract new business and to dispell the perception of Portland as a disaster zone. Which it actually was - or had been.
+This building was one of the two luxury condominiums built by the city. The hope was to attract new business and to dispel the perception of Portland as a disaster zone. Which it actually was - or had been.
 
 Araci liked Portland. Aside from the constant re-construction, it was clean and friendly. It didn't smell and transportation had been planned for efficient travel. Most other cities were a scribble of roads, rails, and bike paths placed around existing buildings.
 
-The room he stood in was unlike Portland in every way. An explosion had propelled improvised missles from the back of the condominium towards the window. None had broken through. The windows were earthquake-proof, designed not to shred the pedestrians below with lethal glass daggers. Despite the cracks and bulls-eyes, they were the most intact feature of this room.
+The room he stood in was unlike Portland in every way. An explosion had propelled improvised missiles from the back of the condominium towards the window. None had broken through. The windows were earthquake-proof, designed not to shred the pedestrians below with lethal glass daggers. Despite the cracks and bulls-eyes, they were the most intact feature of this room.
 
 There were more people in this room than it was intended to host. Two fire inspectors, a police imaging technician, two appliance maintenance people, a condo maintenance administrator, and her assistant all tried not to disturb the chaos. Three home owners association board members and neighbors on all sides of this condo stood in the hallway.
 
@@ -12,7 +12,7 @@ The coppery, sweet, meaty smell of burnt flesh emanated from Dakota Williams, th
 
 Araci stepped around Dakota and through the door to his left. This showed the bedroom and a small bathroom. The bathroom was tidy, but not spotless. There were two toothbrushes in a cup. Before Araci could access the medical records kept by the bathroom mirror he'd need a privacy waiver. He filed the request, but it would be days before department lawyers could get it cleared.
 
-Dakota's internet trail included pictures of her in Montevideo, always smiling, often in the middle of a plaza. In a video dated January 2059, a boy named David Lopez appeared. David lived in Portland, Oregon and was in Montevideo for an open source software convention. Three weeks later, Dakota travelled to Portland for a long weekend. Five weeks later David returned to Montevideo, with several videos at Playa de Los Pocitos in daylight and dancing at night. The videos became more playful and intimate, leading up to Dakota's trip to Portland. 
+Dakota's internet trail included pictures of her in Montevideo, always smiling, often in the middle of a plaza. In a video dated January 2059, a boy named David Lopez appeared. David lived in Portland, Oregon and was in Montevideo for an open source software convention. Three weeks later, Dakota traveled to Portland for a long weekend. Five weeks later David returned to Montevideo, with several videos at Playa de Los Pocitos in daylight and dancing at night. The videos became more playful and intimate, leading up to Dakota's trip to Portland. 
 
 David Lopez most certainly owned the second toothbrush. His absence was a gaping hole in the narrative. He wasn't a man of mystery, he had his own complete internet story. But he picked an interesting moment to go missing. Araci made a note to find him.
 
@@ -28,9 +28,9 @@ The wall running through the center of the condo had directed the blast in one d
 
 Lupe smiled. "Dinner tomorrow, then." She grabbed her bags and pushed through the crowd. 
 
-Araci engaged the scan in his visor and re-surveyed the room. The semi-transparent image of the counter filled in the missing parts of the real counter. There was less of the real oven; all that remained was the back plane, stove, and fuel tank. The tank was burned, but intact, but at a crazy angle from where it was supposed to be. Everything splayed outwards from the oven cavity where the explosion had clearly occured. Behind the oven the wall had a shallow crater.
+Araci engaged the scan in his visor and re-surveyed the room. The semi-transparent image of the counter filled in the missing parts of the real counter. There was less of the real oven; all that remained was the back plane, stove, and fuel tank. The tank was burned, but intact, but at a crazy angle from where it was supposed to be. Everything splayed outwards from the oven cavity where the explosion had clearly occurred. Behind the oven the wall had a shallow crater.
 
-The oven, a "Hestia" model, was designed to be easy to install and use. The oven was actually controlled by instructions from the meal it was cooking. Each meal was packaged in a multi-chambered cook plate with valves driven by a microcontroller on the underside of the meal. The chambers contained ingredients, the controller opened valves at the proper time, communicating with the oven for temperature adjustment. Hestia had no knobs or buttons; just place a meal kit in the oven and stand back. Hestia had taken an angry turn for the worst.
+The oven, a "Hestia" model, was designed to be easy to install and use. The oven was actually controlled by instructions from the meal it was cooking. Each meal was packaged in a multi-chambered cook plate with valves driven by a micro controller on the underside of the meal. The chambers contained ingredients, the controller opened valves at the proper time, communicating with the oven for temperature adjustment. Hestia had no knobs or buttons; just place a meal kit in the oven and stand back. Hestia had taken an angry turn for the worst.
 
 The scan allowed for an animated reconstruction of the explosion, tracing the path of scattered oven parts back to their original assembly. Araci played it forward and reverse three times; some parts were marked as errors in position, probably due to online blueprints being out-of-date.
 
@@ -70,7 +70,7 @@ Callista was making dinner. Nothing special. Spaghetti in a packet, boil and ser
 
 "You didn't mention what she was doing when the oven exploded. Was there a cook package? Probably in bits - but there must have been some parts left laying around."
 
-Araci had already reviewed the scans. Replaying the reconstruction on the way to dinner, Araci had identified the victim's last intended meal. The meal was a non-standard speciality version of Chicken Marsala. Not available in grocery stores, at least not this version. It wasn't even a beta release, sometimes available from manufacturers for testing. This meal was entirely outside of the public distribution chain. Dakota's move from a dicey ransomware company coupled with her quick demise from a non-standard tray of Chicken Marsala was one coincidence too many.
+Araci had already reviewed the scans. Replaying the reconstruction on the way to dinner, Araci had identified the victim's last intended meal. The meal was a non-standard specialty version of Chicken Marsala. Not available in grocery stores, at least not this version. It wasn't even a beta release, sometimes available from manufacturers for testing. This meal was entirely outside of the public distribution chain. Dakota's move from a dicey ransomware company coupled with her quick demise from a non-standard tray of Chicken Marsala was one coincidence too many.
 
 // -----
 
@@ -78,7 +78,7 @@ Araci swept up bird trash. Again. Rifkin had been his roommate for less than a d
 
 The more he found out about David Lopez, the more interesting he became. David was the author of "The road to food free from restrictions," written with guidance from the Free Software Foundation. The book outlined how industry could and should participate in keeping food a basic human right. This included the manufacturer of Dakota's hazardous oven, although they were adamant they needed profits for research and development of new life-saving products.
 
-David worked with Abundancy, the same non-profit Dakota listed as her current project. Love and philanthropy often travelled together.
+David worked with Abundancy, the same non-profit Dakota listed as her current project. Love and philanthropy often traveled together.
 
 However, Abundancy had been accused of some violent activism. They hadn't gone as far as claiming responsibility for breaking windows at Hestia factories, slashing tires of delivery vehicles, or the small-time arson at showrooms. They had disrupted shareholder meetings and sent letters just shy of threatening bodily harm. There was a dark side to Abundancy, and it seemed possible David was not the intelligent pacifist Dakota had followed to Portland.
 
@@ -108,7 +108,7 @@ Officer Reyes was in the early phase of a scan. This time she was using drones t
 
 "Yes, I do know that." The fire inspector stood and crossed his arms. Araci flashed on the argument between his bird and vacuum - it was like the same two characters all over again. "This was not a normal fire - lots of propane accelerant. The tank valve was opened, then lit."
 
-Reaching down to the tank, he unscrewed a small black device and placed it in an evidence bag. "This gizmo is a bluetooth valve. Costs about five dollars, easy to get for appliance repair, but you don't see them very often. Allows computers to control the flow of gas, they are in every one of the newer gas ovens."
+Reaching down to the tank, he unscrewed a small black device and placed it in an evidence bag. "This gizmo is a Bluetooth valve. Costs about five dollars, easy to get for appliance repair, but you don't see them very often. Allows computers to control the flow of gas, they are in every one of the newer gas ovens."
 
 He handed it to Araci. "Assuming you have an open flame to light the gas, you could create an impressive fire in just a little time, and from a respectable distance."
 
@@ -116,7 +116,7 @@ He handed it to Araci. "Assuming you have an open flame to light the gas, you co
 
 The site administrator had already confirmed the house was vacant. She had also mentioned an interesting policy; each house had a small gas heater, fed by a propane tank supplied by the occupant. Since there was no occupant, there should not have been a propane tank. David Lopez must have brought the tank when he snuck into the small building.
 
-Araci held the bluetooth valve up for close inspection. "Can this connect to the house's gas system?"
+Araci held the Bluetooth valve up for close inspection. "Can this connect to the house's gas system?"
 
 "The main socket of the tank is standard. But the valve isn't. The way the tank was set up, it couldn't have been connected. But it would have been easy to remove the valve. No way was this tank providing gas to the house."
 
