@@ -76,13 +76,58 @@ Araci had already reviewed the scans. Replaying the reconstruction on the way to
 
 Araci swept up bird trash. Again. Rifkin had been his roommate for less than a day, and it was a constant. Araci found himself doing it when he was thinking, a mindless activity for his body so he could think about other things.
 
-The more he found out about David Lopez, the more interesting he became. David was the author of "The road to food free from restrictions," written with guidance from the Free Software Foundation. He outlined how food manufacturers could and should participate in keeping food a basic human right. This included the manufacturer of Dakota's hazardous oven, although they were adamant they needed profits for research and development of new life-saving products.
+The more he found out about David Lopez, the more interesting he became. David was the author of "The road to food free from restrictions," written with guidance from the Free Software Foundation. The book outlined how industry could and should participate in keeping food a basic human right. This included the manufacturer of Dakota's hazardous oven, although they were adamant they needed profits for research and development of new life-saving products.
 
 David worked with Abundancy, the same non-profit Dakota listed as her current project. Love and philanthropy often travelled together.
 
 However, Abundancy had been accused of some violent activism. They hadn't gone as far as claiming responsibility for breaking windows at Hestia factories, slashing tires of delivery vehicles, or the small-time arson at showrooms. They had disrupted shareholder meetings and sent letters just shy of threatening bodily harm. There was a dark side to Abundancy, and it seemed possible David was not the intelligent pacifist Dakota had followed to Portland.
 
-And if David was fighting with Hestia's manufacturers, what was Dakota doing with one of the units in her apartment. David's toothbrush was testimony he knew exactly  where his meals were coming from. Was Dakota the unexpected result of a lover's argument? It was about that time in a relationship where the flower of young love began to get lost in arguments about minutia. Lovers had killed lovers because of the way they chewed food, cheated at cards, or felt about religion, politics, or family.
+"I AM PUTTING MYSELF TO THE FULLEST POSSIBLE USE!" screeched Rifkin. Rifkin had pried open the door of his cage and was heading to the kitchen. Araci followed a minute later to observe the bird ripping apart a box of crackers. The floor vac robot was already in motion and Araci resignedly observed the bird and the vacuum fight it out.
 
-Dakota herself wasn't an innocent young thing. Working for a ransomware corporation might look corporate but in the end, it was about fraud. IT managers lost their jobs because of ransomware. CEOs were asked to step down. Stock prices fell. Customer data was enslaved and sold to less scrupulous operators. Dakota knew this and still accepted a paycheck.
+Leaving the kitchen ruckus of vacuum vs bird, Araci retreated to the living room. If David was fighting with Hestia's manufacturers, what was Dakota doing with one of the units in her apartment? David's toothbrush was testimony he knew about the stove. Was Dakota's death the unexpected result of a lover's argument? The flower of young affection got lost in arguments about minutia and lovers had killed lovers because of the way they chewed food, cheated at cards, or felt about religion, politics, or family.
 
+Dakota herself wasn't an innocent young thing. Working for a ransomware corporation might look corporate but in the end, it was about fraud. IT managers lost their jobs because of ransomware. CEOs were asked to step down. Stock prices fell. Customer data was enslaved and sold to less scrupulous operators. Dakota knew this and still accepted a paycheck. Did her past catch up in a sudden fashion?
+
+Araci's visor flagged an incoming message from the police station. David Lopez had been found and was waiting for his arrival. The bird and vacuum would have to argue without him.
+
+// -----
+
+David wasn't in a hurry to leave and didn't have much to say to Araci. David lay on his back on a palette on the outskirts of a transitional housing facility. 
+
+The three by four by three meter building formerly occupying this space was one of many, designed for minimal housing until the occupant was able to move to something more permanent. The building to the east was unoccupied. A woman sat on the step of the house to the east. 
+
+Officer Reyes was in the early phase of a scan. This time she was using drones to create a 3d map. It would result in a scanned cube reproducing the area in millimeter resolution. 
+
+"Dinner tonight, still?" Lupe asked Araci. "Your daughter is gone, so no more excuses."
+
+"Dinner at my place, although I have a new roommate," replied Araci. "You're going to love his jokes."
+
+"Is this David Lopez?" Araci indicated the burned gristle on the palette. A fire inspector looked up from his microscope and nodded. "Yep. DNA confirms. I'm running dental right now, but that's just for the report. Looks like your lost boyfriend fell asleep in a house fire."
+
+"That was not a normal fire," shouted the east neighbor. She was clean and groomed, with a slight eastern accent. She turned to face the fire inspector. "These buildings are built out of non-flammable, non-toxic, fiberboard. You know that."
+
+"Yes, I do know that." The fire inspector stood and crossed his arms. Araci flashed on the argument between his bird and vacuum - it was like the same two characters all over again. "This was not a normal fire - lots of propane accelerant. The tank valve was opened, then lit."
+
+Reaching down to the tank, he unscrewed a small black device and placed it in an evidence bag. "This gizmo is a bluetooth valve. Costs about five dollars, easy to get for appliance repair, but you don't see them very often. Allows computers to control the flow of gas, they are in every one of the newer gas ovens."
+
+He handed it to Araci. "Assuming you have an open flame to light the gas, you could create an impressive fire in just a little time, and from a respectable distance."
+
+"Nobody is supposed to be in that unit," called out the neighbor. "It's been empty and waiting for refurb. There were people scuttling around there last night. Probably someone looking for a place to crash."
+
+The site administrator had already confirmed the house was vacant. She had also mentioned an interesting policy; each house had a small gas heater, fed by a propane tank supplied by the occupant. Since there was no occupant, there should not have been a propane tank. David Lopez must have brought the tank when he snuck into the small building.
+
+Araci held the bluetooth valve up for close inspection. "Can this connect to the house's gas system?"
+
+"The main socket of the tank is standard. But the valve isn't. The way the tank was set up, it couldn't have been connected. But it would have been easy to remove the valve. No way was this tank providing gas to the house."
+
+"Is the tank empty?"
+
+The fire inspector picked up the tank with two fingers. "Yep. It's exhausted. That valve has been open all night. It fed the fire until it ran out."
+
+Araci took a picture of the valve and handed it back. Turning to Lupe, he said, "See you at six?"
+
+"Is your roommate leaving at 5:30?" she asked.
+
+"Sorry, he'll be there. I'll introduce you."
+
+// -----
