@@ -4,13 +4,17 @@ This building was one of the two luxury condominiums built by the city. The hope
 
 Araci liked Portland. Aside from the constant re-construction, it was clean and friendly. It didn't smell and transportation had been planned for efficient travel. Most other cities were a scribble of roads, rails, and bike paths placed around existing buildings.
 
-The room he stood in was unlike Portland in every way. An explosion had propelled improvised missles towards the window, but none had broken through. They were earthquake-proof, designed not to shred the pedestrians below with lethal glass daggers. Despite the cracks and bulls-eyes, they were the most intact feature of this room.
+The room he stood in was unlike Portland in every way. An explosion had propelled improvised missles from the back of the condominium towards the window. None had broken through. The windows were earthquake-proof, designed not to shred the pedestrians below with lethal glass daggers. Despite the cracks and bulls-eyes, they were the most intact feature of this room.
 
 There were more people in this room than it was intended to host. Two fire inspectors, a police imaging technician, two appliance maintenance people, a condo maintenance administrator, and her assistant all tried not to disturb the chaos. Three home owners association board members and neighbors on all sides of this condo stood in the hallway.
 
 The coppery, sweet, meaty smell of burnt flesh emanated from Dakota Williams, the recently deceased occupant of the condominium. She lay on her back in the middle of the room, her right arm near the earthquake pillar, severed at the shoulder. Her left forearm lay near the door. Bits of face, hair, and scalp were stuck to the broken window. The explosion had burned through her clothing and flesh.
 
 Araci stepped around Dakota and through the door to his left. This showed the bedroom and a small bathroom. The bathroom was tidy, but not spotless. There were two toothbrushes in a cup. Before Araci could access the medical records kept by the bathroom mirror he'd need a privacy waiver. He filed the request, but it would be days before department lawyers could get it cleared.
+
+Dakota's internet trail included pictures of her in Montevideo, always smiling, often in the middle of a plaza. In a video dated January 2059, a boy named David Lopez appeared. David lived in Portland, Oregon and was in Montevideo for an open source software convention. Three weeks later, Dakota travelled to Portland for a long weekend. Five weeks later David returned to Montevideo, with several videos at Playa de Los Pocitos in daylight and dancing at night. The videos became more playful and intimate, leading up to Dakota's trip to Portland. 
+
+David Lopez most certainly owned the second toothbrush. His absence was a gaping hole in the narrative. He wasn't a man of mystery, he had his own complete internet story. But he picked an interesting moment to go missing. Araci made a note to find him.
 
 The bed was ruffled and a few kitchen items thrown in by the explosion. A small desk was cluttered with electronics parts and tools, the sorts of things an Electronics Engineer might use.
 
@@ -26,9 +30,11 @@ Lupe smiled. "Dinner tomorrow, then." She grabbed her bags and pushed through th
 
 Araci engaged the scan in his visor and re-surveyed the room. The semi-transparent image of the counter filled in the missing parts of the real counter. There was less of the real oven; all that remained was the back plane, stove, and fuel tank. The tank was burned, but intact, but at a crazy angle from where it was supposed to be. Everything splayed outwards from the oven cavity where the explosion had clearly occured. Behind the oven the wall had a shallow crater.
 
+The oven, a "Hestia" model, was designed to be easy to install and use. The oven was actually controlled by instructions from the meal it was cooking. Each meal was packaged in a multi-chambered cook plate with valves driven by a microcontroller on the underside of the meal. The chambers contained ingredients, the controller opened valves at the proper time, communicating with the oven for temperature adjustment. Hestia had no knobs or buttons; just place a meal kit in the oven and stand back. Hestia had taken an angry turn for the worst.
+
 The scan allowed for an animated reconstruction of the explosion, tracing the path of scattered oven parts back to their original assembly. Araci played it forward and reverse three times; some parts were marked as errors in position, probably due to online blueprints being out-of-date.
 
-Araci attached a summary of Dakota's history to the case file. She had recently moved here from Montevideo, Uruguay, leaving behind an electrical engineer position with a publically-held ransomware company. Her resume listed a current affiliation with an amorphous non-profit.
+Araci attached a summary of Dakota's history to the case file. She had recently moved here from Montevideo, Uruguay, leaving behind an electrical engineer position with a publically-held ransomware company. Her resume listed a current affiliation with "Abundancy," a non-profit involved in food distribution.
 
 What happened was clear. The oven exploded. Dakota had been standing in front of the oven, possibly opening the door when the thing unexpectedly distributed a high-velocity cloud of sharp plastic, metal, and glass shrapnel through her and into the room.
 
@@ -67,3 +73,12 @@ Callista was making dinner. Nothing special. Spaghetti in a packet, boil and ser
 Araci had already reviewed the scans. Replaying the reconstruction on the way to dinner, Araci had identified the victim's last intended meal. The meal was a non-standard speciality version of Chicken Marsala. Not available in grocery stores, at least not this version. It wasn't even a beta release, sometimes available from manufacturers for testing. This meal was entirely outside of the public distribution chain. Dakota's move from a dicey ransomware company coupled with her quick demise from a non-standard tray of Chicken Marsala was one coincidence too many.
 
 // -----
+
+Araci swept up bird trash. Again. Rifkin had been his roommate for less than a day, and it was a constant. Araci found himself doing it when he was thinking, a mindless activity for his body so he could think about other things.
+
+The more he found out about David Lopez, the more interesting he became. David was the author of "The road to food free from restrictions," written with guidance from the Free Software Foundation. He outlined how food manufacturers could and should participate in keeping food a basic human right. This included the manufacturer of Dakota's hazardous oven, although they were adamant they needed profits for research and development of new life-saving products.
+
+David worked with Abundancy, the same non-profit Dakota listed as her current project. Love and philanthropy often travelled together.
+
+However, Abundancy had been accused of some violent activism. 
+
