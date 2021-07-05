@@ -1,6 +1,4 @@
-﻿Downtown Portland was almost cleared of debris. Two decades after the earthquake, new buildings were rising to optimistic heights and the river was again flowing. Detective Araci Belo considered the view for a full half-minute, then shifted his focus back to the shattered glass between him and downtown. 
-
-This building was one of the two luxury condominiums built by the city. The hope was to attract new business and to dispel the perception of Portland as a disaster zone. Which it actually was - or had been.
+﻿Two decades after the earthquake, downtown Portland is almost cleared of debris. New buildings rise to optimistic heights and the Willamette river flows to the Columbia. Detective Araci Belo considered the view for a full half-minute, then shifted his focus back to the shattered glass. The room he stands in is on the 33rd floor of a luxury condominium built by the city. The hope is to attract new business and dispel the perception of Portland as a disaster zone. 
 
 Araci liked Portland. Aside from the constant re-construction, it was clean and friendly. It didn't smell and transportation had been planned for efficient travel. Most other cities were a scribble of roads, rails, and bike paths placed around existing buildings.
 
@@ -92,17 +90,15 @@ Araci's visor flagged an incoming message from the police station. David Lopez h
 
 // -----
 
-David wasn't in a hurry to leave and didn't have much to say to Araci. David lay on his back on a palette on the outskirts of a transitional housing facility. 
+David wasn't in a hurry to leave and didn't have much to say to Araci. He lay on his back in the middle of a burned building on the outer edge of a transitional housing facility. The building formerly occupying this space was one of many in this converted parking lot, designed for minimal housing until the occupant was able to move to something more permanent. The building to the east was unoccupied. A woman sat on the step of the house to the east. 
 
-The three by four by three meter building formerly occupying this space was one of many, designed for minimal housing until the occupant was able to move to something more permanent. The building to the east was unoccupied. A woman sat on the step of the house to the east. 
-
-Officer Reyes was in the early phase of a scan. This time she was using drones to create a 3d map. It would result in a scanned cube reproducing the area in millimeter resolution. 
+Officer Reyes was flying drones to create a 3d map. It would record David and his surroundings in millimeter resolution. 
 
 "Dinner tonight, still?" Lupe asked Araci. "Your daughter is gone, so no more excuses."
 
-"Dinner at my place, although I have a new roommate," replied Araci. "You're going to love his jokes."
+"Dinner at my place, although I have a new roommate," replied Araci. "You're going to love his jokes." 
 
-"Is this David Lopez?" Araci indicated the burned gristle on the palette. A fire inspector looked up from his microscope and nodded. "Yep. DNA confirms. I'm running dental right now, but that's just for the report. Looks like your lost boyfriend fell asleep in a house fire."
+He turned back to David. "Is this David Lopez?" Araci indicated the burned gristle on the palette. A fire inspector looked up from his microscope and nodded. "Yep. DNA confirms. I'm running dental right now, but that's just for the report. Looks like your lost boyfriend fell asleep in a house fire."
 
 "That was not a normal fire," shouted the east neighbor. She was clean and groomed, with a slight eastern accent. She turned to face the fire inspector. "These buildings are built out of non-flammable, non-toxic, fiberboard. You know that."
 
@@ -131,3 +127,4 @@ Araci took a picture of the valve and handed it back. Turning to Lupe, he said, 
 "Sorry, he'll be there. I'll introduce you."
 
 // -----
+
