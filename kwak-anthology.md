@@ -1,24 +1,20 @@
-﻿Downtown Portland was almost cleared of debris. Two decades after the earthquake, new buildings were rising to optimistic heights and the river was again flowing. Detective Araci Belo considered the view for a full half-minute, then shifted his focus back to the shattered glass between him and downtown. 
+﻿Two decades after the earthquake, downtown Portland is almost cleared of debris. New buildings rise to optimistic heights and the Willamette river flows to the Columbia. Detective Araci Belo considered the view for a full half-minute, then shifted his focus back to the shattered glass. The room he stands in is on the 33rd floor of a luxury condominium built by the city. The hope is to attract new business and dispel the perception of Portland as a disaster zone. 
 
-This building was one of the two luxury condominiums built by the city. The hope was to attract new business and to dispel the perception of Portland as a disaster zone. Which it actually was - or had been.
+An explosion had propelled bits of the oven from the back of the condominium. Nothing had broken through the window. They were earthquake-proof, designed not to shred the pedestrians below with lethal glass daggers. Despite the cracks and bulls-eyes, they were the most intact feature of this room.
 
-Araci liked Portland. Aside from the constant re-construction, it was clean and friendly. It didn't smell and transportation had been planned for efficient travel. Most other cities were a scribble of roads, rails, and bike paths placed around existing buildings.
+Besides Araci, there were two fire inspectors, a police imaging technician  ("Lupe"), two appliance maintenance people, a condo maintenance administrator, and her assistant. Three home owners association board members and neighbors on all sides of this condo stood in the hallway.
 
-The room he stood in was unlike Portland in every way. An explosion had propelled improvised missiles from the back of the condominium towards the window. None had broken through. The windows were earthquake-proof, designed not to shred the pedestrians below with lethal glass daggers. Despite the cracks and bulls-eyes, they were the most intact feature of this room.
+The coppery, sweet, meaty smell of burnt flesh emanated from Dakota Williams, the recently deceased occupant of the condominium. She lay on her back in the middle of the room, her severed right arm near the earthquake pillar. Her left forearm lay near the door. The explosion had burned through her clothing and flesh and propelled bits of face, hair, and scalp to the broken window. 
 
-There were more people in this room than it was intended to host. Two fire inspectors, a police imaging technician, two appliance maintenance people, a condo maintenance administrator, and her assistant all tried not to disturb the chaos. Three home owners association board members and neighbors on all sides of this condo stood in the hallway.
+Araci stepped around Dakota and through the door to his left. This opened to the bedroom and a small bathroom. The bathroom was tidy, but not spotless. There were two toothbrushes in a cup. Before Araci could access the medical records kept by the bathroom mirror he'd need a privacy waiver. He filed the request, but it would be days before department lawyers could get it cleared.
 
-The coppery, sweet, meaty smell of burnt flesh emanated from Dakota Williams, the recently deceased occupant of the condominium. She lay on her back in the middle of the room, her right arm near the earthquake pillar, severed at the shoulder. Her left forearm lay near the door. Bits of face, hair, and scalp were stuck to the broken window. The explosion had burned through her clothing and flesh.
+Araci pulled up Dakota's public shared space, which included pictures of her in Montevideo, always smiling, often in the middle of a plaza. In a video dated January 2059, a boy named David Lopez appeared. Araci traced David back to Portland, Oregon. He had visited Montevideo for an open source software convention. Three weeks later, videos of Dakota boarding a plane to Portland for a long weekend. Five weeks later David returned to Montevideo, with several videos at Playa de Los Pocitos in daylight - dancing at night. The videos became more playful and intimate, leading up to Dakota's move to Portland. 
 
-Araci stepped around Dakota and through the door to his left. This showed the bedroom and a small bathroom. The bathroom was tidy, but not spotless. There were two toothbrushes in a cup. Before Araci could access the medical records kept by the bathroom mirror he'd need a privacy waiver. He filed the request, but it would be days before department lawyers could get it cleared.
+Araci could request a DNA test, but David Lopez most certainly owned the second toothbrush. His absence in this room was a gaping hole in the narrative. He wasn't a man of mystery, he had his own complete internet story. But he picked an interesting moment to go missing. Araci made a note to find him.
 
-Dakota's internet trail included pictures of her in Montevideo, always smiling, often in the middle of a plaza. In a video dated January 2059, a boy named David Lopez appeared. David lived in Portland, Oregon and was in Montevideo for an open source software convention. Three weeks later, Dakota traveled to Portland for a long weekend. Five weeks later David returned to Montevideo, with several videos at Playa de Los Pocitos in daylight and dancing at night. The videos became more playful and intimate, leading up to Dakota's trip to Portland. 
+To be complete, he attached a summary of Dakota's history to the case file. She had recently moved here from Montevideo, Uruguay, leaving behind an electrical engineer position with a publicly-held ransomware company. Her resume listed a current affiliation with "Abundancy," a non-profit involved in food distribution.
 
-David Lopez most certainly owned the second toothbrush. His absence was a gaping hole in the narrative. He wasn't a man of mystery, he had his own complete internet story. But he picked an interesting moment to go missing. Araci made a note to find him.
-
-The bed was ruffled and a few kitchen items thrown in by the explosion. A small desk was cluttered with electronics parts and tools, the sorts of things an Electronics Engineer might use.
-
-The wall running through the center of the condo had directed the blast in one direction - like a cannon - towards the external wall. Two body parts had bounced off the earthquake pillars, leaving blood at the impact points. The sprinklers hadn't removed all the evidence.
+The bed was ruffled and a small desk was cluttered with electronics parts and tools, the sorts of things an Electronics Engineer might use.
 
 "The scan is ready," said Officer Guadalupe Reyes. She pushed a few buttons on the back of a camera. "I've put the render in the report folder. You interested in grabbing some dinner tonight?" 
 
@@ -28,15 +24,13 @@ The wall running through the center of the condo had directed the blast in one d
 
 Lupe smiled. "Dinner tomorrow, then." She grabbed her bags and pushed through the crowd. 
 
-Araci engaged the scan in his visor and re-surveyed the room. The semi-transparent image of the counter filled in the missing parts of the real counter. There was less of the real oven; all that remained was the back plane, stove, and fuel tank. The tank was burned, but intact, but at a crazy angle from where it was supposed to be. Everything splayed outwards from the oven cavity where the explosion had clearly occurred. Behind the oven the wall had a shallow crater.
+Araci retrieved the scan in his visor and re-surveyed the room, comparing the two overlaid views; the real, burned room, and the room as shown in blueprints. The partly destroyed counter was augmented with a render of the pristine counter. The oven, what little remained, had an overlay of the real oven before the explosion. All that remained was the back plane, stove, and fuel tank. The tank was burned, but intact and at a crazy angle. Everything splayed outwards from the oven cavity; the explosion had clearly occurred there. 
 
-The oven, a "Hestia" model, was designed to be easy to install and use. The oven was actually controlled by instructions from the meal it was cooking. Each meal was packaged in a multi-chambered cook plate with valves driven by a micro controller on the underside of the meal. The chambers contained ingredients, the controller opened valves at the proper time, communicating with the oven for temperature adjustment. Hestia had no knobs or buttons; just place a meal kit in the oven and stand back. Hestia had taken an angry turn for the worst.
+The oven, a "Hestia" model, was designed to be easy to install and use. It had no controls, no dials. It was controlled by instructions from the meal packet it was cooking. Each meal was packaged in a multi-chambered cook plate with valves driven by a micro controller; part of the meal packet. The chambers contained ingredients, the controller opened valves at the proper time, communicating with the oven for temperature adjustment. Just place a meal kit in the oven and stand back. Normally it produced a perfect dinner, but this time, Hestia had taken an angry turn for the worst.
 
-The scan allowed for an animated reconstruction of the explosion, tracing the path of scattered oven parts back to their original assembly. Araci played it forward and reverse three times; some parts were marked as errors in position, probably due to online blueprints being out-of-date.
+Lupe's scan allowed for an animated reconstruction of the explosion, tracing the path of all parts back to their original assembly. Araci played it forward and reverse three times; most of the oven was accounted for, but some parts were marked as errors in position, probably due to online blueprints being out-of-date.
 
-Araci attached a summary of Dakota's history to the case file. She had recently moved here from Montevideo, Uruguay, leaving behind an electrical engineer position with a publically-held ransomware company. Her resume listed a current affiliation with "Abundancy," a non-profit involved in food distribution.
-
-What happened was clear. The oven exploded. Dakota had been standing in front of the oven, possibly opening the door when the thing unexpectedly distributed a high-velocity cloud of sharp plastic, metal, and glass shrapnel through her and into the room.
+What happened was clear. The oven exploded. Dakota had been standing in front, possibly opening the door when the thing unexpectedly distributed a high-velocity cloud of sharp plastic, metal, and glass shrapnel through her and into the room.
 
 As to this condo, there was nothing more. He shipped the report to the Portland Police server and left the apartment clean-up to the forensics team.
 
@@ -92,17 +86,15 @@ Araci's visor flagged an incoming message from the police station. David Lopez h
 
 // -----
 
-David wasn't in a hurry to leave and didn't have much to say to Araci. David lay on his back on a palette on the outskirts of a transitional housing facility. 
+David wasn't in a hurry to leave and didn't have much to say to Araci. He lay on his back in the middle of a burned building on the outer edge of a transitional housing facility. The building formerly occupying this space was one of many in this converted parking lot, designed for minimal housing until the occupant was able to move to something more permanent. The building to the east was unoccupied. A woman sat on the step of the house to the east. 
 
-The three by four by three meter building formerly occupying this space was one of many, designed for minimal housing until the occupant was able to move to something more permanent. The building to the east was unoccupied. A woman sat on the step of the house to the east. 
-
-Officer Reyes was in the early phase of a scan. This time she was using drones to create a 3d map. It would result in a scanned cube reproducing the area in millimeter resolution. 
+Officer Reyes was flying drones to create a 3d map. It would record David and his surroundings in millimeter resolution. 
 
 "Dinner tonight, still?" Lupe asked Araci. "Your daughter is gone, so no more excuses."
 
-"Dinner at my place, although I have a new roommate," replied Araci. "You're going to love his jokes."
+"Dinner at my place, although I have a new roommate," replied Araci. "You're going to love his jokes." 
 
-"Is this David Lopez?" Araci indicated the burned gristle on the palette. A fire inspector looked up from his microscope and nodded. "Yep. DNA confirms. I'm running dental right now, but that's just for the report. Looks like your lost boyfriend fell asleep in a house fire."
+He turned back to David. "Is this David Lopez?" Araci indicated the burned gristle on the palette. A fire inspector looked up from his microscope and nodded. "Yep. DNA confirms. I'm running dental right now, but that's just for the report. Looks like your lost boyfriend fell asleep in a house fire."
 
 "That was not a normal fire," shouted the east neighbor. She was clean and groomed, with a slight eastern accent. She turned to face the fire inspector. "These buildings are built out of non-flammable, non-toxic, fiberboard. You know that."
 
