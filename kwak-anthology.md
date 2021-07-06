@@ -131,3 +131,11 @@ Araci took a picture of the valve and handed it back. Turning to Lupe, he said, 
 "Sorry, he'll be there. I'll introduce you."
 
 // -----
+
+Araci saw Lupe off, then cleaned up the breakfast dishes. It had been a good evening. Lupe thought Rifkin was adorable and Rifkin was content to be on his own.
+
+The day started like days sometimes did. A string of "B" level priorities presented themselves, one after another. AIs were rewarded or discouraged, reports approved and filed, investigation files opened or closed. Nothing to make a difference in the world, but tasks that preceeded progress.
+
+Time clicked by, punctuated by Rifkin's explorations of the new apartment. Everything needed examination and re-arranging, although Araci hadn't realized it until Rifkin pointed it out. Even then, Araci didn't understand the necessity of scattering desktop contents across the room. But Rifkin had a plan, and Rifkin was persistent.
+
+So it went...until 1:27 pm. Araci's visor announced another gas explosion, no casualities, but plenty of alarmed neighbors. He summoned a public vehicle and told it to drive back to the transition facility where David Lopez had expired.
