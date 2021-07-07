@@ -8,7 +8,7 @@ The coppery, sweet, meaty smell of burnt flesh emanated from Dakota Williams, th
 
 Araci stepped around Dakota and through the door to his left. This opened to the bedroom and a small bathroom. The bathroom was tidy, but not spotless. There were two toothbrushes in a cup. Before Araci could access the medical records kept by the bathroom mirror he'd need a privacy waiver. He filed the request, but it would be days before department lawyers could get it cleared.
 
-Araci pulled up Dakota's public shared space, which included pictures of her in Montevideo, always smiling, often in the middle of a plaza. In a video dated January 2059, a boy named Robin Lopez appeared. Araci traced Robin back to Portland, Oregon. He had visited Montevideo for an open source software convention. Three weeks later, videos of Dakota boarding a plane to Portland for a long weekend. Five weeks later Robin returned to Montevideo, with several videos at Playa de Los Pocitos in daylight - dancing at night. The videos became more playful and intimate, leading up to Dakota's move to Portland. 
+Araci pulled up Dakota's public shared space, which included pictures of her in Montevideo, always smiling, often in the middle of a plaza. In a video dated January 2059, a boy named Robin Lopez appeared. Araci traced Robin back to Portland, Oregon. He had visited Montevideo for an open source software convention. That spring, there were videos of Dakota boarding a plane to Portland for a long weekend. A month later Robin returned to Montevideo, with several videos at Playa de Los Pocitos in daylight - dancing at night. The videos became more playful and intimate, leading up to Dakota's move to Portland. 
 
 Araci could request a DNA test, but Robin Lopez most certainly owned the second toothbrush. His absence in this room was a gaping hole in the narrative. He wasn't a man of mystery, he had his own complete internet story. But he picked an interesting moment to go missing. Araci made a note to find him.
 
@@ -38,21 +38,21 @@ As to this condo, there was nothing more. He shipped the report to the Portland 
 
 "HUMAN ERROR," screeched Rifkin. The African Gray parrot belonged to Callista Belo, Araci's daughter. Araci agreed to care for the bird while his daughter handled disaster relief in Mississippi. Rifkin's previous owner had watched a lot of *2001 - A Space Oddessy* and Rifkin communicated with random quotes from the movie. Always at full volume. 
 
-Callista was making dinner. Nothing special. Spaghetti in a packet, boil and serve. The spaghetti was in a separate package from the sauce - which made it special. The salad and wine made it almost as good as his mother created in their antique kitchen.
+Callista was making dinner. Spaghetti in a packet, boil and serve. The spaghetti was in a separate package from the sauce - which made it special. The salad and wine made it almost as good as his mother created in their antique kitchen.
 
 "Did you ever consider one of those new ovens?" asked Araci. "They don't need gas lines anymore. There's a propane tank built-in."
 
-"Dad, that's a luxury item I can't afford," she replied. "I'm too busy to fuss around with one of those things. Besides, those special cook packets are expensive. It's not like you can just whip up some dough and bake a cake. You have to buy the specific tray for whatever it is you want to cook - and it has to be compatible with your oven. You can't buy a bread kit from Red Mill and expect it to work with an oven that isn't red-mill-certified. It's so much easier with boil and serve pouches. Cheaper too."
+"Dad, that's a luxury item I can't afford," she replied. "I'm too busy to fuss around with one of those things. Besides, those manufacturer-sanctioned cook packets are expensive. It's not like you can just whip up some batter and bake a cake. You have to buy the specific tray for whatever it is you want to cook - and it has to be compatible with your oven. You can't buy a bread kit from Red Mill and expect it to work with an oven that isn't red-mill-certified. It's so much easier with boil and serve pouches. Cheaper too."
 
 "Probably safer as well," said Araci. He forked up spaghetti, fending off Rifkin from his plate. It was easier to give Rifkin run of the apartment. The alternative was to lock him into his cage and endure deafening complaints. "I just saw the result from one of those things exploding. Killed the occupant."
 
-"That's not supposed to happen," she said. "Everything I see says they are as safe as tissue paper. Was it arson?"
+"That's not supposed to happen," she said. "Everything I read says they are safe as tissue paper. Was it arson?"
 
 "Arson is always possible," he said. "But you can't rule out human ingenuity. Who's to say the victim didn't try to warm up some petroleum based beauty product at the same time as making dinner. Dumber things happen."
 
 "Do you know anything about the victim. Was it an accident?"
 
-"Her name was Dakota Williams. I don't know her net worth, but she had a fancy apartment with a luxury oven. She was a programmer, recently moved here from Montevideo. Used to work for a publically-held ransomware company. Looks to be social from her online profile, but not sure how long-term any of those relationships are."
+"I don't know her net worth, but she had a fancy apartment with a luxury oven. She was a programmer, recently moved here from Montevideo. Used to work for a publically-held ransomware company. Looks to be social from her online profile, but not sure how long-term any of those relationships are."
 
 "I thought ransomware was outlawed?"
 
@@ -64,13 +64,13 @@ Callista was making dinner. Nothing special. Spaghetti in a packet, boil and ser
 
 "You didn't mention what she was doing when the oven exploded. Was there a cook package? Probably in bits - but there must have been some parts left laying around."
 
-Araci had already reviewed the scans. Replaying the reconstruction on the way to dinner, Araci had identified the victim's last intended meal. The meal was a non-standard specialty version of Chicken Marsala. Not available in grocery stores, at least not this version. It wasn't even a beta release, sometimes available from manufacturers for testing. This meal was entirely outside of the public distribution chain. Dakota's move from a dicey ransomware company coupled with her quick demise from a non-standard tray of Chicken Marsala was one coincidence too many.
+Araci had already reviewed the scans. Replaying the reconstruction on the way to dinner, Araci had identified the victim's last intended meal. It was a non-standard specialty version of Chicken Marsala. Not available in grocery stores, at least not this version. This meal was entirely outside of the public distribution chain. Dakota's move from a dicey ransomware company coupled with her quick demise from a non-standard tray of Chicken Marsala was one coincidence too many.
 
 // -----
 
 Araci swept up bird trash. Again. Rifkin had been his roommate for less than a day, and it was a constant. Araci found himself doing it when he was thinking, a mindless activity for his body so he could think about other things.
 
-The more he found out about Robin Lopez, the more interesting he became. Robin was the author of "The road to food free from restrictions," written with guidance from the Free Software Foundation. The book outlined how industry could and should participate in keeping food a basic human right. This included the manufacturer of Dakota's hazardous oven, although appliance manufacturers were adamant they needed profits for research and development of new life-saving products.
+The more he found out about Robin Lopez, the more interesting he became. Robin was the author of "The Road To Food Free From Restrictions," written with guidance from the Free Software Foundation. The book outlined how industry could and should participate in keeping food a basic human right. This included the manufacturer of Dakota's hazardous oven, although appliance manufacturers were adamant they needed profits for research and development of new life-saving products.
 
 Robin worked with Abundancy, the same non-profit Dakota listed as her current project. Love and philanthropy often traveled together.
 
@@ -78,9 +78,9 @@ However, Abundancy had been accused of some violent activism. They hadn't gone a
 
 "I AM PUTTING MYSELF TO THE FULLEST POSSIBLE USE!" screeched Rifkin. Rifkin had pried open the door of his cage and was heading to the kitchen. Araci followed a minute later to observe the bird ripping apart a box of crackers. The floor vac robot was already in motion and Araci resignedly observed the bird and the vacuum fight it out.
 
-Leaving the kitchen ruckus of vacuum vs bird, Araci retreated to the living room. If Robin was fighting with Hestia's manufacturers, what was Dakota doing with one of the units in her apartment? Robin's toothbrush was testimony he knew about the stove. Was Dakota's death the unexpected result of a lover's argument? The flower of young affection got lost in arguments about minutia and lovers had killed lovers because of the way they chewed food, cheated at cards, or felt about religion, politics, or family.
+Leaving the kitchen ruckus of vacuum vs bird, Araci retreated to the living room. If Robin was fighting with Hestia's manufacturers, what was Dakota doing with one of the units in her apartment? Robin's toothbrush was testimony he knew about the stove. Was Dakota's death the unexpected result of a lover's argument? The flower of affection got lost in arguments about minutia and lovers had killed lovers because of the way they chewed food, cheated at cards, or felt about religion, politics, or family.
 
-Dakota herself wasn't an innocent young thing. Working for a ransomware corporation might look corporate but in the end, it was about fraud. IT managers lost their jobs because of ransomware. CEOs were asked to step down. Stock prices fell. Customer data was enslaved and sold to less scrupulous operators. Dakota knew this and still accepted a paycheck. Did her past catch up in a sudden fashion?
+Dakota herself wasn't an innocent. Working for a ransomware corporation might look corporate but in the end, it was about fraud. IT managers lost their jobs because of ransomware. CEOs were asked to step down. Stock prices fell. Customer data was enslaved and sold to less scrupulous operators. Dakota knew this and still accepted a paycheck. Did her past catch up in a sudden fashion?
 
 Araci's visor flagged an incoming message from the police station. Robin Lopez had been found and was waiting for his arrival. The bird and vacuum would have to argue without him.
 
@@ -100,7 +100,7 @@ He turned back to Robin. "Is this Robin Lopez?" Araci indicated the burned grist
 
 "Yes, I do know that." The fire inspector stood and crossed his arms. Araci flashed on the argument between his bird and vacuum - it was like the same two characters all over again. Fire Inspector faced down yoga-neighbor, "This wasn't a normal fire - lots of propane accelerant. The tank valve was opened, then lit."
 
-Reaching down to the tank, he unscrewed a small black device and placed it in an evidence bag. "This gizmo is a Bluetooth valve. Costs about five dollars, easy to get for appliance repair, but you don't see them very often. Allows computers to control the flow of gas; they are in every one of the newer gas ovens."
+Reaching down to the tank, he unscrewed a small black device and placed it in an evidence bag. "This gizmo is a Bluetooth valve. Costs about five dollars, easy to get for appliance repair. Allows computers to control the flow of gas; they are in every one of the newer gas ovens."
 
 He handed it to Araci. "Assuming you have an open flame to light the gas, you could create an impressive fire in just a little time, and from a respectable distance."
 
