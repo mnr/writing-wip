@@ -8,9 +8,9 @@ The coppery, sweet, meaty smell of burnt flesh emanated from Dakota Williams, th
 
 Araci stepped around Dakota and through the door to his left. This opened to the bedroom and a small bathroom. The bathroom was tidy, but not spotless. There were two toothbrushes in a cup. Before Araci could access the medical records kept by the bathroom mirror he'd need a privacy waiver. He filed the request, but it would be days before department lawyers could get it cleared.
 
-Araci pulled up Dakota's public shared space, which included pictures of her in Montevideo, always smiling, often in the middle of a plaza. In a video dated January 2059, a boy named David Lopez appeared. Araci traced David back to Portland, Oregon. He had visited Montevideo for an open source software convention. Three weeks later, videos of Dakota boarding a plane to Portland for a long weekend. Five weeks later David returned to Montevideo, with several videos at Playa de Los Pocitos in daylight - dancing at night. The videos became more playful and intimate, leading up to Dakota's move to Portland. 
+Araci pulled up Dakota's public shared space, which included pictures of her in Montevideo, always smiling, often in the middle of a plaza. In a video dated January 2059, a boy named Robin Lopez appeared. Araci traced Robin back to Portland, Oregon. He had visited Montevideo for an open source software convention. Three weeks later, videos of Dakota boarding a plane to Portland for a long weekend. Five weeks later Robin returned to Montevideo, with several videos at Playa de Los Pocitos in daylight - dancing at night. The videos became more playful and intimate, leading up to Dakota's move to Portland. 
 
-Araci could request a DNA test, but David Lopez most certainly owned the second toothbrush. His absence in this room was a gaping hole in the narrative. He wasn't a man of mystery, he had his own complete internet story. But he picked an interesting moment to go missing. Araci made a note to find him.
+Araci could request a DNA test, but Robin Lopez most certainly owned the second toothbrush. His absence in this room was a gaping hole in the narrative. He wasn't a man of mystery, he had his own complete internet story. But he picked an interesting moment to go missing. Araci made a note to find him.
 
 To be complete, he attached a summary of Dakota's history to the case file. She had recently moved here from Montevideo, Uruguay, leaving behind an electrical engineer position with a publicly-held ransomware company. Her resume listed a current affiliation with "Abundancy," a non-profit involved in food distribution.
 
@@ -70,49 +70,47 @@ Araci had already reviewed the scans. Replaying the reconstruction on the way to
 
 Araci swept up bird trash. Again. Rifkin had been his roommate for less than a day, and it was a constant. Araci found himself doing it when he was thinking, a mindless activity for his body so he could think about other things.
 
-The more he found out about David Lopez, the more interesting he became. David was the author of "The road to food free from restrictions," written with guidance from the Free Software Foundation. The book outlined how industry could and should participate in keeping food a basic human right. This included the manufacturer of Dakota's hazardous oven, although they were adamant they needed profits for research and development of new life-saving products.
+The more he found out about Robin Lopez, the more interesting he became. Robin was the author of "The road to food free from restrictions," written with guidance from the Free Software Foundation. The book outlined how industry could and should participate in keeping food a basic human right. This included the manufacturer of Dakota's hazardous oven, although appliance manufacturers were adamant they needed profits for research and development of new life-saving products.
 
-David worked with Abundancy, the same non-profit Dakota listed as her current project. Love and philanthropy often traveled together.
+Robin worked with Abundancy, the same non-profit Dakota listed as her current project. Love and philanthropy often traveled together.
 
-However, Abundancy had been accused of some violent activism. They hadn't gone as far as claiming responsibility for breaking windows at Hestia factories, slashing tires of delivery vehicles, or the small-time arson at showrooms. They had disrupted shareholder meetings and sent letters just shy of threatening bodily harm. There was a dark side to Abundancy, and it seemed possible David was not the intelligent pacifist Dakota had followed to Portland.
+However, Abundancy had been accused of some violent activism. They hadn't gone as far as claiming responsibility for breaking windows at Hestia factories, slashing tires of delivery vehicles, or the small-time arson at showrooms. They had disrupted shareholder meetings and sent letters just shy of threatening bodily harm. There was a dark side to Abundancy, and it seemed possible Robin was not the intelligent pacifist Dakota had followed to Portland.
 
 "I AM PUTTING MYSELF TO THE FULLEST POSSIBLE USE!" screeched Rifkin. Rifkin had pried open the door of his cage and was heading to the kitchen. Araci followed a minute later to observe the bird ripping apart a box of crackers. The floor vac robot was already in motion and Araci resignedly observed the bird and the vacuum fight it out.
 
-Leaving the kitchen ruckus of vacuum vs bird, Araci retreated to the living room. If David was fighting with Hestia's manufacturers, what was Dakota doing with one of the units in her apartment? David's toothbrush was testimony he knew about the stove. Was Dakota's death the unexpected result of a lover's argument? The flower of young affection got lost in arguments about minutia and lovers had killed lovers because of the way they chewed food, cheated at cards, or felt about religion, politics, or family.
+Leaving the kitchen ruckus of vacuum vs bird, Araci retreated to the living room. If Robin was fighting with Hestia's manufacturers, what was Dakota doing with one of the units in her apartment? Robin's toothbrush was testimony he knew about the stove. Was Dakota's death the unexpected result of a lover's argument? The flower of young affection got lost in arguments about minutia and lovers had killed lovers because of the way they chewed food, cheated at cards, or felt about religion, politics, or family.
 
 Dakota herself wasn't an innocent young thing. Working for a ransomware corporation might look corporate but in the end, it was about fraud. IT managers lost their jobs because of ransomware. CEOs were asked to step down. Stock prices fell. Customer data was enslaved and sold to less scrupulous operators. Dakota knew this and still accepted a paycheck. Did her past catch up in a sudden fashion?
 
-Araci's visor flagged an incoming message from the police station. David Lopez had been found and was waiting for his arrival. The bird and vacuum would have to argue without him.
+Araci's visor flagged an incoming message from the police station. Robin Lopez had been found and was waiting for his arrival. The bird and vacuum would have to argue without him.
 
 // -----
 
-David wasn't in a hurry to leave and didn't have much to say to Araci. He lay on his back in the middle of a burned building on the outer edge of a transitional housing facility. The building formerly occupying this space was one of many in this converted parking lot, designed for minimal housing until the occupant was able to move to something more permanent. The building to the east was unoccupied. A woman sat on the step of the house to the east. 
+Robin wasn't in a hurry to leave and didn't have much to say to Araci. He lay on his back in the middle of a burned building on the outer edge of a transitional housing facility. The building formerly occupying this space was one of many in this converted parking lot, designed for minimal housing until the occupant was able to move to something more permanent. The building to the east was unoccupied. A woman sat on the step of the house to the east.
 
-Officer Reyes was flying drones to create a 3d map. It would record David and his surroundings in millimeter resolution. 
+Officer Reyes was flying drones to create a 3d map. It would record Robin and his surroundings in millimeter resolution, sufficient for evidence and court review. Unfortunately the area suffered a lot of random footprints; it had been nearly a day before someone had called the police. 
 
 "Dinner tonight, still?" Lupe asked Araci. "Your daughter is gone, so no more excuses."
 
 "Dinner at my place, although I have a new roommate," replied Araci. "You're going to love his jokes." 
 
-He turned back to David. "Is this David Lopez?" Araci indicated the burned gristle on the palette. A fire inspector looked up from his microscope and nodded. "Yep. DNA confirms. I'm running dental right now, but that's just for the report. Looks like your lost boyfriend fell asleep in a house fire."
+He turned back to Robin. "Is this Robin Lopez?" Araci indicated the burned gristle on the palette. A fire inspector looked up from his microscope and nodded. "Yep. DNA confirms. I'm running dental right now, but that's just for the report. Looks like your lost boyfriend fell asleep in a house fire."
 
-"That was not a normal fire," shouted the east neighbor. She was clean and groomed, with a slight eastern accent. She turned to face the fire inspector. "These buildings are built out of non-flammable, non-toxic, fiberboard. You know that."
+"Nobody fell asleep. He wasn't supposed to be there," shouted the east neighbor. She was clean and groomed, sitting yoga-posed on the step of her small house. She turned to face the fire inspector. "These buildings aren't supposed to burn. You know that."
 
-"Yes, I do know that." The fire inspector stood and crossed his arms. Araci flashed on the argument between his bird and vacuum - it was like the same two characters all over again. "This was not a normal fire - lots of propane accelerant. The tank valve was opened, then lit."
+"Yes, I do know that." The fire inspector stood and crossed his arms. Araci flashed on the argument between his bird and vacuum - it was like the same two characters all over again. Fire Inspector faced down yoga-neighbor, "This wasn't a normal fire - lots of propane accelerant. The tank valve was opened, then lit."
 
-Reaching down to the tank, he unscrewed a small black device and placed it in an evidence bag. "This gizmo is a Bluetooth valve. Costs about five dollars, easy to get for appliance repair, but you don't see them very often. Allows computers to control the flow of gas, they are in every one of the newer gas ovens."
+Reaching down to the tank, he unscrewed a small black device and placed it in an evidence bag. "This gizmo is a Bluetooth valve. Costs about five dollars, easy to get for appliance repair, but you don't see them very often. Allows computers to control the flow of gas; they are in every one of the newer gas ovens."
 
 He handed it to Araci. "Assuming you have an open flame to light the gas, you could create an impressive fire in just a little time, and from a respectable distance."
 
-"Nobody is supposed to be in that unit," called out the neighbor. "It's been empty and waiting for refurb. There were people scuttling around there last night. Probably someone looking for a place to crash."
+"That unit's been empty and waiting for refurb," called out the neighbor. "There were people scuttling around last night. Probably someone looking for a place to crash."
 
-The site administrator had already confirmed the house was vacant. She had also mentioned an interesting policy; each house had a small gas heater, fed by a propane tank supplied by the occupant. Since there was no occupant, there should not have been a propane tank. David Lopez must have brought the tank when he snuck into the small building.
+Araci had already spoken with the site administrator who confirmed the tiny house was vacant. They had also mentioned an interesting policy; each house had a small gas heater, fed by a propane tank supplied by the occupant. Since there was no occupant, there should not have been a propane tank. Robin Lopez must have brought the tank when he snuck into the small building.
 
-Araci held the Bluetooth valve up for close inspection. "Can this connect to the house's gas system?"
+But why was Robin Lopez hanging out in a homeless camp when he had access to a luxury condominium? He could be living a double life. Or he could have been brought here against his will. Considering his demise, Araci surmised it was the latter.
 
-"The main socket of the tank is standard. But the valve isn't. The way the tank was set up, it couldn't have been connected. But it would have been easy to remove the valve. No way was this tank providing gas to the house."
-
-"Is the tank empty?"
+Araci held the Bluetooth valve up for close inspection. "Is the tank empty?"
 
 The fire inspector picked up the tank with two fingers. "Yep. It's exhausted. That valve has been open all night. It fed the fire until it ran out."
 
@@ -120,14 +118,54 @@ Araci took a picture of the valve and handed it back. Turning to Lupe, he said, 
 
 "Is your roommate leaving at 5:30?" she asked.
 
-"Sorry, he'll be there. I'll introduce you."
+"Sorry, but he'll be there. I'll introduce you."
 
 // -----
 
-Araci saw Lupe off, then cleaned up the breakfast dishes. It had been a good evening. Lupe thought Rifkin was adorable and Rifkin was content to be on his own.
+The next morning, Araci saw Lupe off, then cleaned up the breakfast dishes. It had been a good evening. Lupe thought Rifkin was adorable.
 
-The day started like days sometimes did. A string of "B" level priorities presented themselves, one after another. AIs were rewarded or discouraged, reports approved and filed, investigation files opened or closed. Nothing to make a difference in the world, but tasks that preceeded progress.
+When he was alone (except for Rifkin) The day started like days sometimes do. A string of "B" level priorities presented themselves, one after another. AIs were rewarded or discouraged, reports approved and filed, investigation files opened or closed. Nothing to make a difference in the world, but tasks that preceeded progress.
 
-Time clicked by, punctuated by Rifkin's explorations of the new apartment. Everything needed examination and re-arranging, although Araci hadn't realized it until Rifkin pointed it out. Even then, Araci didn't understand the necessity of scattering desktop contents across the room. But Rifkin had a plan, and Rifkin was persistent.
+Time clicked by, punctuated by Rifkin's explorations of the new apartment. For the bird, everything needed examination and re-arranging, although Araci hadn't realized it until Rifkin pointed it out. Even then, Araci didn't understand the necessity of scattering desktop contents across the room. But Rifkin had a plan, and Rifkin was persistent.
 
-So it went...until 1:27 pm. Araci's visor announced another gas explosion, no casualities, but plenty of alarmed neighbors. He summoned a public vehicle and told it to drive back to the transition facility where David Lopez had expired.
+So it went...until 11:27 am. Araci's visor announced another gas explosion, no casualities, but plenty of alarmed neighbors. Since he was investigating the last explosion, he was expected to investigate the new explosion. He summoned a public vehicle and told it to return to the transition facility where Robin Lopez had expired.
+
+Araci found himself facing another burned-out home. Barely large enough for one person to sleep in, the home was incinerated. The site manager informed Araci it was vacant, and this time there was no corpse. But there was a propane tank, complete with bluetooth valve. Someone had entered the facility, found a vacant home, dropped a tank and a candle, then touched off the fire remotely. Two nights in a row.
+
+// -----
+
+It was the third explosion on the third night when Araci began thinking this wasn't about the homeless camp. Misdirection was used by magicians, organized crime, and corporate espionage to pull attention away from the real problem. Araci went back to the task when this started: Dakota Williams and Robin Lopez waited for his attention.
+
+Araci reviewed the file. Dakota and Robin were connected by Abundancy - which advocated food free of restrictions.
+
+"Rifkin, who would object to free food?" Araci spoke to the bird, but didn't expect much of a response. In fact, Rifkin was destroying a piece of the carpet and couldn't be bothered. No matter, Araci already knew one possible villain; Hestia's manufacturer. 
+
+Araci's call to Hestia's manufacturer was met with an artifically intelligent receptionist, projected through his visor as sitting across from him at the table. 
+
+"Hello Araci Belo," said the receptionist. "I'm here to help." The receptionist exhibited artificial signs of life, but waited, saying nothing more.
+
+"I'd like to speak to the Hestia Product Manager," replied Araci. 
+
+The receptionist didn't hesitate. "I'm sorry, but our product managers are only available by appointment. Can I connect you with our media department?"
+
+"No. I'm with the Portland Police Department and I'm working on a case involving one of your Hestia ovens. I'd like to speak with the product manager of the Hestia Oven." Araci enunciated and spoke slowly, emphasizing the words 'Police' and 'Hestia.'
+
+"One minute please," the receptionist paused, then faded to black. In their place appeared a dark-haired, middle-age man. He looked up and adjusted something at his desk.
+
+"Hello Mr. Belo. My name is Farj Abdalla. I'm told you have some questions," Farj waved his hand from off-screen to the center of his view, adding two more individuals to the call. "This is Ms. Broin, our attorney, and Mr. Nilsson, who manages media relations for the Hestia Ovens. Since you are a police representative, this call will be recorded. Do you object?"
+
+Araci wasn't surprised by the prickly reception. He'd used his police status to get the receptionist to act, but knew it would put everyone on guard. 
+
+"I'm investigating the death of Dakota Williams..." 
+
+Araci hadn't finished speaking, but Broin the attorney immediately searched for something. She tapped Farj and pointed to whatever she had found. It was invisible to Araci. Dakota must already have a history with the company.
+
+Farj muted and turned to Nilsson, conferred for a minute, then returned to Araci.
+
+"Dakota Williams is a member of Abundancy. We support the idea of unrestricted food for all and have issued several statements regarding our desire to work with Abundancy to accomplish this within the bounds of our corporation's abilities." This was obviously not the first time Farj had quoted this line. It might as well have been spoken by the AI receptionist.
+
+
+
+
+
+
