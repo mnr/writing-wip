@@ -1,4 +1,4 @@
-Two decades after the earthquake, downtown Portland is almost cleared of debris. New buildings rise to optimistic heights and the Willamette river flows to the Columbia. Detective Araci Belo considered the view for a full half-minute, then shifted his focus back to the shattered glass. The room he stands in is on the 33rd floor of a luxury condominium built by the city. The hope is to attract new business and dispel the perception of Portland as a disaster zone. 
+﻿Two decades after the earthquake, downtown Portland is almost cleared of debris. New buildings rise to optimistic heights and the Willamette river flows to the Columbia. Detective Araci Belo considered the view for a full half-minute, then shifted his focus back to the shattered glass. The room he stands in is on the 33rd floor of a luxury condominium built by the city. The hope is to attract new business and dispel the perception of Portland as a disaster zone. 
 
 An explosion had propelled bits of the oven from the back of the condominium. Nothing had broken through the window. They were earthquake-proof, designed not to shred the pedestrians below with lethal glass daggers. Despite the cracks and bulls-eyes, they were the most intact feature of this room.
 
@@ -160,11 +160,48 @@ The prickly reception did not surprise Araci. He'd used his police status to get
 
 Araci hadn't finished speaking, but Broin the attorney immediately searched for something. She tapped Farj and pointed to whatever she had found. It was invisible to Araci. Dakota must already have a history with the company.
 
-Farj muted and turned to Nilsson, conferred for a minute, then returned to Araci.
+Farj muted and turned to Nilsson, then Broin, conferred for a minute, then returned to Araci.
 
-"Dakota Williams is a member of Abundancy. We support the idea of unrestricted food for all and have issued several statements regarding our desire to work with Abundancy to accomplish this within the bounds of our corporation's abilities." This was obviously not the first time Farj had quoted this line. It might as well have been spoken by the AI receptionist.
+"Dakota Williams is a member of Abundancy. We support the idea of unrestricted food for all and have issued several statements regarding our desire to work with Abundancy to accomplish this within the bounds of our corporation's abilities." 
 
+Farj spoke this line with no hesitation. He had practiced it before; this was not the first time he had to address issues with the Abundancy group. Araci wondered if the AI receptionist knew the line as well.
 
+Araci tried again. "I understand you might have issues with Abundancy, but I'm more interested in trying to sort out some issues related to an explosion of one of your devices."
+
+In spite of expressing disinterest, Araci made notes; Farj, Broin, and Nilsson knew Dakota Williams. They knew she was working with Abundancy. Most importantly, they didn't act surprised to hear of her death. They either had a search on Dakota and had turned up a police report, or they had killed her themselves. The former was likely, the latter would be interesting. Araci decided to pursue a hunch.
+
+"I'm also investigating the death of Robin Lopez. They seem to be related."
+
+Farj again muted and conferred, then answered Araci. "We can't speculate on the relationship between Ms. Williams and Mr. Lopez. We know Ms. Williams owns a Hestia Oven, but that unit has not responded to our pings for several weeks. Ms. Williams has refused to allow us to provide maintenance, so we aren't liable for any resulting malfunction."
+
+"What have you heard about the malfunction?" asked Araci. "Have you determined the cause?"
+
+"We had a maintenance team on site and I'm able to supply you with their report," said Farj. "They noted you were there. I suspect you found the same as our team; the oven wasn't intact and it was difficult to recover a significant amount of the pieces. Obviously we're interested in what happened, but aren't ready to share any conclusions at this time."
+
+"So right now, you don't know what happened?"
+
+"Correct," answered Farj. "We don't know what happened. When we do know, we will be happy to share those findings."
+
+Araci made sure they had his contact information, then ended the call. Hestia wasn't going to provide any more information so it didn't make sense to keep asking. He would need more details before speaking with them again.
+
+// -----
+
+Abundancy was Araci's only connection to Lopez and Williams. Hestia was also aware of the organization. They seemed to be central to something. Araci spent the better part of an hour trying to make contact with an actual person; Abundancy was shielded behind layers of call handlers that wee unable to provide access to a real person.
+
+It wasn't until he challenged one of the AIs with a non-specific police action that he made any progress. Legally, he couldn't do anything, but he must have used the right combination of keywords. A human appeared, but their face was obscured with a synthesized privacy mask.
+
+"Detective Araci, we're not stupid. Please don't threaten us with legal action you can't follow up on," said whoever was behind the mask. "However, since we're already talking, I'm willing to continue. What do you need?"
+
+"I'm investigating the death of Dakota Williams and Robin Lopez. I recently spoke to the Hestia manufacturers and they mentioned your organization."
+
+## Development of Sub Plot
+# III - 
+## Reveal hidden motives
+## Unsatisfying solution
+## Return to overloked clue
+## Resolution of sub plot
+## Confront Perpetrator
+## Resolution
 
 
 
