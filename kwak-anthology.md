@@ -174,6 +174,10 @@ The view stepped back from the oven, turned, and glided to the bedroom. "Move to
 
 When Araci had physically been in the room, he had seen these circuit boards and electronics. They were visible in the render currently being shown, with the addition of tags identifying the parts.
 
+"What is all of this?"
+
+Lupe zoomed in and cross-referenced the tagged elecronics. One of them was a custom build without an explanation of the function or internal logic. "Most of these are stock components. This one is an interface chip. This is a controller. But this one could be anything. We'd need the logic diagram and that could be anywere. Probably on a personal server and you'd need a search warrant."
+
 ## Development of Sub Plot
 # III - 
 ## Reveal hidden motives
