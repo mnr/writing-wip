@@ -82,60 +82,6 @@ Leaving the kitchen ruckus of vacuum vs bird, Araci retreated to the living room
 
 Dakota herself wasn't an innocent. Working for a ransomware corporation might look corporate but in the end, it was about fraud. IT managers lost their jobs because of ransomware. CEOs were asked to step down. Stock prices fell. Customer data was enslaved and sold to less scrupulous operators. Dakota knew this and still accepted a paycheck. Did her past catch up in a sudden fashion?
 
-Araci's visor flagged an incoming message from the police station. Robin Lopez had been found and was waiting for his arrival. The bird and vacuum would have to argue without him.
-
-// -----
-
-Robin wasn't in a hurry to leave and had little to say to Araci. He lay on his back in the middle of a burned building on the outer edge of a transitional housing facility. The building formerly occupying this space was one of many in this converted parking lot, designed for minimal housing until the occupant could move to something more permanent. The building to the east was unoccupied. A woman sat on the step of the house to the east.
-
-Officer Reyes was flying drones to create a 3d map. It would record Robin and his surroundings in millimeter resolution, sufficient for evidence and court review. Unfortunately, the area suffered a lot of random footprints; it had been nearly a day before someone had called the police. 
-
-"Dinner tonight, still?" Lupe asked Araci. "Your daughter is gone, so no more excuses."
-
-"Dinner at my place, although I have a new roommate," replied Araci. "You're going to love his jokes." 
-
-He turned back to Robin. "Is this Robin Lopez?" Araci indicated the burned gristle on the palette. A fire inspector looked up from his microscope and nodded. "Yep. DNA confirms. I'm running dental right now, but that's just for the report. Looks like your lost boyfriend fell asleep in a house fire."
-
-"Nobody fell asleep. He wasn't supposed to be there," shouted the east neighbor. She was clean and groomed, sitting yoga-posed on the step of her small house. She turned to face the fire inspector. "These buildings don’t burn. You know that."
-
-"Yes, I do know that." The fire inspector stood and crossed his arms. Araci flashed on the argument between his bird and vacuum - it was like the same two characters all over again. Fire Inspector faced down yoga-neighbor, "This wasn't a normal fire - lots of propane accelerant. The tank valve was opened, then lit."
-
-Reaching down to the tank, he unscrewed a small black device and placed it in an evidence bag. "This gizmo is a Bluetooth valve. Costs about five dollars, easy to get for appliance repair. Allows computers to control the flow of gas; they are in every one of the newer gas ovens."
-
-He handed it to Araci. "Assuming you have an open flame to light the gas, you could create an impressive fire in just a little time, and from a respectable distance."
-
-"That unit's been empty and waiting for refurb," called out the neighbor. "There were people scuttling around last night. Probably someone looking for a place to crash."
-
-Araci had already spoken with the site administrator, who confirmed the tiny house was vacant. They had also mentioned an interesting policy; each house had a small gas heater fed by a propane tank supplied by the occupant. Since there was no occupant, there should not have been a propane tank. Robin Lopez must have brought the tank when he snuck into the small building.
-
-But why was Robin Lopez hanging out in a homeless camp when he had access to a luxury condominium? He could live a double life. Or he could have been brought here against his will. Considering his demise, Araci surmised it was the latter.
-
-Araci held the Bluetooth valve up for close inspection. "Is the tank empty?"
-
-The fire inspector picked up the tank with two fingers. "Yep. It's exhausted. That valve has been open all night. It fed the fire until it ran out."
-
-Araci took a picture of the valve and handed it back. Turning to Lupe, he said, "See you at six?"
-
-"Is your roommate leaving at 5:30?" she asked.
-
-"Sorry, but he'll be there. I'll introduce you."
-
-// -----
-
-The next morning, Araci saw Lupe off, then cleaned up the breakfast dishes. It had been a good evening. Lupe thought Rifkin was adorable.
-
-When he was alone (except for Rifkin) The day started like days sometimes do. A string of "B" level priorities presented themselves, one after another. Araci rewarded (or discouraged) AIs, reports approved and filed, investigation files opened or closed. Nothing to make a difference in the world, but tasks that preceded progress.
-
-Time clicked by, punctuated by Rifkin's explorations of the new apartment. For the bird, everything needed examination and re-arranging, although Araci hadn't realized it until Rifkin pointed it out. Even then, Araci didn't understand the necessity of scattering desktop contents across the room. But Rifkin had a plan, and Rifkin was persistent.
-
-So it went... until 11:27 am. Araci's visor announced another gas explosion. No casualties, but plenty of alarmed neighbors. Since he was investigating the last explosion, they expected him to investigate the new explosion. He summoned a public vehicle and told it to return to the transition facility where Robin Lopez had expired.
-
-Araci faced another burned-out home. Barely large enough for one person to sleep in, it was incinerated. The site manager informed Araci it was vacant, and this time there was no corpse. But there was a propane tank, complete with bluetooth valve. Someone had entered the facility, found a vacant home, dropped a tank and a candle, then touched off the fire remotely. Two nights in a row.
-
-// -----
-
-It was the third explosion on the third night when Araci began thinking this wasn't about the homeless camp. Magicians, organized crime, and corporate espionage used misdirection to pull attention away from the real problem. Araci went back to the task when this started: Dakota Williams and Robin Lopez waited for his attention.
-
 Araci reviewed the file. Abundancy - which advocated food free of restrictions connected Dakota and Robin.
 
 "Rifkin, who would object to free food?" Araci spoke to the bird, but expected little a response. In fact, Rifkin was destroying a piece of the carpet and couldn't be bothered. No matter, Araci already knew one villain; Hestia's manufacturer. 
@@ -204,7 +150,29 @@ It wasn't until he challenged one of the AIs with a non-specific police action t
 
 Would a corporation kill to protect intellectual property? Of course they would.
 
+Araci's visor announced a request from Lupe, which he gladly accepted. "Araci, we're finding some interesting details in the scan of the condominium explosion. It takes some pretty high resolution, you might want to come over to the media lab and take a look."
+
 // -----
+
+The police media lab wasn't much more than a room with desks and high-resolution monitors. The striking feature was the glass wall with a view of the servers. Privacy laws dictated this type of data be controlled and under actual lock and key. Humans and their nasty organic residue weren't allowed in with the computers. So Araci had to come visit in person.
+
+"We had the render machines spend some quality time with the scans of the room and found this interesting difference from the original view." Lupe controlled the displays. One shown a programming interface, another showed the rendered output. She was displaying a view of the scan Araci had been viewing earlier, but in much higher resolution.
+
+"There are two things you should see," said Lupe. She could have manipulated the view through the code interface, but chose to use hand gestures instead. "Let's start with the oven reconstruction."
+
+Lupe waved the room into view, then spread her hands to enlarge the space where the oven used to be. Spinning her fingers in a counter-clockwise motion brought a flood of oven parts back into view, re-assembling the oven to it's assumed state before the explosion.
+
+Lupe stopped the motion. "Okay, look right here. Do you see the circuits coming back together?"
+
+Lupe pointed at a green circuit board appearing in the back of the oven. Parts were missing; the reconstruction could only do so much and chose not to fill in missing data.
+
+"This isn't the standard Hestia circuit board. Someone built and installed a home-built version."
+
+"Can you move to the scan of the bedroom desk," asked Araci.
+
+The view stepped back from the oven, turned, and glided to the bedroom. "Move to the equipment on the desk, please."
+
+When Araci had physically been in the room, he had seen these circuit boards and electronics. They were visible in the render currently being shown, with the addition of tags identifying the parts.
 
 ## Development of Sub Plot
 # III - 
