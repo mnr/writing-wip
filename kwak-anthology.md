@@ -1,4 +1,4 @@
-﻿Two decades after the earthquake, downtown Portland is almost cleared of debris. New buildings rise to optimistic heights and the Willamette river flows to the Columbia. Detective Araci Belo considered the view for a full half-minute, then shifted his focus back to the shattered glass. The room he stands in is on the 33rd floor of a luxury condominium built by the city. The hope is to attract new business and dispel the perception of Portland as a disaster zone. 
+Two decades after the earthquake, downtown Portland is almost cleared of debris. New buildings rise to optimistic heights and the Willamette river flows to the Columbia. Detective Araci Belo considered the view for a full half-minute, then shifted his focus back to the shattered glass. The room he stands in is on the 33rd floor of a luxury condominium built by the city. The hope is to attract new business and dispel the perception of Portland as a disaster zone. 
 
 An explosion had propelled bits of the oven from the back of the condominium. Nothing had broken through the window. They were earthquake-proof, designed not to shred the pedestrians below with lethal glass daggers. Despite the cracks and bulls-eyes, they were the most intact feature of this room.
 
@@ -116,7 +116,7 @@ Araci tried again. "I understand you might have issues with Abundancy, but I'm m
 
 In spite of expressing disinterest, Araci made notes; Farj, Broin, and Nilsson knew Dakota Williams. They knew she was working with Abundancy. Most importantly, they didn't act surprised to hear of her death. They either had a search on Dakota and had turned up a police report, or they had killed her themselves. The former was likely, the latter would be interesting. Araci decided to pursue a hunch.
 
-"I'm also investigating the death of Robin Lopez. They seem to be related."
+"I'm also investigating the whereabouts of Robin Lopez. They seem to be related."
 
 Farj again muted and conferred, then answered Araci. "We can't speculate on the relationship between Ms. Williams and Mr. Lopez. We know Ms. Williams owns a Hestia Oven, but that unit has not responded to our pings for several weeks. Ms. Williams has refused to allow us to provide maintenance, so we aren't liable for any resulting malfunction."
 
@@ -132,15 +132,15 @@ Araci made sure they had his contact information, then ended the call. Hestia wa
 
 // -----
 
-Abundancy was Araci's only connection to Lopez and Williams. Hestia was also aware of the organization. They seemed to be central to something. Araci spent the better part of an hour trying to make contact with an actual person; Abundancy was shielded behind layers of call handlers that were unwilling to provide access to a real person.
+Abundancy was Araci's only connection to Lopez and Williams. Hestia was also aware of the organization. They seemed to be central to something. Araci spent the better part of an hour trying to make contact with an actual person; Abundancy was shielded behind layers of call handlers that were unwilling to provide access to a real person. Several times he explained he was on police business and was investigating Dakota Williams and Robin Lopez.
 
-It wasn't until he challenged one of the AIs with a non-specific police action that he made any progress. Legally, he couldn't do anything, but he must have used the right combination of keywords. A human appeared, but their face was obscured with a synthesized privacy mask.
+It wasn't until he challenged one of the AIs with a non-specific police action that he made any progress. Legally, he couldn't do anything, but he must have used the right combination of keywords to trigger the AI to summon a live person. A screen puppet appeared, their face obscured with a synthesized privacy mask. A live person was behind the puppet, but their identity was a secret.
 
-"Detective Araci, we're not stupid. Please don't threaten us with legal action you can't follow up on," said whoever was behind the mask. "However, since you're investigating what happened to Dakota and Robin, I want to make sure you're aware of all the facts."
+"Detective Araci, we're not stupid. Please don't threaten us with legal action you can't follow up on," said whoever was behind the mask. "However, since you're investigating what happened to Dakota, I want to make sure you're aware of all the facts."
 
 "I recently spoke to the Hestia manufacturers," said Araci. "They mentioned your organization."
 
-"I'm sure they did. They are using Dakota as an example of why food needs to be patented. Their oven is built to work with their food trays - and only their food trays. First they control the seed, then they control the harvest, then they control the preparation. It's proprietary food from field to consumer, locking out anyone who wants to do it themselves."
+"I'm sure they did. They are using Dakota as an example of why food needs to be patented. Their oven is built to work with their food trays - and *only* their food trays. First they control the seed, then they control the harvest, then they control the preparation. It's proprietary food from field to consumer, locking out anyone who wants to do it themselves."
 
 "That's interesting, but I'm only concerned about Dakota and Robin. Were they working on something related to Abundancy?"
 
@@ -156,7 +156,7 @@ Araci's visor announced a request from Lupe, which he gladly accepted. "Araci, w
 
 The police media lab wasn't much more than a room with desks and high-resolution monitors. The striking feature was the glass wall with a view of the servers. Privacy laws dictated this type of data be controlled and under actual lock and key. Humans and their nasty organic residue weren't allowed in with the computers. So Araci had to come visit in person.
 
-"We had the render machines spend some quality time with the scans of the room and found this interesting difference from the original view." Lupe controlled the displays. One shown a programming interface, another showed the rendered output. She was displaying a view of the scan Araci had been viewing earlier, but in much higher resolution.
+"We had the render machines spend some quality time with the scans of the room and found this interesting difference from the original view." Lupe controlled the displays. One showed a programming interface, another showed the rendered output. Lupe displayed a view of the condominium scan Araci had been viewing earlier, but in much higher resolution.
 
 "There are two things you should see," said Lupe. She could have manipulated the view through the code interface, but chose to use hand gestures instead. "Let's start with the oven reconstruction."
 
@@ -166,7 +166,7 @@ Lupe stopped the motion. "Okay, look right here. Do you see the circuits coming 
 
 Lupe pointed at a green circuit board appearing in the back of the oven. Parts were missing; the reconstruction could only do so much and chose not to fill in missing data.
 
-"This isn't the standard Hestia circuit board. Someone built and installed a home-built version."
+"This isn't the standard Hestia circuit board. Someone installed a home-built version."
 
 "Can you move to the scan of the bedroom desk," asked Araci.
 
@@ -176,7 +176,31 @@ When Araci had physically been in the room, he had seen these circuit boards and
 
 "What is all of this?"
 
-Lupe zoomed in and cross-referenced the tagged elecronics. One of them was a custom build without an explanation of the function or internal logic. "Most of these are stock components. This one is an interface chip. This is a controller. But this one could be anything. We'd need the logic diagram and that could be anywere. Probably on a personal server and you'd need a search warrant."
+Lupe zoomed in and cross-referenced the tagged electronics. "Most of these are stock components. This one is an interface chip. This is a controller. But this one - we can't find any specifications. It could be anything. We'd need the logic diagram, probably located on a personal server and we'd need a search warrant."
+
+Lupe magnified the view of the custom chip, froze the view and split the screen. She moved back to the reconstruction of the oven and the circuit board. Some chips were only partial viewable; the known circuits were filled in from manufacturer specifications. One half of one chip was on the board, but not completed. Lupe grabbed the chip from the view of the desk and overlaid it on the oven circuit. It lined up perfectly. 
+
+"Well. It appears Dakota was installing custom electronics in the oven." Lupe saved the overlay. "We have that chip down in evidence. I'll have it retrieved and sent to you."
+
+"That's one mystery partially solved," said Araci. "You said you had two interesting things to show me?" 
+
+"Yes, and I'll resist making a stupid double-entendre about showing you two things." She laughed, then moved the view to the heating cavity of the oven, cutting through the external walls like X-Ray vision. Inside was a meal tray, but in worse shape than the circuit board. Bits of the tray were visible in the reconstruction, large jagged gaps showed where missing pieces would go. 
+
+"Look here," said Lupe. "This serial number on the meal is only partially identified. But even so, it doesn't correspond to anything available on the open market. We have no idea where she could have gotten it. Dakota was preparing some sort of mystery meal when the whole thing went boom."
+
+"A mystery meal in an altered oven," said Araci. He silently pondered the rendered view of the condominium.
+
+"So, dinner tonight?" asked Lupe.
+
+"Absolutely. How about six tonight," responded Araci. "I have to warn you, I have a new room mate."
+
+"Six tonight works. Is your new roommate going to be gone by then?"
+
+"No. He'll still be there. But I think you're going to love him."
+
+// -----
+
+After Lupe left... 
 
 ## Development of Sub Plot
 # III - 
@@ -186,7 +210,6 @@ Lupe zoomed in and cross-referenced the tagged elecronics. One of them was a cus
 ## Resolution of sub plot
 ## Confront Perpetrator
 ## Resolution
-
 
 
 
