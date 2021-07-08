@@ -186,13 +186,25 @@ Araci made sure they had his contact information, then ended the call. Hestia wa
 
 // -----
 
-Abundancy was Araci's only connection to Lopez and Williams. Hestia was also aware of the organization. They seemed to be central to something. Araci spent the better part of an hour trying to make contact with an actual person; Abundancy was shielded behind layers of call handlers that wee unable to provide access to a real person.
+Abundancy was Araci's only connection to Lopez and Williams. Hestia was also aware of the organization. They seemed to be central to something. Araci spent the better part of an hour trying to make contact with an actual person; Abundancy was shielded behind layers of call handlers that were unwilling to provide access to a real person.
 
 It wasn't until he challenged one of the AIs with a non-specific police action that he made any progress. Legally, he couldn't do anything, but he must have used the right combination of keywords. A human appeared, but their face was obscured with a synthesized privacy mask.
 
-"Detective Araci, we're not stupid. Please don't threaten us with legal action you can't follow up on," said whoever was behind the mask. "However, since we're already talking, I'm willing to continue. What do you need?"
+"Detective Araci, we're not stupid. Please don't threaten us with legal action you can't follow up on," said whoever was behind the mask. "However, since you're investigating what happened to Dakota and Robin, I want to make sure you're aware of all the facts."
 
-"I'm investigating the death of Dakota Williams and Robin Lopez. I recently spoke to the Hestia manufacturers and they mentioned your organization."
+"I recently spoke to the Hestia manufacturers," said Araci. "They mentioned your organization."
+
+"I'm sure they did. They are using Dakota as an example of why food needs to be patented. Their oven is built to work with their food trays - and only their food trays. First they control the seed, then they control the harvest, then they control the preparation. It's proprietary food from field to consumer, locking out anyone who wants to do it themselves."
+
+"That's interesting, but I'm only concerned about Dakota and Robin. Were they working on something related to Abundancy?"
+
+"They may have been reverse-engineering the oven and food API. But that's Hestia intellectual property and I can't condone illegal behavior. But I can suggest you look at the financial impact if Hestia were to lose control of their food system. It might be worth killing someone. Not that corporations have ever done anything evil or illegal."
+
+"I appreciate your theories. When you're ready to speak face to face, please feel free to contact me." Araci terminated the call. 
+
+Would a corporation kill to protect intellectual property? Of course they would.
+
+// -----
 
 ## Development of Sub Plot
 # III - 
