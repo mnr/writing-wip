@@ -1,4 +1,4 @@
-Two decades after the earthquake, downtown Portland is almost cleared of debris. New buildings rise to optimistic heights and the Willamette river flows to the Columbia. Detective Araci Belo considered the view for a full half-minute, then shifted his focus back to the shattered glass. The room he stands in is on the 33rd floor of a luxury condominium built by the city. The hope is to attract new business and dispel the perception of Portland as a disaster zone. 
+﻿Two decades after the earthquake, downtown Portland is almost cleared of debris. New buildings rise to optimistic heights and the Willamette river flows to the Columbia. Detective Araci Belo considered the view for a full half-minute, then shifted his focus back to the shattered glass. The room he stands in is on the 33rd floor of a luxury condominium built by the city. The hope is to attract new business and dispel the perception of Portland as a disaster zone. 
 
 An explosion had propelled bits of the oven from the back of the condominium. Nothing had broken through the window. They were earthquake-proof, designed not to shred the pedestrians below with lethal glass daggers. Despite the cracks and bulls-eyes, they were the most intact feature of this room.
 
@@ -184,7 +184,7 @@ Lupe magnified the view of the custom chip, froze the view and split the screen.
 
 "That's one mystery partially solved," said Araci. "You said you had two interesting things to show me?" 
 
-"Yes, and I'll resist making a stupid double-entendre about showing you two things." She laughed, then moved the view to the heating cavity of the oven, cutting through the external walls like X-Ray vision. Inside was a meal tray, but in worse shape than the circuit board. Bits of the tray were visible in the reconstruction, large jagged gaps showed where missing pieces would go. 
+"Yes, and I'll resist making a stupid double-entendre joke about showing you two things." She laughed, then moved the view to the heating cavity of the oven, cutting through the external walls like X-Ray vision. Inside was a meal tray, but in worse shape than the circuit board. Bits of the tray were visible in the reconstruction, large jagged gaps showed where missing pieces would go. 
 
 "Look here," said Lupe. "This serial number on the meal is only partially identified. But even so, it doesn't correspond to anything available on the open market. We have no idea where she could have gotten it. Dakota was preparing some sort of mystery meal when the whole thing went boom."
 
@@ -200,13 +200,79 @@ Lupe magnified the view of the custom chip, froze the view and split the screen.
 
 // -----
 
-After Lupe left... 
+Rifkin loved breakfast. He loved everyone's breakfast. Araci tried to explain to Rifkin that he wasn't welcome, but Lupe refused to back him up and offered Rifkin bits of bacon from her plate.
 
-## Development of Sub Plot
-# III - 
+"How about I leave you two to enjoy a meal together," said Araci. "I'll be in the next room."
+
+"Don't leave," replied Lupe. "It is your apartment, after all. And your bird. I'm just a visitor."
+
+"And I'd like you to visit again. But we both have things to attend to."
+
+After seeing Lupe off to work and cleaning up after Rifkin, Araci opened a call to Hestia. After a bit of wrangling with the AI receptionist, Farj Abdalla appeared.
+
+"I have a few things I'd like to show you, but you'll want to do this in person," said Araci. "If you were to get a seat on the hyperloop, you could be here in time for lunch and an afternoon conference. Yes?"
+
+"Normally no," replied Farj. "But I have a light day and I'm intrigued. Are you buying lunch?"
+
+"Sure. I'll meet you at the lunch counter in the PDX downtown station."
+
+// -----
+
+Araci paid for lunch with Farj and Nilsson, the marketing guy for Hestia. Without time to linger, they caught light rail to the police media station. Lupe already had the render of the oven displayed and two boxes were arranged to the side.
+
+"We've done some forensics and need your ideas on what we've discovered," explained Araci. "You've probably created a similar scan of your own, but this is what we are looking at."
+
+"Do you mind if I explore?" asked Farj. Lupe gave him control of the render and Farj expanded the view of the oven. As Lupe had done yesterday, Farj moved the view past the outside shell of the oven and examined the circuit board."
+
+"This is an amazing view. Must be quite the render farm behind this." Farj looked beyond the window at the room behind. Araci noted several of the racks were frantically blinking; megawatts of computations were being consumed to provide this virtual oven.
+
+"I don't suppose you have the actual parts of this board?" asked Farj.
+
+"No, but we have something we think is related." Araci opened the first box, displaying the electronics from Dakota's desk. "Dakota was working on this, but we're not sure what it is. We're hoping you can provide some insight."
+
+Farj picked up the box and adjusted his visor. Araci assumed Farj was running a diagnostic on the components, identifying parts and functions. After a minute, Farj turned to Nilsson, pointing out the custom circuit and making a brief comment. He returned the box to the table.
+
+"It's obvious Dakota was attempting to violate our intellectual property and patents," Farj said to Lupe and Araci. "Much of this is stock components and duplicates of the parts shown on the circuit board in the oven. We do it differently, but the logic is likely the same."
+
+Farj pointed at the custom circuit. "This, I don't know. There are companies specializing in reverse-engineering logic. It's expensive. If you could find the assembly plans you'd have a better idea of what this thing does."
+
+"How does Hestia feel about this custom circuit board?" asked Araci.
+
+Nilsson replied. "We don't like it. It's a violation of the user agreement and we will defend ourselves. In court."
+
+"You're aware Dakota died in an unusual fashion?" asked Araci. 
+
+"We are aware of that," replied Nilsson. "Are you making an accusation?"
+
+"Maybe not yet," replied Araci. He redirected the conversation. "Let's look at this other box."
+
+Araci opened the smaller box containing what was left of the meal kit. He passed it to Farj then adjusted the view of the oven to display the reconstructed meal in the oven cavity. 
+
+"This meal isn't available on the market. I'm guessing it's something you are working on privately and somehow Dakota obtained a sample."
+
+Nilsson seemed puzzled, but Farj was alarmed. He leaned in with his visor and examined every piece of the exploded meal parts, taking pictures of each. Putting down the box, he adjusted the view in his visor for several minutes. It was clear he was assembling a virtual reconstruction in his visor, but none of what he was doing was visible to Araci or Lupe.
+
+Farj sat back. "I'll explain later." He told Nilsson.
+
+"I really can't talk about this," Farj told Araci. 
+
+"Is it something you built? Did Dakota build it?" Araci tried to get an answer from Farj.
+
+"No. I can't discuss this without a lawyer present. We need to go if we're going to catch the train home."
+
+Araci knew there were planty of hyperloops back to San Francisco, Farj was making an excuse to leave. Something about the meal had him on edge. They barely had time to end the meeting before Farj and Nilsson were out the door and gone.
+
+"What was that?" asked Lupe.
+
+"A tell," replied Araci. "A clue."
+
+// -----
+
+
+
 ## Reveal hidden motives
 ## Unsatisfying solution
-## Return to overloked clue
+## Return to overlooked clue
 ## Resolution of sub plot
 ## Confront Perpetrator
 ## Resolution
