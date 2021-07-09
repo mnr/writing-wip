@@ -144,7 +144,7 @@ It wasn't until he challenged one of the AIs with a non-specific police action t
 
 "That's interesting, but I'm only concerned about Dakota and Robin. Were they working on something related to Abundancy?"
 
-"They may have been reverse-engineering the oven and food API. But that's Hestia intellectual property and I can't condone illegal behavior. But I can suggest you look at the financial impact if Hestia were to lose control of their food system. It might be worth killing someone. Not that corporations have ever done anything evil or illegal."
+"Dakota may have been reverse-engineering the oven and food API. But that's Hestia intellectual property and I can't condone illegal behavior. But I can suggest you look at the financial impact if Hestia were to lose control of their food system. It might be worth killing someone. Not that corporations have ever done anything evil or illegal."
 
 "I appreciate your theories. When you're ready to speak face to face, please feel free to contact me." Araci terminated the call. 
 
@@ -264,9 +264,10 @@ Araci knew there were planty of hyperloops back to San Francisco, Farj was makin
 
 "What was that?" asked Lupe.
 
-"A tell," replied Araci. "A clue."
+"A tell," replied Araci. "A clue. Maybe my other friend has some ideas."
 
-// -----
+Araci opened a call on his visor and shared it with Lupe. Abundancy's AI was more resistent than Hestia, but after making the same baseless threat, he was again connected to the anonymized puppet.
+
 
 
 
