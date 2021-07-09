@@ -4,15 +4,15 @@ An explosion had propelled bits of the oven from the back of the condominium. No
 
 Besides Araci, there were two fire inspectors, a police imaging technician  ("Lupe"), two appliance maintenance people, a condo maintenance administrator, and her assistant. Three home owners’ association board members and neighbors on all sides of this condo stood in the hallway.
 
-The coppery, sweet, meaty smell of burnt flesh emanated from Dakota Williams, the recently deceased occupant of the condominium. She lay on her back in the middle of the room; her severed right arm near the earthquake pillar. Her left forearm lay near the door. The explosion had burned through her clothing and flesh and propelled bits of face, hair, and scalp to the broken window. 
+The sweet, meaty smell of burnt flesh emanated from Dakota Williams, the recently deceased occupant of the condominium. She lay on her back in the middle of the room; her severed right arm near the earthquake pillar. Her left forearm lay near the door. The explosion had burned through her clothing bits of face, hair, and scalp stuck to the window. 
 
 Araci stepped around Dakota and through the door to his left. This opened to the bedroom and a small bathroom. The bathroom was tidy, but not spotless. There were two toothbrushes in a cup. Before Araci could access the medical records kept by the bathroom mirror, he'd need a privacy waiver. He filed the request, but it would be days before department lawyers could get it cleared.
 
-Araci pulled up Dakota's publicly shared space, which included pictures of her in Montevideo, always smiling, often in the middle of a plaza. In a video dated January 2059, a boy named Robin Lopez appeared. Araci traced Robin back to Portland, Oregon. He had visited Montevideo for an open source software convention. That spring, there were videos of Dakota boarding a plane to Portland for a long weekend. A month later Robin returned to Montevideo, with several videos at Playa de Los Pocitos in daylight - dancing at night. The videos became more playful and intimate, leading up to Dakota's move to Portland. 
+Araci pulled up Dakota's publicly shared space, which included pictures of her in Montevideo, always smiling, often in the middle of a plaza. In a video dated January 2059, a boy named Robin Lopez appeared. Araci traced Robin back to Portland, Oregon. He had visited Montevideo for an open source software convention. That spring, there were videos of Dakota boarding a plane to Portland for a long weekend. A month later Robin returned to Montevideo and appeared in several videos at Playa de Los Pocitos in daylight - dancing at night. The videos became more playful and intimate, leading up to Dakota's move to Portland. 
 
 Araci could request a DNA test, but Robin Lopez owned the second toothbrush. His absence in this room was a gaping hole in the narrative. He wasn't a man of mystery; he had his own complete internet story. But he picked an interesting moment to go missing. Araci made a note to find him.
 
-To be complete, he attached a summary of Dakota's history to the case file. She had recently moved here from Montevideo, Uruguay, leaving behind an electrical engineer position with a publicly held ransomware company. Her resume listed a current affiliation with "Abundancy," a non-profit involved in food distribution.
+To be complete, he attached a summary of Dakota's history to the case file. She had recently moved from Montevideo, Uruguay, leaving behind an electrical engineer position with a publicly held ransomware company. Her resume listed a current affiliation with "Abundancy," a non-profit involved in food distribution.
 
 Electronic parts cluttered the small desk; the things an Electronics Engineer might use.
 
@@ -48,7 +48,7 @@ Callista was making dinner. Spaghetti in a packet, boil and serve. The spaghetti
 
 "That's not supposed to happen," she said. "Everything I read says they are safe as tissue paper. Was it arson?"
 
-"Arson is always possible," he said. "But you can't rule out human ingenuity. Who's to say the victim didn't warm up some petroleum based beauty product at the same time as making dinner. Dumber things happen."
+"Arson is always possible," he said. "But you can't rule out human propensity to mess things up. Who's to say the victim didn't warm up some petroleum based beauty product at the same time as making dinner. Dumber things happen."
 
 "Do you know anything about the victim? Was it an accident?"
 
@@ -64,7 +64,7 @@ Callista was making dinner. Spaghetti in a packet, boil and serve. The spaghetti
 
 "You didn't mention what she was doing when the oven exploded. Was there a cook package? Probably in bits - but there must have been some parts left lying around."
 
-Araci had already reviewed the scans. Replaying the reconstruction on the way to dinner, Araci had identified the victim's last intended meal. It was a non-standard specialty version of Chicken Marsala. Not available in grocery stores, at least not this version. This meal was entirely outside of the public distribution chain. Dakota's move from a dicey ransomware company coupled with her quick demise from a non-standard tray of Chicken Marsala was one coincidence too many.
+Araci had already reviewed the scans. Replaying the reconstruction on the way to dinner, Araci had identified the victim's last intended meal. It was a non-standard specialty version of Chicken Marsala. Not available in grocery vendors, at least not this version. This meal was entirely outside of the public distribution chain. Dakota's move from a dicey ransomware company coupled with her quick demise from a non-standard tray of Chicken Marsala was one coincidence too many.
 
 // -----
 
@@ -94,7 +94,7 @@ Araci's call to Hestia's manufacturer was met with an artificially intelligent r
 
 The receptionist didn't hesitate. "I'm sorry, but our product managers are only available by appointment. Can I connect you with our media department?"
 
-"No. I'm with the Portland Police Department and I'm working on a case involving one of your Hestia ovens. I'd like to speak with the product manager of the Hestia Oven." Araci enunciated and spoke slowly, emphasizing the words 'Police' and 'Hestia.'
+"No. I'm with the Portland Police Department and I'm working on a case involving one of your Hestia ovens. I'd like to speak with the product manager." Araci enunciated and spoke slowly, emphasizing the word 'Police.'
 
 "One minute please." the receptionist paused, then faded to black. In their place appeared a dark-haired, middle-age man. He looked up and adjusted something on his desk.
 
@@ -132,7 +132,7 @@ Araci made sure they had his contact information, then ended the call. Hestia wa
 
 // -----
 
-Abundancy was Araci's only connection to Lopez and Williams. Hestia was also aware of the organization. They seemed to be central to something. Araci spent the better part of an hour trying to make contact with an actual person; Abundancy was shielded behind layers of call handlers that were unwilling to provide access to a real person. Several times he explained he was on police business and was investigating Dakota Williams and Robin Lopez.
+Abundancy was Araci's only connection to Lopez and Williams. Hestia was also aware of the organization. They seemed to be central to something. Araci spent the better part of an hour trying to make contact; Abundancy was shielded behind layers of call handlers that were unwilling to provide access to a real person. Several times he explained he was on police business and was investigating Dakota Williams and Robin Lopez.
 
 It wasn't until he challenged one of the AIs with a non-specific police action that he made any progress. Legally, he couldn't do anything, but he must have used the right combination of keywords to trigger the AI to summon a live person. A screen puppet appeared, their face obscured with a synthesized privacy mask. A live person was behind the puppet, but their identity was a secret.
 
