@@ -348,22 +348,72 @@ He put three peanuts in his pocket for Rifkin.
 
 Rifkin had lived with Araci for almost a week and was near to finished training him. Training Araci, that is. The bird had convinced him to leave the cage open (Parrots, when unhappy, can be louder than a shotgun blast) and that regular snacks were just part of the daily routine. Carrots were acceptable, but only half of the carrot went inside of Rifkin. The other half went on the floor, table, chair, desk, floor, behind the chair, countertop, and the floor.
 
-Araci was cleaning smashed carrot off the floor when his visor announced a call from someone using a privacy puppet.
+Araci was helping the robot vacuum clean smashed carrot when his visor announced a call. It was from someone using a privacy puppet.
 
 "Hello Robin," answered Araci. "Is there something new you'd like to discuss?"
 
-"This isn't Robin," said the anonymized face. "I want to help you review your assumptions about Dakota Williams and Robin Lopez."
+"This isn't Robin," said the puppet. "I want to help you review your assumptions about Dakota Williams and Robin Lopez."
+
+Whoever was driving this animation had access to a luxurious amount of bandwidth. Robin's puppet had been featureless and gray. In comparison, this was a middle-age woman with an astonishing amount of detail in her face and hair. She was dressed conservatively, but in current fashions. Sometimes puppets were only rendered from the waist up; this was a full-body animation complete with sensible shoes.
 
 "I don't suppose you'd like to share your contact information?" asked Araci, knowing the anonymous caller would not like to do so.
 
-"Obviously not. Let's ..."
+She laughed, then leaned against the table. *How do they know there is a table?* thought Araci. 
 
+"I'm an associate of Hestia. You've sent them a summons and I'd like to provide you with some alternatives to consider."
 
+"I'm not willing to discuss this with an anonymous caller. There are legal channels Hestia should be following."
 
-## Return to overlooked clue
-## Resolution of sub plot
-## Confront Perpetrator
-## Resolution
+"Hestia lawyers are responding to your summons as required. I'm going to help you get back on the right track."
 
+Rifkin doesn't have a visor and has no idea Araci has a visitor, so doesn't realize the chaos he causes by flying directly through the middle of the woman. Araci's visor makes a valiant attempt to compute the collision, but only succeeds a stuttering adjustment. It takes a minute for the visual to refresh, although the voice continues without interruption. 
+
+"Well, I've got a lot of important things to do today." Araci considered the pile of carrot droppings. "But I'm always interested in a mystery. Is this going to cost me?"
+
+The woman chuckled. "No cost," she said. "You need to consider the WorldFood meal Dakota was playing with. Unfortunately, there isn't enough of it left for you to examine. And you can't buy them. In fact, you can't even steal them anymore. Even if you could obtain one, you would have to hire some high-powered electrical engineers and some equally high-powered food engineers to do months of research to figure out what's unusual about that meal kit."
+
+The woman produced a meal kit from...somewhere. It was virtual sleight-of-hand, if such a thing could exist.
+
+"Fortunately, we've done this. And we'd like someone to slow down WorldFood's progress. Since they are responsible for Dakota's death, you would be the likely government entity to do the slowing. And best of all, you have good reason to do so. It's not just for us."
+
+Araci sent the robot off to the kitchen. Rifkin followed it, possibly hoping it had access to the snack drawer. It didn't, but the two noisy entities were now behind a door Araci could close. 
+
+"You're making a lot of fast claims, and you tell me I don't have the wattage to be able to check your work. I'll state the obvious; why should I trust you?"
+
+"Because we've sent you one of the kits. When you get it, you'll be able to prove what I'm about to show you." She held the meal in front of Araci. It doubled in size, then became transparent. It was a starburst pattern of food cavities, channels, pumps, valves and electronics. One of the electronics throbbed with a blue outline and the meal again expanded.
+
+"This chip, the one outlined in blue light, is a new concept for meals. It's full-blown artificial intelligence. It doesn't make the meal sing or dance or reason like a human. It just solves problems - like any other AI. But it does two special things: first, it confirms the food preparation process is going according to plan. If not, it adjusts the recipe to recover. Second, it sends that learning back to the WorldFood server."
+
+Araci sat down. The woman puppet took a step closer and also sat, a chair materializing under her. A perfectly smooth animation and Araci forgot he was talking to thin air. 
+
+"I assume your meals also communicate back to your network. Isn't that how you collect user data?"
+
+"True. But we only collect the bare minimum. Privacy laws restrict what we can record and our meal doesn't collect any history. WorldFood is also abiding by privacy law, but they've gone around the restriction. They don't record the actions from the user; they record the actions of the AI. The AI is responding to the oven and the user. See the difference?"
+
+"I understand. It sounds like something a judge would be interested in discussing."
+
+"Try Congress and legislation," she said. "This is a game changer and not just for food."
+
+"Sounds like a job for your lobbyist. I'm only interested in what - or who - blew up Dakota."
+
+She put the meal back to wherever it had appeared from. "It's the AI. We can't directly test it, because we don't have Dakota's custom chip. You have it. Robin might be able to make another. But we're certain when Dakota put this meal in the oven, the AI tried to control the oven. The oven didn't respond in a predictable fashion, so the AI improvised. Somewhere between it's local memory and the lessons from other meals on the WorldFood network, the AI decided it needed to open the gas valve. But the gas valve was already open. Dakota's custom oven chip was effectively lying to the AI. The oven and room was full of gas, but the AI didn't know, so it lit the oven."
+
+"And we'll be able to test this when the meal shows up?"
+
+She stood up. "Yes, you'll be able to confirm what I've told you. And when you do, we would appreciate it if you pulled the summons from Hestia and sent it to WorldFood instead."
+
+Araci pondered. "I don't make deals without evidence. How do I contact you when - or if - we confirm?"
+
+"We'll know. We're watching the AI and can see what it communicates. Oh, and one more thing."
+
+Araci scratched his chin. Always one more thing. "What is it?"
+
+"The scenario I just told you is one of several. It's the scenario with the highest probability. But there is another with a high likelihood. It could be the AI is making a decision to protect its intellectual property. The AI may have recognized Dakota's attempt to reverse engineer the meal and took a defensive action."
+
+"You're saying the meal blew up the oven to prevent Dakota from learning how it worked?"
+
+"Self-destruct options are a standard part of military devices. Why not consumer goods? Like I said, this isn't the highest probability - but it's very possible. Self-immolation in an oven fire would be a quick and easy way to prevent someone from finding how this meal is built. In any case - you might want to take precautions."
+
+She winked out of existence, leaving Araci alone in the room. From the kitchen, he heard Rifkin harassing the robot. He wondered how long it would be before the robot was taught how to defend itself.
 
 
