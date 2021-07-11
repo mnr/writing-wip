@@ -114,7 +114,7 @@ Araci tried again. "I understand you might have issues with Abundancy, but I'm m
 
 Despite expressing disinterest, Araci made notes; Farj, Broin, and Nilsson knew Dakota Williams. They knew she was working with Abundancy. They didn't act surprised to hear of her death. They either had a search on Dakota and had turned up a police report, or they had killed her themselves. The former was likely, the latter would be interesting. Araci pursued a hunch.
 
-"I'm also investigating the whereabouts of Robin Lopez. They seem to be related."
+"I'm also investigating the whereabouts of Robin Lopez."
 
 Farj again muted and conferred, then answered Araci. "We can't speculate on the relationship between Ms. Williams and Mr. Lopez. We know Ms. Williams owns a Hestia Oven, but that unit has not responded to our pings for several weeks. Ms. Williams has refused to allow us to provide maintenance, so we aren't liable for any resulting malfunction."
 
@@ -152,7 +152,7 @@ Araci's visor announced a request from Lupe, which he gladly accepted. "Araci, w
 
 // -----
 
-The police media lab wasn't much more than a room with desks and high-resolution monitors. The striking feature was the glass wall with a view of the servers. Privacy laws controlled this type of data under actual lock and key. Humans and their nasty organic residue weren't allowed in with the computers. So Araci had to come visit in person.
+The police media lab wasn't much more than a room with desks and high-resolution monitors. The striking feature was the glass wall with a view of the servers. Privacy laws controlled this type of data under actual lock and key, so Araci had to come visit in person.
 
 "We had the render machines spend some quality time with the scans of the room and found this interesting difference from the original view." Lupe controlled the displays. One showed a programming interface, another showed the rendered output. Lupe displayed a view of the condominium scan Araci had been viewing earlier, but in much higher resolution.
 
@@ -238,7 +238,7 @@ Farj pointed at the custom circuit. "This, I don't know. There are companies spe
 
 Nilsson replied. "We don't like it. It violates the user agreement and we will defend ourselves. In court."
 
-"You're aware Dakota died in an unusual fashion?" asked Araci. 
+"You're aware Dakota died unusually?" asked Araci. 
 
 "We are aware of that," replied Nilsson. "Are you making an accusation?"
 
@@ -278,27 +278,27 @@ The puppet froze. "I don't ... Robin isn't ... "
 
 "I can get a privacy exemption if necessary," said Araci. "If I have to do that, I'll include Abundancy and Dakota for efficient use of my time. So, Robin, shall we talk face to face?"
 
-The puppet looked away, then made a gesture to pull it's face off. Robin Lopez appeared, Araci recognized him from Dakota's videos of Montevideo.
+The puppet looked away, then made a gesture to pull its face off. Robin Lopez appeared. Araci recognized him from Dakota's videos of Montevideo.
 
-"I'm trying to stay alive," said Robin. "The oven explosion was not an accident. I stepped out to get us something to eat and when I got back, there were alarms and a lot of people. I took a quick look then ran. Dakota wasn't moving and whoever caused the explosion might still be around."
+"I'm trying to stay alive," said Robin. "The oven explosion was not an accident. I stepped out to get us something to eat and when I got back, there were alarms and people. I took a quick look, then ran. Dakota wasn't moving and whoever caused the explosion might still be around."
 
-"Okay. You were scared and ran. Let's accept that for now. But Dakota had installed a custom circuit in the oven and was preparing a custom meal. Wouldn't that level of tampering with the system be suspect to cause the explosion. Suppose you two brought this on yourselves."
+"Okay. You were scared and ran. Let's accept that for now. But Dakota had installed a custom circuit in the oven and was preparing a custom meal. Wouldn't that level of tampering with the system be suspected to cause the explosion? Suppose you two brought this on yourselves."
 
 "NO. We did not." Robin choked up. "Dakota was smart. And careful. She built in gas limiters, even a fail-safe sensor. The meal she had in the oven was from a reputable manufacturer. It wasn't like we were cooking meth."
 
-"There's a lot to unpack here. Let's start with the circuit," Araci said. "We know about a custom chip, but don't knw what it does. Do you have the schematic?"
+"There's a lot to unpack here. Let's start with the circuit," Araci said. "We know about a custom chip, but don't know what it does. Do you have the schematic?"
 
-"I can get it. It's not that remarkable - it intercepts and logs commands from the meal. We were cooking meals and recording the process. If we did enough, we could build open source meals. Hestia is tricky how they make the system work - we were going to open that up to the world. What we're doing is legal, but they heard we were succeeding. That's why they killed Dakota."
+"I can get it. It's not that remarkable - it intercepts and logs commands from the meal. We were cooking meals and recording the process. If we did enough, we could build open source meals. Hestia is tricky about how they make the system work - we were going to open that up to the world. What we're doing is legal, but they heard we were succeeding. That's why they killed Dakota."
 
 "How do you suppose Hestia caused the explosion?"
 
 "How should I know?" said Robin. "You're the police. Isn't this what you do?"
 
-"Thanks for your confidence and assistance," said Lupe.
+"Thanks for your confidence and help," said Lupe.
 
 "Next question," started Araci. "I said it was a custom meal. You said it was from, and I quote: 'a reputable manufacturer.' Can we come to an agreement on where that meal came from? Would I be able to purchase that from a reputable grocery vendor? "
 
-Robin hesitated. "Not yet." He looked away for a minute, sighed, and looked back. "That particular meal wasn't commercially available just yet. Friends of mine acquired it from WorldFood. We're not the only group attempting to break Hestia's food monopoly. Dakota said we could compare the behavior of the competitive meal against a standard Hestia meal for insight on how the system worked."
+Robin hesitated. "Not yet." He looked away for a minute, sighed, and looked back. "That particular meal wasn't commercially available just yet. Friends of mine gained it from WorldFood. We're not the only group attempting to break Hestia's food monopoly. Dakota said we could compare the behavior of the competitive meal against a standard Hestia meal for insight on how the system worked."
 
 "WorldFood makes meal kits for Hestia?" asked Araci.
 
@@ -312,19 +312,19 @@ Robin hesitated. "Not yet." He looked away for a minute, sighed, and looked back
 
 "Is that so hard to believe? They have access to everything about that thing. They can upgrade it. They can shut it off. Why couldn't they plant a virus to defend their competitive advantage?"
 
-"Just one more thing," said Araci. "You said you weren't there when the oven exploded because you were getting something to eat. But Dakota was in the process of cooking a meal in the oven."
+"Just one more thing," said Araci. "You said you weren't there when the oven exploded because you were getting something to eat. But Dakota was cooking a meal in the oven."
 
-"Dakota was in the process of testing that meal to see how it worked, not to eat it. Most of the time the cooking process didn't work and the food was inedible. With earlier tests of Hestia proprietary products, we could see the meal communicate with the oven but Dakota's circuit didn't respond - it just logged the request. The meal assumed everything worked fine and proceeded through the process. Most of it came out smelling like old soybeans and looking like congealed fat. Nasty stuff."
+"Dakota was testing that meal to see how it worked, not to eat it. Most of the time, the cooking process didn't work and the food was inedible. With earlier tests of Hestia proprietary products, we could see the meal communicate with the oven, but Dakota's circuit didn't respond - it just logged the request. The meal assumed everything worked fine and proceeded through the process. Most of it came out smelling like old soybeans and looking like congealed fat. Nasty stuff."
 
 Araci looked at Lupe. There was a lot to untangle. Maybe they could compare notes after work.
 
 // -----
 
-"*irasshaimase!*" The video screens scattered around the bar showed a cartoon sushi chef cheerfully welcoming them. Lupe and Araci sat at an unoccupied table and food immediately began to appear. Four segments of a donut-shaped platform in the center of the table sequentially dropped out of sight, then raised up bearing drinks or food. If Lupe or Araci didn't take something off one of the mini-elevators, it would periodically drop down and replace it with something else, making a guess at what they would find tempting. The donut hole was for garbage. Drop something in - trash, drinks, plates, silverware, anything - and a quiet vacuum pulled it away.
+"*irasshaimase!*" The video screens scattered around the bar showed a cartoon sushi chef cheerfully welcoming them. Lupe and Araci sat at an unoccupied table and food immediately appeared. Four segments of a donut-shaped platform in the center of the table sequentially dropped out of sight, then raised up bearing drinks or food. If Lupe or Araci didn't take something off one of the mini-elevators, it would periodically drop and replace it with something else, making a guess at what they would find tempting. The donut hole was for garbage. Drop something in - trash, drinks, plates, silverware, anything - and a quiet vacuum pulled it away.
 
-Araci retrieved a beer, Lupe an old-fashioned, and the empty squares were replenished with a bowl of peanuts and an iceberg wedge salad with blue cheese dressing. A robotic chef at the side of the room whirred, mixed drinks, and chopped food, trying to outguess Araci and Lupe with the most profitable menu.
+Araci retrieved a beer, Lupe an old-fashioned, and the empty squares replenished with a bowl of peanuts and an iceberg wedge salad with blue cheese dressing. A robotic chef at the side of the room whirred, mixed drinks, and chopped food, trying to outguess Araci and Lupe with the most profitable menu.
 
-"So. Whodunit?" asked Araci. "Was it the nice folks at Hestia? Or did Dakota screw up?"
+"So. Whodunit?" asked Araci. "Was it the friendly folks at Hestia? Or did Dakota screw up?"
 
 Lupe squeezed the orange in her drink, bit off the fruit, then dropped the peel in the garbage chute. Whoosh and gone. "For the sake of thinking out of the box, what if Roger did it? He was suspiciously absent."
 
@@ -332,13 +332,13 @@ Lupe squeezed the orange in her drink, bit off the fruit, then dropped the peel 
 
 "I'll agree. But I don't think anything Dakota did was enough to light things up. Seems like her circuit was fail-safe. If something didn't seem right, it would just log the request. Dakota was smart enough to keep things contained."
 
-Araci picked up a bowl of peanuts, then moved to put them back down. Too late; they were charged to his tab and the platform moved away, reappearing with a Crudité Platter. He surrendered and shelled a peanut. "That leaves us with Hestia. But I'm not convinced Farj is a killer."
+Araci picked up a bowl of peanuts, then moved to put them back down. Too late; they were charged to his tab, and the platform moved away, reappearing with a Crudité Platter. He surrendered and shelled a peanut. "That leaves us with Hestia. But I'm not convinced Farj is a killer."
 
-"He doesn't have to be. What if a third party decided to act out of self-interest?" Lupe paused and stared at Araci. "Just a minute," she said. She waved up a search window in her visor and concentrated for a minute. With a slight nod, she shared a window with Araci.
+"He doesn't have to be. What if a third party acted out of self-interest?" Lupe paused and stared at Araci. "Just a minute," she said. She waved up a search window in her visor and concentrated for a minute. With a slight nod, she shared a window with Araci.
 
-Araci saw Lupe's search. It started with Dakota's resume. It jumped to her previous ransomware employer. A hop over to corporate relationships produced an organization tree. On the tree, the ransomware company was highlighted, as was the line leading up the tree to the parent, then down a different branch, which led to Hestia.
+Araci saw Lupe's search. It started with Dakota's resume. It jumped to her previous ransomware employer. A hop over to corporate relationships produced an organization tree. On the tree, it highlighted the ransomware company, as was the line leading up the tree to the parent, then down a branch, which led to Hestia.
 
-"Dakota was reverse-engineering intellectual property belonging to a sibling of her previous employer," Lupe pointed out. "Whether she knew it or not, she was in violation of some non-compete agreement, and was messing around with some ethically-compromised people. Farj might not have pulled the trigger, but he knew people that would."
+"Dakota was reverse-engineering intellectual property belonging to a sibling of her previous employer," Lupe pointed out. "Whether or not she knew it, she violated some non-compete agreement, and was messing around with some ethically flexible people. Farj might not have pulled the trigger, but he knew people that would."
 
 "For that, I'm buying tonight's drinks," said Araci. "All that's left to do is mountains of paperwork, but I think you're on-target."
 
@@ -354,33 +354,33 @@ Araci was helping the robot vacuum clean smashed carrot when his visor announced
 
 "This isn't Robin," said the puppet. "I want to help you review your assumptions about Dakota Williams and Robin Lopez."
 
-Whoever was driving this animation had access to a luxurious amount of bandwidth. Robin's puppet had been featureless and gray. In comparison, this was a middle-age woman with an astonishing amount of detail in her face and hair. She was dressed conservatively, but in current fashions. Sometimes puppets were only rendered from the waist up; this was a full-body animation complete with sensible shoes.
+Whoever was driving this animation had access to a luxurious amount of bandwidth. Robin's puppet had been featureless and gray. In comparison, this was a middle-age woman with an astonishing amount of detail in her face and hair. She  dressed conservatively, but in current fashion. Sometimes puppets only rendered from the waist up; this was a full-body animation complete with sensible shoes.
 
 "I don't suppose you'd like to share your contact information?" asked Araci, knowing the anonymous caller would not like to do so.
 
 She laughed, then leaned against the table. *How do they know there is a table?* thought Araci. 
 
-"I'm an associate of Hestia. You've sent them a summons and I'd like to provide you with some alternatives to consider."
+"I'm an associate of Hestia. You've sent them a summons, and I'd like to provide you with some alternatives to consider."
 
 "I'm not willing to discuss this with an anonymous caller. There are legal channels Hestia should be following."
 
 "Hestia lawyers are responding to your summons as required. I'm going to help you get back on the right track."
 
-Rifkin doesn't have a visor and has no idea Araci has a visitor, so doesn't realize the chaos he causes by flying directly through the middle of the woman. Araci's visor makes a valiant attempt to compute the collision, but only succeeds a stuttering adjustment. It takes a minute for the visual to refresh, although the voice continues without interruption. 
+Rifkin didn’t have a visor and didn’t know Araci had a visitor. Rifkin didn’t realize the chaos he caused by flying directly through the middle of the woman. Araci's visor attempted to compute the collision, but only produced a stuttering change. It took a minute for the visual to refresh, although the voice continues without interruption. 
 
 "Well, I've got a lot of important things to do today." Araci considered the pile of carrot droppings. "But I'm always interested in a mystery. Is this going to cost me?"
 
 The woman chuckled. "No cost," she said. "You need to consider the WorldFood meal Dakota was playing with. Unfortunately, there isn't enough of it left for you to examine. And you can't buy them. In fact, you can't even steal them anymore. Even if you could obtain one, you would have to hire some high-powered electrical engineers and some equally high-powered food engineers to do months of research to figure out what's unusual about that meal kit."
 
-The woman produced a meal kit from...somewhere. It was virtual sleight-of-hand, if such a thing could exist.
+The woman produced a meal kit from...somewhere. It was a virtual sleight-of-hand, if such a thing could exist.
 
 "Fortunately, we've done this. And we'd like someone to slow down WorldFood's progress. Since they are responsible for Dakota's death, you would be the likely government entity to do the slowing. And best of all, you have good reason to do so. It's not just for us."
 
 Araci sent the robot off to the kitchen. Rifkin followed it, possibly hoping it had access to the snack drawer. It didn't, but the two noisy entities were now behind a door Araci could close. 
 
-"You're making a lot of fast claims, and you tell me I don't have the wattage to be able to check your work. I'll state the obvious; why should I trust you?"
+"You're making a lot of fast claims, and you tell me I don't have the wattage to check your work. I'll state the obvious; why should I trust you?"
 
-"Because we've sent you one of the kits. When you get it, you'll be able to prove what I'm about to show you." She held the meal in front of Araci. It doubled in size, then became transparent. It was a starburst pattern of food cavities, channels, pumps, valves and electronics. One of the electronics throbbed with a blue outline and the meal again expanded.
+"Because we've sent you one of the kits. When you get it, you'll be able to prove what I'm about to show you." She held the meal in front of Araci. It doubled in size, then became transparent. It was a starburst pattern of food cavities, channels, pumps, valves and electronics. One electronic throbbed with a blue outline and the meal again expanded.
 
 "This chip, the one outlined in blue light, is a new concept for meals. It's full-blown artificial intelligence. It doesn't make the meal sing or dance or reason like a human. It just solves problems - like any other AI. But it does two special things: first, it confirms the food preparation process is going according to plan. If not, it adjusts the recipe to recover. Second, it sends that learning back to the WorldFood server."
 
@@ -396,7 +396,7 @@ Araci sat down. The woman puppet took a step closer and also sat, a chair materi
 
 "Sounds like a job for your lobbyist. I'm only interested in what - or who - blew up Dakota."
 
-She put the meal back to wherever it had appeared from. "It's the AI. We can't directly test it, because we don't have Dakota's custom chip. You have it. Robin might be able to make another. But we're certain when Dakota put this meal in the oven, the AI tried to control the oven. The oven didn't respond in a predictable fashion, so the AI improvised. Somewhere between it's local memory and the lessons from other meals on the WorldFood network, the AI decided it needed to open the gas valve. But the gas valve was already open. Dakota's custom oven chip was effectively lying to the AI. The oven and room was full of gas, but the AI didn't know, so it lit the oven."
+She put the meal back to wherever it had appeared from. "It's the AI. We can't directly test it, because we don't have Dakota's custom chip. You have it. Robin might make another. But we're certain when Dakota put this meal in the oven, the AI tried to control the oven. The oven didn't respond predictably, so the AI improvised. Somewhere between its local memory and the lessons from other meals on the WorldFood network, the AI decided it needed to open the gas valve. But the gas valve was already open. Dakota's custom oven chip was lying to the AI. The oven and room were full of gas, but the AI didn't know, so it lit the oven."
 
 "And we'll be able to test this when the meal shows up?"
 
@@ -408,7 +408,7 @@ Araci pondered. "I don't make deals without evidence. How do I contact you when 
 
 Araci scratched his chin. Always one more thing. "What is it?"
 
-"The scenario I just told you is one of several. It's the scenario with the highest probability. But there is another with a high likelihood. It could be the AI is making a decision to protect its intellectual property. The AI may have recognized Dakota's attempt to reverse engineer the meal and took a defensive action."
+"The scenario I just told you about is one of several. It's the scenario with the highest probability. But there is another with a high likelihood. It could be the AI protected its intellectual property. The AI may have recognized Dakota's attempt to reverse engineer the meal and took a defensive action."
 
 "You're saying the meal blew up the oven to prevent Dakota from learning how it worked?"
 
