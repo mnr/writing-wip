@@ -1,4 +1,4 @@
-Two decades after the earthquake, downtown Portland is almost cleared of debris. New buildings rise to optimistic heights and the Willamette river flows to the Columbia. Detective Araci Belo considered the view for a full half-minute, then shifted his focus to the shattered glass. The room he stands in is on the 33rd floor of a luxury condominium built by the city. The hope is to attract business and dispel the perception of Portland as a disaster zone. 
+﻿Two decades after the earthquake, downtown Portland is almost cleared of debris. New buildings rise to optimistic heights and the Willamette river flows to the Columbia. Detective Araci Belo considered the view for a full half-minute, then shifted his focus to the shattered glass. The room he stands in is on the 33rd floor of a luxury condominium built by the city. The hope is to attract business and dispel the perception of Portland as a disaster zone. 
 
 An explosion had propelled bits of the oven from the back of the condominium. Nothing had broken through the window. They were earthquake-proof, designed not to shred the pedestrians below with lethal glass daggers. Despite the cracks and bulls-eyes, they were the most intact feature of this room.
 
@@ -6,35 +6,36 @@ Besides Araci, there were two fire inspectors, a police imaging technician  (“
 
 The sweet, meaty smell of burnt flesh emanated from Dakota Williams, the recently deceased occupant of the condominium. She lay on her back in the middle of the room; her severed right arm near the earthquake pillar. Her left forearm leaned against the door. The explosion had burned through her clothing and bits of face, hair, and scalp stuck to the window. 
 
-Araci stepped around Dakota and through the door to other half of the condominium, leading to the bedroom and bath. The bathroom was tidy, but not spotless. There were two toothbrushes in a cup. Before Araci could access the medical records kept by the bathroom mirror, he’d need a privacy waiver. He filed the request, but it would be days before department lawyers could get it cleared.
+Araci stepped around Dakota and through the door to other half of the condominium, leading to the bedroom and bath. The bathroom was tidy, but not spotless. There were two toothbrushes in a cup, enough used towels for two people.
 
-Araci pulled up Dakota’s publicly shared space, which included pictures of her in Montevideo, always smiling, often in a plaza. In a video dated January 2059, a boy named Robin Lopez appeared. Araci traced Robin back to Portland, Oregon. He had visited Montevideo for an open source software convention. That spring, Dakota boarded a plane to Portland for a long weekend. A month later Robin returned to Montevideo and frolicked at Playa de Los Pocitos in daylight - dancing at night. The videos became more playful and intimate, leading up to Dakota’s move to Portland. 
+He stepped out and into the bedroom. Electronic parts cluttered a small desk.Meters, breadboards, wires; all things an electronics engineer might use. The bed was neat, the floor was picked up except for a few kitchen utensils thrown in by the explosion.
 
-Araci could request a DNA test, but Robin Lopez surely owned the second toothbrush. His absence in this room was a gaping hole in the narrative. He wasn’t a man of mystery; he had his own complete internet story. But he picked an interesting moment to go missing. Araci made a note to find him.
+Araci pulled up Dakota’s publicly shared digital records which included pictures of her living in Montevideo, always smiling, often in a plaza. In a video dated January 2059, a boy named Robin Lopez appeared. Araci traced Robin back to Portland, Oregon. He had visited Montevideo for an open source software convention. That spring, Dakota boarded a plane to Portland for a long weekend. A month later Robin returned to Montevideo and frolicked at Playa de Los Pocitos in daylight - danced at night. The videos became playful and intimate, leading up to Dakota’s move to Portland. 
 
-He attached a summary of Dakota’s history to the case file. She had recently moved from Montevideo, Uruguay, leaving behind an electrical engineer position with a publicly held ransomware company. Her resume listed a current affiliation with “Abundancy,” a non-profit involved in food distribution.
+In Montevideo, she worked for a publically held ransomware company. Her resume listed her as a consultant with “Abundancy,” a non-profit involved in food advocacy. It was part Greenpeace, part Free Software Foundation, part Earth First, part Right to Repair. Her job duties weren't clearly described.
 
-Electronic parts cluttered the small desk; things an electronics engineer might use.
+Robin Lopez also worked for Abundancy. Araci could request a DNA test, but Robin surely owned the second toothbrush. His absence in this room was a gaping hole in the narrative. He wasn’t a man of mystery; he had his own complete internet story. But he picked an interesting moment to go missing. Araci made a note to find him.
 
 “The scan is ready,” said Officer Guadalupe Reyes. She pushed a few buttons on the back of a camera. “I’ve put the render in the report folder. You interested in grabbing some dinner tonight?” 
 
 *Guadalupe* - sometimes “Lupe” - was Araci’s sparring partner in the Portland Police self-defense class. Their relationship was professional, although there were signals something more might be possible. 
 
-“Not tonight,” replied Araci. “Callista is leaving for another year in Mississippi and has promised to make dinner before she leaves. She’s trying to apologize for asking me to babysit her bird. Dinner tomorrow?”
+“Not tonight,” replied Araci. “Callista is leaving for another year in Mississippi and has promised to make dinner before she leaves. Tomorrow?”
 
-Lupe smiled. “Dinner tomorrow, then.” She grabbed her bags and pushed through the crowd. 
+“Dinner tomorrow, then.” She grabbed her bags and pushed through the crowd. 
 
-Araci retrieved the scan in his visor and re-surveyed the room, comparing the two overlaid views; the real, burned room, and the original as shown in blueprints. An augmented reality outline filled in the missing parts of the destroyed counter. The oven had an overlay of before the explosion. All that remained was the back plane, stove, and fuel tank. The tank had burned, but was intact and at a crazy angle. Everything splayed outwards from the oven cavity; the explosion had clearly occurred there. 
+Araci retrieved the scan in his visor and re-surveyed the room, comparing the two overlaid views; the real, burned room, and the original as shown in blueprints. An augmented reality outline filled in the missing parts of the destroyed counter. The oven had an overlay of what it looked like before the explosion. All that remained was the back plane and fuel tank. The paint on the tank had burned, but it was intact. Everything splayed outwards from the oven cavity; the explosion had clearly occurred there. 
 
-The oven, a “Hestia” model, was easy to install and use. It had no controls, no dials. Instructions from the meal packet controlled it. A meal package comprised a multi-chambered cook plate with valves driven by a micro controller. The chambers contained ingredients. The controller opened valves at the proper time, communicating with the oven for temperature change. Just place a meal kit in the oven and stand back. Normally it produced a perfect dinner. Hestia had taken an angry turn for the worst.
+The oven, a “Hestia” model, was designed to be easy to install and use. It was self-contained and the built-in propane tank avoided the need to pipe in gas. It had no controls, instead, instructions from a meal packet controlled it. A meal package comprised a multi-chambered cook plate with valves driven by a micro controller. The chambers contained ingredients. The controller opened valves at the proper time, communicating with the oven for temperature change. Just place a meal kit in the oven and stand back. Normally it produced a perfect dinner. This time, Hestia had taken an angry turn for the worst.
+
+Abundancy had performed some violent activism against Hestia. They hadn’t gone as far as claiming responsibility for breaking windows at Hestia factories, but they had disrupted shareholder meetings and sent letters just shy of threatening bodily harm. Abundancy felt Hestia was trying to patent food. Hestia did hold patents on the meal kits for their oven, but Abundancy felt this was a slippery slope. DuPont and Monsanto held patents on genetically-modified corn, soybean, and alfalfa. They defended these patents with wide-ranging arguments that caught up anyone using non-GMO variants. Abundancy argued Hestia was following the same strategy and would eventually claim rights to any method of combining food to make a meal. 
 
 Lupe’s scan allowed for an animated reconstruction of the explosion, tracing the path of all parts back to their original assembly. Araci played it forward and reverse three times. What happened was clear. The oven exploded. Dakota had been standing in front, possibly opening the door, when the thing unexpectedly distributed a high-velocity cloud of sharp plastic, metal, and glass shrapnel through her and into the room.
 
 As for this condo, there was nothing more. He shipped the report to the Portland Police server and left the apartment clean-up to the forensics team.
 
 // -----
-
-“HUMAN ERROR,” screeched Rifkin. The African Gray parrot belonged to Callista Belo, Araci’s daughter. Araci agreed to care for the bird while she handled disaster relief in Mississippi. Rifkin’s previous owner had watched a lot of *2001 - A Space Odyssey* and Rifkin communicated with random quotes from the movie and always at full volume. 
+ 
 
 Callista was making spaghetti in a packet. Just heat and serve. The salad and wine made it almost as good as his mother created in their antique kitchen.
 
@@ -68,7 +69,7 @@ The more he found out about Robin Lopez, the more interesting he became. Robin w
 
 Robin worked with Abundancy, the same non-profit Dakota listed as her current project. Love and philanthropy often traveled together.
 
-However, Abundancy had performed some violent activism. They hadn’t gone as far as claiming responsibility for breaking windows at Hestia factories, slashing tires of delivery vehicles, or the small-time arson at showrooms. They had disrupted shareholder meetings and sent letters just shy of threatening bodily harm. There was a dark side to Abundancy, and it seemed possible Robin was not the intelligent pacifist Dakota had followed to Portland.
+
 
 “I AM PUTTING MYSELF TO THE FULLEST POSSIBLE USE!” screeched Rifkin. Rifkin had pried open the door of his cage and headed to the kitchen, destroying packages of bread left on the countertop. The floor vac robot was already in motion; Araci resignedly observed the bird and the vacuum to fight it out.
 
