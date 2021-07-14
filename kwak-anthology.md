@@ -346,20 +346,68 @@ She opened up a window with a diagram of AI logic. None of it made sense to Arac
 
 She stood up. “Yes, you’ll be able to confirm what I’ve told you. And when you do, we would appreciate it if you pulled the summons from Hestia and sent it to WorldFood instead.”
 
-Araci pondered. “I don’t make deals without evidence. How do I contact you when - or if - we confirm?”
-
-“We’ll know. We’re watching the AI and can see what it communicates. Oh, and one more thing.”
-
-Araci scratched his chin. Always one more thing. “What is it?”
-
-“The scenario I just told you about is one of several. It’s the scenario with the highest probability. But there is another with a high likelihood. It could be the AI was instructed to protect its intellectual property. The AI may have recognized Dakota’s attempt to reverse engineer the meal and took a defensive action.”
-
-“You’re saying the meal blew up the oven to prevent Dakota from learning how it worked?”
-
-“Self-destruct options are a standard part of military devices. Why not consumer goods? Like I said, this isn’t the strongest probability - but it’s very possible. Self-immolation would be a quick and easy way to prevent someone from finding how a meal is built. In any case - you might want to take precautions.”
-
-She winked out of existence, leaving Araci alone in the room.
+"I'll be looking foward to confirming your wild conspiracy theories," said Araci.
 
 // -----
+
+Araci's next call to Abundancy was easier; Robin answered after only one request. 
+
+"I'm going to need some help testing some crazy theories," asked Araci. "You've got the knowledge to understand the internals of this problem and you might be interested in the corporate side. Would you care to meet with me?"
+
+Robin - who was no longer using a puppet - checked something off-screen. "I can get access to a Hestia oven and have a copy of the board Dakota was playing with. Is that the sort of set up you're looking for?"
+
+"Close enough," replied Araci. "Let's meet. I'll bring a meal."
+
+// -----
+
+Araci summoned a public car and directed it to the location Robin mentioned; an artist's building, four floors of small studios all wrapped up in one big fire hazard. He knocked on the door of room 327 and met Robin face-to-face for the first time.
+
+"I brought dinner," said Araci. He held out the meal sent by his anonymous lady friend.
+
+"How convenient," replied Robin. "I've got an oven."
+
+The oven stood in the back of the room, a comfortable distance in front of a long workbench. There were wires - actual wires - running from the oven to the workbench and connected to extensive electronics test gear. The oven was powered up and displays on the workbench tracked frantic communication coming. Araci tried to read one of the displays but failed. If this reflected the oven at rest, what happened when it was active?
+
+"What are we testing?" asked Robin.
+
+"One of my recent best friends called. They said the meal has an AI chip that didn't like talking to Dakota's custom board. They think the explosion was a result of a miscommunication."
+
+"We did't even think there might be AI in the meal. That's serious engineering; way more than we gave WorldFoods credit for. Let's take a look."
+
+"Whoa - before you connect this up, are we going to die in an unplanned explosion?" Araci held back. "I'd like to avoid that."
+
+Robin pointed at a display on the bench. "I've removed the propane tank and simulated the gas pressure. The meal should be happier about the oven response." 
+
+Araci surrendered the meal to Robin and took a precautionary step back from the project. Robin started up two displays on the workbench, stepped to the front of the oven and placed the meal inside.
+
+The previously frantic displays became a blur. Robin went back to the workbench, tapped a control once, then twice. The display converted to a summary display, showing a condensed overview of the oven's activities.
+
+"Oh - look at that!" Robin watched a display flashing boxes and lines. He looked at Araci, realizing a better explanation was necessary. "It's the meal talking to the oven. There's so much more than Dakota expected. The AI explains a lot, when you know to look for it."
+
+Araci could only guess at the story Robin was watching. Three displays jittered with confusing diagnostics and Robin bounced from one position on the workbench to another.
+
+With all the activity happening on screen, it was misleading to think of something suddenly changing - but it did. One screen froze. Another changed it's layout. The third continued, but at one-half the speed. Robin stepped back and looked at the oven. "What are you doing?" he asked. Not to Araci - to the oven.
+
+"I'd appreciate knowing what is going on," said Araci.
+
+Robin slapped a large red button, straight out of a comic book. The workbench and oven abruptly shut down. Robin turned to face Araci.
+
+"This was not an accident happening between the oven and the meal," said Robin. He hesitated and twitched. He paced between the oven and the workbench, checking inactive displays and tracing wires. "The AI in the meal just tried to start a fire. Not just turn on the oven - it tried to blow the whole room to pieces. It told the oven to release gas, to continue to release gas, then to ignite. It was deliberate."
+
+Robin reset the "big red button" then waved up some log files, sharing them with Araci. 
+
+"Here. Right here," Robin pointed at a paragraph in the narrative log. "The AI decides it's being reverse-engineered. It knows what's going on - someone programmed it to watch for this. It's trying to self-destruct, just like a piece of military hardware might do when it winds up in enemy hands. That's a hell of a way to protect intellectual property."
+
+"WorldFoods did this?" asked Araci.
+
+"This is a WorldFood meal, so yes. But if WorldFood is doing it, Hestia knows. And Hestia is going to view that as permission to do the same. The only time the AI will fight back is if someone reverse-engineers the meal. If you're doing that, you're not going to complain about the safety of Hestia meals."
+
+Robin continued at a frantic pace. "But we're talking about AI. Not just linear programming. You never know for sure what is going on with the layers and nodes in the AI internals. It's just as possible the AI could decide a location is suspect; like a country or climate. Or a demographic, or who knows. AIs are designed to make conclusions without human guidance. But they don't have a value for self-worth, so they can choose self-immolation as the low-cost option to protect the value of the programming."
+
+Araci understood. This wasn't just about Dakota anymore.
+
+// -----
+
+
 
 
