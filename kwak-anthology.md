@@ -1,4 +1,4 @@
-﻿Two decades after the earthquake, downtown Portland is almost cleared of debris. New buildings rise to optimistic heights and the Willamette river flows to the Columbia. Detective Araci Belo considered the view for a full half-minute, then shifted his focus to the shattered glass. The room he stands in is on the 33rd floor of a luxury condominium built by the city. The hope is to attract business and dispel the perception of Portland as a disaster zone. 
+Two decades after the earthquake, downtown Portland is almost cleared of debris. New buildings rise to optimistic heights and the Willamette river flows to the Columbia. Detective Araci Belo considered the view for a full half-minute, then shifted his focus to the shattered glass. The room he stands in is on the 33rd floor of a luxury condominium built by the city. The hope is to attract business and dispel the perception of Portland as a disaster zone. 
 
 An explosion had propelled bits of the oven from the back of the condominium. Nothing had broken through the window. They were earthquake-proof, designed not to shred the pedestrians below with lethal glass daggers. Despite the cracks and bulls-eyes, they were the most intact feature of this room.
 
@@ -298,17 +298,13 @@ At home, Araci was helping the robot vacuum when his visor announced a call. It 
 
 “This isn’t Robin,” said the puppet. “I want to help you review your assumptions about Dakota Williams and Robin Lopez.”
 
-"That a rather ominous threat." Whoever was driving this animation had access to luxurious bandwidth. Robin’s puppet had been featureless. In comparison, this was a middle-age woman with astonishing detail in her face and hair. She dressed conservatively, but in current fashion. Sometimes puppets only rendered from the waist up; this was a full-body complete with sensible shoes.
+"That a rather ominous threat." Whoever was driving this animation had access to luxurious bandwidth. Robin’s puppet had been featureless. In comparison, this was a middle-age woman with astonishing detail in her face and hair. She dressed conservatively, but in current fashion. Puppets were sometimes only rendered from the waist up; this was a full-body complete with sensible shoes.
 
 “I don’t suppose you’d like to share your contact information?” asked Araci, knowing the anonymous caller would not do so.
 
 She laughed, then leaned against the table. *How do they know there is a table?* thought Araci. 
 
-“I’m an associate of Hestia - from Montevideo - a former employer of Dakota Williams. You’ve sent Hestia a summons, and I’ve got some alternatives for you to consider.”
-
-“I’m not willing to discuss this with an anonymous caller. There are legal channels Hestia should be following.”
-
-“Hestia lawyers are preparing a response. Before that happens, I’m going to help you get back on the right track.”
+“I’m an associate of Hestia - from Montevideo - a former employer of Dakota Williams. I’ve got some alternatives for you to consider.”
 
 “Well, I’ve got a lot of important things to do today.” Araci considered the vacuum cleaner. “But I’m always interested in a mystery. Is this going to cost me?”
 
@@ -340,13 +336,13 @@ The puppet put the meal back to wherever it had appeared from. “It’s the AI.
 
 She opened up a window with a diagram of AI logic. None of it made sense to Araci, but it was something he could provide to the Police programming team.
 
-"Somehow, the oven filled with gas. It probably spilled out into the room. The AI didn’t know, so it lit the oven. WorldFood’s testing was not as careful as it should be. If they release these meals they’re going to cause consumers to question the safety of the Hestia oven. That’s bad for profits.”
+"The oven filled with gas. The AI didn’t know, so it lit the oven. WorldFood’s testing was not as careful as it should be. If they release these meals they’re going to cause consumers to question the safety of the Hestia oven. That’s bad for profits.”
 
 “And we’ll be able to test this when the meal shows up?”
 
-She stood up. “Yes, you’ll be able to confirm what I’ve told you. And when you do, we would appreciate it if you pulled the summons from Hestia and sent it to WorldFood instead.”
+She stood up. “Yes, you’ll be able to confirm what I’ve told you.”
 
-"I'll be looking foward to confirming your wild conspiracy theories," said Araci.
+"I'll be looking forward to confirming your wild conspiracy theories," said Araci.
 
 // -----
 
@@ -414,7 +410,7 @@ Araci understood. This wasn't just about Dakota anymore.
 
 // -----
 
-Farj,  Broin, and Nilsson seated themselves in the same spots as the last time they visited the police media lab. Lupe was running a visual of the Hestia oven and a scrolling display of some active computer logic. Araci admired the setup; impressive, but meaningless. 
+Farj,  Broin, and Nilsson seated themselves in the same spots as the last time they visited the police media lab. Lupe was running a visual of the Hestia oven and a scrolling display of some active computer logic. Araci admired the setup. 
 
 He began. "Thanks for joining us. As I mentioned, our research identified some behaviors we don't understand. Let me show you a demonstration then I've got a few questions."
 
