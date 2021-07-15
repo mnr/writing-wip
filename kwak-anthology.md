@@ -350,11 +350,11 @@ She stood up. “Yes, you’ll be able to confirm what I’ve told you. And when
 
 // -----
 
-Araci's next call to Abundancy was easier; Robin answered after only one request. 
+Araci's next call to Abundancy was easier; Robin answered immediately. 
 
-"I'm going to need some help testing some crazy theories," asked Araci. "You've got the knowledge to understand the internals of this problem and you might be interested in the corporate side. Would you care to meet with me?"
+"I'm going to need some help testing some crazy theories," said Araci. "You've got the knowledge to understand the internals of this problem and you might be interested in the corporate side. Would you care to meet with me?"
 
-Robin - who was no longer using a puppet - checked something off-screen. "I can get access to a Hestia oven and have a copy of the board Dakota was playing with. Is that the sort of set up you're looking for?"
+Robin - who no longer used a puppet - checked something off-screen. "I have access to a Hestia oven and a copy of the board Dakota was playing with. Is that the sort of set up you're looking for?"
 
 "Close enough," replied Araci. "Let's meet. I'll bring a meal."
 
@@ -366,25 +366,29 @@ Araci summoned a public car and directed it to the location Robin mentioned; an 
 
 "How convenient," replied Robin. "I've got an oven."
 
-The oven stood in the back of the room, a comfortable distance in front of a long workbench. There were wires - actual wires - running from the oven to the workbench and connected to extensive electronics test gear. The oven was powered up and displays on the workbench tracked frantic communication coming. Araci tried to read one of the displays but failed. If this reflected the oven at rest, what happened when it was active?
+Robin ushered Araci into a open room with no windows. Steel columns braced the walls in a minimally legal attempt to be earthquake proof. The oven stood in the back of the room, a comfortable distance in front of a long workbench. There were wires - actual wires - running from the oven to the workbench and connected to extensive electronics test gear. 
+
+"I'm going to assume this is all legal and code-compliant," said Araci. "At least, I won't ask, so please don't tell."
+
+Robin looked at him, saying nothing. After a moment, he powered up the oven and displays on the workbench. They reflected frantic communication coming from the oven, but Araci was unable to decipher what it meant. 
 
 "What are we testing?" asked Robin.
 
-"One of my recent best friends called. They said the meal has an AI chip that didn't like talking to Dakota's custom board. They think the explosion was a result of a miscommunication."
+"One of my recent best friends called," said Araci. "They said the meal has an AI chip that didn't like talking to Dakota's custom board. They think the explosion was a result of a miscommunication."
 
-"We did't even think there might be AI in the meal. That's serious engineering; way more than we gave WorldFoods credit for. Let's take a look."
+"We didn't even think there might be AI in the meal. That's serious engineering; way more than we gave WorldFoods credit for. Let's take a look."
 
 "Whoa - before you connect this up, are we going to die in an unplanned explosion?" Araci held back. "I'd like to avoid that."
 
 Robin pointed at a display on the bench. "I've removed the propane tank and simulated the gas pressure. The meal should be happier about the oven response." 
 
-Araci surrendered the meal to Robin and took a precautionary step back from the project. Robin started up two displays on the workbench, stepped to the front of the oven and placed the meal inside.
+Araci surrendered the meal to Robin and took a precautionary step back from the project. Robin stepped to the front of the oven and placed the meal inside.
 
-The previously frantic displays became a blur. Robin went back to the workbench, tapped a control once, then twice. The display converted to a summary display, showing a condensed overview of the oven's activities.
+The previously frantic displays became a blur. Robin went back to the workbench, tapped a control once, then twice. The display converted to a summary, showing an overview of the oven's activities.
 
-"Oh - look at that!" Robin watched a display flashing boxes and lines. He looked at Araci, realizing a better explanation was necessary. "It's the meal talking to the oven. There's so much more than Dakota expected. The AI explains a lot, when you know to look for it."
+"Oh - look at that!" Robin watched a display flashing boxes and lines. He looked at Araci, realizing a better explanation was necessary. "It's the meal talking to the oven. There's so much more than Dakota expected. The AI explains a lot when you know to look for it."
 
-Araci could only guess at the story Robin was watching. Three displays jittered with confusing diagnostics and Robin bounced from one position on the workbench to another.
+Araci could only guess at the story Robin was watching. Three displays jittered with confusing diagnostics; Robin bounced from one position on the workbench to another.
 
 With all the activity happening on screen, it was misleading to think of something suddenly changing - but it did. One screen froze. Another changed it's layout. The third continued, but at one-half the speed. Robin stepped back and looked at the oven. "What are you doing?" he asked. Not to Araci - to the oven.
 
@@ -400,14 +404,58 @@ Robin reset the "big red button" then waved up some log files, sharing them with
 
 "WorldFoods did this?" asked Araci.
 
-"This is a WorldFood meal, so yes. But if WorldFood is doing it, Hestia knows. And Hestia is going to view that as permission to do the same. The only time the AI will fight back is if someone reverse-engineers the meal. If you're doing that, you're not going to complain about the safety of Hestia meals."
+"This is a WorldFood meal, so yes. But if WorldFood is doing it, Hestia knows about it. And Hestia is going to view that as permission to do the same. The only time the AI will fight back is if someone reverse-engineers the meal. If you're doing that, you're not going to complain about the safety of Hestia meals."
 
-Robin continued at a frantic pace. "But we're talking about AI. Not just linear programming. You never know for sure what is going on with the layers and nodes in the AI internals. It's just as possible the AI could decide a location is suspect; like a country or climate. Or a demographic, or who knows. AIs are designed to make conclusions without human guidance. But they don't have a value for self-worth, so they can choose self-immolation as the low-cost option to protect the value of the programming."
+Robin continued at a frantic pace. "But we're talking about AI. Not just linear programming. You never know for sure what is going on with the layers and nodes in the AI internals. It's just as possible the AI could decide to terminate because a location is suspect; like a country or climate. Or a demographic, or who knows. AIs are designed to make conclusions without human guidance. But they don't have a value for self-worth, so they can choose self-immolation as the low-cost option to protect the value of the programming."
+
+Robin continued. "I'm speculating, but if Hestia decides it's ok for a meal to self-destruct, they might also decide it's ok for an oven to self-destruct. This oven already has low-grade AI for trouble-shooting and self-maintenance. It wouldn't be difficult to put in a higher-level AI to detect a non-approved meal kit.  You could have two AIs - one in a rogue meal and one in the oven - and they'd be kick-boxing each other. God help the poor schmuck standing nearby."
 
 Araci understood. This wasn't just about Dakota anymore.
 
 // -----
 
+Farj,  Broin, and Nilsson seated themselves in the same spots as the last time they visited the police media lab. Lupe was running a visual of the Hestia oven and a scrolling display of some active computer logic. Araci admired the setup; impressive, but meaningless. 
 
+He began. "Thanks for joining us. As I mentioned, our research identified some behaviors we don't understand. Let me show you a demonstration then I've got a few questions."
 
+Araci motioned to Lupe, who produced the WorldFood food kit and placed it on the table. The oven graphic indicated a connection with the meal and behind the glass wall, the servers absolutely blazed with activity. Lupe paused the code.
 
+"The last time we met, I didn't know much about what Dakota was doing. More importantly, I didn't realize she had an experimental meal from one of your competitors. But I suspect you realized that when you saw the serial number and made your abrupt exit."
+
+Farj looked at Nilsson and Broin; they only looked back. They had obviously discussed this between themselves already.
+
+"This meal," Araci indicated the WorldFood meal on the table, "is similar to the one Dakota placed in her modified Hestia oven. We've learned it contains artificial intelligence to enable it to override any blocks placed by the Hestia oven. Lupe, please continue the simulation."
+
+Lupe released the pause on the code and several indicators immediately jumped, then displayed "Out Of Range" or "Process Termination" errors. The simulation stopped and the servers quieted down.
+
+"You'll excuse me for this underwhelming demonstration," said Araci. "It would have been more impressive to run this on an actual Hestia oven, but we don't have explosion-proof rooms in this station. As such, we've just seen a simulation of what happens when one of these unknown meals talks with a Hestia Oven in a diagnostic mode. The meal instructs the oven to violently stop attempts at reverse-engineering. We believe this is what happened to Dakota Williams."
+
+"Our limits of liability end when the owner makes unauthorized modifications," said Farj. "If this is what happened, and I'm not confirming your research, this would have been Dakota's fault." 
+
+"I understand that," replied Araci. "It would be fruitless for me to try to prove any corporate malfeasance. And - as a government entity, it would be irresponsible to publish any unfounded research that might lead to damaging rumors. So let's assume this is all speculative."
+
+"Hestia would never instruct any AI to react like this," interjected Ms. Broin. "It's bad corporate relations and speaking for the Hestia legal department, it's not something we would advise."
+
+"See, that's the thing," replied Araci. "You don't have to tell the AI to behave like this. AI has the ability to choose a best decision from many options. The programmer just provides desired endpoints. In this case, a *manufacturer* - and by manufacturer, I mean *you* - only needs to convince the AI of the problem, then sit back and let it sort out the best resolution. If you don't restrict it from a specific method, it remains a viable choice. Lack of a specific action might be negligence - but that's much harder to prove."
+
+Farj was tapping his foot. Araci read it as a nervous twitch and evidence he was making his point.
+
+"Defensive AI in a meal is one thing," Araci said, "defensive AI in an oven is another." Araci addressed his statements directly to Farj. "If an oven were equipped with AI that obstructed competitive meals, and that oven was involved in suspicious events, well, that would be *problematic*. Do you see what I'm saying?"
+
+Farj looked at Broin, who shook her head *No!* The unspoken communication was clear; Hestia had already been engaged in exactly this type of project. Now they were on notice. Even if an oven only exploded a few times out of millions, there was a potential for public relations blowback. Nilsson was fidgeting; Araci could only imagine he was planning how to address this at a shareholder meeting.
+
+"I think we understand your point," said Farj. "Again, we are limited in our ability to discuss this at length, and again, we have a hyperloop to catch. I assume we'll be in touch if you have other concerns."
+
+Araci and Lupe shook hands with their departing guests. When the room was empty, Araci spoke to Lupe; "Do you want to listen to the next part?"
+
+"Wouldn't miss it for the world," Lupe said. 
+
+Araci connected with Abundancy and Robin, then looped in Lupe. "Robin, I just had an interesting conversation with some mutual friends. I can't publish what we discussed. But if someone were to file a freedom of information request, they might learn something they would want to share. It might head off some unfortunate product enhancements to meal kits and ovens."
+
+"Thanks," said Robin. "It's a costly lesson, but I think Dakota would have approved. I'll follow up on your suggestion."
+
+Araci and Lupe ended the call. "I'm sorry to close the investigation," said Araci "Dakota will have died in a freak accident - no murder charges. But hopefully this puts an end to anything like this."
+
+"I don't know Araci," said Lupe. "We humans are always looking for novel ways to kill ourselves." She stood. "I'm hungry, let's get lunch. I've heard of a new Iraqi restaurant."
+
+"Sounds good. Let me call up a car. I'm in the mood for a drama-free drive through downtown."
