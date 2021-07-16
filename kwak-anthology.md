@@ -1,4 +1,4 @@
-Two decades after the earthquake, downtown Portland is almost cleared of debris. New buildings rise to optimistic heights and the Willamette river flows to the Columbia. Detective Araci Belo considered the view for a full half-minute, then shifted his focus to the shattered glass. The room he stands in is on the 33rd floor of a luxury condominium built by the city. The hope is to attract business and dispel the perception of Portland as a disaster zone. 
+﻿Two decades after the earthquake, downtown Portland is almost cleared of debris. New buildings rise to optimistic heights and the Willamette river flows to the Columbia. Detective Araci Belo considered the view for a full half-minute, then shifted his focus to the shattered glass. The room he stands in is on the 33rd floor of a luxury condominium built by the city. The hope is to attract business and dispel the perception of Portland as a disaster zone. 
 
 An explosion had propelled bits of the oven from the back of the condo. Nothing had broken through the window. They were earthquake-proof, designed not to shred the pedestrians below with lethal glass daggers. Despite the cracks and bulls-eyes, they were the most intact feature of this room.
 
@@ -6,9 +6,9 @@ Besides Araci, there were two fire inspectors, a police imaging technician  (“
 
 The sweet, meaty smell of burnt flesh emanated from Dakota Williams, the recently deceased occupant of the condominium. She lay on her back in the middle of the room; her severed right arm near the earthquake pillar. Her left forearm leaned against the wall. The explosion had burned through her clothing and bits of face, hair, and scalp stuck to the window. 
 
-Araci stepped around Dakota and through the door to other half of the condominium, leading to the bedroom and bath. The bathroom was tidy, but not spotless. There were two toothbrushes in a cup and enough used towels for two people.
+Araci stepped around Dakota and through the door to the other half of the condominium, leading to the bedroom and bath. The bathroom was tidy, but not spotless. There were two toothbrushes in a cup and enough used towels for a couple.
 
-He walked out and into the bedroom. Electronic parts cluttered a small desk.Meters, breadboards, wires; all things an electronics engineer might use. The bed was neat; the floor picked up except for a few kitchen utensils thrown in by the explosion.
+The bedroom had a dresser, bed, and desk cluttered with electronic parts. Meters, breadboards, wires; all things an electronics engineer might use. The bed was neat; the floor picked up except for a few kitchen utensils thrown in by the explosion.
 
 Araci pulled up Dakota’s publicly shared digital records, which included pictures of her living in Montevideo, always smiling, often in a plaza. In a video dated January 2059, a boy named Robin Lopez appeared. Araci traced Robin back to Portland, Oregon. He had visited Montevideo for an open source software convention. That spring, Dakota boarded a plane to Portland for a long weekend. A month later Robin returned to Montevideo and frolicked at Playa de Los Pocitos in daylight - danced at night. The videos became playful and intimate, leading up to Dakota’s move to Portland. 
 
@@ -26,9 +26,9 @@ Robin Lopez also worked for Abundancy. Araci could request a DNA test, but Robin
 
 Araci retrieved the scan in his visor and compared the two overlaid views; the real, burned room, and the original as shown in blueprints. An augmented reality outline filled in the missing parts of the destroyed counter. The oven had an overlay of what it looked like before the explosion. All that remained was the back plane and fuel tank. The paint on the tank had burned, but it was intact. Everything splayed outwards from the oven cavity; the explosion had clearly occurred there. 
 
-The oven, a “Hestia” model, was easy to install and use. It was self-contained and the built-in propane tank avoided the need to pipe in gas. It had no controls. Instead, instructions from a meal packet controlled it. A meal package comprised a multi-chambered cook plate with valves driven by a microcontroller. The chambers held ingredients. The controller opened valves, communicating with the oven for temperature change. Just place a meal kit in the oven and stand back. Normally it produced a perfect dinner. This time, Hestia had taken an angry turn for the worst.
+The oven, a “Hestia” model, was easy to install and use. It was self-contained and the built-in propane tank avoided the need to pipe in gas. It had no controls. Instead, instructions from a meal packet controlled it. A meal package comprised a multi-chambered cook plate with valves driven by a microcontroller. The chambers held ingredients. The controller opened valves, communicating with the oven for temperature change. Just place a meal kit in the oven and stand back. Normally it produced a perfect dinner. This time, Hestia had taken an angry turn for the worse.
 
-Abundancy had performed some violent activism against Hestia. They hadn’t gone as far as claiming responsibility for breaking windows at Hestia factories, but they had disrupted shareholder meetings and sent letters just shy of threatening bodily harm. Abundancy accused Hestia of trying to patent food. Hestia held patents on the meal kits for their oven, but Abundancy felt this was a slippery slope. DuPont and Monsanto held patents on genetically-modified corn, soybean, and alfalfa. They defended these patents with wide-ranging arguments that caught up anyone using non-GMO variants. Abundancy argued Hestia was following the same strategy and would eventually claim rights to any method of combining food to make a meal. 
+Abundancy had performed some violent activism against Hestia. They hadn’t gone as far as claiming responsibility for breaking windows at Hestia factories, but they had disrupted shareholder meetings and sent letters just shy of threatening bodily harm. Abundancy accused Hestia of trying to patent food. Hestia held patents only on the meal kits for their oven, but Abundancy felt this was a slippery slope. DuPont and Monsanto held patents on genetically-modified corn, soybean, and alfalfa and defended them with wide-ranging arguments that entangled anyone using non-GMO variants. Abundancy argued Hestia was following the same strategy and would eventually claim rights to any method of combining food to make a meal. 
 
 Lupe’s scan allowed for an animated reconstruction of the explosion, tracing the path of the scattered parts back to their original assembly. Araci played it forward and reverse three times. What happened was clear. Dakota had been standing in front of the oven when it exploded and distributed a high-velocity cloud of sharp plastic, metal, and glass shrapnel through her and into the room.
 
@@ -128,27 +128,21 @@ The police media lab wasn’t much more than a room with desks and high-resoluti
 
 “There are two things you should see,” said Lupe. “Let’s start with the oven reconstruction.”
 
-Lupe waved the room into view, then spread her hands to enlarge the space where the oven used to be. Spinning her fingers counter-clockwise re-assembled it to its assumed state before the explosion.
+Lupe waved the room into view, then spread her hands to enlarge the space where the oven used to be. Spinning her fingers counter-clockwise re-assembled it to its assumed state before the explosion. To the side of the room were two new objects; a circuit board and a meal kit.
 
-Lupe stopped the motion. “Okay, look right here. Do you see the circuits coming back together?” Lupe pointed at a green circuit board appearing in the oven. Parts were missing; the reconstruction could only do so much.
-
-“This isn’t the standard Hestia circuit board. Someone installed a home-built version.”
+“Okay, look at this,” Lupe pointed at the back of the oven. "The scan couldn't find any pieces of the oven circuit board, so it left that empty. The oven doesn't have a circuit. But look at this circuit to the side - the scan found parts of it all over the room. I have no doubt it was near - or inside - the oven when it exploded. This isn’t the standard Hestia circuit board. Someone installed a home-built version.”
 
 “Can you move to the bedroom desk?” asked Araci.
 
 The view stepped back from the oven, turned, and glided to the bedroom. When Araci had physically been in the room, he had seen circuit boards and electronics. They were visible in the render currently being shown, with the addition of tags identifying the parts.
 
-“What is all of this?”
-
-Lupe selected several of the components and split the screen. She moved back to the reconstruction of the oven and the circuit board. Some chips were partially viewable; It filled the known circuits in from manufacturer specifications. Lupe overlaid the components on the oven circuit. They lined up perfectly. 
-
-“Well. Dakota was installing custom electronics.” Lupe saved the overlay. “She was hacking the oven. I’d guess she used the oven to test a home-built circuit.”
+Many of the tags identified stock electronics. The largest circuit was identified as a Hestia circuit board, same model as in the other room. Lupe pointed it out. “Dakota installed a custom board. She was hacking the oven.”
 
 “That’s one mystery partially solved,” said Araci. “You mentioned you had two interesting things to show me?” 
 
-“Yes, and I’ll resist making a stupid double entendre joke about showing you two things.” She laughed, then moved the view to the heating cavity of the oven, cutting through the external walls like X-Ray vision. Inside was a meal tray, but in worse shape than the circuit board. Bits of the tray were visible in the reconstruction. Large jagged gaps showed where missing pieces would go. 
+“Yes.” She moved the view to the meal kit hovering next to the mystery circuit board.It was in bad shape with large jagged gaps. 
 
-“Look here,” said Lupe. “This serial number on the meal is only partially identified. But it doesn’t correspond to anything available on the open market. We don’t know where she could have gotten it.”
+“Look. Right here,” said Lupe. “This serial number on the meal is only partially identified. But it doesn’t correspond to anything available on the open market. We don’t know where she could have gotten it.”
 
 “A mystery meal in an altered oven,” said Araci. “Operator error compounded by hackery?” He silently pondered the rendered view of the condominium.
 
@@ -218,17 +212,17 @@ Araci opened a call on his visor and shared it with Lupe. Abundancy’s AI was m
 
 The puppet froze. “I don’t ... Robin isn’t ...,”
 
-“I can get a privacy exemption if necessary,” said Araci. “If I have to do that, I’ll include Abundancy and Dakota. So, Robin, shall we be real?”
+“I can get a privacy exemption if necessary,” said Araci. “So, Robin, shall we be real?”
 
 The puppet looked away, then made a gesture to pull its face off. Araci recognized Robin from Dakota’s videos of Montevideo.
 
-“I’m trying to stay alive,” said Robin. “The explosion was not an accident. I stepped out to get us something to eat and when I got back, there were alarms and smoke. I took a quick look, then ran. Dakota wasn’t moving and whoever caused the explosion might have still been around.”
+“I’m trying to stay alive,” said Robin. “The explosion was not an accident. I stepped out to get us something to eat and when I got back, there were alarms and smoke. I took a quick look, then ran. Dakota was dead and whoever caused the explosion might have still been around.”
 
 “Okay. You got scared and ran. Let’s accept that for now. But Dakota had installed a custom circuit board in the oven. Wouldn’t that level of tampering with the system cause the explosion? Suppose you two brought this on yourselves.”
 
 “NO. We did not.” Robin choked up. “Dakota was smart. And careful. She built in a fail-safe sensor. The meal she had in the oven was from a reputable manufacturer. It wasn’t like we were cooking meth.”
 
-“There’s a lot to unpack here,” Araci said. “Do you have the schematic?”
+“There’s a lot to unpack here,” Araci said. “Do you have the schematic for the circuit board?”
 
 “I can get it. It’s not that remarkable - the board intercepts and logs commands from the meal. We were recording the process. With enough information we could build open source meals. Hestia is tricky about how they make the system work - we were going to open that up to the world. What we’re doing is legal, but they heard we were succeeding. That’s why they killed Dakota.”
 
@@ -438,4 +432,3 @@ Araci and Lupe ended the call. “I’m sorry to close the investigation,” sai
 
 “I don’t know,” said Lupe. “We humans are always looking for novel ways to kill ourselves.” She stood. “I’m hungry, let’s get lunch. I’ve heard of a new Iraqi restaurant.”
 
-“Sounds good. Let me call up a car. I’m in the mood for a drama-free drive through downtown.”
