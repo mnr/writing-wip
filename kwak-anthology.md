@@ -10,7 +10,7 @@ Araci stepped around Dakota and through the door to the other half of the condom
 
 The bedroom had a dresser, bed, and desk cluttered with electronic parts. Meters, breadboards, wires; all things an electronics engineer might use. The bed was neat; the floor picked up except for a few kitchen utensils thrown in by the explosion.
 
-Araci pulled up Dakota’s publicly shared digital records, which included pictures of her living in Montevideo, always smiling, often in a plaza. In a video dated January 2059, a boy named Robin Lopez appeared. Araci traced Robin back to Portland, Oregon. He had visited Montevideo for an open source software convention. That spring, Dakota boarded a plane to Portland for a long weekend. A month later Robin returned to Montevideo and frolicked at Playa de Los Pocitos in daylight - danced at night. The videos became playful and intimate, leading up to Dakota’s move to Portland. 
+Araci pulled up Dakota’s publicly shared digital records, which included pictures of her living in Montevideo, always smiling, often in a plaza. In a video dated January 2059, a guy named Robin Lopez appeared. Araci traced Robin back to Portland, Oregon. He had visited Montevideo for an open source software convention. That spring, Dakota boarded a plane to Portland for a long weekend. A month later Robin returned to Montevideo and frolicked at Playa de Los Pocitos in daylight - danced at night. The videos became playful and intimate, leading up to Dakota’s move to Portland. 
 
 In Montevideo, she was employed by a publically held ransomware company. Her resume currently listed her as a consultant with “Abundancy,” a non-profit involved in food advocacy. It was part Greenpeace, part Free Software Foundation, part Earth First, part Right to Repair. It did not clearly describe her job duties.
 
@@ -130,7 +130,7 @@ The police media lab wasn’t much more than a room with desks and high-resoluti
 
 Lupe waved the room into view, then spread her hands to enlarge the space where the oven used to be. Spinning her fingers counter-clockwise re-assembled it to its assumed state before the explosion. To the side of the room were two new objects; a circuit board and a meal kit.
 
-“Okay, look at this,” Lupe pointed at the back of the oven. "The scan couldn't find any pieces of the oven circuit board, so it left that empty. The oven doesn't have a circuit. But look at this circuit to the side - the scan found parts of it all over the room. I have no doubt it was near - or inside - the oven when it exploded. This isn’t the standard Hestia circuit board. Someone installed a home-built version.”
+“Okay, look at this,” Lupe pointed at the back of the oven. "The scan couldn't find any pieces of the oven circuit board, so it left a space. But look at this circuit to the side - the scan found parts of it all over the room. I have no doubt it was near - or inside - the oven when it exploded. This isn’t the standard Hestia circuit board. Someone installed a home-built version.”
 
 “Can you move to the bedroom desk?” asked Araci.
 
