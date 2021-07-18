@@ -130,7 +130,7 @@ The police media lab wasn’t much more than a room with desks and high-resoluti
 
 Lupe waved the room into view, then spread her hands to enlarge the space where the oven used to be. Spinning her fingers counter-clockwise re-assembled it to its assumed state before the explosion. To the side of the room were two new objects; a circuit board and a meal kit.
 
-“Okay, look at this,” Lupe pointed at the back of the oven. "The scan couldn't find any pieces of the oven circuit board, so it left a space. But look at this circuit to the side - the scan found parts of it all over the room. I have no doubt it was near - or inside - the oven when it exploded. This isn’t the standard Hestia circuit board. Someone installed a home-built version.”
+“Okay, look at this,” Lupe pointed at the back of the oven. "The scan couldn't find any pieces of the oven circuit board, so it left that space empty. But look at this circuit to the side - the scan found parts of it all over the room. I have no doubt it was near - or inside - the oven when it exploded. This isn’t the standard Hestia circuit board. Someone installed a home-built version.”
 
 “Can you move to the bedroom desk?” asked Araci.
 
