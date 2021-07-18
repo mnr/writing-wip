@@ -308,7 +308,7 @@ Araci sat down. The woman puppet took a step closer and also sat, a chair materi
 
 “I assume Hestia meals also communicate back to the network.”
 
-“True. But Hestia only collects what's legal. Privacy laws restrict what can be recorded. WorldFood made a questionable dodge around the restriction. They don’t record the actions from the user; they record the actions of the AI. The AI responds to the oven and the user. See the difference?”
+“True. But Hestia only collects what’s legal. Privacy laws restrict what can be recorded. WorldFood made a questionable dodge around the restriction. They don’t record the actions from the user; they record the actions of the AI. The AI responds to the oven and the user. See the difference?”
 
 “I understand. It sounds like something a judge would be interested in discussing.”
 
@@ -316,7 +316,7 @@ Araci sat down. The woman puppet took a step closer and also sat, a chair materi
 
 “Sounds like a job for your lobbyist. I’m only interested in what - or who - blew up Dakota.”
 
-The puppet put the meal back to wherever it had appeared from. “It’s the AI. We can’t test it because we don't have Dakota's circuit. But we’re certain when she put this meal in the oven the AI tried to control things. The oven didn’t respond predictably, so the AI improvised. Somehow the AI decided it needed to open the gas valve. But the gas valve was already open. Dakota’s circuit gave the AI inaccurate information.”
+The puppet put the meal back to wherever it had appeared from. “It’s the AI. We can’t test it because we don’t have Dakota’s circuit. But we’re certain when she put this meal in the oven the AI tried to control things. The oven didn’t respond predictably, so the AI improvised. Somehow the AI decided it needed to open the gas valve. But the gas valve was already open. Dakota’s circuit gave the AI inaccurate information.”
 
 She opened up a window with a diagram of AI logic. None of it made sense to Araci, but it was something he could provide to the Police programming team.
 
@@ -378,11 +378,11 @@ Robin reset the “big red button” then waved up some log files, sharing them 
 
 “WorldFoods did this?” asked Araci.
 
-“This is a WorldFood meal, so yes. But if WorldFood is doing it, then Hestia surely knows about it. Hestia will view that as permission to do the same. After that, AI defense of intellectual property will be pervasive."
+“This is a WorldFood meal, so yes. But if WorldFood is doing it, then Hestia surely knows about it. Hestia will view that as permission to do the same. After that, AI defense of intellectual property will be pervasive.”
 
-"Isn't this all a bit extreme?" asked Araci. "Exploding ovens are going to attract attention. That would be a publicity nightmare. Not to mention liability."
+“Isn’t this all a bit extreme?” asked Araci. “Exploding ovens are going to attract attention. That would be a publicity nightmare. Not to mention liability.”
 
-"You'd think so," said Robin. “But we’re talking about AI. Not linear algorithims. You never know what the layers and nodes are doing. It might act when it decides it's being reverse-engineered. It’s just as possible the AI could decide to terminate because a location doesn't have solid IP laws. Or who knows. AIs make conclusions without human guidance. But they don’t have a value for self-worth, so they can choose self-immolation as the low-cost option to protect the programming.”
+“You’d think so,” said Robin. “But we’re talking about AI. Not linear algorithims. You never know what the layers and nodes are doing. It might act when it decides it’s being reverse-engineered. It’s just as possible the AI could decide to terminate because a location doesn’t have solid IP laws. Or who knows. AIs make conclusions without human guidance. But they don’t have a value for self-worth, so they can choose self-immolation as the low-cost option to protect the programming.”
 
 Robin continued. “I’m speculating, but if Hestia decides it’s ok for a meal to self-destruct, they might also decide it’s ok for an oven to self-destruct. This oven already has low-grade AI for trouble-shooting and self-maintenance. It wouldn’t be difficult to put in a higher-level AI to detect a non-approved meal kit. You could even have two AIs - one in a rogue meal and one in the oven - and they’d be kick-boxing with each other. God help the poor schmuck standing nearby.”
 
@@ -404,7 +404,7 @@ Farj looked at Nilsson and Broin; they only looked back. They had obviously disc
 
 Lupe released the pause on the code and several indicators immediately jumped, then displayed “Out Of Range” or “Process Termination” errors. The simulation stopped, and the servers quieted down.
 
-“You’ll excuse me for this underwhelming demonstration,” said Araci. “It would have been more impressive to run this on an actual Hestia oven, but we don’t have explosion-proof rooms in this station. As such, we’ve just seen a simulation of what happens when one of these unknown meals talks with a Hestia Oven in a diagnostic mode. The meal instructs the oven to stop attempts at reverse-engineering. If the oven doesn't stop, the meal fights back. We believe this happened to Dakota Williams.”
+“You’ll excuse me for this underwhelming demonstration,” said Araci. “It would have been more impressive to run this on an actual Hestia oven, but we don’t have explosion-proof rooms in this station. As such, we’ve just seen a simulation of what happens when one of these unknown meals talks with a Hestia Oven in a diagnostic mode. The meal instructs the oven to stop attempts at reverse-engineering. If the oven doesn’t stop, the meal fights back. We believe this happened to Dakota Williams.”
 
 “Hestia would never instruct an AI to react like this,” interjected Ms. Broin. “It’s bad corporate relations and speaking for the Hestia legal department, it’s not something we would advise.”
 
