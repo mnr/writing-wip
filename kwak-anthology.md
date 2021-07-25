@@ -1,32 +1,42 @@
-﻿Two decades after the earthquake, downtown Portland is almost cleared of debris. New buildings rise to optimistic heights and the Willamette river flows to the Columbia. Detective Araci Belo considered the view for a full half-minute, then shifted his focus to the shattered glass. The room he stands in is on the 33rd floor of a luxury condominium built by the city. The hope is to attract business and dispel the perception of Portland as a disaster zone. 
+﻿Detective Araci Belo considered the shattered glass. An explosion had propelled bits of the oven from the back of the condo, spraying shrapnel against the windows. They are earthquake-proof, designed to remain intact and not to shred the pedestrians below with lethal glass daggers. Despite the cracks and bulls-eyes, they were the most intact feature of this room.
 
-An explosion had propelled bits of the oven from the back of the condo. Nothing had broken through the window. They were earthquake-proof, designed not to shred the pedestrians below with lethal glass daggers. Despite the cracks and bulls-eyes, they were the most intact feature of this room.
+The sweet, meaty smell of burnt flesh emanates from Dakota Williams, the recently deceased occupant of the condominium. She lay on her back in the middle of the room; her severed right arm near the earthquake pillar. Her left forearm leaned against the wall. The explosion had burned through her clothing, face, hair, and scalp.
 
-Besides Araci, there were two fire inspectors, a police imaging technician  (“Lupe”), two appliance maintenance people, a building administrator, and her assistant. Three home owners’ association board members and neighbors on all sides of this condo stood in the hallway.
+Pieces of meal boxes are scattered around the room. How many is difficult to know; most are metal confetti mixed with uncooked food. One meal is in the far corner, complete except for a dented corner. The cube is covered with a bright depiction of the traditional (soy-based) steak and potatoes with brussels sprouts.  
 
-The sweet, meaty smell of burnt flesh emanated from Dakota Williams, the recently deceased occupant of the condominium. She lay on her back in the middle of the room; her severed right arm near the earthquake pillar. Her left forearm leaned against the wall. The explosion had burned through her clothing and bits of face, hair, and scalp stuck to the window. 
+Araci steps around Dakota and through the door to the other half of the condominium, leading to the bedroom and bath. The bathroom is tidy, but not spotless. There are two toothbrushes in a cup and enough towels for a couple.
 
-Araci stepped around Dakota and through the door to the other half of the condominium, leading to the bedroom and bath. The bathroom was tidy, but not spotless. There were two toothbrushes in a cup and enough used towels for a couple.
+The bedroom has a dresser, bed, and desk cluttered with electronic parts. Meters, breadboards, wires; all things an electronics engineer might use. The bed is neat; the floor picked up except for a few kitchen utensils thrown in by the explosion.
 
-The bedroom had a dresser, bed, and desk cluttered with electronic parts. Meters, breadboards, wires; all things an electronics engineer might use. The bed was neat; the floor picked up except for a few kitchen utensils thrown in by the explosion.
+Araci pulls up Dakota’s publicly shared digital records, including pictures of her living in Montevideo, always smiling, often in a plaza. In a video dated January 2059, a guy named Robin Lopez appears. Araci traces Robin back to Portland, Oregon. He had visited Montevideo for an open source software convention. That spring, Dakota boarded a plane to Portland for a long weekend. A month later Robin returns to Montevideo and frolicks at Playa de Los Pocitos in daylight - dances at night. The videos become playful and intimate, leading up to Dakota’s move to Portland. 
 
-Araci pulled up Dakota’s publicly shared digital records, which included pictures of her living in Montevideo, always smiling, often in a plaza. In a video dated January 2059, a guy named Robin Lopez appeared. Araci traced Robin back to Portland, Oregon. He had visited Montevideo for an open source software convention. That spring, Dakota boarded a plane to Portland for a long weekend. A month later Robin returned to Montevideo and frolicked at Playa de Los Pocitos in daylight - danced at night. The videos became playful and intimate, leading up to Dakota’s move to Portland. 
+In Montevideo, she was employed by a publically held ransomware company. Her resume currently lists her as a consultant with “Abundancy,” a non-profit involved in food advocacy. It is part Greenpeace, part Free Software Foundation, part Earth First, part Right to Repair. It does not describe her job duties.
 
-In Montevideo, she was employed by a publically held ransomware company. Her resume currently listed her as a consultant with “Abundancy,” a non-profit involved in food advocacy. It was part Greenpeace, part Free Software Foundation, part Earth First, part Right to Repair. It did not clearly describe her job duties.
+Robin Lopez also works for Abundancy. Araci could request a DNA test, but Robin surely owns the second toothbrush. His absence in this room is a gaping hole in the narrative. He isn't a man of mystery; he has his own complete internet story. But he picked an interesting moment to go missing. Araci makes a note to find him.
 
-Robin Lopez also worked for Abundancy. Araci could request a DNA test, but Robin surely owned the second toothbrush. His absence in this room was a gaping hole in the narrative. He wasn’t a man of mystery; he had his own complete internet story. But he picked an interesting moment to go missing. Araci made a note to find him.
+“The scan is ready,” said Officer Guadalupe Reyes. She is one of the many people swarming the condominium. She pushes a few buttons on the back of a camera. “I’ve put the render in the report folder. You interested in grabbing some dinner tonight?” 
 
-“The scan is ready,” said Officer Guadalupe Reyes. She pushed a few buttons on the back of a camera. “I’ve put the render in the report folder. You interested in grabbing some dinner tonight?” 
-
-*Guadalupe* - sometimes “Lupe” - was Araci’s sparring partner in the Portland Police self-defense class. Their relationship was professional, although there were signals something more might be possible. 
+*Guadalupe* - sometimes “Lupe” - is Araci’s sparring partner in the Portland Police self-defense class. Their relationship is professional, although there are signals something more might be possible. 
 
 “Sure. Six pm?” replied Araci. “Come to my place and I’ll make you a dinner that doesn’t explode.”
 
 “You are such a buzzkill. I was hoping for excitement.” She grabbed her bags and pushed through the crowd. “See you tonight.”
 
-Araci retrieved the scan in his visor and compared the two overlaid views; the real, burned room, and the original as shown in blueprints. An augmented reality outline filled in the missing parts of the destroyed counter. The oven had an overlay of what it looked like before the explosion. All that remained was the back plane and fuel tank. The paint on the tank had burned, but it was intact. Everything splayed outwards from the oven cavity; the explosion had clearly occurred there. 
+Araci retrieves the scan in his visor and compares the two overlaid views; the real, burned room, and the original as shown in the floorplan. An augmented reality outline fills in the missing parts of the destroyed counter. The oven has an overlay of what it looked like before the explosion. All that remains is the back plane and fuel tank. The paint on the tank is burned, but intact. Everything splays outwards from the oven cavity; the explosion had clearly occurred there. 
 
-The oven, a “Hestia” model, was easy to install and use. It was self-contained and the built-in propane tank avoided the need to pipe in gas. It had no controls. Instead, instructions from a meal packet controlled it. A meal package comprised a multi-chambered cook plate with valves driven by a microcontroller. The chambers held ingredients. The controller opened valves, communicating with the oven for temperature change. Just place a meal kit in the oven and stand back. Normally it produced a perfect dinner. This time, Hestia had taken an angry turn for the worse.
+The oven, a “Hestia” model, is easy to install and use. It is self-contained and a built-in propane tank avoids the need to pipe in gas. It has no controls. Instead, instructions from a meal box controls it. 
+
+Meal boxes are micro kitchens with just enough ingredients to create the promised meal. Solid-state impellors mix sauces injected from adjoining chambers. Salt tablets dissolve when the meal sends a signal. 
+
+Araci retrieves the steak and potatoes meal from the corner of the main room. It's dented, but doesn't leak food goo into his hands. Araci wonders if it's broken. He has no way to test it, he can't afford one of the expensive Hestia ovens. He boils food packets like every other middle-class American.
+
+The controller in the Hestia meal opens valves, communicating with the oven for temperature changes and to request electro-motive impulses to activate the meal. Just place a meal kit in the oven and stand back. When all is ready, the meal unfolds like origami for a romantic presentation. All controlled by a micro-circuit. None of it recyclable. All very proprietary to the Hestia Corporation.
+
+Normally it produces a perfect dinner. This time, Hestia had took an angry turn for the worse.
+
+Without the oven, the meal box was useless. Without the meal box, the oven was useless. You could eat boiled stew in packets, or you could buy Hestia - and the expensive companion meals. A very few traditionalists made meals from scratch. But who had time? Or the equipment? Or the space?
+
+// WORKING HERE ...
 
 Abundancy had performed some violent activism against Hestia. They hadn’t gone as far as claiming responsibility for breaking windows at Hestia factories, but they had disrupted shareholder meetings and sent letters just shy of threatening bodily harm. Abundancy accused Hestia of trying to patent food. Hestia held patents only on the meal kits for their oven, but Abundancy felt this was a slippery slope. DuPont and Monsanto held patents on genetically-modified corn, soybean, and alfalfa and defended them with wide-ranging arguments that entangled anyone using non-GMO variants. Abundancy argued Hestia was following the same strategy and would eventually claim rights to any method of combining food to make a meal. 
 
