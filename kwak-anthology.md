@@ -32,41 +32,45 @@ Araci retrieves the steak and potatoes meal from the corner of the main room. It
 
 The controller in the Hestia meal opens valves, communicating with the oven for temperature changes and to request electro-motive impulses to activate the meal. Just place a meal kit in the oven and stand back. When all is ready, the meal unfolds like origami for a romantic presentation. All controlled by a micro-circuit. None of it recyclable. All very proprietary to the Hestia Corporation.
 
-Normally it produces a perfect dinner. This time, Hestia had took an angry turn for the worse.
+Araci turned the meal box over, shook it, put it back on the floor. Normally it produces a perfect dinner. This time, Hestia took an angry turn for the worse.
 
-Without the oven, the meal box was useless. Without the meal box, the oven was useless. You could eat boiled stew in packets, or you could buy Hestia - and the expensive companion meals. A very few traditionalists made meals from scratch. But who had time? Or the equipment? Or the space?
+Without the oven, the meal box is useless. Without the meal box, the oven is useless. You can eat boiled stew in packets, or you can buy Hestia - and the expensive companion meals. A very few traditionalists make meals from scratch. Araci laughs to himself. *Who has time? Or the equipment? Or the space?* He was happy to heat stew packets.
 
-// WORKING HERE ...
+He looks at the charred remains of Dakota. Abundancy must have been lucrative for her to afford one of these pricey units.  Odder still; Abundancy had performed some violent activism against Hestia. They hadn’t gone as far as claiming responsibility for breaking windows at Hestia factories, but they had disrupted shareholder meetings and sent letters just shy of threatening bodily harm. 
 
-Abundancy had performed some violent activism against Hestia. They hadn’t gone as far as claiming responsibility for breaking windows at Hestia factories, but they had disrupted shareholder meetings and sent letters just shy of threatening bodily harm. Abundancy accused Hestia of trying to patent food. Hestia held patents only on the meal kits for their oven, but Abundancy felt this was a slippery slope. DuPont and Monsanto held patents on genetically-modified corn, soybean, and alfalfa and defended them with wide-ranging arguments that entangled anyone using non-GMO variants. Abundancy argued Hestia was following the same strategy and would eventually claim rights to any method of combining food to make a meal. 
+Abundancy accused Hestia of trying to patent food. DuPont and Monsanto held patents on genetically-modified corn, soybean, and alfalfa and defended them with wide-ranging arguments that entangled anyone using non-GMO variants. Abundancy argued Hestia was following the same strategy and would eventually claim rights to any method of combining food to make a meal. 
 
-Lupe’s scan allowed for an animated reconstruction of the explosion, tracing the path of the scattered parts back to their original assembly. Araci played it forward and reverse three times. What happened was clear. Dakota had been standing in front of the oven when it exploded and distributed a high-velocity cloud of sharp plastic, metal, and glass shrapnel through her and into the room.
+Wasn't it strange for Dakota to own a device from the Great Satan Hestia?
 
-As for this condo, there was nothing more. He shipped the report to the Portland Police server and left the apartment clean-up to the forensics team.
+Lupe’s scan allows for an animated reconstruction of the explosion, tracing the path of the scattered parts back to their original assembly. Araci plays it forward and reverse three times. What happened is clear. Dakota had been standing in front of the oven when it exploded and distributed a high-velocity cloud of sharp plastic, metal, and glass shrapnel through her and into the room.
+
+As for this condo, there was nothing more. He ships the report to the Portland Police server and leaves the apartment clean-up to the forensics team.
 
 // -----
 
-Araci assembled Chicken Piccata, one of the complex meals available in pouches. He enjoyed cooking, the reveal of ingredients from each foil bag, the simple preparation, the assembly. The smell of onions when they emerged from the saute bag. Squeezing lemon slices on the chicken. Sprinkling capers, salt, and pepper just before plating. Lupe stood near the counter with a glass of wine, watching him fuss with the presentation.
+Araci assembles Chicken Piccata, one of the more complex meals available in pouches. He enjoys cooking, the reveal of ingredients from each foil bag, the simple preparation, the assembly. He wasn't dedicated enough to work from raw ingredients, pre-measured pouches was his limit. Still - the smell of onions when they emerge from the saute bag. Squeezing lemon slices on the chicken. Sprinkling capers, salt, and pepper just before plating. Lupe stands near the counter with a glass of wine, watching him fuss with the presentation.
 
-“You should buy one of those ovens,” observed Lupe. “You like cooking. You could make more complex meals.”
+“You should buy one of those ovens,” observes Lupe. “You like cooking. You could make more complex meals.”
 
-“I considered it, but after today, I’m not so sure.” Araci moved the two plates to the table, refilled both wine glasses, and invited Lupe. “Besides, they only work with proprietary meals. It’s not like you can just whip up some batter and bake a cake. Buy a kit - from Hestia - or it doesn’t work. You’re not allowed to do anything except put it in, then take it out.”
+“I considered it, but after today, I’m not so sure.” Araci moves the two plates to the table, refills both wine glasses, and invites Lupe. “Besides, they only work with proprietary meals. It’s not like you can just whip up some batter and bake a cake. Buy a kit - from Hestia - or it doesn’t work. You’re not allowed to do anything except put it in, then take it out.”
 
-“I suppose,” replied Lupe. “Did you find out more about the missing boyfriend?”
+“I suppose,” replies Lupe. “Did you find out more about the missing boyfriend?”
 
 “I suspect we’re looking for Robin Lopez. He’s the author of ‘The Road To Food Free From Restrictions.’ He is upset about Hestia’s food patents. He and Dakota were both connected with Abundancy.”
 
-“So if they were fighting with Hestia, why did they have one in the condo?” Lupe sliced off a piece of chicken, dipped it in the sauce, took a bite. “Um. This is so much better than the one-bag meal I had planned for dinner.”
+“Um. This is so much better than the one-bag meal I had planned for dinner.” Lupe slices off a piece of chicken, dips it in the sauce, takes a bite. “So if they were fighting with Hestia, why did they have one in the condo?”  
 
-“I’m puzzled by that too,” agreed Araci. “It’s odd they had an oven. It’s odd it exploded. It’s odd Robin is missing.”
+“I’m puzzled by that too,” agrees Araci. “It’s odd they had an oven. It’s odd it exploded. It’s odd Robin is missing.”
 
-Araci continued; “There are other parts of their story that don’t settle. Dakota left a job with a ransomware company. Ransomware may have maneuvered itself into a measure of respectability, but just because they’re public and produce respectable profits for retiree accounts doesn’t erase the fact they are involved in insurance fraud. Insurance companies don’t like extortion. Would an employee be allowed to just quit and walk away? Dakota could flip and inform insurance. She could work for a competitor. It wasn’t long between her departure from Montevideo and her departure from this world. Maybe her former employer blew her up?”
+Araci continues; “There are other parts of their story that don’t settle. Dakota left a job with a ransomware company. Ransomware may have maneuvered itself into a measure of respectability, but just because they’re public and produce respectable profits doesn’t erase the fact they are involved in insurance fraud. Insurance companies don’t like extortion. Would an employee be allowed to just quit and walk away? Dakota could flip and inform insurance. She could work for a competitor. It wasn’t long between her departure from Montevideo and her departure from this world. Maybe her former employer blew her up?”
 
-“Maybe Hestia didn’t like what she was doing for Abundancy?” suggested Lupe. “They have all sorts of control over the oven. Can they tell it to explode?”
+“Maybe Hestia didn’t like what she was doing for Abundancy?” suggests Lupe. “They have all sorts of control over the oven. Can they tell it to explode?”
 
-“That’s an interesting idea,” said Araci. “I’ll make a few calls tomorrow. Should I snap open this ice cream?”
+“That’s an interesting idea,” says Araci. “I’ll make a few calls tomorrow. Should I snap open this ice cream?”
 
 // -----
+
+// WORKING HERE
 
 Araci’s call to Hestia’s manufacturer met with an artificially intelligent receptionist, projected through his visor as sitting across from him at the table. 
 
