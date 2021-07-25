@@ -1,4 +1,36 @@
-﻿Detective Araci Belo considered the shattered glass. An explosion had propelled bits of the oven from the back of the condo, spraying shrapnel against the windows. They are earthquake-proof, designed to remain intact and not to shred the pedestrians below with lethal glass daggers. Despite the cracks and bulls-eyes, they were the most intact feature of this room.
+# Present the crime
+
+# Introduce Sleuth
+
+# Offer Plausible Suspects
+
+# Introduce Complications
+
+# Introduce Private Life
+
+# Initial investigation and clues
+
+# Disappearance of 1 suspect
+
+# Raise the stakes
+
+# Development of subplot
+
+# Reveal hidden motives
+
+# Unsatisfying solution
+
+# Return to overlooked clue
+
+# Resolution of subplot
+
+# confront perpetrator
+
+# Resolution
+
+ 
+
+Detective Araci Belo considered the shattered glass. An explosion had propelled bits of the oven from the back of the condo, spraying shrapnel against the windows. They are earthquake-proof, designed to remain intact and not to shred the pedestrians below with lethal glass daggers. Despite the cracks and bulls-eyes, they were the most intact feature of this room.
 
 The sweet, meaty smell of burnt flesh emanates from Dakota Williams, the recently deceased occupant of the condominium. She lay on her back in the middle of the room; her severed right arm near the earthquake pillar. Her left forearm leaned against the wall. The explosion had burned through her clothing, face, hair, and scalp.
 
@@ -8,11 +40,11 @@ Araci steps around Dakota and through the door to the other half of the condomin
 
 The bedroom has a dresser, bed, and desk cluttered with electronic parts. Meters, breadboards, wires; all things an electronics engineer might use. The bed is neat; the floor picked up except for a few kitchen utensils thrown in by the explosion.
 
-Araci pulls up Dakota’s publicly shared digital records, including pictures of her living in Montevideo, always smiling, often in a plaza. In a video dated January 2059, a guy named Robin Lopez appears. Araci traces Robin back to Portland, Oregon. He had visited Montevideo for an open source software convention. That spring, Dakota boarded a plane to Portland for a long weekend. A month later Robin returns to Montevideo and frolicks at Playa de Los Pocitos in daylight - dances at night. The videos become playful and intimate, leading up to Dakota’s move to Portland. 
+Araci pulls up Dakota’s publicly shared digital records. In a video dated January 2059, a guy named Robin Lopez appears. The videos become playful and intimate, leading up to their move to this apartment. 
 
-In Montevideo, she was employed by a publically held ransomware company. Her resume currently lists her as a consultant with “Abundancy,” a non-profit involved in food advocacy. It is part Greenpeace, part Free Software Foundation, part Earth First, part Right to Repair. It does not describe her job duties.
+Her resume currently lists her as a consultant with “Abundancy,” a non-profit involved in food advocacy. It is part Greenpeace, part Free Software Foundation, part Earth First, part Right to Repair. It does not describe her job duties.
 
-Robin Lopez also works for Abundancy. Araci could request a DNA test, but Robin surely owns the second toothbrush. His absence in this room is a gaping hole in the narrative. He isn't a man of mystery; he has his own complete internet story. But he picked an interesting moment to go missing. Araci makes a note to find him.
+Robin Lopez also works for Abundancy. His absence in this room is a gaping hole in the narrative. He isn't a man of mystery; he has his own complete internet story. But he picked an interesting moment to go missing. Araci makes a note to find him.
 
 “The scan is ready,” said Officer Guadalupe Reyes. She is one of the many people swarming the condominium. She pushes a few buttons on the back of a camera. “I’ve put the render in the report folder. You interested in grabbing some dinner tonight?” 
 
@@ -61,8 +93,6 @@ Araci assembles Chicken Piccata, one of the more complex meals available in pouc
 “Um. This is so much better than the one-bag meal I had planned for dinner.” Lupe slices off a piece of chicken, dips it in the sauce, takes a bite. “So if they were fighting with Hestia, why did they have one in the condo?”  
 
 “I’m puzzled by that too,” agrees Araci. “It’s odd they had an oven. It’s odd it exploded. It’s odd Robin is missing.”
-
-Araci continues; “There are other parts of their story that don’t settle. Dakota left a job with a ransomware company. Ransomware may have maneuvered itself into a measure of respectability, but just because they’re public and produce respectable profits doesn’t erase the fact they are involved in insurance fraud. Insurance companies don’t like extortion. Would an employee be allowed to just quit and walk away? Dakota could flip and inform insurance. She could work for a competitor. It wasn’t long between her departure from Montevideo and her departure from this world. Maybe her former employer blew her up?”
 
 “Maybe Hestia didn’t like what she was doing for Abundancy?” suggests Lupe. “They have all sorts of control over the oven. Can they tell it to explode?”
 
@@ -280,6 +310,8 @@ Lupe squeezed the orange in her drink, bit off the fruit, then dropped the peel 
 
 Araci picked up the peanuts, then moved to put them back down. Too late; they were charged to his tab, and the platform dropped away, reappearing with a crudité platter. He surrendered and shelled a peanut. “That leaves us with Hestia. But I’m not convinced Farj is a killer.”
 
+//  >>>GETTING RID OF RANSOMWARE
+
 “He doesn’t have to be. What if a third party acted out of self-interest?” Lupe paused and stared at Araci. “Just a minute,” she said. She waved up a search window in her visor and concentrated. With a slight nod, she shared the results with Araci.
 
 Araci saw Lupe’s search. It started with Dakota’s resume. It jumped to her previous ransomware employer. A hop over to corporate relationships produced an organization tree. On the tree, the ransomware company was highlighted, as was the line leading up the tree to the parent, then down a branch - which led to Hestia.
@@ -288,9 +320,11 @@ Araci saw Lupe’s search. It started with Dakota’s resume. It jumped to her p
 
 “For that, I’m buying tonight’s drinks,” said Araci. “It fits. All that’s left to do is mountains of paperwork, but I think you’re on-target.”
 
+// GETTING RID OF RANSOMWARE<<<
+
 // -----
 
-At home, Araci was helping the robot vacuum when his visor announced a call. It was from someone using a privacy puppet.
+At home, Araci was helping the robot vacuum when his visor announced a call. It was someone using a privacy puppet.
 
 “Hello Robin,” answered Araci. “Is there something new you’d like to discuss?”
 
