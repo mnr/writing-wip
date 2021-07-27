@@ -1,152 +1,104 @@
 # Present the crime
 
-# Introduce Sleuth
+Detective Araci Belo admires the view of post-earthquake Portland from this small condominium. The west hills provide a lush green background to the dense housing towers, interconnected by skyways and hypertube stations. 
 
-# Offer Plausible Suspects
+He pulls his focus back to consider the shattered room. The explosion had propelled bits of the oven from the back of the condo, spraying shrapnel towards the window. The top half of the room is scorched, and the sweet, meaty smell of burnt flesh emanates from Dakota Williams, the recently deceased occupant of the condominium. She lays on her back in the middle of the room; her severed right arm near the earthquake pillar. Her left forearm leans against the wall. The explosion burned through her clothing, face, and skin.
 
-# Introduce Complications
+Pieces of meal boxes are scattered around the room. How many is difficult to know; metal and plastic shards are mixed with uncooked food. One meal is in the far corner, complete except for a dented corner. The cube, small enough to hold in two hands, is covered with a bright depiction of the traditional (soy-based) steak and potatoes with brussels sprouts.  
 
-# Introduce Private Life
+Araci steps around Dakota and through the door to the other half of the condominium containing the bedroom and bath. The bathroom is tidy, but not spotless. There are two toothbrushes in a cup and enough towels for a couple. The bedroom has a dresser, bed, and desk cluttered with electronic parts. The bed is neat; the floor picked up except for a few kitchen utensils thrown in by the explosion.
 
-# Initial investigation and clues
-
-# Disappearance of 1 suspect
-
-# Raise the stakes
-
-# Development of subplot
-
-# Reveal hidden motives
-
-# Unsatisfying solution
-
-# Return to overlooked clue
-
-# Resolution of subplot
-
-# confront perpetrator
-
-# Resolution
-
- 
-
-Detective Araci Belo considered the shattered glass. An explosion had propelled bits of the oven from the back of the condo, spraying shrapnel against the windows. They are earthquake-proof, designed to remain intact and not to shred the pedestrians below with lethal glass daggers. Despite the cracks and bulls-eyes, they were the most intact feature of this room.
-
-The sweet, meaty smell of burnt flesh emanates from Dakota Williams, the recently deceased occupant of the condominium. She lay on her back in the middle of the room; her severed right arm near the earthquake pillar. Her left forearm leaned against the wall. The explosion had burned through her clothing, face, hair, and scalp.
-
-Pieces of meal boxes are scattered around the room. How many is difficult to know; most are metal confetti mixed with uncooked food. One meal is in the far corner, complete except for a dented corner. The cube is covered with a bright depiction of the traditional (soy-based) steak and potatoes with brussels sprouts.  
-
-Araci steps around Dakota and through the door to the other half of the condominium, leading to the bedroom and bath. The bathroom is tidy, but not spotless. There are two toothbrushes in a cup and enough towels for a couple.
-
-The bedroom has a dresser, bed, and desk cluttered with electronic parts. Meters, breadboards, wires; all things an electronics engineer might use. The bed is neat; the floor picked up except for a few kitchen utensils thrown in by the explosion.
-
-Araci pulls up Dakota’s publicly shared digital records. In a video dated January 2059, a guy named Robin Lopez appears. The videos become playful and intimate, leading up to their move to this apartment. 
-
-Her resume currently lists her as a consultant with “Abundancy,” a non-profit involved in food advocacy. It is part Greenpeace, part Free Software Foundation, part Earth First, part Right to Repair. It does not describe her job duties.
-
-Robin Lopez also works for Abundancy. His absence in this room is a gaping hole in the narrative. He isn't a man of mystery; he has his own complete internet story. But he picked an interesting moment to go missing. Araci makes a note to find him.
-
-“The scan is ready,” said Officer Guadalupe Reyes. She is one of the many people swarming the condominium. She pushes a few buttons on the back of a camera. “I’ve put the render in the report folder. You interested in grabbing some dinner tonight?” 
+“The scan is ready,” says Officer Guadalupe Reyes, one of the many people swarming the condominium. She pushes a  button on a hand-held terminal. “I’ve put the render in the report folder. You interested in grabbing some dinner tonight?” 
 
 *Guadalupe* - sometimes “Lupe” - is Araci’s sparring partner in the Portland Police self-defense class. Their relationship is professional, although there are signals something more might be possible. 
 
-“Sure. Six pm?” replied Araci. “Come to my place and I’ll make you a dinner that doesn’t explode.”
+“Sure. Six pm?” replies Araci. “Come to my place and I’ll make you a dinner that doesn’t explode.”
 
-“You are such a buzzkill. I was hoping for excitement.” She grabbed her bags and pushed through the crowd. “See you tonight.”
+“You are such a buzzkill. I was hoping for excitement.” She grabs her bags and pushes through the crowd. “See you tonight.”
 
-Araci retrieves the scan in his visor and compares the two overlaid views; the real, burned room, and the original as shown in the floorplan. An augmented reality outline fills in the missing parts of the destroyed counter. The oven has an overlay of what it looked like before the explosion. All that remains is the back plane and fuel tank. The paint on the tank is burned, but intact. Everything splays outwards from the oven cavity; the explosion had clearly occurred there. 
+Araci retrieves the scan in his visor and compares two overlaid views; the real, burned room, and the original as shown in the floorplan. An augmented reality outline fills in the missing parts of the destroyed oven. Originally a desktop unit, all that remains is the back plane and fuel tank. The paint on the tank is burned, but intact. Everything splays outwards from the oven cavity; the explosion had clearly occurred there.  
 
-The oven, a “Hestia” model, is easy to install and use. It is self-contained and a built-in propane tank avoids the need to pipe in gas. It has no controls. Instead, instructions from a meal box controls it. 
+Araci retrieves the steak and potatoes meal from the corner of the main room. It's dented, but doesn't leak food goo into his hands. Araci wonders if it's broken. He has no way to test it, he can't afford one of the expensive Hestia ovens; He boils food packets like every other middle-class American. Araci turns the meal box over, shakes it, puts it back on the floor. Normally it produces a perfect dinner. This time, Hestia took an angry turn for the worse.
 
-Meal boxes are micro kitchens with just enough ingredients to create the promised meal. Solid-state impellors mix sauces injected from adjoining chambers. Salt tablets dissolve when the meal sends a signal. 
-
-Araci retrieves the steak and potatoes meal from the corner of the main room. It's dented, but doesn't leak food goo into his hands. Araci wonders if it's broken. He has no way to test it, he can't afford one of the expensive Hestia ovens. He boils food packets like every other middle-class American.
-
-The controller in the Hestia meal opens valves, communicating with the oven for temperature changes and to request electro-motive impulses to activate the meal. Just place a meal kit in the oven and stand back. When all is ready, the meal unfolds like origami for a romantic presentation. All controlled by a micro-circuit. None of it recyclable. All very proprietary to the Hestia Corporation.
-
-Araci turned the meal box over, shook it, put it back on the floor. Normally it produces a perfect dinner. This time, Hestia took an angry turn for the worse.
-
-Without the oven, the meal box is useless. Without the meal box, the oven is useless. You can eat boiled stew in packets, or you can buy Hestia - and the expensive companion meals. A very few traditionalists make meals from scratch. Araci laughs to himself. *Who has time? Or the equipment? Or the space?* He was happy to heat stew packets.
-
-He looks at the charred remains of Dakota. Abundancy must have been lucrative for her to afford one of these pricey units.  Odder still; Abundancy had performed some violent activism against Hestia. They hadn’t gone as far as claiming responsibility for breaking windows at Hestia factories, but they had disrupted shareholder meetings and sent letters just shy of threatening bodily harm. 
-
-Abundancy accused Hestia of trying to patent food. DuPont and Monsanto held patents on genetically-modified corn, soybean, and alfalfa and defended them with wide-ranging arguments that entangled anyone using non-GMO variants. Abundancy argued Hestia was following the same strategy and would eventually claim rights to any method of combining food to make a meal. 
-
-Wasn't it strange for Dakota to own a device from the Great Satan Hestia?
-
-Lupe’s scan allows for an animated reconstruction of the explosion, tracing the path of the scattered parts back to their original assembly. Araci plays it forward and reverse three times. What happened is clear. Dakota had been standing in front of the oven when it exploded and distributed a high-velocity cloud of sharp plastic, metal, and glass shrapnel through her and into the room.
+Lupe’s scan allows for an animated reconstruction of the explosion, tracing the path of the scattered parts back to their original assembly. Araci plays it forward and reverse three times. What happened is clear. Dakota had been standing in front of the oven when it exploded and distributed a high-velocity cloud of sharp plastic, metal, and glass through her and into the room.
 
 As for this condo, there was nothing more. He ships the report to the Portland Police server and leaves the apartment clean-up to the forensics team.
 
-// -----
+# Introduce Sleuth
+
+Araci Belo loves being a detective with the police force. He looks young for a middle-age guy; Lupe finds him attractive. She appreciates his stability and satisfaction with his life; both things she is in search of for herself.
 
 Araci assembles Chicken Piccata, one of the more complex meals available in pouches. He enjoys cooking, the reveal of ingredients from each foil bag, the simple preparation, the assembly. He wasn't dedicated enough to work from raw ingredients, pre-measured pouches was his limit. Still - the smell of onions when they emerge from the saute bag. Squeezing lemon slices on the chicken. Sprinkling capers, salt, and pepper just before plating. Lupe stands near the counter with a glass of wine, watching him fuss with the presentation.
 
 “You should buy one of those ovens,” observes Lupe. “You like cooking. You could make more complex meals.”
 
-“I considered it, but after today, I’m not so sure.” Araci moves the two plates to the table, refills both wine glasses, and invites Lupe. “Besides, they only work with proprietary meals. It’s not like you can just whip up some batter and bake a cake. Buy a kit - from Hestia - or it doesn’t work. You’re not allowed to do anything except put it in, then take it out.”
+“I considered it, but after today, I’m not so sure.” Araci moves the two plates to the table, refills both wine glasses, and invites Lupe. "I've seen the advertisements. Push the meal box into the oven and stand back. Where's the romance?"
 
-“I suppose,” replies Lupe. “Did you find out more about the missing boyfriend?”
+"Maybe not romance, but how would you print a steak without one?"
 
-“I suspect we’re looking for Robin Lopez. He’s the author of ‘The Road To Food Free From Restrictions.’ He is upset about Hestia’s food patents. He and Dakota were both connected with Abundancy.”
+"Print what steak how?" asks Araci? "You can't do that at home."
 
-“Um. This is so much better than the one-bag meal I had planned for dinner.” Lupe slices off a piece of chicken, dips it in the sauce, takes a bite. “So if they were fighting with Hestia, why did they have one in the condo?”  
+"Right. Not with a packet boiler," says Lupe. "That's the big deal with Hestia. When you push the meal box into the oven, it engages with electricity, a data port and a gas port. The gas from the fuel tank flows into the meal box. The meal box controls the impellers and valves. The oven connects the meal to the outside world. The entire setup is patented."
 
-“I’m puzzled by that too,” agrees Araci. “It’s odd they had an oven. It’s odd it exploded. It’s odd Robin is missing.”
+"So there's a meat printer in the meal box?"
 
-“Maybe Hestia didn’t like what she was doing for Abundancy?” suggests Lupe. “They have all sorts of control over the oven. Can they tell it to explode?”
+"I know. There just doesn't seem like there's enough room. But the meal opens a valve, meat paste pours out, the oven cooks it, another layer of meat paste, some flavors, more cook. Pretty soon you have a New York steak. Can't do that with foil packets."
 
-“That’s an interesting idea,” says Araci. “I’ll make a few calls tomorrow. Should I snap open this ice cream?”
+"I had no idea," admitted Araci. He looked suspiciously at the chicken on his fork. "But here's a question; why gas? Why not just heat with electricity?"
 
-// -----
+"Good question," says Lupe. She was still enthusiastic about the dinner on her plate. "Hestia can't charge for electricity, but they can sell you overpriced gas canisters. You can't refill a Hestia hydrogen tank; you have to buy a new one. Like ink for printers; you have to buy it from the manufacturer or they won't work."
 
-// WORKING HERE
+"I get it," says Araci. He decides to accept the chicken for what it is and takes another bite. "Are you up for ice cream? I bought a tube of cherry."
 
-Araci’s call to Hestia’s manufacturer met with an artificially intelligent receptionist, projected through his visor as sitting across from him at the table. 
+# Offer Plausible Suspects
 
-“Hello Araci Belo,” said the receptionist. “I’m here to help.” The AI exhibited artificial signs of life, but waited, saying nothing more.
+Araci’s day starts with a call to Hestia’s manufacturer. He's met with an artificially intelligent receptionist, projected through his visor as though sitting across him from the desk. 
 
-“I’d like to speak to the Hestia Product Manager,” replied Araci. 
+“Hello Araci Belo,” says the receptionist. It wasn't surprising she knew his name, he was easy to identify from his online presence. “I’m here to help.” The AI exhibits artificial signs of life; her eyes blink, she breathes; but waits, saying nothing more.
 
-The receptionist didn’t hesitate. “I’m sorry, but our product managers are only available by appointment. Can I connect you with our media spokesperson?”
+“I’d like to speak to the Hestia Product Manager,” replies Araci. 
 
-“No. I’m with the Portland Police Department and I’m working on a case involving one of your Hestia ovens.” Araci enunciated and spoke slowly, emphasizing the word ‘Police.’
+The receptionist doesn’t hesitate. “I’m sorry, but our product managers are only available by appointment. Can I connect you with our media spokesperson?”
 
-“One minute please.” the receptionist paused, then faded to black. In their place appeared a dark-haired, middle-age man. He looked up and adjusted something on his desk.
+“No. I’m with the Portland Police Department and I’m working on a case involving one of your Hestia ovens.” Araci enunciates and speaks slowly, emphasizing the word ‘Police.’
 
-“Hello Mr. Belo. My name is Farj Capcin. I’m told you have some questions.” He waved his hand from off-screen to the center of his view, adding two more individuals. “This is Ms. Broin, our attorney, and Mr. Nilsson, who manages media relations for the Hestia Ovens. Since you are a police representative, we are recording this call. Do you object?”
+“One minute please.” the receptionist pauses, then fades to black. In their place appears a dark-haired, middle-age man. He looks up and adjusts something on his desk.
 
-The prickly reception did not surprise Araci. He’d used his police status to get the receptionist to act, but knew it would put everyone on guard. 
+“Hello Mr. Belo. My name is Farj Capcin. I’m told you have some questions.” He waves his hand from off-screen to the center of his view, adding two more individuals. “This is Ms. Broin, our attorney, and Mr. Nilsson, who manages media relations for the Hestia Ovens. Since you are a police representative, we are recording this call. Do you object?”
+
+"Feel free." The prickly reception did not surprise Araci. He’d used his police status to get the receptionist to act, but knew it would put everyone on guard. 
 
 “I’m investigating the death of Dakota Williams...” 
 
-Araci hadn’t finished speaking, but Broin the attorney immediately searched for something. She tapped Farj and pointed to whatever she had found. Farj muted and turned to Nilsson, then Broin, conferred for a minute, then returned to Araci.
+Araci hasn’t finished speaking, but Broin the attorney immediately searches for something. She tappes Farj and points to whatever she found. Farj mutes and turns to Nilsson, then Broin, confers for a minute, then returns to Araci.
 
 “Dakota Williams is a member of Abundancy. We support the idea of unrestricted food for all and have issued several statements regarding our eagerness to work with Abundancy to accomplish this within the bounds of our corporation’s abilities.” 
 
 Farj recited this without hesitation. This was not the first time he had to address issues with the Abundancy group. Araci wondered if the AI receptionist knew the line as well.
 
-Araci tried again. “I understand your desire to work with Abundancy, but I’m more interested in an explosion of one of your devices.”
+Abundancy is news to Araci. Pretending to make a note, he opens a search. 
 
-Araci made notes; Farj, Broin, and Nilsson knew about Dakota Williams. They knew she was working with Abundancy. They didn’t act surprised to hear of her death. Araci pursued a hunch.
+Abundancy is an activist group; part Greenpeace, part Free Software Foundation, part Earth First, part Right to Repair. They accuse Hestia of trying to patent food, similar to how DuPont and Monsanto hold patents on genetically-modified corn, soybean, and alfalfa. Abundancy argues they will eventually claim rights to any method of combining food to make a meal. 
 
-“I’m also investigating the whereabouts of Robin Lopez.”
+Abundancy has performed violent activism against Hestia. They haven’t gone as far as claiming responsibility for breaking windows at Hestia factories, but they have disrupted shareholder meetings and sent letters just shy of threatening bodily harm. Dakota is listed as a consultant with Abundancy, but doesn't describe her responsibilities.
 
-Farj again muted and conferred, then answered Araci. “We can’t speculate on the relationship between Ms. Williams and Mr. Lopez. We know Ms. Williams owns a Hestia Oven, but that unit has not responded to our pings for several weeks. Ms. Williams has refused to allow us to provide maintenance, so we aren’t liable.”
+Araci returns to the conversation. “I understand your desire to work with Abundancy, but I’m more interested in an explosion of one of your devices.”
 
-“What have you heard about the malfunction?” asked Araci. “Have you determined the cause?”
+Farj again mutes and confers, then answers Araci. “We know Ms. Williams owns a Hestia Oven, but that unit has not responded to our status requests for several weeks. Ms. Williams has refused to allow us to provide maintenance, so we aren’t liable.”
 
-“We had a team on site and I’m able to supply you with their report,” said Farj. “They noted you were there. I suspect you found the same; the oven wasn’t intact, and it was difficult to recover the pieces.”
+“What have you heard about the malfunction?” asks Araci. “Have you determined the cause?”
+
+“We had a team on site and I’m able to supply you with their report,” says Farj. “I suspect you found the same; the oven wasn’t intact, and it was difficult to recover the pieces.”
 
 “So right now, you don’t know what happened?”
 
-“Correct,” answered Farj. “When we do, we’ll be happy to share those findings.”
+“Correct,” answers Farj. “When we do, we’ll be happy to share those findings.”
 
 Araci ended the call. Hestia would not provide any more information, so it made little sense to keep asking. He would need more details before speaking with them again.
 
 // -----
 
-His next call was to Abundancy. He spent the better part of an hour trying to make contact. It wasn’t until he challenged one of the AI call handlers with a non-specific police action that he made any progress. Legally, he couldn’t do anything, but he used the right combination of keywords to trigger the AI to summon a live person. A screen puppet appeared, their face obscured with a synthesized privacy mask.
+His next call was to Abundancy, spending the better part of an hour trying to make contact. It wasn’t until he challenges one of the AI call handlers with a non-specific police action that he makes any progress. Legally, he can’t do anything, but he uses the right combination of keywords to trigger the AI to summon a live person. A screen puppet appears, their face obscured with a synthesized privacy mask.
 
 “Detective Araci, we’re not stupid. Please don’t threaten us with legal action you can’t follow up on,” said whoever was behind the mask. “However, since you’re investigating what happened to Dakota, I want to make sure you’re aware of all the facts.”
 
@@ -164,7 +116,49 @@ Would a corporation kill to protect intellectual property? Of course they would.
 
 Araci’s visor announced a request from Lupe, which he gladly accepted. “Araci, we’re finding some interesting details in the scan of the condominium explosion. It takes some high resolution, come over to the media lab and see.”
 
-// -----
+# Introduce Complications
+
+
+
+“Did you find out more about the missing boyfriend?” asks Lupe.
+
+“I suspect we’re looking for Robin Lopez. He’s the author of ‘The Road To Food Free From Restrictions.’ He is upset about Hestia’s food patents. He and Dakota were both connected with Abundancy.”
+
+“Um. This is so much better than the one-bag meal I had planned for dinner.” Lupe slices off a piece of chicken, dips it in the sauce, takes a bite. “So if they were fighting with Hestia, why did they have one in the condo?”  
+
+“I’m puzzled by that too,” agrees Araci. “It’s odd they had an oven. It’s odd it exploded. It’s odd Robin is missing.”
+
+“Maybe Hestia didn’t like what she was doing for Abundancy?” suggests Lupe. “They have all sorts of control over the oven. Can they tell it to explode?”
+
+
+
+
+
+Abundancy must have been lucrative for her to afford one of these pricey units.  Odder still; 
+
+Wasn't it strange for Dakota to own a device from the Great Satan Hestia?
+
+
+
+
+
+# Introduce Private Life
+
+# Initial investigation and clues
+
+Araci made notes; Farj, Broin, and Nilsson knew about Dakota Williams. They knew she was working with Abundancy. They didn’t act surprised to hear of her death. Araci pursued a hunch.
+
+“I’m also investigating the whereabouts of Robin Lopez.”
+
+We can’t speculate on the relationship between Ms. Williams and Mr. Lopez. 
+
+//---
+
+ In a video dated January 2059, a guy named Robin Lopez appears. The videos become playful and intimate, leading up to their move to this apartment. 
+
+Robin Lopez also works for Abundancy. His absence in this room is a gaping hole in the narrative. He isn't a man of mystery; he has his own complete internet story. But he picked an interesting moment to go missing. Araci makes a note to find him.
+
+//---
 
 The police media lab wasn’t much more than a room with desks and high-resolution monitors. The striking feature was the glass wall with a view of the servers. Privacy laws controlled this type of data under actual lock and key, so Araci had to visit in person.
 
@@ -190,7 +184,7 @@ Many of the tags identified stock electronics. The largest circuit was identifie
 
 “A mystery meal in an altered oven,” said Araci. “Operator error compounded by hackery?” He silently pondered the rendered view of the condominium.
 
-// -----
+// ---
 
 Araci opened a call to Hestia. After a bit of wrangling with the AI receptionist, Farj Capcin appeared.
 
@@ -292,37 +286,9 @@ Robin hesitated. “Not yet.” He looked away for a minute, sighed, and looked 
 
 Araci looked at Lupe. There was a lot to untangle. Maybe they could compare notes after work.
 
-// -----
+# Disappearance of 1 suspect
 
-“*irasshaimase!*”
-
-The video screens scattered around the bar showed a cartoon sushi chef cheerfully welcoming them. Lupe and Araci sat at an unoccupied table and food immediately appeared. Four segments of a donut-shaped platform in the center of the table sequentially dropped out of sight, then raised up bearing drinks or food. If Lupe or Araci didn’t take an offering from one of the mini-elevators, it would periodically drop and return with something else, making a guess at what they would find tempting. The donut hole was for garbage. Drop something in - trash, drinks, plates, silverware, anything - and a quiet vacuum pulled it away.
-
-Araci retrieved a beer, Lupe an old-fashioned, and the empty squares replenished with a bowl of peanuts and a salad. A robotic chef at the side of the room whirred, mixed drinks, and chopped food, trying to outguess Araci and Lupe with the most profitable menu.
-
-“So. Whodunit?” asked Araci. “Was it the friendly folks at Hestia? Or did Dakota screw up?”
-
-Lupe squeezed the orange in her drink, bit off the fruit, then dropped the peel in the garbage chute. Whoosh and gone. “For the sake of thinking out of the box, what if Robin did it? He was suspiciously absent.”
-
-“He might have had the opportunity, but why would he do it? Seems like Dakota and Robin were on the same team, both for Abundancy and in a relationship.”
-
-“I’ll agree. But I don’t think anything Dakota did was enough to light things up. Seems like her circuit was fail-safe. If something didn’t seem right, it would just log the request.”
-
-Araci picked up the peanuts, then moved to put them back down. Too late; they were charged to his tab, and the platform dropped away, reappearing with a crudité platter. He surrendered and shelled a peanut. “That leaves us with Hestia. But I’m not convinced Farj is a killer.”
-
-//  >>>GETTING RID OF RANSOMWARE
-
-“He doesn’t have to be. What if a third party acted out of self-interest?” Lupe paused and stared at Araci. “Just a minute,” she said. She waved up a search window in her visor and concentrated. With a slight nod, she shared the results with Araci.
-
-Araci saw Lupe’s search. It started with Dakota’s resume. It jumped to her previous ransomware employer. A hop over to corporate relationships produced an organization tree. On the tree, the ransomware company was highlighted, as was the line leading up the tree to the parent, then down a branch - which led to Hestia.
-
-“Dakota was reverse-engineering intellectual property belonging to a sibling of her previous employer,” Lupe pointed out. “Whether she knew it, she was messing around with a relative of a ransomware company - a company with flexible ethics, and a company that knew where to find her. Farj might not have pulled the trigger, but he knew people that would.”
-
-“For that, I’m buying tonight’s drinks,” said Araci. “It fits. All that’s left to do is mountains of paperwork, but I think you’re on-target.”
-
-// GETTING RID OF RANSOMWARE<<<
-
-// -----
+# Raise the stakes
 
 At home, Araci was helping the robot vacuum when his visor announced a call. It was someone using a privacy puppet.
 
@@ -371,8 +337,6 @@ She opened up a window with a diagram of AI logic. None of it made sense to Arac
 “The oven filled with gas. But the AI didn’t know, so it lit the oven. WorldFood’s testing was not as careful as it should be. If they release these meals, they’re going to cause consumers to question the safety of the Hestia oven. That’s bad for profits.”
 
 “I’ll be looking forward to confirming your wild conspiracy theories,” said Araci.
-
-// -----
 
 Araci’s next call to Abundancy was easier; Robin answered immediately. 
 
@@ -436,7 +400,19 @@ Robin continued. “I’m speculating, but if Hestia decides it’s ok for a mea
 
 Araci understood. This wasn’t just about Dakota anymore.
 
-// -----
+# Development of subplot
+
+# Reveal hidden motives
+
+# Unsatisfying solution
+
+# Return to overlooked clue
+
+# Resolution of subplot
+
+# confront perpetrator
+
+# Resolution
 
 Farj, Broin, and Nilsson seated themselves in the same spots as the last time they visited the police media lab. Lupe was running a visual of the Hestia oven and a scrolling display of some active computer logic. Araci admired the setup. 
 
@@ -477,3 +453,62 @@ Araci connected with Abundancy and Robin, then looped in Lupe. “Robin, I just 
 Araci and Lupe ended the call. “I’m sorry to close the investigation,” said Araci “Dakota will have died in a freak accident - no murder charges. But hopefully this puts an end to anything like this.”
 
 “I don’t know,” said Lupe. “We humans are always looking for novel ways to kill ourselves.” She stood. “I’m hungry, let’s get lunch. I’ve heard of a new Iraqi restaurant.”
+
+# Bits I'll Need Later 
+
+
+
+ 
+
+// WORKING HERE
+
+
+
+// -----
+
+
+
+// -----
+
+
+
+// -----
+
+“*irasshaimase!*”
+
+The video screens scattered around the bar showed a cartoon sushi chef cheerfully welcoming them. Lupe and Araci sat at an unoccupied table and food immediately appeared. Four segments of a donut-shaped platform in the center of the table sequentially dropped out of sight, then raised up bearing drinks or food. If Lupe or Araci didn’t take an offering from one of the mini-elevators, it would periodically drop and return with something else, making a guess at what they would find tempting. The donut hole was for garbage. Drop something in - trash, drinks, plates, silverware, anything - and a quiet vacuum pulled it away.
+
+Araci retrieved a beer, Lupe an old-fashioned, and the empty squares replenished with a bowl of peanuts and a salad. A robotic chef at the side of the room whirred, mixed drinks, and chopped food, trying to outguess Araci and Lupe with the most profitable menu.
+
+“So. Whodunit?” asked Araci. “Was it the friendly folks at Hestia? Or did Dakota screw up?”
+
+Lupe squeezed the orange in her drink, bit off the fruit, then dropped the peel in the garbage chute. Whoosh and gone. “For the sake of thinking out of the box, what if Robin did it? He was suspiciously absent.”
+
+“He might have had the opportunity, but why would he do it? Seems like Dakota and Robin were on the same team, both for Abundancy and in a relationship.”
+
+“I’ll agree. But I don’t think anything Dakota did was enough to light things up. Seems like her circuit was fail-safe. If something didn’t seem right, it would just log the request.”
+
+Araci picked up the peanuts, then moved to put them back down. Too late; they were charged to his tab, and the platform dropped away, reappearing with a crudité platter. He surrendered and shelled a peanut. “That leaves us with Hestia. But I’m not convinced Farj is a killer.”
+
+//  >>>GETTING RID OF RANSOMWARE
+
+“He doesn’t have to be. What if a third party acted out of self-interest?” Lupe paused and stared at Araci. “Just a minute,” she said. She waved up a search window in her visor and concentrated. With a slight nod, she shared the results with Araci.
+
+Araci saw Lupe’s search. It started with Dakota’s resume. It jumped to her previous ransomware employer. A hop over to corporate relationships produced an organization tree. On the tree, the ransomware company was highlighted, as was the line leading up the tree to the parent, then down a branch - which led to Hestia.
+
+“Dakota was reverse-engineering intellectual property belonging to a sibling of her previous employer,” Lupe pointed out. “Whether she knew it, she was messing around with a relative of a ransomware company - a company with flexible ethics, and a company that knew where to find her. Farj might not have pulled the trigger, but he knew people that would.”
+
+“For that, I’m buying tonight’s drinks,” said Araci. “It fits. All that’s left to do is mountains of paperwork, but I think you’re on-target.”
+
+// GETTING RID OF RANSOMWARE<<<
+
+// -----
+
+
+
+// -----
+
+
+
+// -----
+
