@@ -16,7 +16,7 @@ Araci steps around Dakota and through the door to the other half of the condomin
 
 “You are such a buzzkill. I was hoping for excitement.” She grabs her bags and pushes through the crowd. “See you tonight.”
 
-Araci retrieves the scan in his visor and compares two overlaid views; the real, burned room, and the original as shown in the floorplan. An augmented reality outline fills in the missing parts of the destroyed oven. Originally a desktop unit, all that remains is the back plane and fuel tank. The paint on the tank is burned, but intact. Everything splays outwards from the oven cavity; the explosion had clearly occurred there.  
+Araci reviews the scan in his visor and compares two overlaid views; the real, burned room, and the original as shown in the floorplan. An augmented reality outline fills in the missing parts of the destroyed oven. Originally a desktop unit, all that remains is the back plane and fuel tank. The paint on the tank is burned, but intact. Everything splays outwards from the oven cavity; the explosion had clearly occurred there.  
 
 Araci retrieves the steak and potatoes meal from the corner of the main room. It's dented, but doesn't leak food goo into his hands. Araci wonders if it's broken. He has no way to test it, he can't afford one of the expensive Hestia ovens; He boils food packets like every other middle-class American. Araci turns the meal box over, shakes it, puts it back on the floor. Normally it produces a perfect dinner. This time, Hestia took an angry turn for the worse.
 
@@ -166,7 +166,7 @@ Many of the tags identified stock electronics. The largest circuit is identified
 
 “What about the bathroom?” asks Lupe. “Toothbrushes. Towels. Did you find the missing roommate?”
 
-“I haven’t had time to search Dakota’s social timeline in depth. How about now?” Araci taps his visor and speaks a command. “Display Dakota Williams social history.”
+“I haven’t had time to search Dakota’s timeline in depth. How about now?” Araci taps his visor and speaks a command. “Display Dakota Williams social history.”
 
 Snippets from Dakota’s life appear in Araci’s visor; he shares them with Lupe. In a video dated January 2059, a man named Robin Lopez first appears. The videos of Dakota and Robin become playful, then intimate, leading up to their move to the condo.
 
@@ -179,6 +179,33 @@ A quick search for Robin Lopez shows he also works for Abundancy. He is the auth
 # Introduce Private Life
 
 ## need to add a day passes…
+
+Dakota's family had already heard about her death. It's impossible for Araci to be the point of first contact when everything is public to everyone. But visiting the family is the most human part of his job - and the most difficult.
+
+Her father lives in a studio apartment. Kids play on the balcony overlooking the urban canyon formed by buildings and streets below. His knock is greeted by an older man, dressed in a light shirt and shorts. "You must be Detective Belo," he says. "I'm Archer Williams. Dakota's father. Please come in."
+
+"I'm sorry to tell you about your daughter's death," says Araci. "She died as the result of an explosion in her home."
+
+"Thank you for your concern. Can I offer you a drink?" Archer mixes powder in water. It fizzes for a moment, after which Araci briefly smells red wine. He accepts the glass and takes a sip to demonstrate his solidarity. 
+
+"To Dakota," says Archer. 
+
+"To your daughter," responds Araci. "We're investigating the explosion now, is there anything we can tell you - or that you would like us to know?"
+
+"Yes, there is." Archer puts down the glass and crosses his arms. "Dakota was a good engineer. Not brilliant, but good enough to accomplish what she needed to do. School wasn't easy for her, she had to work to finish that degree. But it taught her to be careful, persistent, and not to assume her first instinct was correct. That's why I'm surprised she got caught in an explosion. She didn't assume things would work the first, or second time. So she planned for failure."
+
+"I assume you know she was experimenting with the oven?" asks Araci.
+
+"I don't know all the details. She wouldn't tell me because she didn't want me to know what she was doing for Abundancy. That is a strange group. Actually, it is a strange boy. I'm certain Abundancy isn't anything more than a shadow organization run by Robin Lopez."
+
+"I'm looking for Robin. I believe he was living with Dakota. But he's disappeared."
+
+"That doesn't surprise me." Archer picks up the wine and swirls the glass. "Lopez does what he needs to get what he wants. Dakota had a good job she enjoyed. Lopez convinced her to work on his Abundancy project instead. Dakota was careful unless she was with Lopez. Then she moved fast and broke things. Always a bad plan."
+
+"Mr. Williams, if you hear from Robin Lopez, would you let me know?" asks Araci. "And if there is anything else you'd like to know from me, I'll be delighted to tell you."
+
+The sun was setting over the adjoining building when Araci left Archer Williams' apartment. With a bit more dust in the air, it might look like a wilderness landscape. 
+
 
 # Initial investigation and clues
 
@@ -278,6 +305,12 @@ Robin hesitates. “Not yet.” He looked away for a minute, sighed, and looked 
 
 # Raise the stakes
 
+# Development of subplot
+
+# Reveal hidden motives
+
+# Unsatisfying solution
+
 ## mystery caller (actually Nilsson from marketing)
 
 At home, Araci was helping the robot vacuum when his visor announced a call. It was someone using a privacy puppet.
@@ -318,19 +351,38 @@ The puppet puts the meal back to wherever it had appeared from. “It’s the AI
 
 She opens up a window with a diagram of AI logic. None of it makes sense to Araci, but it was something he could provide to the Police programming team.
 
-“The meal must have allowed the tank to discharge the entire volume of gas. But the AI didn’t know, so it sparked an igniter. If they release these meals, they’re going to cause consumers to question the safety of the Hestia oven. That’s bad for profits.”
+“The meal must have allowed the tank to discharge the entire volume of gas. But the AI didn’t know, so it sparked an igniter. If we release these meals without understanding the risks, consumers won't trust Hestia or any of their products, let alone the ovens.”
 
-## working here
+"Maybe Dakota wasn't wrong," says Araci. "She may have been doing something unexpected, but that's the nature of people. If your product doesn't like that, maybe you ought to check your design?"
 
-“I’ll be looking forward to confirming your wild conspiracy theories,” said Araci.
+"You and I agree on that," she says.
 
-# Development of subplot
+# Return to overlooked clue
 
-# Reveal hidden motives
+## sushi exposition
+
+“*irasshaimase!*”
+
+The video screens scattered around the bar show a cartoon sushi chef cheerfully welcoming Araci and Lupe. Four segments of a donut-shaped platform in the center of their table drop out of sight, one at a time, then rise up bearing drinks or food. 
+
+
+Araci retrieves a beer, Lupe an old-fashioned; The empty squares drop out of site, then return with a bowl of peanuts and a salad. A robotic chef at the side of the room whirs, mixing drinks and chopping food. It's programmed to present Araci and Lupe with the most profitable menu.
+
+“So. Whodunit?” asks Araci. “Robin thinks it was the friendly folks at Hestia. My mystery caller from Hestia thinks Dakota precipitated a fatal acccident.”
+
+Lupe squeezes the orange in her drink, bites off the fruit, then drops the peel in the garbage hole in the middle of the table. A slight vacuum pulls it away. “What if Robin did it? He was suspiciously absent.”
+
+“He might have had the opportunity, but why? Seems like Dakota and Robin were on the same team, both for Abundancy and in a relationship.”
+
+“I’ll agree. But I don’t think anything Dakota did was enough to light things up. Seems like her circuit was fail-safe. If something didn’t seem right, it would just log the request.”
+
+Araci picks up the peanuts, then moves to put them back down. Too late; they are charged to his tab and the platform drops away, reappearing with a crudité platter. He surrenders and shells a peanut. “That leaves us with Hestia. But I’m not convinced Farj is a killer.”
+
+## need to end this scene.
 
 ## araci and robin test crazy theories
 
-Araci’s next call to Abundancy was easier; Robin answered immediately. 
+Araci’s next call to Abundancy is easier; Robin answers immediately. 
 
 “I’m going to need some help testing some crazy theories,” said Araci. “You’ve got the knowledge to understand the internals of this problem and you might be interested in the corporate side. Would you care to meet with me?”
 
@@ -392,10 +444,6 @@ Robin continued. “I’m speculating, but if Hestia decides it’s ok for a mea
 
 Araci understood. This wasn’t just about Dakota anymore.
 
-# Unsatisfying solution
-
-# Return to overlooked clue
-
 # Resolution of subplot
 
 # confront perpetrator
@@ -448,25 +496,7 @@ Araci and Lupe ended the call. “I’m sorry to close the investigation,” sai
 
 # Bits I'll Need Later 
 
-## sushi exposition
 
-Araci looked at Lupe. There was a lot to untangle. Maybe they could compare notes after work.
-
-“*irasshaimase!*”
-
-The video screens scattered around the bar showed a cartoon sushi chef cheerfully welcoming them. Lupe and Araci sat at an unoccupied table and food immediately appeared. Four segments of a donut-shaped platform in the center of the table sequentially dropped out of sight, then raised up bearing drinks or food. If Lupe or Araci didn’t take an offering from one of the mini-elevators, it would periodically drop and return with something else, making a guess at what they would find tempting. The donut hole was for garbage. Drop something in - trash, drinks, plates, silverware, anything - and a quiet vacuum pulled it away.
-
-Araci retrieved a beer, Lupe an old-fashioned, and the empty squares replenished with a bowl of peanuts and a salad. A robotic chef at the side of the room whirred, mixed drinks, and chopped food, trying to outguess Araci and Lupe with the most profitable menu.
-
-“So. Whodunit?” asked Araci. “Was it the friendly folks at Hestia? Or did Dakota screw up?”
-
-Lupe squeezed the orange in her drink, bit off the fruit, then dropped the peel in the garbage chute. Whoosh and gone. “For the sake of thinking out of the box, what if Robin did it? He was suspiciously absent.”
-
-“He might have had the opportunity, but why would he do it? Seems like Dakota and Robin were on the same team, both for Abundancy and in a relationship.”
-
-“I’ll agree. But I don’t think anything Dakota did was enough to light things up. Seems like her circuit was fail-safe. If something didn’t seem right, it would just log the request.”
-
-Araci picked up the peanuts, then moved to put them back down. Too late; they were charged to his tab, and the platform dropped away, reappearing with a crudité platter. He surrendered and shelled a peanut. “That leaves us with Hestia. But I’m not convinced Farj is a killer.”
 
 ##  Getting Rid of Ransomware
 
@@ -478,3 +508,8 @@ Araci saw Lupe’s search. It started with Dakota’s resume. It jumped to her p
 
 “For that, I’m buying tonight’s drinks,” said Araci. “It fits. All that’s left to do is mountains of paperwork, but I think you’re on-target.”
 
+-----
+-----
+
+If Lupe or Araci didn’t take an offering from one of the mini-elevators, it would periodically drop and return with something else, making a guess at what they would find tempting. 
+-----
