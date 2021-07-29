@@ -365,7 +365,6 @@ She opens up a window with a diagram of AI logic. None of it makes sense to Arac
 
 The video screens scattered around the bar show a cartoon sushi chef cheerfully welcoming Araci and Lupe. Four segments of a donut-shaped platform in the center of their table drop out of sight, one at a time, then rise up bearing drinks or food. 
 
-
 Araci retrieves a beer, Lupe an old-fashioned; The empty squares drop out of site, then return with a bowl of peanuts and a salad. A robotic chef at the side of the room whirs, mixing drinks and chopping food. It's programmed to present Araci and Lupe with the most profitable menu.
 
 “So. Whodunit?” asks Araci. “Robin thinks it was the friendly folks at Hestia. My mystery caller from Hestia thinks Dakota precipitated a fatal acccident.”
@@ -376,9 +375,10 @@ Lupe squeezes the orange in her drink, bites off the fruit, then drops the peel 
 
 “I’ll agree. But I don’t think anything Dakota did was enough to light things up. Seems like her circuit was fail-safe. If something didn’t seem right, it would just log the request.”
 
-Araci picks up the peanuts, then moves to put them back down. Too late; they are charged to his tab and the platform drops away, reappearing with a crudité platter. He surrenders and shells a peanut. “That leaves us with Hestia. But I’m not convinced Farj is a killer.”
+Araci picks up the peanuts, then moves to put them back down. Too late; they are charged to his tab and the platform drops away, reappearing with a crudité platter. He surrenders and shells a peanut. “That leaves us with Hestia; or an unfortunate accident. But I’m not convinced Farj is a killer.”
 
-## need to end this scene.
+"Maybe you need to focus on Robin," Lupe smiled with all her teeth and eyes. "Or maybe you should have another beer and tell me more about your mysterious past life."
+
 
 ## araci and robin test crazy theories
 
