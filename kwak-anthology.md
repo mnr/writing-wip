@@ -182,7 +182,7 @@ Dakota’s father lives in a studio apartment. Neighbor kids play on the balcony
 
 "I assume you know she was experimenting with the oven?" asks Araci.
 
-"I don't know all the details. She wouldn't tell me because she didn't want me to know what she was doing for Abundancy. That is a strange group. Actually, it is a strange boy. I'm certain Abundancy isn't anything more than Robin Lopez."
+"I don't know all the details. She didn't want me to know what she was doing for Abundancy. That is a strange group. Actually, it is a strange boy. I'm certain Abundancy isn't anything more than Robin Lopez."
 
 "I'm looking for Robin. I believe he was living with Dakota. But he's disappeared."
 
@@ -414,47 +414,49 @@ Robin resets the “big red button” then waves up some log files, sharing them
 
 Robin continues. “I’m speculating, but if Hestia decides it’s ok for a meal to self-destruct, they might also decide it’s ok for an oven to self-destruct. This oven already has low-grade AI for trouble-shooting and self-maintenance. It wouldn’t be difficult to put in a higher-level AI to detect a non-approved meal kit. You could even have two AIs - one in a rogue meal and one in the oven - and they’d be kick-boxing with each other. God help the poor schmuck standing nearby.”
 
-Araci understood. This wasn’t just about Dakota anymore. Something really had to be done.
+Araci understood. This wasn’t just about Dakota anymore. 
 
 -----
 
-Araci invites the Hestia team for a second visit and Farj, Broin, and Nilsson seat themselves in the same spots as the last time they visited the police media lab. Lupe is running a simulation of the Hestia oven with Dakota’s circuit.
+Araci meets the three Hestia representatives at a police target range outside of Portland. The field is surrounded by trees - which is typical for any open field in Oregon. The center of the field is surrounded by earth berms. At the shooting platform three chairs face a folding table. The folding table has a drape covering a cubical object.
 
-He begins. “Thanks for joining us. As I mentioned, our research identified some behaviors we don’t understand. Let me show you a demonstration, then I’ve got a few questions.”
+"Thanks for joining me again," Araci begins. "Please take a seat and I'll show you a brief demonstration that might explain some of my confusion."
 
-Araci motions to Lupe, who produces the mystery food box and places it on the table. The oven graphic shows a connection with the meal and behind the glass wall, the servers absolutely blaze with activity. Lupe pauses the code.
+The folding chairs are rough, but someone had the courtesy to put a water bottle on each. Lupe and another officer stand off to the side, dressed in protective gear. Araci stands in front of the chairs with his back to the downrange table.
+
+"Lupe and I got here a bit before you to set this up." Araci removes the drape to reveal a Hestia oven and a meal box. "I'm going to ask our officers to run this table downrange and connect power to this oven."
+
+"We know how Hestia ovens work," says Broin. "Couldn't we have just sent you a promotional video?"
+
+"This meal behaves a bit differently," says Araci. Downrange, Lupe connects power to the oven and pushes in the meal, then both officers hustle back to the folding chairs.
+
+"Let's give this a minute," says Araci. He turns to watch the table and for a minute nothing happens. Farj begins to object but is interrupted by an explosion. The table, oven, and meal disappear in a cloud of smoke, bits of all three returning earthward in a graceful arc.
 
 “The last time we met, I knew little about what Dakota was doing. I didn’t realize she had an experimental Hestia meal box. But I suspect you realized that when you saw the serial number and made your abrupt exit.”
 
 Farj looks at Nilsson and Broin; Broin stares, Nilsson nervously rubs his head. They obviously discussed this between themselves already.
 
-“This meal,” continues Araci, “is like the one Dakota placed in her modified Hestia oven. We’ve learned it contains artificial intelligence. Lupe, please continue the simulation.”
-
-Lupe releases the pause on the code and several indicators immediately jump, then display “Out Of Range” or “Process Termination” errors. The simulation stops, and the servers quiet down.
-
-“You’ll excuse me for this underwhelming demonstration,” says Araci. “It would have been more impressive to run this on an actual Hestia oven, but we don’t have explosion-proof rooms in this station. As such, we’ve just seen a simulation of what happens when one of these unknown meals talks with a Hestia Oven in a diagnostic mode. The meal instructs the oven to stop attempts at reverse-engineering. If the oven doesn’t stop, the meal fights back. We believe this happened to Dakota Williams.”
+“This meal,” Araci gestures downrange, “is like the one Dakota placed in her modified Hestia oven. We’ve learned it contains artificial intelligence. The explosion is what happens when one of these unknown meals talks with a Hestia Oven in a diagnostic mode. The meal instructs the oven to stop attempts at reverse-engineering. If the oven doesn’t stop, the meal fights back. We believe this happened to Dakota Williams.”
 
 “Hestia would never instruct an AI to react like this,” interjects Ms. Broin. “It’s bad corporate relations and speaking for the Hestia legal department, it’s not something we would advise.”
 
 “See, that’s the thing,” replies Araci. “You don’t tell an AI how to behave. AI chooses from options. You just provide desired endpoints. Here, a *manufacturer* - and by manufacturer, I mean *you* - only needs to instruct the AI of the problem, then sit back and let it sort out the best resolution. If you don’t restrict it from a specific method, it remains a viable choice. More directly, if you don’t tell it explosions are *not* an acceptable solution, then explosions remain an acceptable solution.”
 
-Farj was tapping his foot. Araci read it as evidence he was making his point.
+Farj is tapping his foot. 
 
-“Defensive AI in a meal is one thing,” Araci said, “defensive AI in an oven is another.” Araci addressed his statements directly to Farj. “If an oven were equipped with AI that obstructed competitive meals, and that oven was involved in suspicious events, well, that would be *problematic*. Do you see what I’m saying?”
+“Defensive AI in a meal is one thing,” Araci says. “Now let's talk about defensive AI in an oven.” Araci addressed his statements directly to Farj. “If an oven were equipped with AI that obstructed competitive meals, and that oven was involved in suspicious events, well, that would be *problematic*. Do you see what I’m saying?”
 
-Farj looked at Broin, who shook her head *No!* The unspoken communication was clear; Hestia had already been engaged in exactly this type of project. Now they were on notice. Nilsson was fidgeting; Araci could only imagine he was planning how to address this at a shareholder meeting.
+Farj looks at Broin, who shakes her head *No!* The unspoken communication is clear; Hestia has already been engaged in exactly this type of project. Nilsson rubs his head with vigor; Araci could only imagine he was planning how to address this at a shareholder meeting.
 
-“I think we understand your point,” said Farj. “We are limited in our ability to discuss this at length. I assume we’ll be in touch if you have other concerns.”
+“I think we understand your point,” says Farj. “We are limited in our ability to discuss this at length. I assume we’ll be in touch if you have other concerns.”
 
-Araci and Lupe shook hands with their departing guests. When the room was empty, Araci spoke to Lupe; “Do you want to listen to this next call?”
+"Actually, we will have plenty of time to discuss this. I've brought along a warrant for your arrest. Something about conspiracy to defraud, but I'm sure Ms. Broin will be interested in details. Ms. Broin, I'm glad you're here, I'm sure Mr. Capcin will appreciate your assistance."
 
-“Wouldn’t miss it for the world,” Lupe said. 
+Lupe escorts Farj to a waiting police vehicle, followed by Broin. Nilsson makes no effort to move, but stares downrange.
 
-Araci connects with Abundancy and Robin, then loops in Lupe. “Robin, I just had an interesting conversation with some mutual friends about ovens and meals and AI. As a government entity, it would be irresponsible of me to publish unfounded opinions that might lead to damaging rumors. But if *someone* were to file a freedom of information request regarding police investigation of the death of Dakota Williams, they might learn something they would want to share. It could head off some unfortunate product enhancements to meal kits and ovens.”
+"I appreciate what you've done to make this possible," says Araci. "I hope I've lived up to your expectations. And I share your desire for Hestia to do the right thing."
 
-“Thanks,” said Robin. “It’s a costly lesson, but I think Dakota would have approved. I’ll follow up on your suggestion.”
+“It’s a costly lesson," says Nilsson. "And I'm struggling with Dakota's death. Maybe Abundancy needs help. If I can prevent Hestia from doing this, maybe I can prevent other companies from following suite.”
 
-Araci and Lupe end the call. “I’m sorry to close the investigation,” says Araci “Dakota will have died in a freak accident - no murder charges. But hopefully this puts an end to anything like this.”
-
-“I don’t know,” says Lupe. “We humans are always looking for novel ways to kill ourselves.” She stands. “I’m hungry, let’s get lunch. I’ve heard of a new Iraqi restaurant.”
+“I don’t know,” says Araci. “We humans are always looking for novel ways to kill ourselves.” He stands. “I’m hungry, let’s get lunch. I’ve heard of a new Iraqi restaurant.”
 
