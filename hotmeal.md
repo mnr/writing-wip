@@ -1,3 +1,5 @@
+# Hot Meal
+
 Detective Araci Belo admires the view of post-earthquake Portland from this small condominium. The west hills provide a lush green background to the dense housing towers, interconnected by skyways and hypertube stations. 
 
 He considers the shattered condo he stands in. The explosion had propelled bits of the oven from the back of the condo, spraying shrapnel towards the window. A sweet, meaty smell of burnt flesh emanates from Dakota Williams, the recently deceased occupant of the condominium. She lies in the middle of the room; her severed right arm near the earthquake pillar. Her left forearm leans against the wall. The explosion burned through her clothing, face, and skin.
