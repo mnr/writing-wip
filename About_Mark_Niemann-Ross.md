@@ -1,30 +1,12 @@
 # **About Mark Niemann-Ross**
 
-Mark Niemann-Ross is an author, educator, and chicken wrangler living in Portland, Oregon.
+Mark Niemann-Ross is an author, educator, and chicken wrangler living in Portland, Oregon. He teaches “R” - a programming language, and “Raspberry Pi” - a small computer used for the Internet of Things. Both topics influence his writing, which fits solidly in the genre of “Hard Science Fiction.”
 
-## *Who is Mark Niemann-Ross?*
+Mark co-authored his first story in 2005 with Richard A. Lovett in Analog, Science Fiction and Fact. Since then, he has published additional stories in Analog and Stupefying Stories, has self-published two collections, and collaborated on a children’s book.
 
-I’m friends with technology. But I’m not blindly in love with it. It has to be questioned. It has to be explained. Sometimes it’s just dead wrong. It needs firm guidance.
+Most recently, Mark published *Stupid Machine*, a science fiction murder mystery solved by a refrigerator.
 
-People are more important than technology. People don’t want widgets, they want elegance and relevance.
-
-I point to the future, explain the present, and learn from the past.
-
-## I write
-
-I grew up in a family of writers. My mother writes, [my sister](https://www.linkedin.com/in/christinesang/) writes and I’ve always been friends with the printed word.
-
-Mostly, I write [science fiction](http://niemannross.com/books-2/). But I’ve also written about [technology in the workplace](https://www.linkedin.com/in/markniemannross/detail/recent-activity/posts/), jazz in Oregon and [dogs in the wild west](http://niemannross.com/books-2/patches-catches-the-sargo-county-cattle-rustler/).
-
-About that [science fiction](http://niemannross.com/books-2/). Sometimes it’s about spaceships, sometimes it’s about products. The goal is the same; explain where we want to be, point out hazards, celebrate arrival.
-
-## I teach
-
-You’ll find [my courses](http://niemannross.com/courses/) on R and Raspberry Pi at [LinkedIn Learning](http://niemannross.com/link/mnratlil). I have a degree in Industrial Education from the [University of Wisconsin-Stout](http://www.uwstout.edu/).
-
-## And…
-
-I’m engaging. Informed. Opinionated. Respectful. I’m an educator, manager, evangelist, marketer, technologist, futurist, coder.
+Mark lives in Portland, Oregon. He does not have cats because his chickens would object.
 
 ## **Where to find him...**
 
