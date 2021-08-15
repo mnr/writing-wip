@@ -18,7 +18,7 @@ Araci steps around Dakota and through the door to the other half of the condomin
 
 Araci reviews the scan in his visor and compares two overlaid views; the real, burned room, and the original as shown in the floorplan. An augmented reality outline fills in the missing parts of the destroyed oven. It was a countertop unit and all that remains is the back panel and fuel tank. Everything splays outwards from where the oven used to be; the explosion had clearly occurred there.  
 
-Araci retrieves the steak and potatoes meal from the corner of the main room and wonders if it's broken. He can't afford one of the expensive Hestia ovens; instead he boils food packets like every other middle-class American. Araci turns the meal box over, shakes it, puts it down. Normally, Hestia food boxes and ovens produce a perfect dinner. This time, Hestia took an angry turn for the worse.
+Araci retrieves the steak and potatoes meal from the corner of the main room and wonders if it’s broken. He can’t afford one of the expensive Hestia ovens; instead he boils food packets like every other middle-class American. Araci turns the meal box over, shakes it, puts it down. Normally, Hestia food boxes and ovens produce a perfect dinner. This time, Hestia took an angry turn for the worse.
 
 Lupe’s scan allows for an animated reconstruction of the explosion, tracing the path of the scattered parts back to their original assembly. Araci plays it forward and reverse three times. What happened is clear. Dakota had been standing in front of the oven when it exploded and distributed a high-velocity cloud of sharp plastic, metal, and glass through her and into the room.
 
@@ -28,35 +28,35 @@ As for this condo, there was nothing more. He ships the report to the Portland P
 
 Araci Belo loves being a police detective. He looks young for a middle-age guy; Lupe finds him attractive. She appreciates his stability and satisfaction with his life; both things she is in search of for herself. She stands near the kitchen counter with a glass of wine, watching him fuss with the presentation.
 
-Araci assembles Chicken Piccata, one of the more complex meals available in pouches. He enjoys cooking, the reveal of ingredients from each foil bag, the simple preparation, the assembly. He isn't dedicated enough to work from raw foods, pre-measured packets is his limit. Still - the *smell* of onions when they emerge from the saute packet. Squeezing lemon slices on the chicken. Sprinkling capers, salt, and pepper just before plating. 
+Araci assembles Chicken Piccata, one of the more complex meals available in pouches. He enjoys cooking, the reveal of ingredients from each foil bag, the simple preparation, the assembly. He isn’t dedicated enough to work from raw foods, pre-measured packets is his limit. Still - the *smell* of onions when they emerge from the saute packet. Squeezing lemon slices on the chicken. Sprinkling capers, salt, and pepper just before plating. 
 
 Building a meal from scratch would be even better, but grocery stores in his neighborhood removed their coolers and freezers long ago. The logistics of a foil packet are much simpler than transporting fresh vegetables or meat.
 
 “You should buy one of those ovens,” observes Lupe. “You like cooking. You could make more complex meals.”
 
-“I considered it, but after today, I’m not so sure.” Araci moves the two plates to the table, refills both wine glasses, and invites Lupe. "I've seen the advertisements. Push the meal box into the oven and stand back. Where's the romance?"
+“I considered it, but after today, I’m not so sure.” Araci moves the two plates to the table, refills both wine glasses, and invites Lupe. “I’ve seen the advertisements. Push the meal box into the oven and stand back. Where’s the romance?”
 
-"Maybe not romance, but how would you print a steak without one?"
+“Maybe not romance, but how would you print a steak without one?”
 
-"Print steak how?" asks Araci? "You can't do that at home."
+“Print steak how?” asks Araci? “You can’t do that at home.”
 
-"Right. Not with a packet boiler," says Lupe. This isn't her first glass of wine and she's feeling chatty. "That's the big deal with a Hestia oven. When you insert a meal into the oven, it engages with electricity, a data port and a gas port. The gas flows into chambers in the meal box. The meal box controls the addition of ingredients and supervises printing any meat. The oven connects the meal to the outside world. The entire setup is patented."
+“Right. Not with a packet boiler,” says Lupe. This isn’t her first glass of wine and she’s feeling chatty. “That’s the big deal with a Hestia oven. When you insert a meal into the oven, it engages with electricity, a data port and a gas port. The gas flows into chambers in the meal box. The meal box controls the addition of ingredients and supervises printing any meat. The oven connects the meal to the outside world. The entire setup is patented.”
 
-"So there's a meat printer in the meal box?"
+“So there’s a meat printer in the meal box?”
 
-"I know! It doesn't seem like there's enough room. But the meal opens a valve, meat paste pours out, the oven cooks it, another layer of meat paste, some flavors, more cook. Pretty soon you have a New York steak. Can't do that with foil packets."
+“I know! It doesn’t seem like there’s enough room. But the meal opens a valve, meat paste pours out, the oven cooks it, another layer of meat paste, some flavors, more cook. Pretty soon you have a New York steak. Can’t do that with foil packets.”
 
-"I did not know," admits Araci. He looks suspiciously at the chicken on his fork. "But here's a question; why gas? Why not just heat with electricity?"
+“I did not know,” admits Araci. He looks suspiciously at the chicken on his fork. “But here’s a question; why gas? Why not just heat with electricity?”
 
-"Good question," replies Lupe. She's talkative. "Hestia can't charge for electricity, but they can sell you overpriced gas canisters. You can't refill a Hestia tank; you have to buy a new one. Like ink for printers; Buy it from the manufacturer or they won't work."
+“Good question,” replies Lupe. She’s talkative. “Hestia can’t charge for electricity, but they can sell you overpriced gas canisters. You can’t refill a Hestia tank; you have to buy a new one. Like ink for printers; Buy it from the manufacturer or they won’t work.”
 
-"I get it," says Araci. He accepts the chicken for what it is and takes another bite. "Are you up for ice cream? I bought a tube of cherry chunk."
+“I get it,” says Araci. He accepts the chicken for what it is and takes another bite. “Are you up for ice cream? I bought a tube of cherry chunk.”
 
 // ---
 
 Araci’s day starts with a call to Hestia, the center of suspicion. His call is met with an artificially intelligent receptionist, projected through his visor as though sitting across from him at the desk. 
 
-“Hello Araci Belo,” says the receptionist. It wasn't surprising she knew his name, he was easy to identify from his online presence. “I’m here to help.” The AI exhibits artificial signs of life; her eyes blink, she breathes; but waits, saying nothing more.
+“Hello Araci Belo,” says the receptionist. It wasn’t surprising she knew his name, he was easy to identify from his online presence. “I’m here to help.” The AI exhibits artificial signs of life; her eyes blink, she breathes; but waits, saying nothing more.
 
 “I’d like to speak to the Hestia Product Manager,” replies Araci. 
 
@@ -66,9 +66,9 @@ The receptionist doesn’t hesitate. “I’m sorry, but our product managers ar
 
 “One minute please.” the receptionist pauses, then fades to black. In their place appears a dark-haired, middle-age man. He looks up and adjusts something on his desk.
 
-“Hello Mr. Belo. My name is Farj Capcin. I'm the product manager for Hestia ovens. I’m told you have some questions.” He waves his hand from off-screen to the center of his view, adding two more individuals. “This is Ms. Broin, our attorney, and Mr. Nilsson, who manages media relations. Since you are a police representative, we are recording this call. Do you object?”
+“Hello Mr. Belo. My name is Farj Capcin. I’m the product manager for Hestia ovens. I’m told you have some questions.” He waves his hand from off-screen to the center of his view, adding two more individuals. “This is Ms. Broin, our attorney, and Mr. Nilsson, who manages media relations. Since you are a police representative, we are recording this call. Do you object?”
 
-"Feel free." The prickly reception did not surprise Araci. He’d used his detective status to get the receptionist to act, but knew it would put everyone on guard. 
+“Feel free.” The prickly reception did not surprise Araci. He’d used his detective status to get the receptionist to act, but knew it would put everyone on guard. 
 
 “I’m investigating the death of Dakota Williams...” 
 
@@ -82,9 +82,9 @@ Abundancy is news to Araci. Pretending to make a note, he opens a search.
 
 Araci quickly learns Abundancy is an activist group; part Greenpeace, part Free Software Foundation, part Earth First, part Right to Repair. They accuse Hestia of trying to patent food, similar to how DuPont and Monsanto hold patents on genetically-modified corn, soybean, and alfalfa. Abundancy argues Hesti will eventually claim rights to any method of combining food to make a meal. 
 
-Abundancy has protested. They haven’t gone as far as breaking windows at Hestia factories, but they have disrupted shareholder meetings and sent letters just shy of threatening bodily harm. Abundancy lists Dakota as a volunteer, but the search doesn't describe her responsibilities.
+Abundancy has protested. They haven’t gone as far as breaking windows at Hestia factories, but they have disrupted shareholder meetings and sent letters just shy of threatening bodily harm. Abundancy lists Dakota as a volunteer, but the search doesn’t describe her responsibilities.
 
-*Wasn't it strange for Dakota to own a device from the Great Satan Hestia?* thinks Araci.
+*Wasn’t it strange for Dakota to own a device from the Great Satan Hestia?* thinks Araci.
 
 He returns to the conversation. “I’m more interested in an explosion of one of your devices.”
 
@@ -102,15 +102,15 @@ Araci ends the call. Hestia won’t provide any more information, so it makes li
 
 Onwards to his next call.
 
-"Hello, I'm Araci Belo," he says. The AI fielding calls for Abundancy isn't impressed; It might even be broken. It is a virtual puppet projected into his room, only showing a gray outline of a humanoid. There is no face and the normal signs of life are missing. 
+“Hello, I’m Araci Belo,” he says. The AI fielding calls for Abundancy isn’t impressed; It might even be broken. It is a virtual puppet projected into his room, only showing a gray outline of a humanoid. There is no face and the normal signs of life are missing. 
 
-"I'm investigating the death of Dakota Williams," Araci says. 
+“I’m investigating the death of Dakota Williams,” Araci says. 
 
 Nothing.
 
-"I can get a search warrant if necessary," tries Araci. "I can have you audited and put your non-profit status on hold."
+“I can get a search warrant if necessary,” tries Araci. “I can have you audited and put your non-profit status on hold.”
 
-The gray humanoid abruptly gains nuances of life. Its head tracks Araci's movement; its left hand fidgets. The right moves an unseen control. It speaks.
+The gray humanoid abruptly gains nuances of life. Its head tracks Araci’s movement; its left hand fidgets. The right moves an unseen control. It speaks.
 
 “Detective Araci, we’re not stupid. Please don’t threaten us with legal action you can’t follow up on,” says whoever is behind the puppet. “However, since you’re investigating what happened to Dakota, I want to make certain you’re aware of all the facts.”
 
@@ -118,9 +118,9 @@ The gray humanoid abruptly gains nuances of life. Its head tracks Araci's moveme
 
 “I’m sure they did. Hestia is trying to restrict access to food. They built their oven to work with their food - and *only* their food. They control the seed, they control the harvest, they control the preparation. It’s proprietary from field to consumer, locking out anyone who wants to do it themselves. That’s wrong and Abundancy is working to prevent it.”
 
-"But Hestia only controls food boxes and ovens," says Araci. "They aren't stopping me from using a boiler and a pouch."
+“But Hestia only controls food boxes and ovens,” says Araci. “They aren’t stopping me from using a boiler and a pouch.”
 
-"Not yet. But boil pouches made fresh food obsolete. Hestia will eventually try to make them obsolete. Then yes, they will stop you from cooking with boiler and pouch."
+“Not yet. But boil pouches made fresh food obsolete. Hestia will eventually try to make them obsolete. Then yes, they will stop you from cooking with boiler and pouch.”
 
 “That’s interesting, but I’m mainly concerned about Dakota. What was she working on?”
 
@@ -134,7 +134,7 @@ Araci’s visor announces a request from Lupe, which he gladly accepts. “Araci
 
 // ---
 
-The police media lab isn't much more than a room with desks and monitors. The striking feature is the glass wall with a view of the servers. Privacy laws require this type of data be under actual lock and key, so Araci has to visit in person.
+The police media lab isn’t much more than a room with desks and monitors. The striking feature is the glass wall with a view of the servers. Privacy laws require this type of data be under actual lock and key, so Araci has to visit in person.
 
 “We had the render machines spend some quality time with the scans and found this interesting difference.” Lupe displays the condominium scan Araci viewed earlier but in much higher resolution.
 
@@ -142,7 +142,7 @@ The police media lab isn't much more than a room with desks and monitors. The st
 
 Lupe waves the condo into view, then spreads her hands to enlarge the space where the oven used to be. Spinning her fingers counter-clockwise re-assembles it to its assumed state before the explosion. To the side were two new objects; a circuit board and a meal box.
 
-“Okay, look at this.” Lupe points at the back of the oven. "The scan couldn't find any pieces of the oven circuit board, so it left that space empty. But look at this circuit to the side - the scan found parts of it all over the room. It was near - or inside - the oven when it exploded. This isn’t the standard Hestia circuit board. Someone installed a home-built version.”
+“Okay, look at this.” Lupe points at the back of the oven. “The scan couldn’t find any pieces of the oven circuit board, so it left that space empty. But look at this circuit to the side - the scan found parts of it all over the room. It was near - or inside - the oven when it exploded. This isn’t the standard Hestia circuit board. Someone installed a home-built version.”
 
 “Can you move to the desk?” asks Araci.
 
@@ -150,7 +150,7 @@ The view steps back from the oven, turns, and glides to the bedroom. When Araci 
 
 Many of the tags identify stock electronics. The largest circuit is a Hestia board belonging to the oven in the other room. Lupe points it out. “Dakota took this out of the Hestia and installed a home-built version.”
 
-“So Dakota wasn't using the oven for food. She was doing research. That’s one mystery partially solved,” says Araci. “You mentioned you had two interesting things to show me?” 
+“So Dakota wasn’t using the oven for food. She was doing research. That’s one mystery partially solved,” says Araci. “You mentioned you had two interesting things to show me?” 
 
 “Yes.” She moves the view to the meal box. It’s in bad shape, with large jagged gaps. 
 
@@ -172,33 +172,33 @@ A quick search for Robin Lopez shows he also works for Abundancy. He is the auth
 
 // ---
 
-Araci’s last task of the day is to notify next of kin. Of course, Dakota's family has already heard about her death. It's impossible for Araci to be the point of first contact when everything is public to everyone. But visiting the family is the most human part of his job - and the most difficult.
+Araci’s last task of the day is to notify next of kin. Of course, Dakota’s family has already heard about her death. It’s impossible for Araci to be the point of first contact when everything is public to everyone. But visiting the family is the most human part of his job - and the most difficult.
 
-Dakota’s father lives in a studio apartment. Neighbor kids play on the balcony overlooking the urban canyon formed by buildings and streets below. Araci knocks and is greeted by an older man, dressed in a light shirt and shorts. "You must be Detective Belo," he says. "I'm Archer Williams. Dakota's father. Please come in."
+Dakota’s father lives in a studio apartment. Neighbor kids play on the balcony overlooking the urban canyon formed by buildings and streets below. Araci knocks and is greeted by an older man, dressed in a light shirt and shorts. “You must be Detective Belo,” he says. “I’m Archer Williams. Dakota’s father. Please come in.”
 
-"I'm sorry to tell you about your daughter's death," replies Araci. "She died from an explosion in her home."
+“I’m sorry to tell you about your daughter’s death,” replies Araci. “She died from an explosion in her home.”
 
-"I know, and I thank you for your concern. Can I offer you a drink?" Archer mixes powder in water. It fizzes and Araci smells red wine. He accepts the glass and takes a sip to demonstrate his solidarity with Archer. 
+“I know, and I thank you for your concern. Can I offer you a drink?” Archer mixes powder in water. It fizzes and Araci smells red wine. He accepts the glass and takes a sip to demonstrate his solidarity with Archer. 
 
-"To Dakota," says Archer. 
+“To Dakota,” says Archer. 
 
-"To your daughter," responds Araci. "Again, I’m sorry.” A moment of respectful silence passes before he speaks again.
+“To your daughter,” responds Araci. “Again, I’m sorry.” A moment of respectful silence passes before he speaks again.
 
-“We're investigating the explosion now. Is there anything we can tell you - or that you would like us to know?"
+“We’re investigating the explosion now. Is there anything we can tell you - or that you would like us to know?”
 
-"Yes, there is." Archer puts down the glass and crosses his arms. "Dakota was a good engineer. Not brilliant, but decent enough to accomplish what she needed to do. School wasn't easy for her. She had to struggle to finish that degree. But it taught her to be careful, persistent, and not to assume her initial instinct was correct. Archer chokes up, wipes his eyes. He takes a breath and continues,"That's why I'm surprised she got caught in an explosion. She didn't expect things would run the first or second time. So she planned for failure."
+“Yes, there is.” Archer puts down the glass and crosses his arms. “Dakota was a good engineer. Not brilliant, but decent enough to accomplish what she needed to do. School wasn’t easy for her. She had to struggle to finish that degree. But it taught her to be careful, persistent, and not to assume her initial instinct was correct. Archer chokes up, wipes his eyes. He takes a breath and continues,”That’s why I’m surprised she got caught in an explosion. She didn’t expect things would run the first or second time. So she planned for failure."
 
-"I assume you know she was experimenting with the oven?" asks Araci.
+“I assume you know she was experimenting with the oven?” asks Araci.
 
-"I don't know all the details. She didn't want me to know what she was doing for Abundancy. That is a strange group. Actually, it is a strange boy. I'm certain Abundancy isn't anything more than Robin Lopez."
+“I don’t know all the details. She didn’t want me to know what she was doing for Abundancy. That is a strange group. Actually, it is a strange boy. I’m certain Abundancy isn’t anything more than Robin Lopez.”
 
-"I'm looking for Robin. I believe he was living with Dakota. But he's disappeared."
+“I’m looking for Robin. I believe he was living with Dakota. But he’s disappeared.”
 
-"That doesn't surprise me." Archer picks up the wine and swirls the glass. "Lopez does what he needs to get what he wants. Dakota had a a stable job, and she enjoyed it. Lopez convinced her to work on his Abundancy project instead. Dakota was careful, unless she was with Lopez. Then she moved fast and broke things. Lopez is impulsive, reckless, and coercive. None of those are good qualities."
+“That doesn’t surprise me.” Archer picks up the wine and swirls the glass. “Lopez does what he needs to get what he wants. Dakota had a a stable job, and she enjoyed it. Lopez convinced her to work on his Abundancy project instead. Dakota was careful, unless she was with Lopez. Then she moved fast and broke things. Lopez is impulsive, reckless, and coercive. None of those are good qualities.”
 
-"Mr. Williams, if you hear from Robin Lopez, would you tell me?" asks Araci. "And if there is anything else you'd like to learn from me, I'm at your service."
+“Mr. Williams, if you hear from Robin Lopez, would you tell me?” asks Araci. “And if there is anything else you’d like to learn from me, I’m at your service.”
 
-The sun is setting over the adjoining building when Araci left Archer Williams' apartment. With a trace more dust in the air, it might look like a wilderness landscape. 
+The sun is setting over the adjoining building when Araci left Archer Williams’ apartment. With a trace more dust in the air, it might look like a wilderness landscape. 
 
 // ---
 
@@ -292,7 +292,7 @@ Robin hesitates. “Not yet.” He looks away for a minute, sighs, and looks bac
 
 // ---
 
-At home, Araci is moving chairs for the robot vacuum when his visor announces a call. It's someone using a privacy puppet.
+At home, Araci is moving chairs for the robot vacuum when his visor announces a call. It’s someone using a privacy puppet.
 
 “Hello Robin,” answers Araci. “Is there something new you’d like to discuss?”
 
@@ -328,11 +328,11 @@ Araci sits down. The woman puppet takes a step closer and also sits, a chair mat
 
 The puppet puts the meal back wherever it had appeared from. “It’s the AI. We can’t test it because we don’t have Dakota’s circuit and the telemetry from the meal is confused. We’re certain the AI tried to control things. The oven didn’t respond predictably, so the AI improvised. Somehow the AI decided it needed to open the gas valve. But the valve was already open. Dakota’s circuit gave the AI inaccurate information.”
 
-“The meal allowed the tank to discharge the entire volume of gas. But the AI made a mistake and it sparked an igniter. If we release these meals without understanding the risks, consumers won't trust Hestia or any of their products, let alone the ovens.”
+“The meal allowed the tank to discharge the entire volume of gas. But the AI made a mistake and it sparked an igniter. If we release these meals without understanding the risks, consumers won’t trust Hestia or any of their products, let alone the ovens.”
 
-"Maybe Dakota wasn't wrong," says Araci. "She may have been doing something unexpected, but that's the nature of people. If your product doesn't like that, maybe you ought to check your design?"
+“Maybe Dakota wasn’t wrong,” says Araci. “She may have been doing something unexpected, but that’s the nature of people. If your product doesn’t like that, maybe you ought to check your design?”
 
-"You and I agree on that," she says.
+“You and I agree on that,” she says.
 
 // ---
 
@@ -340,7 +340,7 @@ The puppet puts the meal back wherever it had appeared from. “It’s the AI. W
 
 Lupe and Araci enter the restaurant and video screens scattered around the bar show a cartoon sushi chef cheerfully welcoming them for dinner. They sit at an open table. Four segments of a donut-shaped platform in the center of their table drop out of sight, one at a time, then rise up bearing drinks or food. 
 
-Araci retrieves a beer, Lupe an old-fashioned; The empty squares drop, then return with a bowl of peanuts and a salad. A robotic chef at the side of the room whirs, mixing drinks and chopping food. It's programmed to present Araci and Lupe with the most profitable menu.
+Araci retrieves a beer, Lupe an old-fashioned; The empty squares drop, then return with a bowl of peanuts and a salad. A robotic chef at the side of the room whirs, mixing drinks and chopping food. It’s programmed to present Araci and Lupe with the most profitable menu.
 
 “So. Whodunit?” asks Araci. “Robin thinks it was the friendly folks at Hestia. My mystery caller from Hestia thinks Dakota precipitated a fatal accident.”
 
@@ -352,7 +352,7 @@ Lupe squeezes the orange in her drink, bites off the fruit, then drops the peel 
 
 Araci picks up the peanuts, then moves to put them back down. Too late; they are charged to his tab, and the platform drops away, reappearing with a crudité platter. He surrenders and shells a peanut. “That leaves us with Hestia; or an unfortunate accident. But I’m not convinced Farj is a killer.”
 
-"Maybe you need to focus on Robin." Lupe shows an affectionate smile. "Or maybe you should have another beer and tell me more about your interesting past life."
+“Maybe you need to focus on Robin.” Lupe shows an affectionate smile. “Or maybe you should have another beer and tell me more about your interesting past life.”
 
 // ---
 
@@ -426,17 +426,17 @@ Araci understood. This wasn’t just about Dakota anymore.
 
 Araci meets the three Hestia representatives at a police target range outside of Portland. Trees surround the field - typical for Oregon. Earth berms circle the center of the field. In front of the targets is a shed with a large open door. At the shooting platform three chairs face a table with a drape covering a cubical object.
 
-"Thanks for joining me again," Araci begins. "Please take a seat and I'll show you a brief demonstration that might explain some of my confusion."
+“Thanks for joining me again,” Araci begins. “Please take a seat and I’ll show you a brief demonstration that might explain some of my confusion.”
 
 The chairs are rough, but someone had the courtesy to put a water bottle on each. Lupe and another officer stand off to the side, dressed in protective gear. Araci stands in front of the chairs with his back to the table.
 
-"Lupe and I got here a bit before you to set this up." Araci removes the drape to reveal a Hestia oven and a meal box. "I'm going to ask our officers to run this table downrange, place it in the shed, and connect power to this oven."
+“Lupe and I got here a bit before you to set this up.” Araci removes the drape to reveal a Hestia oven and a meal box. “I’m going to ask our officers to run this table downrange, place it in the shed, and connect power to this oven.”
 
-"We know how Hestia ovens work," asserts Broin. "Couldn't we have just sent you a promotional video?"
+“We know how Hestia ovens work,” asserts Broin. “Couldn’t we have just sent you a promotional video?”
 
-"This meal behaves a bit differently," replies Araci. Downrange, Lupe connects power to the oven and pushes in the meal, then both officers hustle back to the chairs.
+“This meal behaves a bit differently,” replies Araci. Downrange, Lupe connects power to the oven and pushes in the meal, then both officers hustle back to the chairs.
 
-"Let's give this a minute," says Araci. He turns to watch the table. Farj objects - but is interrupted by an explosion. The table, oven, and meal disappear in a cloud of smoke billowing out of the shed. When the air clears, only the table remains.
+“Let’s give this a minute,” says Araci. He turns to watch the table. Farj objects - but is interrupted by an explosion. The table, oven, and meal disappear in a cloud of smoke billowing out of the shed. When the air clears, only the table remains.
 
 “The last time we met, I knew little about what Dakota was doing. I didn’t realize she had an experimental Hestia meal box. But I suspect you realized that when you saw the serial number and made your abrupt exit.”
 
@@ -450,19 +450,19 @@ Farj looks at Nilsson and Broin; Broin stares, Nilsson nervously rubs his head. 
 
 Farj is tapping his foot. 
 
-“Defensive AI in a meal is one thing,” Araci says. “Now let's talk about defensive AI in an oven.” Araci addressed his statements directly to Farj. “If an oven were equipped with AI that obstructed competitive meals, and that oven was involved in suspicious events, well, that would be *problematic*. Do you see what I’m saying?”
+“Defensive AI in a meal is one thing,” Araci says. “Now let’s talk about defensive AI in an oven.” Araci addressed his statements directly to Farj. “If an oven were equipped with AI that obstructed competitive meals, and that oven was involved in suspicious events, well, that would be *problematic*. Do you see what I’m saying?”
 
 Farj looks at Broin, who shakes her head *No!* The unspoken communication is clear; Hestia has already been engaged in exactly this type of project. Nilsson rubs his head with vigor; Araci could only imagine he was planning how to address this at a shareholder meeting.
 
 “I think we understand your point,” says Farj. “We are limited in our ability to discuss this at length. I assume we’ll be in touch if you have other concerns.”
 
-"Actually, we will have plenty of time. I've brought along a warrant for your arrest. Something about conspiracy to defraud, but I'm sure Ms. Broin will be interested in details. Ms. Broin, I'm glad you're here, Mr. Capcin will appreciate your assistance."
+“Actually, we will have plenty of time. I’ve brought along a warrant for your arrest. Something about conspiracy to defraud, but I’m sure Ms. Broin will be interested in details. Ms. Broin, I’m glad you’re here, Mr. Capcin will appreciate your assistance.”
 
 Lupe escorts Farj to a waiting police vehicle, followed by Broin. Nilsson does not move, but stares downrange.
 
-"I appreciate what you've done to make this possible," says Araci. "I hope I've lived up to your expectations. And I share your desire for Hestia to do the right thing."
+“I appreciate what you’ve done to make this possible,” says Araci. “I hope I’ve lived up to your expectations. And I share your desire for Hestia to do the right thing.”
 
-“It’s a costly lesson," replies Nilsson. "And I'm struggling with Dakota's death. Maybe Abundancy needs help. If I can prevent Hestia from doing this, I can block other companies from following suite.”
+“It’s a costly lesson,” replies Nilsson. “And I’m struggling with Dakota’s death. Maybe Abundancy needs help. If I can prevent Hestia from doing this, I can block other companies from following suite.”
 
 “I don’t know,” responds Araci. “We humans are always looking for novel ways to kill ourselves.” He stands. “I’m hungry, let’s get lunch. I’ve heard of a new Iraqi restaurant.”
 
