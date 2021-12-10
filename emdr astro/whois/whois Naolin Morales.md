@@ -1,6 +1,6 @@
 # Naolin Morales
 
-Naolin is mission control. Need to find out who talks to astronauts. [Capcom](https://www.masterclass.com/articles/what-is-capcom).
+Naolin is [Capcom](https://www.masterclass.com/articles/what-is-capcom).
 
 1.  CAPCOM's job is to listen to all of the information about the mission from every console in the room, hear what the Flight Director wants the crew to know, and then turn it into words the crew will understand, and decide when best to tell them. 
 
