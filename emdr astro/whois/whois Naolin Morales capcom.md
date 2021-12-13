@@ -7,3 +7,5 @@ Naolin is [Capcom](https://www.masterclass.com/articles/what-is-capcom).
 2.  CAPCOM is also the crew's trusted agent on the ground, to fight battles and argue in their stead. This role is normally filled by an experienced astronaut or someone who works closely with the astronauts since they are familiar with vehicle systems, control systems, flight dynamics, and life support readings aboard the spacecraft. 
 
 3.  On rare occasions, someone other than CAPCOM can address the crew. During the Gemini 4 mission, Flight Director Chris Kraft directly commanded United States astronaut Ed White to end his spacewalk, fearing that continuing the spacewalk would be unsafe.
+
+Naolin is also a certified therapist and not only knows about Kaniela's DID but communicates to the alters.

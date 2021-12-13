@@ -4,6 +4,8 @@
 
 Aeneas Station floats 52 km above Venus from a balloon of breathable air. It is designed for a minimal crew (of one, as we find out later).
 
+It's mission is to communicate with ships on a Mars-bound slingshot around the backside of Venus.
+
 ## Important rooms on Aeneas
 
 ### Conference
