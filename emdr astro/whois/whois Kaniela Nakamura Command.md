@@ -6,12 +6,4 @@ Kaniela was training to be a mission commander when they experienced a series of
 
 *Rome IV* dropped all resources but in unstable orbits, creating a time crunch to return to Venus to complete the station and return it to stable elevation.
 
-Kaniela is a dissociative personality, consisting of...
-
--   *Sparky* - Handles engineering, communications, and maintenance.
-
--   ??? - Controls landers on Venus surface. i.e. payload specialist & science officer
-
--   ??? - Medical
-
--   *Kaniela Nakamura* - Mission command
+Kaniela is a dissociative personality.
