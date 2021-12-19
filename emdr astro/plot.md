@@ -34,4 +34,4 @@ The surface of Venus takes 243 days to rotate. We float in the atmosphere and go
 
 Between the surface and the atmosphere are tides and gravity and rotation and temperature. Venus melts lead at its surface. If we landed on planet surface and didn't melt, we could to talk with earth for 121 days, which would be mostly us screaming in pain. Then we'd slip to the night side with no oxygen and no earth and that would be death. So let's not do that.
 
-But enough about me. Let's take a tour of Aeneas and meet my friends.
+But enough about me. Let's take a tour of Aeneas and meet the crew.
