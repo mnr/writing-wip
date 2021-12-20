@@ -1,5 +1,7 @@
 # Kaniela Nakamura
 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Kaniela_Ing_for_Congress.png/440px-Kaniela_Ing_for_Congress.png){width="337"}
+
 The main character. The "front" of the collective.
 
 Kaniela was the research specialist aboard *Rome IV* , a mission to orbit Venus. *Rome IV* was to make a flyby and drop of resources to be used for the Venus floating station, but suffered massive electronics blackout due to a solar flare.
