@@ -37,3 +37,5 @@ Between the surface and the atmosphere are tides and gravity and rotation and te
 But enough about me. Let's take a tour of Aeneas and meet the crew.
 
 First is Dr. Xi Wang, our flight surgeon. We mangled his name so many times he now prefers we call him "D'wang." We tried "Bones," but that was just stupid and he didn't like it. In turn, he mangles our names in a corresponding fashion. His place is the medical bay, which isn't much more than a tele-medicine tube and first-aid supplies. D'Wang doesn't like us to use that stuff without consulting him first.
+
+Next, say hello to Ellen Dietrich. Ellen does the research on Venus by dropping expensive toys to the surface, driving them around, then trying to get them back up before they are crushed/burned/blown away/fall in a hole.
