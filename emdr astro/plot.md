@@ -36,4 +36,4 @@ Between the surface and the atmosphere are tides and gravity and rotation and te
 
 But enough about me. Let's take a tour of Aeneas and meet the crew.
 
-First is Dr. Bixby, our flight surgeon. We call him "Dr. Bixby." We tried "Bones," but that was just stupid and he didn't like it. His place is the medical bay, which isn't much more than the telemedicine tube and related supplies. There are some first aid boxes for minor cuts and bruises, but Dr. Bixby doesn't like us to use that stuff without consulting him first.
+First is Dr. Xi Wang, our flight surgeon. We mangled his name so many times he now prefers we call him "D'wang." We tried "Bones," but that was just stupid and he didn't like it. In turn, he mangles our names in a corresponding fashion. His place is the medical bay, which isn't much more than a tele-medicine tube and first-aid supplies. D'Wang doesn't like us to use that stuff without consulting him first.
