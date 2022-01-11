@@ -16,7 +16,7 @@ Dr. Wang originally trained as a general surgeon, then specialized in robotic an
 
 He enjoys playing Jazz on his [roll-up piano](https://www.amazon.com/dp/B07WZD8BM9/ref=cm_sw_em_r_mt_dp_HYCVY1KPA57FGGXWFFH1?_encoding=UTF8&psc=1) - but he's an eternal beginner and makes the exact same mistake in each piece every time he plays it, then stops, corrects the mistake, and then restarts. He has a small repertoire - four songs: Autumn Leaves, All of Me, Take Five, and Linus and Lucy.
 
-Dr. Wang is popular among the crew.
+In spite of his piano torture, Dr. Wang is popular and trusted among the crew. Everyone is comfortable talking to him about issues in their lives.
 
 **Myers-Briggs**: An **Executive ([ESTJ](https://www.16personalities.com/estj-personality))** is someone with the [Extraverted](https://www.16personalities.com/articles/mind-introverted-vs-extraverted), [Observant](https://www.16personalities.com/articles/energy-intuitive-vs-observant), [Thinking](https://www.16personalities.com/articles/nature-thinking-vs-feeling), and [Judging](https://www.16personalities.com/articles/tactics-judging-vs-prospecting) personality traits. They possess great fortitude, emphatically following their own sensible judgment. They often serve as a stabilizing force among others, able to offer solid direction amid adversity.
 
