@@ -34,11 +34,11 @@ Few personality types are as practical and strong-willed as Executives. Known fo
 
 Yet Executives can be easily tripped up in areas where their rational and practical approach is more of a liability than an asset. Whether it is finding (or keeping) a partner, learning to relax or improvise, reaching dazzling heights on the career ladder, or managing their workload, Executives need to put in a conscious effort to develop their weaker traits and additional skills.
 
-## Strengths
+### Strengths
 
 Dedicated, Strong-willed, Direct and Honest, Loyal, Patient and Reliable, Enjoy Creating Order, Excellent Organizers
 
-## **Weaknesses**
+### **Weaknesses**
 
 Inflexible and Stubborn, Uncomfortable with Unconventional Situations, Judgmental, Too Focused on Social Status, Difficult to Relax, Difficulty Expressing Emotion
 

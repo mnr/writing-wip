@@ -32,11 +32,11 @@ Few personality types are as bold and practical as Virtuosos. Known for their te
 
 Yet Virtuosos can be easily tripped up in areas where their focus on practical matters is more of a liability than an asset. Whether it is finding (or keeping) a partner, reaching dazzling heights on the career ladder, or learning to plan ahead, Virtuosos need to put in a conscious effort to develop their weaker traits and additional skills.
 
-## Strengths
+### Strengths
 
 Optimistic and Energetic, Creative and Practical, Spontaneous and Rational, Know How to Prioritize, Great in a Crisis, Relaxed
 
-## **Weaknesses**
+### **Weaknesses**
 
 Stubborn, Insensitive, Private and Reserved, Easily Bored, Dislike Commitment, Risky Behavior
 
