@@ -2,9 +2,23 @@
 
 Research Command
 
-![](https://www.traileraddict.com/article/wp-content/uploads/2017/09/Fast-and-Furious-7-Michelle-Rodriguez-Tools.jpg)**Pronounce**:
+![](https://www.nasa.gov/sites/default/files/thumbnails/image/iss059e035668.jpg)**Pronounce**:
 
 **Interests and Quirks**:
+
+-   **Photography**. Supplies photos to NASA both inside and outside of the ship. Also enjoys abstract photography, loves the colors and shapes of items in the ship. Loves photographing weightless fluids.
+
+    -   ![](https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/styles/full_width/public/thumbnails/image/wss-water-in-space.jpg)
+
+-   **She has a son**
+
+    -   Son's name: Charlie
+
+    -   Ellen is part of a co-housing parenting collective.
+
+    -   Ellen is a financial contributor
+
+    -   Kim, her partner, is "in-person" at the collective. Kim is a carpenter.
 
 ## Narrative
 

@@ -6,7 +6,13 @@ Flight Surgeon
 
 **Pronounce**: Doctor Hsi Wong
 
-**Interests and Quirks:** Learning Jazz on membrane keyboard. Reads
+**Interests and Quirks:**
+
+-   Learning Jazz on membrane keyboard.
+
+-   Reads [Chinese detective novels](https://www.theworldofchinese.com/2021/05/four-famous-chinese-detective-stories/)
+
+-   Divorced. Two boys: One an artist, the other operates a freelance/gig 3d print lab out of his home.
 
 ## **Narrative:**
 
