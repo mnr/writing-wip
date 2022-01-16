@@ -4,15 +4,21 @@
 
 The main character. The "front" of the collective.
 
-**Pronounce**: ddd
+**Pronounce**: Kah-nee-YEH-lah naa·kuh·MOO·ruh
 
-**Interests and Quirks:**
+## Dating Profile:
 
--   ddd
+-   I'm the longest-distance relationship you'll ever have, but I'm looking for a long-term relationship.
+
+-   Women are from Venus, so that's where I'm headed. I travel long distances in small containers. I add non-terrestrial nodes to the [deep space network](https://en.wikipedia.org/wiki/NASA_Deep_Space_Network). I tangle with tardigrades.
+
+-   *Key hobbies, passions, interests*: I'm fascinated by genealogy and [personality clusters](https://www.medicalnewstoday.com/articles/323092).
+
+-   I value honesty and open communication. Call me out when I do something you don't like - I won't be offended. But please - can we skip the silly parts? If you need someone to send flowers to your door, let's both swipe left.
 
 ## Narrative:
 
-Kaniela was the research specialist aboard *Rome IV* , a mission to orbit Venus. *Rome IV* was to make a flyby and drop of resources to be used for the Venus floating station, but suffered massive electronics blackout due to a solar flare.
+Kaniela was the research specialist aboard *Rome IV* , a mission to orbit Venus. *Rome IV* was to make a flyby and drop of resources to be used for the Venus floating station, but suffered a massive electronics blackout due to an unexpected solar flare.
 
 Of the five astronauts aboard, only Kaniela returned to Earth, the rest of the crew dying of massive radiation burns and life support failures. Kaniela had been in the hydroponics lab when the flare erupted - the water in the walls shielded him from the radiation.
 
