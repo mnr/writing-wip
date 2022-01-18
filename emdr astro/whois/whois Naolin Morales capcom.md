@@ -12,9 +12,17 @@ Naolin is also a certified therapist and not only knows about Kaniela's DID but 
 
 A **Campaigner ([ENFP](https://www.16personalities.com/enfp-personality))** is someone with the [Extraverted](https://www.16personalities.com/articles/mind-introverted-vs-extraverted), [Intuitive](https://www.16personalities.com/articles/energy-intuitive-vs-observant), [Feeling](https://www.16personalities.com/articles/nature-thinking-vs-feeling), and [Prospecting](https://www.16personalities.com/articles/tactics-judging-vs-prospecting) personality traits. These people tend to embrace big ideas and actions that reflect their sense of hope and goodwill toward others. Their vibrant energy can flow in many directions.
 
+Few personality types are as creative and charismatic as Campaigners (ENFPs). Known for their idealism and enthusiasm, these personalities excel at dealing with unexpected challenges and brightening the lives of those around them.
+
+Yet Campaigners can be tripped up in certain areas of their lives. When it comes to building relationships, choosing a career, or turning their dreams into reality, people with this personality type may need to consciously address their weaknesses and gain new skills -- even as they draw on their many strengths.
+
 ### Strengths
 
+Curious, Perceptive, Enthusiastic, Excellent Communicators, Festive, Good-Natured
+
 ### Weaknesses
+
+People-Pleasing, Unfocused, Disorganized, Overly Accommodating, Overly Optimistic, Restless
 
 ### Relationships
 
