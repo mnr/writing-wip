@@ -39,3 +39,7 @@ Rational, Informed, Independent, Determined, Curious, Versatile
 ### **Weaknesses**
 
 Arrogant, Dismissive of Emotions, Overly Critical, Combative, Romantically Clueless
+
+### Relationships
+
+*Kindred*: . *Intriguing Differences*: . *Potential Compliments*: , *Challenging Opposites*: . ( [truity](https://www.truity.com/personality-type/ESTJ/relationships) )

@@ -42,6 +42,10 @@ Dedicated, Strong-willed, Direct and Honest, Loyal, Patient and Reliable, Enjoy 
 
 Inflexible and Stubborn, Uncomfortable with Unconventional Situations, Judgmental, Too Focused on Social Status, Difficult to Relax, Difficulty Expressing Emotion
 
+### Relationships
+
+*Kindred*: Nakamura. *Intriguing Differences*: Dietrich. *Potential Compliments*: Neuman, *Challenging Opposites*: Morales. ( [truity](https://www.truity.com/personality-type/ESTJ/relationships) )
+
 ## **Flight Surgeons**
 
 <https://www.nasa.gov/content/flight-surgeons>

@@ -37,3 +37,7 @@ Knowledgeable, Quick Thinkers, Original, Excellent Brainstormers, Charismatic, E
 ### **Weaknesses**
 
 Very Argumentative, Insensitive, Intolerant, Can Find It Difficult to Focus, Dislike Practical Matters
+
+### Relationships
+
+*Kindred*: . *Intriguing Differences*: . *Potential Compliments*: , *Challenging Opposites*: . ( [truity](https://www.truity.com/personality-type/ESTJ/relationships) )

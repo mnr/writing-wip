@@ -40,6 +40,10 @@ Optimistic and Energetic, Creative and Practical, Spontaneous and Rational, Know
 
 Stubborn, Insensitive, Private and Reserved, Easily Bored, Dislike Commitment, Risky Behavior
 
+### Relationships
+
+*Kindred*: . *Intriguing Differences*: . *Potential Compliments*: , *Challenging Opposites*: . ( [truity](https://www.truity.com/personality-type/ESTJ/relationships) )
+
 ## Reference:
 
 [Bio for Megan Lin, Deputy Project Manager](https://mars.nasa.gov/people/profile/index.cfm?id=22847)

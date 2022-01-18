@@ -12,6 +12,14 @@ Naolin is also a certified therapist and not only knows about Kaniela's DID but 
 
 A **Campaigner ([ENFP](https://www.16personalities.com/enfp-personality))** is someone with the [Extraverted](https://www.16personalities.com/articles/mind-introverted-vs-extraverted), [Intuitive](https://www.16personalities.com/articles/energy-intuitive-vs-observant), [Feeling](https://www.16personalities.com/articles/nature-thinking-vs-feeling), and [Prospecting](https://www.16personalities.com/articles/tactics-judging-vs-prospecting) personality traits. These people tend to embrace big ideas and actions that reflect their sense of hope and goodwill toward others. Their vibrant energy can flow in many directions.
 
+### Strengths
+
+### Weaknesses
+
+### Relationships
+
+*Kindred*: . *Intriguing Differences*: . *Potential Compliments*: , *Challenging Opposites*: . ( [truity](https://www.truity.com/personality-type/ESTJ/relationships) )
+
 ## Other:
 
 1.  CAPCOM's job is to listen to all of the information about the mission from every console in the room, hear what the Flight Director wants the crew to know, and then turn it into words the crew will understand, and decide when best to tell them. 
