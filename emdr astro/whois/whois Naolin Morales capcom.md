@@ -18,7 +18,7 @@ A **Campaigner ([ENFP](https://www.16personalities.com/enfp-personality))** is s
 
 ### Relationships
 
-*Kindred*: . *Intriguing Differences*: . *Potential Compliments*: , *Challenging Opposites*: . ( [truity](https://www.truity.com/personality-type/ESTJ/relationships) )
+*Kindred*: Neuman. *Challenging Opposites*: Nakamura, Dietrich, Wang. ([truity](https://www.truity.com/personality-type/ENFP/relationships))
 
 ## Other:
 
