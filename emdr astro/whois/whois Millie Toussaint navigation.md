@@ -22,4 +22,4 @@ Stubborn, Insensitive, Always by the Book, Judgmental, Often Unreasonably Blame 
 
 ### Relationships
 
-*Kindred*: . *Intriguing Differences*: . *Potential Compliments*: , *Challenging Opposites*: . ( [truity](https://www.truity.com/personality-type/INTJ/relationships) )
+*Kindred*: . *Intriguing Differences*: . *Potential Compliments*: , *Challenging Opposites*: . ( [truity](https://www.truity.com/personality-type/ISTJ/relationships) )

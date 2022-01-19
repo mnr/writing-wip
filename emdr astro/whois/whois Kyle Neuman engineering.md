@@ -40,4 +40,4 @@ Very Argumentative, Insensitive, Intolerant, Can Find It Difficult to Focus, Dis
 
 ### Relationships
 
-*Kindred*: . *Intriguing Differences*: . *Potential Compliments*: , *Challenging Opposites*: . ( [truity](https://www.truity.com/personality-type/ESTJ/relationships) )
+*Kindred*: . *Intriguing Differences*: . *Potential Compliments*: , *Challenging Opposites*: . ( [truity](https://www.truity.com/personality-type/ENTP/relationships) )
