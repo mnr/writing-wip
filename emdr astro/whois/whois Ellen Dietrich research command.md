@@ -24,6 +24,8 @@ Research Command
 
 Controls Venus surface excursions, including landers and rovers.
 
+Ellen grew up in Onancock, Virginia near Chesapeake Bay
+
 ## Myers-Briggs
 
 A **Virtuoso ([ISTP](https://www.16personalities.com/istp-personality))** is someone with the [Introverted](https://www.16personalities.com/articles/mind-introverted-vs-extraverted), [Observant](https://www.16personalities.com/articles/energy-intuitive-vs-observant), [Thinking](https://www.16personalities.com/articles/nature-thinking-vs-feeling), and [Prospecting](https://www.16personalities.com/articles/tactics-judging-vs-prospecting) personality traits. They tend to have an individualistic mindset, pursuing goals without needing much external connection. They engage in life with inquisitiveness and personal skill, varying their approach as needed.
