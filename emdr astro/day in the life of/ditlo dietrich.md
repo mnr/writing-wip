@@ -1,7 +1,7 @@
-The hull crawler was stuck just below the window, snagged in a seam or handrail. She could see both its eyes and one manipulator if she looked down through the top side of the window. It was twitching, unable to reach the next grab point. One of the other five legs were unable to release and prevented forward motion. Ellen was unable to see which. The onboard cameras were pointed forward, towards her. The window couldn't give her a view of the backside of the crawler.
+The hull crawler is stuck just below the window, snagged in a seam or handrail. If she looks down through the top side of the window she can see both of its eyes and one manipulator. It is twitching, unable to reach the next grab point. One of the other five legs are unable to release and prevented forward motion. Ellen is unable to see which. The onboard cameras are pointed forward, towards her. She can't see the backside of the crawler.
 
 ![](https://eoimages.gsfc.nasa.gov/images/imagerecords/42000/42770/ISS022-E-068726_xlrg.jpg){width="390"}
 
-The ...looked like a crab ... growing up in Onancock...
+This is just like growing up in Onancock, Virginia. Blue crabs looked up from the shallow water, calculating the risk of danger from above against the reward of food at hand. They were in water deep enough to be out of reach, just like this crawler is out of reach.
 
-This wasn't a big deal. There were several crawlers onboard and with enough time,
+An inoperable crawler isn't a big deal. There are three crawlers onboard and with enough time, "Huey" or "Dewey" can be summoned to rescue "Louie," this stuck crawler.
