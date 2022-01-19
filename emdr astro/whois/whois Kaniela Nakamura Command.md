@@ -42,4 +42,4 @@ Arrogant, Dismissive of Emotions, Overly Critical, Combative, Romantically Cluel
 
 ### Relationships
 
-*Kindred*: . *Intriguing Differences*: . *Potential Compliments*: , *Challenging Opposites*: . ( [truity](https://www.truity.com/personality-type/INTJ/relationships) )
+*Kindred*: Toussaint. *Intriguing Differences*: Neuman. *Potential Compliments*: Dietrich, Morales, Wang, *Challenging Opposites*: . ( [truity](https://www.truity.com/personality-type/INTJ/relationships) )

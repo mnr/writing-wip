@@ -44,7 +44,7 @@ Inflexible and Stubborn, Uncomfortable with Unconventional Situations, Judgmenta
 
 ### Relationships
 
-*Kindred*: Nakamura. *Intriguing Differences*: Dietrich. *Potential Compliments*: Neuman, *Challenging Opposites*: Morales. ( [truity](https://www.truity.com/personality-type/ESTJ/relationships) )
+*Kindred*: Toussaint. *Intriguing Differences*: Dietrich, Nakamura. *Potential Compliments*: Neuman, *Challenging Opposites*: Morales. ( [truity](https://www.truity.com/personality-type/ESTJ/relationships) )
 
 ## **Flight Surgeons**
 

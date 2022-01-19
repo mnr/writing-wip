@@ -26,7 +26,7 @@ People-Pleasing, Unfocused, Disorganized, Overly Accommodating, Overly Optimisti
 
 ### Relationships
 
-*Kindred*: Neuman. *Challenging Opposites*: Nakamura, Dietrich, Wang. ([truity](https://www.truity.com/personality-type/ENFP/relationships))
+*Kindred*: Neuman. *Intriguing Differences*: . *Potential Compliments*: Nakamura. *Challenging Opposites*: Dietrich, Toussaint, Wang. ([truity](https://www.truity.com/personality-type/ENFP/relationships))
 
 ## Other:
 

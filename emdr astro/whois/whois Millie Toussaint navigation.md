@@ -22,4 +22,4 @@ Stubborn, Insensitive, Always by the Book, Judgmental, Often Unreasonably Blame 
 
 ### Relationships
 
-*Kindred*: . *Intriguing Differences*: . *Potential Compliments*: , *Challenging Opposites*: . ( [truity](https://www.truity.com/personality-type/ISTJ/relationships) )
+*Kindred*: Dietrich, Wang. *Intriguing Differences*: Nakamura. *Potential Compliments*: , *Challenging Opposites*: Neuman, Morales. ( [truity](https://www.truity.com/personality-type/ISTJ/relationships) )
