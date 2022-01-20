@@ -24,7 +24,7 @@ Research Command
 
 Controls Venus surface excursions, including landers and rovers.
 
-Ellen grew up in Onancock, Virginia near Chesapeake Bay
+Ellen grew up in Onancock, Virginia near Chesapeake Bay.
 
 ## Myers-Briggs
 
