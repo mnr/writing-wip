@@ -28,8 +28,10 @@ She needs more eyes on the problem.
 
 Accepting the flight to Venus was a ten-month commitment, plus a year of intense preparation and years of exhaustive follow-up. Kim chafed at this project, comparing it to her mode of participation in family hikes. She didn't see the problem; Charlie had a great school, a great parenting community, and a great father. Kim had a monogamous partner with a good income, which provided him with the time and financial security to pursue his carpentry. Regardless, her departure was not a positive step forward in the relationship; Kim wouldn't guarantee the relationship when she returned.
 
-She hadn't heard from Kim and Charlie today; personal communication is only done through the broken antenna - so no personal communication. The lack of contact isn't her motivation to fix the antenna; the challenge to fix the problem is enough all by itself. But he has a bit of time - enough to queue up a message for her family.
+She hadn't heard from Kim and Charlie today; personal communication is only done through the broken antenna - so no personal communication. The lack of contact isn't her motivation to fix the antenna; the challenge to fix the problem is enough all by itself. But she has a bit of time - enough to queue up a message.
 
-"Hi. something something""
+"Hi Kim. Hi Charlie. I'm still out here, putzing along to Venus. Stuff is broken so I can't send this right away. I'll send this as soon as it's fixed.
+
+*I've been thinking about our conversation before I left.* "
 
 ***(the crawler is an analogy for her relationships; romantic and parent/child. How she fixes the crawler is how she will fix her relationships)***
