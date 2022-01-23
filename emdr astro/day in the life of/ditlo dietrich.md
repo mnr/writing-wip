@@ -1,14 +1,24 @@
+"Lou," says Ellen Dietrich. "Please come to my location."
+
+"I'll be there in five minutes," responds Lou. The voice sounds like an adult female but it belongs to one of three hull crawlers. They move around the outside of the Aeneas spaceship, anchoring themselves to regularly-space grab points and providing manipulators for small repairs. The alternative to using a crawler is a human suiting up for a spacewalk, a complex activity requiring hours of preparation and subsequent recovery.
+
+Huey has an adult male voice, Dewey has a juvenile male voice. This isn't intended to make them human. Rather, it provides the astronauts aboard Aeneas quick confirmation on which crawler they are working with. True, the crawlers have a bit of artificial intelligence, but only enough to be able to plot the shortest route between two points, find the best grab point, recognize components, and perform simple actions.
+
+Ellen hovers in the aft turret at a window overlooking the stern end of Aeneas. A forward window provides a view of Venus, their destination. The room is filled with camera controls and monitors; it's the most dramatic room on the ship and a popular place to contemplate the universe.
+
+---
+
 The hull crawler is stuck just below the window.
 
-Ellen Dietrich hovers in the window overlooking the stern end of the Aeneas spaceship. The forward window provides a view of Venus, their destination. If she looks down through the top side of this window she can see the crawler; at least, both of its eyes and one manipulator. It is twitching, unable to reach the next grab point. It is somehow snagged, but Ellen can't see far enough to know why.
+If she looks down through the top side of this window she can see the crawler; at least, both of its eyes and one manipulator. It is twitching, unable to reach the next grab point. It is somehow snagged, but Ellen can't see far enough to know why.
 
 ![](https://eoimages.gsfc.nasa.gov/images/imagerecords/42000/42770/ISS022-E-068726_xlrg.jpg){width="390"}
 
 It reminds her of blue crabs in Onancock, Virginia on the Chesapeake Bay. The crabs watched her from the shallow water, calculating the risk of danger from above against the reward of food at hand. They were in water deep enough to be out of reach, just like this crawler is out of reach.
 
-She can see herself from the crawler's video camera. This close, the video is crisp and detailed. It shows her behind the window; a thirty-something mom with brunette hair, standing against the one-gee acceleration. The window glass stands in for the surface of the water the Chesapeake Bay crabs must have looked through. She doesn't think she was threatening, but the crabs back home behaved otherwise.
+She can see herself from the crawler's video camera; it shows her behind the window. She is a thirty-something mom with brunette hair, standing against the one-gee acceleration. The window glass stands in for the surface of the water the Chesapeake Bay crabs must have looked through. She doesn't think she was threatening, but the crabs back home behaved otherwise.
 
-An inoperable crawler isn't a big deal. There are three of them on-board and with enough time, "Huey" or "Dewey" can be summoned to rescue "Louie," this stuck crawler.
+An inoperable crawler isn't a big deal. There are three of them on-board and with enough time, "Huey" or "Dewey" can be summoned to rescue "Lou," this stuck crawler.
 
 Unlike the crawler, the high-gain antenna is a big deal. Until this morning, it worked and the connector looked intact. Shortly before station wake-up, the antenna failed and a broken wire is visible to the right of the window. The sum of insignificant vibrations finally broke through the insulation and stopped the signal from station to earth to station. The low-gain antennas are doing their best to keep the data flow up to speed, but any unnecessary communication is halted - until the primary antenna is fixed
 
@@ -18,7 +28,7 @@ Kim, her partner and father to Charlie, learned not to re-direct her obsessions.
 
 Kim is a more forceful parent than Ellen. On hikes, Ellen would be far ahead, assuming Kim and Charlie would explore and learn on their own time; Ellen wasn't going to force education on Charlie, nor would she force enjoyment on Kim. More than once, when Kim and Charlie caught up there were harsh words about the "family" hike and Ellen's lack of participation. Yes, a hike was for physical exercise; but it was also a bonding experience and a chance to share interests and viewpoints. By charging off, Ellen missed that experience. That was Kim's view - Ellen saw it as giving them space for unsupervised learning.
 
-When she noticed the broken cable, she summoned Louie. This is the practical thing to do. Then the crawler snagged. The logical thing is to add the antenna - and crawler - as maintenance to be done during the EVA scheduled later today. But she doesn't; there ought to be a way to fix everything from here, right now.
+When she noticed the broken cable, she summoned Lou. This is the practical thing to do. Then the crawler snagged. The logical thing is to add the antenna - and crawler - as maintenance to be done during the EVA scheduled later today. But she doesn't; there ought to be a way to fix everything from here, right now.
 
 She needs more eyes on the problem.
 
@@ -54,7 +64,7 @@ If Kim were here he would be silently broadcasting his frustration with Ellen an
 
 She fantasized about being less independent with Charlie, more compliant for Kim. "*Kim, what do you think? Should we fix this ourselves, or call in the entire crew for consultation?"* She could voice the request inside her head, but even in the privacy of the lab she couldn't bring herself to voice it out loud.
 
-----
+------------------------------------------------------------------------
 
 (what does she have to sacrifice?)
 
