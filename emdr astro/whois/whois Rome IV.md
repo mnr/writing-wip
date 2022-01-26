@@ -5,3 +5,9 @@
 The radiation from the flare burned out all electronics. Nakamura survived by improvising a heater and life support systems, but remained in darkness while waiting three months for a rescue mission.
 
 Rome IV's electronics were burned out, leaving it dead in orbit above Venus. Kaniela spent months with a dying crew - then a dead crew. Then a dark ship with no communication. The only communication was the rescue ship pounding on the airlock.
+
+Rome IV consists of two parts: the CSM (Command and Service Module) and the VOM (Venus Orbiter Module). The VOM will become Aeneas Station. Slang references to the VOM are the VOMit COMET or VeeCee.
+
+Aeneas has voice control. There is a keyboard control panel - with monitor - in the Engineering room.
+
+Aeneas has three hull crawlers: Huey (male adult voice), Dewey (juvenile male voice), and Lou (female voice). They are discussed at length in "day in the life of: ditlo dietrich.md"
