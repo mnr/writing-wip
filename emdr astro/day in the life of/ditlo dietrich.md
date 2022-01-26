@@ -7,7 +7,7 @@ date: "January 2022"
 
 The broken thing is a multiplexer / demultiplexer. You can call it an "MDM" if you're in a hurry or trying to sound important. If you saw it at a garage sale, you'd pick it up with one hand, turn it over, squint at the identification plate, then put it back on the table with the other miscellaneous stereo parts. You'd assume it's nothing remarkable.
 
-Unfortunately, it is remarkable. It is one of two duplicate MDMs operating the high-gain antenna, transmitting data from the Aeneas spacecraft to earth and back. When this MDM failed, the backup took over. If the backup fails, Aeneas will fall back to low-gain antennas. This would be a bad thing. This non-operational MDM is making a lot of people very unhappy.
+Unfortunately, it is remarkable. It is one of two duplicate MDMs operating the high-gain antenna, transmitting data from the Rome IV spacecraft to earth and back. When this MDM failed, the backup took over. If the backup fails, Rome IV will fall back to low-gain antennas. This would be a bad thing. This non-operational MDM is making a lot of people very unhappy.
 
 Ellen discovered the problem during morning maintenance. It's bolted to the outside of the ship, nearby the antenna, and returned an error when she ran a maintenance query. She should make a note, then follow the prescribed daily routine; scheduled maintenance, swapping and cleaning filters, recording gas and fluid levels. Making notes and checking boxes on a clipboard. It's an endless list of long-term and boring tedium necessary for the health of this ship. The antenna is broken, it isn't going to get any more broken. Other systems are working and routine maintenance will keep them in operation.
 
@@ -15,13 +15,13 @@ The correct, but non-intuitive response would be to add the antenna as maintenan
 
 "Lou," says Ellen Dietrich. "Please come to my location."
 
-"I'll be there in five minutes," responds Lou. The voice sounds like an adult woman, but it actually belongs to one of the three hull crawlers on-board the Aeneas spacecraft. They move around the outside, anchoring themselves to regularly spaced grab points. Crawlers are expensive mechanical crabs with manipulators in place of pincers. The alternative to repairs with a crawler is a human suiting up for a spacewalk, a complex activity requiring days of preparation and subsequent recovery.
+"I'll be there in five minutes," responds Lou. The voice sounds like an adult woman, but it actually belongs to one of the three hull crawlers on-board the Rome IV spacecraft. They move around the outside, anchoring themselves to regularly spaced grab points. Crawlers are expensive mechanical crabs with manipulators in place of pincers. The alternative to repairs with a crawler is a human suiting up for a spacewalk, a complex activity requiring days of preparation and subsequent recovery.
 
-Huey, the second of three crawlers, has an adult man's voice, Dewey has a young boy's voice. This isn't intended to make them human. Rather, it provides the astronauts aboard Aeneas quick confirmation of which crawler they are working with. The crawlers do have a bit of artificial intelligence, but only enough to be able to plot the shortest route between two points, find the best grab point, recognize components, and perform simple actions.
+Huey, the second of three crawlers, has an adult man's voice, Dewey has a young boy's voice. This isn't intended to make them human. Rather, it provides the astronauts aboard Rome IV quick confirmation of which crawler they are working with. The crawlers do have a bit of artificial intelligence, but only enough to be able to plot the shortest route between two points, find the best grab point, recognize components, and perform simple actions.
 
 This hasn't stopped other (bored) members of the crew from using the crawlers to put on performances. The recording of Dewey and Huey performing "Who's On First" has gone viral.
 
-Ellen braces herself in the aft turret overlooking the stern end of Aeneas. A forward window provides a view of Venus, their destination. To her right is the recalcitrant MDM. The small room she stands in is filled with camera controls and monitors; it's the most scenic room on the ship and a popular place to contemplate the universe.
+Ellen braces herself in the aft turret overlooking the stern end of Rome IV. A forward window provides a view of Venus, their destination. To her right is the recalcitrant MDM. The small room she stands in is filled with camera controls and monitors; it's the most scenic room on the ship and a popular place to contemplate the universe.
 
 "I have arrived," says Lou.
 
@@ -35,7 +35,7 @@ She can see herself from the crawler's video camera; it shows her behind the win
 
 The video lurches but Lou remains where it is. Ellen can see the crawler twitching, unable to reach the next grab point. It is snagged, but Ellen can't see why. An inoperable crawler isn't a big deal. With enough time, Huey or Dewey can be summoned to rescue Lou. Or it can be added to a maintenance EVA. This problem is becoming larger and for Ellen, more interesting. She puts down the routine maintenance clipboard and tries to get a better look at Lou's rear legs.
 
-Kim, her partner and father to Charlie, learned not to re-direct her obsessions. Kim was steady, a good partner for someone with an aversion to boredom and attraction to novel challenges. He gave her room to be detached and was patience when she tried to change him. She gave him intimacy, but not emotions. They built a child who was happy to live on earth, with Kim, at the parenting collective. Ellen was happy to be on the Aeneas, staring down a stuck crawler, broken box, and inoperable antenna.
+Kim, her partner and father to Charlie, learned not to re-direct her obsessions. Kim was steady, a good partner for someone with an aversion to boredom and attraction to novel challenges. He gave her room to be detached and was patience when she tried to change him. She gave him intimacy, but not emotions. They built a child who was happy to live on earth, with Kim, at the parenting collective. Ellen was happy to be on the Rome IV, staring down a stuck crawler, broken box, and inoperable antenna.
 
 Kim is a more hands-on parent than Ellen. On hikes, Ellen would be far ahead, assuming Kim and Charlie would explore and learn on their own time; Ellen wasn't going to force education on Charlie, nor would she force enjoyment on Kim. More than once, when Kim and Charlie caught up to her there were harsh words about the "family" hike and Ellen's lack of participation. Yes, a hike was for physical exercise; but it was also a bonding experience and a chance to share interests and viewpoints. By charging off, Ellen missed that experience. That was Kim's view - Ellen disagreed; saw it as giving them space for unsupervised learning.
 
@@ -69,7 +69,7 @@ Now Ellen can see how the tip of one leg has passed through the grab point and w
 
 "Dewey, come to the right side of this window."
 
-"Are you sure?" Aeneas interrupts. "This will move all crawlers to one location. An accident may cause the loss of Huey, Lou, and Dewey." Aeneas has a bit more smarts than the crawlers and is able to calculate risk/reward assessments. Aeneas, like Kim, doesn't approve of Ellen's increasingly risky approach to this repair.
+"Are you sure?" Rome IV interrupts. "This will move all crawlers to one location. An accident may cause the loss of Huey, Lou, and Dewey." Rome IV has a bit more smarts than the crawlers and is able to calculate risk/reward assessments. Rome IV, like Kim, doesn't approve of Ellen's increasingly risky approach to this repair.
 
 "I confirm my request," says Ellen. Again, the smart thing would be to include this as part of the maintenance to be performed later today. But she is obsessed and is willing to double-down on her solution. For the briefest of moments, she is aware of making a commitment on behalf of the entire project and crew.
 
