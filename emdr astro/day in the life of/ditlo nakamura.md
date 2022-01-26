@@ -81,11 +81,35 @@ This question stops Nakamura for a moment; *Does not compute*. He wasn't aware D
 
 "Do you have a girlfriend?"
 
-"Again - rather personal for a chatterbot. But no. I did, but not one willing to wait for me to return."
+"Again - rather personal for a chatterbot. But no. I did, but not one willing to wait for me to return from this trip."
 
 "Who is a chatterbot?" asks Dr. Bail.
 
+"I thought we already had this discussion."
+
+"How does it make you feel when we have already had this discussion?"
+
+Nakamura rolls his eyes. Dr. Bail's programming is obviously running low on options. "It makes me feel like we are circling around something unimportant."
+
+"Do you feel a romantic partner is unimportant?"
+
+Nakamura can follow how Dr. Bail formulated this question, but even so, it's perceptive. "I would like to have a romantic partner. But girlfriends are hard. They're a puzzle. They take practice. Can we talk about something other than girlfriends?"
+
 ## Four filters
+
+The filter in the habitation module is unwilling to be removed. Nakamura has to pull twice before it comes out, a result of small hairs around the intake. Somebody shaved something and wasn't careful about vacuuming up the offal. *Gross*.
+
+"Dr. Bail, this filter has hair in it. Someone isn't practicing careful hygiene."
+
+"Thanks," says Dr. Bail. "I've noted this and will bring it to the attention of CAPCOM for discussion with the rest of the crew."
+
+"It's not a big deal," adds Nakamura. He feels a need to clarify, "Everyone gets to make a mistake. I do enjoy working with this crew."
+
+"Do you think you would make a good manager?" asks Dr. Bail.
+
+Nakamura notes this is obviously one of the database questions burped out at random times. "I haven't had many opportunities to find out. I suppose I might.
+
+MOREMORE MORE
 
 ## Five filters
 
