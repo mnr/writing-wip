@@ -26,7 +26,7 @@ Nupur Dhakephalkar's work has been covered by many famous publications like The 
 
 [\<https://www.centerformentalhealth.in/best-clinical-psychologist-in-pune-india/>](https://www.centerformentalhealth.in/best-clinical-psychologist-in-pune-india/){.uri}
 
-## **Myers-Briggs**: 
+## **Myers-Briggs**:
 
 A **Mediator ([INFP](https://www.16personalities.com/infp-personality))** is someone who possesses the [Introverted](https://www.16personalities.com/articles/mind-introverted-vs-extraverted), [Intuitive](https://www.16personalities.com/articles/energy-intuitive-vs-observant), [Feeling](https://www.16personalities.com/articles/nature-thinking-vs-feeling), and [Prospecting](https://www.16personalities.com/articles/tactics-judging-vs-prospecting) personality traits. These rare personality types tend to be quiet, open-minded, and imaginative, and they apply a caring and creative approach to everything they do. Mediators can have profound emotional responses to music, art, nature, and the people around them. many famous Mediators are poets, writers, actors, and artists. They can't help but muse about the meaning and purpose of life, dreaming up all sorts of stories, ideas, and possibilities along the way.
 
