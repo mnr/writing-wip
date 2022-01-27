@@ -5,17 +5,17 @@ author: "Mark Niemann-Ross"
 date: "January 2022"
 ---
 
-Kaniela Nakamura appreciates the isolation of routine maintenance. He pulls out a filter, places it in a bag on the floor, snaps in a rejuvenated replacement, and records the swap in Rome IV maintenance records.
+Kaniela Nakamura pulls a filter out of the wall, places it in a bag, snaps in a replacement, and records the swap in Rome IV maintenance records.
 
 "Hello Kaniela," interrupts Dr. Bail. "Is this a good time?"
 
-"Sure," responds Nakamura. It's actually an unwelcome interruption. His introvert needs time alone; swapping and cleaning air filters is an easily-explained way to sequester himself away from others. At least for a morning. But the conversation is inevitable; Dr. Bail will continue to ping him with the persistence of a machine until he concedes.
+"I'm kind of busy, but if you must," responds Nakamura. Dr. Bail is an unwelcome interruption. His introvert needs time alone; swapping and cleaning air filters is an easily-explained way to sequester himself away from the other crew. At least for a morning. But the conversation is inevitable; Dr. Bail will continue to ping him with the persistence of a machine until he concedes.
 
 He picks up the bags of new and old filters then moves to the next module. He will do this four more times as he works towards the stern of Rome IV, away from the VeeCee.
 
 Most non-scientific press is confused about the Rome IV spacecraft. It is actually two parts, similar to the Apollo moon missions. Apollo missions consisted of the Command and Service Module: abbreviated in NASA-speak as the *CSM*, and the Lunar Excursion Module: *LEM* in NASA-speak. Rome IV is the CSM, but instead of an LEM, there is a VOM: *Venus Orbiting Module*.
 
-"You cannot call it the VOM," the marketing department fought back. "It's certain to be called the *VOMit*. We insist you give it a separate name. How about *Aeneas*?"
+"You cannot call it the VOM," the marketing department fought back. "It's certain to be called the *VOMit*. Instead, how about *Aeneas*?"
 
 Nice try. The media refers to it as the *VOMit COMET*. The mission press secretary can only grimace each time someone from the press asks a question about the *VeeCee*.
 
@@ -31,19 +31,13 @@ Nakamura is in the far forward end of Rome IV. Just ahead of him is the deflated
 
 "That's good to hear," says Bail. "How are you feeling today?"
 
-"Can this be a private conversation?"
+"I'm fine. How about today you admit you aren't really a person," says Nakamura.
 
-"Sure. Let me make a note," Dr. Bail doesn't hesitate. "I've noted this is a private discussion, please continue."
-
-"Are you going to admit you aren't really a person ?" asks Nakamura.
-
-Both Nakamura and Dr. Bail know Dr. Bail is a chatterbot. But Dr. Bail won't break the fourth wall and admit to its non-existence. Its primary function is to gather anecdotal system reports from the crew of Rome IV. Numeric stats on filter performance can be obtained from the rejuvenation lab. Of equal importance is the crew's gut feelings about the filter. *Is everything okay?*
+Both Nakamura and Dr. Bail know Dr. Bail is a chatterbot. But Dr. Bail won't break the fourth wall and admit to its non-existence. Its job is to gather anecdotal system reports from the crew of Rome IV. Numeric stats on filter performance can be obtained from the rejuvenation lab. Of equal importance is the crew's gut feelings about the filter, but they are dismissive about this task. So...in steps Dr. Bail, who also does a bit of psychological assessment. *Is everything okay?*
 
 "Is it important to you for me to I admit I'm not a person?" asks Dr. Bail.
 
-"Touché. Spoken like a true Rogerian." Nakamura pauses to swap the next filter. The old filter bag now contains two filters.
-
-"I'm trying to be forgiving of my crew mates, but I can't help but think of them as lazy, unimaginative, or simply doomed to mediocrity."
+"Touché. Spoken like a true Rogerian." Nakamura pauses to swap the next filter. The old filter bag now contains two filters. "I'm trying to be forgiving of my crew mates, but I can't help but think of them as lazy, unimaginative, or simply doomed to mediocrity."
 
 "They think of you as an enthusiastic learner," responds Dr. Bail. "They often mention your irreverent sense of humor."
 
@@ -53,11 +47,11 @@ Nakamura considers this. He is on this mission in spite of his psychological eva
 
 "I thought you'd be interested," responds Dr. Bail.
 
-It's a computer-synthesized non-answer. In early science fiction, a robot would respond with something inane: *Does not compute* or *that is illogical*. Nakamura knows there is a reason, but the chatterbot will never reveal it. He found a dead-end.
+It's a computer-synthesized non-answer. In early science fiction, a robot would respond with something inane: *Does not compute* or *that is illogical*. Nakamura knows there is a reason, but the chatterbot will never reveal it. He has arrived at an algorithmic dead-end.
 
 ## Three filters
 
-"There's a small piece of plastic jammed in this filter." Nakamura shares his observation with Dr. Bail.
+Nakamura looks closely at the third filter. "There's a small piece of plastic jammed in here." Nakamura shares his observation with Dr. Bail.
 
 "Is it blue?"
 
@@ -69,7 +63,7 @@ Nakamura does as asked.
 
 "Thank you," responds Dr. Bail. "Have you had any responses to your dating profile?"
 
-This question stops Nakamura for a moment; *Does not compute*. He wasn't aware Dr. Bail was reading his mail. "That's rather personal. But since you asked and since you aren't really here, I haven't received any answers."
+Nakamura stops for a moment; *Does not compute*. He wasn't aware Dr. Bail was reading his mail. "That's rather personal. But since you asked and since you aren't really here, I haven't received any answers."
 
 "How does that make you feel?"
 
@@ -77,7 +71,7 @@ This question stops Nakamura for a moment; *Does not compute*. He wasn't aware D
 
 "You sound defensive."
 
-"Not defensive. Maybe exasperated."
+"Not defensive. Maybe exasperated. Maybe you're overstepping your bounds."
 
 "Do you have a girlfriend?"
 
@@ -85,11 +79,11 @@ This question stops Nakamura for a moment; *Does not compute*. He wasn't aware D
 
 "Who is a chatterbot?" asks Dr. Bail.
 
-"I thought we already had this discussion."
+*Indeed*, Nakamura thinks. "I thought we already had this discussion."
 
 "How does it make you feel when we have already had this discussion?"
 
-Nakamura rolls his eyes. Dr. Bail's programming is obviously running low on options. "It makes me feel like we are circling around something unimportant."
+Nakamura rolls his eyes. Dr. Bail's programming is obviously running low on logic branches. "It makes me feel like we are circling around something unimportant."
 
 "Do you feel a romantic partner is unimportant?"
 
@@ -103,11 +97,11 @@ The filter in the habitation module is unwilling to be removed. Nakamura has to 
 
 "Thanks," says Dr. Bail. "I've noted this and will bring it to the attention of CAPCOM for discussion with the rest of the crew."
 
-"It's not a big deal," adds Nakamura. He feels a need to clarify, "Everyone gets to make a mistake. I do enjoy working with this crew."
+"It's not a big deal," adds Nakamura. He needs to clarify, "Everyone gets to make a mistake. I do enjoy working with this crew."
 
 "Do you think you would make a good manager?" asks Dr. Bail.
 
-Nakamura notes this is obviously one of the database questions burped out at random times. "I haven't had many opportunities to find out. I suppose I might.
+This is obviously one of the database questions burped out at random times. "I haven't had many opportunities to find out. I suppose I might.
 
 MOREMORE MORE
 
