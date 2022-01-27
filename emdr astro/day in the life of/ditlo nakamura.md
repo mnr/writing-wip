@@ -113,6 +113,14 @@ MOREMORE MORE
 
 ## Five filters
 
-# Probably not...
+# Notes:
+
+Where is this going?
+
+What is the choice and sacrifice nakamura is going to make?
+
+How will he change?
+
+# Probably not going to use this stuff...
 
 The filter doesn't float free; the Rome IV is accelerating towards Venus and that simulates gravity. Halfway between Earth and Venus, Rome IV will turn end-for-end and accelerate away from Venus, slowing their speed for orbital insertion. *Physics-blah-blah-blah.* Nakamura only knows he has to schlep the bag of filters half the length of the ship to the rejuvenation lab.
