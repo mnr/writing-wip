@@ -5,6 +5,10 @@ author: "Mark Niemann-Ross"
 date: "January 2022"
 ---
 
+# **Filter 1: [Exposition](https://masterclass.com/articles/what-is-exposition-film)** 
+
+*This is the reader's introduction to the story. The exposition offers background information to prime the audience for the rest of the story, including introducing the main character(s) (the "who"), setting (the "where"), and circumstances or time period (the "when").*
+
 Kaniela Nakamura pulls a filter out of the wall, places it in a bag, snaps in a replacement, and records the swap in the maintenance records. An unremarkable task with no drama. Nakamura closes the access panel with more force than necessary.
 
 "Hello Kaniela," interrupts Dr. Bail. Her voice comes over the room speaker. "Is this a good time?"
@@ -37,7 +41,9 @@ Both Nakamura and Dr. Bail know Dr. Bail is a chatterbot. But Dr. Bail won't bre
 
 "Is it important to you for me to I admit I'm not a person?" asks Dr. Bail.
 
-## Two filters
+# **Filter 2: Rising action** 
+
+*This is when conflict begins to ramp up. The rising action usually begins with what's called an "inciting incident"---the triggering event that puts the main events of the story in motion. This is when the audience starts to see what your story is really about.*
 
 "Touché. Spoken like a true Rogerian." Nakamura pauses to swap the next filter. The old filter bag now contains two filters.
 
@@ -45,7 +51,7 @@ Both Nakamura and Dr. Bail know Dr. Bail is a chatterbot. But Dr. Bail won't bre
 
 "They think of you as an enthusiastic learner," responds Dr. Bail. "They often mention your irreverent sense of humor."
 
-Nakamura considers this. He is on this mission in spite of his psychological evaluations and suppressed attitudes - Dr. Bail mentioned this to him once before.
+"I'm surprised to hear this." In a previous conversation, Dr. Bail revealed to Nakamura he is on this mission in spite of his psychological evaluations and suppressed attitudes.
 
 "What is your motivation to tell me this sort of thing?" asks Nakamura.
 
@@ -53,13 +59,17 @@ Nakamura considers this. He is on this mission in spite of his psychological eva
 
 It's a computer-synthesized non-answer. In early science fiction, a robot would respond with something inane: *Does not compute* or *that is illogical*. Nakamura knows there is a reason, but the chatterbot will never reveal it. He has arrived at an algorithmic dead-end.
 
-"I may have made a mistake when I signed up for this trip," says Nakamura. "The science is dull. The exciting experiments were stripped out of the budget. Hanging out with plants in the hydroponics lab and tinkering with spreadsheets isn't what I hoped for. Tell me, oh wise Dr. Bail, what should I do?"
+"I may have made a mistake when I signed up for this trip," says Nakamura. "The science is dull. The interesting experiments were stripped out of the budget. Hanging out with plants in the hydroponics lab and tinkering with spreadsheets isn't what I hoped for. Tell me, oh wise Dr. Bail, what should I do?"
 
 "Have you considered working with one of the research teams? The propulsion group has listed a lack of manpower as one of the blocking issues preventing their progress."
 
 "Curious co-workers and another supervisor isn't appealing." Nakamura shakes his head. "I'd rather whine and complain about my boredom for the next two years."
 
-## Three filters
+"Why would you rather whine and complain?"
+
+# **Filter 3: Climax** 
+
+*This is the highest point of tension in your storyline, and often the point at which all the different subplots and characters converge. Typically, the climax requires the main character to face the truth or make an important choice.*
 
 Nakamura looks closely at the third filter. "There's a small piece of plastic jammed in here." Nakamura shares his observation with Dr. Bail.
 
@@ -101,7 +111,9 @@ Nakamura can follow how Dr. Bail formulated this question, but even so, it's per
 
 Can we talk about something other than girlfriends?"
 
-## Four filters
+# **Filter 4: Falling action**
+
+*This is what happens as a result of the protagonist's decision. During the falling action, the conflict gives way to resolution. Loose ends are tied up, and tension begins to dissipate.*
 
 The filter in the habitation module is unwilling to be removed. Nakamura has to pull twice before it comes out, a result of small hairs around the intake. Somebody shaved something and wasn't careful about vacuuming up the offal. *Gross*.
 
@@ -115,19 +127,9 @@ The filter in the habitation module is unwilling to be removed. Nakamura has to 
 
 This is obviously one of a collection of random questions burped out by the chatterbot. "I haven't had many opportunities to find out. I suppose I might.
 
-## Five filters
+# **Filter 5: Resolution**
 
-# Notes:
-
-MOREMORE MORE
-
-*Nakamura could be more irritated at the pointless questions of dr. bail*
-
-Where is this going?
-
-What is the choice and sacrifice nakamura is going to make?
-
-How will he change?
+*Also known as a denouement, this is how your story ends. The resolution of a narrative arc isn't always happy, but it does close the loop and show how the events of the story have changed the characters and the world around them.*
 
 # Probably not going to use this stuff...
 
