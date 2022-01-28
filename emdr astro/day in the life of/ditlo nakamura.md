@@ -15,19 +15,11 @@ Kaniela Nakamura pulls a filter out of the wall, places it in a bag, snaps in a 
 
 "I'm kind of busy, but if you must," responds Nakamura. Dr. Bail is an unwelcome interruption. His introvert needs time alone; swapping and cleaning air filters is a boring, but easily-explained way to briefly sequester himself away from the other crew. But the conversation is inevitable; Dr. Bail will continue to ping him with the persistence of a machine until he concedes.
 
-He picks up the bags of new and old filters, then moves to the next room. He will do this four more times as he works towards the stern of Rome IV, away from the VeeCee.
+He picks up the bags of new and old filters, then moves to the next room. He will do this four more times as he works towards the stern of Rome IV.
 
-Most non-scientific press is confused about the Rome IV spacecraft. It is actually two parts, similar to the Apollo moon missions. Apollo missions consisted of the Command and Service Module: abbreviated in NASA-speak as the *CSM*, and the Lunar Excursion Module: *LEM* in NASA-speak. Rome IV is the CSM, but instead of an LEM, there is a VOM: *Venus Orbiting Module*.
+| *(explanation of Rome IV and Aeneas. Detail that Aeneas reflects radiation from the sun and will shield both Rome IV (when in transit) and the habitat module of Aeneas when in orbit around venus)*
 
-"You cannot call it the VOM," the marketing department fought back. "It's certain to be called the *VOMit*. Instead, how about *Aeneas*?"
-
-Nice try on behalf of marketing, but the media refers to it as the *VOMit COMET*. The mission press secretary can only grimace each time someone from the press asks a question about the *VeeCee*.
-
-"You must be referring to Aeneas," says the press secretary.
-
-"Right," replies the press. "The VeeCee."
-
-Nakamura is in the far forward end of Rome IV. Just ahead of him is the deflated ~~VeeCee~~ Aeneas. When they reach Venus it will be inflated and deployed fifty-two kilometers above the surface of the planet. The Aeneas habitat will hang below the blimp; the Rome IV CSM will orbit above the atmosphere.
+Nakamura is in the far forward end of Rome IV. Just ahead of him is the deflated Aeneas. When they reach Venus it will be inflated and deployed fifty-two kilometers above the surface of the planet. The Aeneas habitat will hang below the blimp; the Rome IV CSM will orbit above the atmosphere.
 
 "Did you notice anything unusual about the filter you just removed?" asks Dr. Bail.
 
@@ -134,3 +126,17 @@ This is obviously one of a collection of random questions burped out by the chat
 # Probably not going to use this stuff...
 
 The filter doesn't float free; the Rome IV is accelerating towards Venus and that simulates gravity. Halfway between Earth and Venus, Rome IV will turn end-for-end and accelerate away from Venus, slowing their speed for orbital insertion. *Physics-blah-blah-blah.* Nakamura only knows he has to schlep the bag of filters half the length of the ship to the rejuvenation lab.
+
+--- --- ---
+
+, away from the VeeCee.
+
+Most non-scientific press is confused about the Rome IV spacecraft. It is actually two parts, similar to the Apollo moon missions. Apollo missions consisted of the Command and Service Module: abbreviated in NASA-speak as the *CSM*, and the Lunar Excursion Module: *LEM* in NASA-speak. Rome IV is the CSM, but instead of an LEM, there is a VOM: *Venus Orbiting Module*.
+
+"You cannot call it the VOM," the marketing department fought back. "It's certain to be called the *VOMit*. Instead, how about *Aeneas*?"
+
+Nice try on behalf of marketing, but the media refers to it as the *VOMit COMET*. The mission press secretary can only grimace each time someone from the press asks a question about the *VeeCee*.
+
+"You must be referring to Aeneas," says the press secretary.
+
+"Right," replies the press. "The VeeCee."
