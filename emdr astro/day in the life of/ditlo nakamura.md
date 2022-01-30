@@ -9,21 +9,19 @@ date: "January 2022"
 
 > *This is the reader's introduction to the story. The exposition offers background information to prime the audience for the rest of the story, including introducing the main character(s) (the "who"), setting (the "where"), and circumstances or time period (the "when").*
 
-Kaniela Nakamura pulls a filter out of the wall, places it in a bag, snaps in a replacement, and records the swap in the maintenance records. An unremarkable task with no drama. Nakamura closes the access panel with more force than necessary.
+(opening scene: talking about the remote miners.)
 
 "Hello Kaniela," interrupts Dr. Bail. Her voice comes over the room speaker. "Is this a good time?"
 
-"I'm kind of busy, but if you must," responds Nakamura. Dr. Bail is an unwelcome interruption. His introvert needs time alone; swapping and cleaning air filters is a boring, but easily-explained way to briefly sequester himself away from the other crew. But the conversation is inevitable; Dr. Bail will continue to ping him with the persistence of a machine until he concedes.
+"I'm kind of busy, but if you must," responds Nakamura. Dr. Bail is an unwelcome interruption. His introvert needs time alone; swapping and cleaning air filters is a boring, but easily-explained way to sequester himself away from the other crew. He could ignore the request, but the conversation is inevitable; Dr. Bail will continue to ping him with the persistence of a machine until he concedes.
 
-He picks up the bags of new and old filters, then moves to the next room. He will do this four more times as he works towards the stern of Rome IV.
+He picks up the bags of new and old filters, then moves to the next room. He will do this four more times as he works towards the stern of Rome IV. Nakamura is in the far forward end of Rome IV, just behind the deflated Aeneas orbiter. Rome IV is the transport between Earth and Venus. Aeneas is a blimp that will orbit Venus at fifty-two kilometers, providing a halfway station with access to the planet surface.
 
-| *(explanation of Rome IV and Aeneas. Detail that Aeneas reflects radiation from the sun and will shield both Rome IV (when in transit) and the habitat module of Aeneas when in orbit around venus)*
-
-Nakamura is in the far forward end of Rome IV. Just ahead of him is the deflated Aeneas. When they reach Venus it will be inflated and deployed fifty-two kilometers above the surface of the planet. The Aeneas habitat will hang below the blimp; the Rome IV CSM will orbit above the atmosphere.
+Even deflated and tightly packed, Aeneas provides shade from the sun. Rome IV trails behind, long and slender and protected from the intense radiation. Just like standing in the shadow of a fence post in June outside of Phoenix, Arizona.
 
 "Did you notice anything unusual about the filter you just removed?" asks Dr. Bail.
 
-"There isn't anything wrong with either the old or replacement filters," responds Nakamura. "And... the filter fit back in the slot without any resistance."
+"There isn't anything wrong with the old filter," responds Nakamura. "The replacement filter fit back in the slot without any resistance."
 
 "That's good to hear," says Bail. "How are you feeling today?"
 
@@ -37,7 +35,11 @@ Both Nakamura and Dr. Bail know Dr. Bail is a chatterbot. But Dr. Bail won't bre
 
 > *This is when conflict begins to ramp up. The rising action usually begins with what's called an "inciting incident"---the triggering event that puts the main events of the story in motion. This is when the audience starts to see what your story is really about.*
 
-"Touché. Spoken like a true Rogerian." Nakamura pauses to swap the next filter. The old filter bag now contains two filters.
+"Touché. Spoken like a true Rogerian."
+
+Nakamura reaches across the module to replace the corresponding filter. He opens the access door, flips out the handle, and tugs but the filter remains in place. Anybody else might just tug again, but Nakamura pauses for two reasons: he's curious why the filter resists - and - if the filter breaks, it might affect the breathing air on Rome IV. He looks closely around the edges for a jammed fitting.
+
+> Nakamura pauses to swap the next filter. The old filter bag now contains two filters.
 
 "I'm trying to be forgiving of my crew mates," says Nakamura. In clipped tones, he continues. "I can't help but think of them as lazy, unimaginative, or simply doomed to mediocrity." He is surprised at his candor, but Dr. Bail makes no comment.
 
@@ -127,7 +129,7 @@ This is obviously one of a collection of random questions burped out by the chat
 
 The filter doesn't float free; the Rome IV is accelerating towards Venus and that simulates gravity. Halfway between Earth and Venus, Rome IV will turn end-for-end and accelerate away from Venus, slowing their speed for orbital insertion. *Physics-blah-blah-blah.* Nakamura only knows he has to schlep the bag of filters half the length of the ship to the rejuvenation lab.
 
---- --- ---
+------------------------------------------------------------------------
 
 , away from the VeeCee.
 
@@ -140,3 +142,14 @@ Nice try on behalf of marketing, but the media refers to it as the *VOMit COMET*
 "You must be referring to Aeneas," says the press secretary.
 
 "Right," replies the press. "The VeeCee."
+
+------------------------------------------------------------------------
+
+| *(explanation of Rome IV and Aeneas. Detail that Aeneas reflects radiation from the sun and will shield both Rome IV (when in transit) and the habitat module of Aeneas when in orbit around venus)*
+| 
+
+When they reach Venus it will be inflated and deployed fifty-two kilometers above the surface of the planet. The Aeneas habitat will hang below the blimp; the Rome IV CSM will orbit above the atmosphere.
+
+-----
+
+Kaniela Nakamura pulls a filter out of the wall, places it in a bag, snaps in a replacement, and records the swap in the maintenance records. It's an unremarkable task with no drama. He closes the access panel with more force than necessary.
