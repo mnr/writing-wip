@@ -18,6 +18,8 @@ The main character. The "front" of the collective.
 
 ## Narrative:
 
+Kaniela is from Phoenix Arizona.
+
 Kaniela was the research specialist aboard *Rome IV* , a mission to orbit Venus. *Rome IV* was to make a flyby and drop of resources to be used for the Venus floating station, but suffered a massive electronics blackout due to an unexpected solar flare.
 
 Of the five astronauts aboard, only Kaniela returned to Earth, the rest of the crew dying of massive radiation burns and life support failures. Kaniela had been in the hydroponics lab when the flare erupted - the water in the walls shielded him from the radiation.
