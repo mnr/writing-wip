@@ -10,15 +10,17 @@ Research Command
 
     -   ![](https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/styles/full_width/public/thumbnails/image/wss-water-in-space.jpg)
 
--   **She has a son**
+-   **She has a husband & son**
 
-    -   Son's name: Charlie
+    -   Son's name: Charlie.
 
     -   Ellen is part of a co-housing parenting collective.
 
     -   Ellen is a financial contributor
 
     -   Kim, her partner, is "in-person" at the collective. Kim is a carpenter.
+
+![](https://as1.ftcdn.net/v2/jpg/03/12/88/92/1000_F_312889274_vsm0eCPjBJro6VMwmouzQrNHyInuGSF2.jpg){width="317"}
 
 ## Narrative
 
