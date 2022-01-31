@@ -19,7 +19,9 @@ She doesn't add the MDM to the spacewalk; there ought to be a way to fix it from
 
 Crawlers are expensive mechanical crabs with manipulators instead of pincers, easy to use for quick repairs. They always have three of six legs attached, never from the same side. Detachment would result in falling down a bottomless pit, forever lost to the ship. The alternative is a human suiting up for a spacewalk, a complex activity requiring days of preparation, shutting down the drive, and subsequent recovery.
 
-Huey, the second of three crawlers, has an adult man's voice, Dewey has a young boy's voice. This isn't intended to make them human. Rather, it provides the astronauts aboard Rome IV quick confirmation of which crawler they are working with. The crawlers do have a bit of artificial intelligence, but only enough to be able to plot the shortest route between two points, find the best grab point, recognize components, and perform simple actions.
+Huey, the second of three crawlers, is twice the size of Louise and carries stronger manipulator arms. It has an adult man's voice, Dewey has a young boy's voice and is half the size of Louise. Dewey is the quickest and nimblest of the three.
+
+The voices aren't intended to make them human. Rather, it provides the astronauts aboard Rome IV quick confirmation of which crawler they are working with. The crawlers do have a bit of artificial intelligence, but only enough to be able to plot the shortest route between two points, find the best grab point, recognize components, and perform simple actions.
 
 This hasn't stopped other (bored) members of the crew from using the crawlers to put on performances. The recording of Dewey and Huey performing "Who's On First" is viral.
 
@@ -95,22 +97,54 @@ She fantasized about being less independent with Charlie, more compliant for Kim
 
 "I have arrived," says Dewey. This crawler is right next to the MDM and could easily open the panel; Ellen instead chooses to work on Louise first.
 
-"Huey, mimic my right hand. Dewey, mimic my left hand." She untangles Louise's legs from the anchor point.
+"Huey, mimic my right hand. Dewey, mimic my left hand." Pushing and pulling, she untangles Louise's legs from the anchor point. She pumps the air in celebration of her success: Huey follows the action. *It's so much easier with fewer people in the loop.*
 
-# It's so easy when people/crawlers do what I can see is obvious...
+Louise pulls herself forward and away from the other two crawlers. *Forward and away...* she thinks.
 
-Louise pulls herself forward and away from the other two crawlers. *Forward and away...* she thinks. Is she pulling forward and away from Kim and Charlie? Or is she giving them room to express themselves. Kim would say the former. Charlie is still to young to have made up his mind.
+"Louise and Dewey, you can return to your bay." Ellen watches the two crawlers wander off. She is left with Huey.
 
-"Huey and Louise, you may return to your garage," says Ellen. The two crawlers carefully wander off towards their home on the hull. Dewey remains behind.
+Reaching towards the MDM moves Huey in that direction. Together, they select the correct tool and open the access panel. She knows what they want to do; Huey knows how to do it.
 
-Ellen watches the two leave, then speaks to Dewey. "Dewey, mimic my hands." Opening the MDM, she can see there is nothing visibly wrong. Dewey will have to bring it inside where they can use the diagnostic lab tools. Not a waste of time, but not a success story either.
+"I'm pregnant," she told Kim, six months after meeting him at a subcontractor meet-and-greet. Charlie was a sudden development, but she was curious enough about parenthood to pursue it. Like she pursued Kim. He was a puzzle, with his emotions and romantic rituals. He insisted on making the bed when he slept over, said it honored the relationship.
 
-Dewey places the MDM on its back and moves out of sight towards the equipment airlock. Before she goes, she completes the letter to Kim.
+Kim was more enthusiastic than she was prepared for. He was the oldest of his siblings and had helped raise the last child. He knew how to do it. They moved into a two-bedroom apartment within a month, enrolled in pre-natal courses, started eating *really* healthy. She chafed a bit at the endless list of demands necessary for the health of this child, but she cooperated.
+
+She pushes the test button; Five cards have green lights, one flickers red. She - Huey - reaches in, grabs the handle on the red board and pulls. The board should slide out, but doesn't.
+
+"What are you eating?" asked Kim. She said she would be home for dinner tonight, but was late (*again*) at the flight simulator. Kim had called and watched her through a video conference.
+
+"It's a bologna sandwich from the robo-chef," she replied. "I'm hungry."
+
+"Great," says Kim with a sarcastic roll of his eyes. He holds a plate of ratatouille with eggs in front of the camera. "By the time you get home, this will be cold."
+
+She reaches towards the red MDM card, grabs it and pulls with strength. "Come on, dammit! Come out of there."
+
+"The amount of force you are suggesting is greater than this card can withstand," says Huey. He is simply quoting from the big book of subcontractor specifications. Huey will not exceed those specifications, no matter how frustrated Ellen might become. Swearing at Huey will not change his mind.
+
+"I'm sure what you've made will still be delicious when I get home," Ellen tells Kim through the video. "My ETA is fifteen minutes. We can have dinner, then compare notes on how we got pregnant."
+
+Ellen and Huey unbolt the entire MDM and fasten it to Huey's back. Slowly, carefully, he climbs towards the maintenance airlock. Doing this correctly was worth the time and effort.
+
+Ellen retrieves the maintenance clipboard and examines the list. Their relationship hadn't always been tedious maintenance. If she squinted, she could see a list of challenges; not tedium.
+
+Tonight, after her day was through, she would call Charlie. And Kim. She would show them her letter of resignation, effective the day she returned to Earth.
+
+When Kim figured out what he wanted, she would know how to do it.
+
+# clipped - not using
+
+Is she pulling forward and away from Kim and Charlie? Or is she giving them room to express themselves. Kim would say the former. Charlie is still to young to have made up his mind.
+
+"Dewey and Louise, please return to your garage," says Ellen. The two crawlers wander off towards their home on the hull. Huey remains behind. Opening the MDM, she can see there is nothing visibly wrong. Huey will have to bring it inside where they can use the diagnostic lab tools. Not a waste of time, but not a success story either.
+
+---
+
+Huey places the MDM on its back and moves out of sight towards the equipment airlock. Before she goes, she completes the letter to Kim.
 
 "I'd like to keep our family moving forward together - not away. Is that something we can do from 100 million kilometers?"
 
 Ellen picks up the clipboard and resumes the tedium of maintenance. It's painful, but important. Something she is learning.
 
-# clipped - not using
+# ---
 
 Making notes and checking boxes on a clipboard.
