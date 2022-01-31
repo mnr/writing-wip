@@ -51,13 +51,17 @@ She needs more eyes on the problem.
 
 Accepting the flight to Venus was a ten-month commitment, plus a year of intense preparation and years of exhaustive follow-up. Kim chafed at this project, comparing it to her mode of participation in family hikes.
 
-She didn't see the problem; Charlie had a great school and a great father. Kim had a monogamous partner with a good income. Regardless, her departure was not a positive step forward in the relationship; Kim doubted the relationship would be intact when she returned.
+She didn't see the problem; Charlie had a great school and a great father. Kim had a monogamous partner with a good income. Regardless, her departure was not a positive step forward in the relationship.
 
-*"something," kim said...*
+"Ellen, this relationship can't survive your trip," said Kim. He had arranged for Charlie to be at his grandmother's for the evening; she assumed this would be a romantic evening.
+
+"My job..." she started.
+
+"Yes, your job asks a lot - of all three of us. And that means you need to try even harder to stay in touch with Charlie and I," Kim said. He picked at the spaghetti. "You like challenges and we are the most meaningful challenge you will ever have."
 
 # STOPPED HERE. 
 
-She hadn't heard from Kim and Charlie today and might not until the MDM and antenna issue was repaired. The lack of contact isn't her motivation to fix the antenna; the challenge to fix the problem is enough all by itself. But she has a bit of time - enough to queue up a message.
+She hadn't heard from Kim and Charlie today and might not until the MDM and antenna issue was repaired. The lack of contact isn't her motivation to fix the antenna; the challenge to fix the problem is enough all by itself. But she has a bit of time - enough to queue up a video.
 
 "Hi Kim. Hi Charlie. I'm still out here, putzing along to Venus. Stuff is broken so I can't send this right away.
 
