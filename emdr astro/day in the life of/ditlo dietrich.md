@@ -130,21 +130,3 @@ Ellen retrieves the maintenance clipboard and examines the list. Their relations
 Tonight, after her day was through, she would call Charlie. And Kim. She would show them her letter of resignation, effective the day she returned to Earth.
 
 When Kim figured out what he wanted, she would know how to do it.
-
-# clipped - not using
-
-Is she pulling forward and away from Kim and Charlie? Or is she giving them room to express themselves. Kim would say the former. Charlie is still to young to have made up his mind.
-
-"Dewey and Louise, please return to your garage," says Ellen. The two crawlers wander off towards their home on the hull. Huey remains behind. Opening the MDM, she can see there is nothing visibly wrong. Huey will have to bring it inside where they can use the diagnostic lab tools. Not a waste of time, but not a success story either.
-
----
-
-Huey places the MDM on its back and moves out of sight towards the equipment airlock. Before she goes, she completes the letter to Kim.
-
-"I'd like to keep our family moving forward together - not away. Is that something we can do from 100 million kilometers?"
-
-Ellen picks up the clipboard and resumes the tedium of maintenance. It's painful, but important. Something she is learning.
-
-# ---
-
-Making notes and checking boxes on a clipboard.
