@@ -51,23 +51,25 @@ She needs more eyes on the problem.
 
 Accepting the flight to Venus was a ten-month commitment, plus a year of intense preparation and years of exhaustive follow-up. Kim chafed at this project, comparing it to her mode of participation in family hikes.
 
-She didn't see the problem; Charlie had a great school and a great father. Kim had a monogamous partner with a good income. Regardless, her departure was not a positive step forward in the relationship.
+She didn't see the problem; Charlie had a great school and a great father. Kim had a faithful partner with a good income.
 
-"Ellen, this relationship can't survive your trip," said Kim. He had arranged for Charlie to be at his grandmother's for the evening; she assumed this would be a romantic evening.
+"Ellen, this family can't survive your trip," said Kim. He had arranged for Charlie to be at his grandmother's for the evening; she assumed this would be a romantic dinner.
 
 "My job..." she started.
 
-"Yes, your job asks a lot - of all three of us. And that means you need to try even harder to stay in touch with Charlie and I," Kim said. He picked at the spaghetti. "You like challenges and we are the most meaningful challenge you will ever have."
+"Yes, your job asks a lot - of all three of us. And that means you need to try even harder with Charlie and I," Kim said. He picked at his spaghetti. "You like challenges. We are the most meaningful challenge you will ever have."
 
-# STOPPED HERE. 
+"This is unfair," she said. "You get to do what you want. If we want this expensive school for Charlie and you want to start your business, then we need my income. That income is a result of my job, which you are asking me to give up."
 
-She hadn't heard from Kim and Charlie today and might not until the MDM and antenna issue was repaired. The lack of contact isn't her motivation to fix the antenna; the challenge to fix the problem is enough all by itself. But she has a bit of time - enough to queue up a video.
+Kim left the table. Ellen left the Earth.
+
+Charlie sent messages when Kim felt the need, but they were becoming less frequent. The lack of contact isn't her motivation to fix the antenna; the challenge to fix the problem is enough all by itself. But Huey is still enroute - enough time to queue up a video.
 
 "Hi Kim. Hi Charlie. I'm still out here, putzing along to Venus. Stuff is broken so I can't send this right away.
 
-"I've been thinking about our family. You've mentioned I'm distant and don't seem invested in the relationship. Well - I'm certainly distant now - and will be for another year - but I think it's wrong to say I'm not invested. I just want you to be free to pursue your life the same way I pursue mine."
+"You've mentioned I'm distant and don't seem invested in the relationship. True - I'm certainly distant now - and will be for another year - but I think it's wrong to say I'm not invested. I just want you to be free to pursue your life the same way I pursue mine."
 
-"I have arrived," Huey says. Sure enough, a second crawler is peeking over the left edge of the window, waiting for instructions. Ellen pauses the message to Kim.
+"I have arrived," Huey interrupts. Sure enough, a second crawler is peeking over the left edge of the window, waiting for instructions. Ellen pauses the message to Kim.
 
 She nudges Huey to get a better view of Louise; through his eyes, she can see how Louise has jammed two legs into one grab-point, wedging itself in place and unable to release it's grip.
 
@@ -75,27 +77,27 @@ She nudges Huey to get a better view of Louise; through his eyes, she can see ho
 
 "*Can't free the crawler, but at least I can fix the antenna.*" Ellen moves Huey towards the broken MDM until it stops. Louise is blocking the grab points Huey needs. "*Curses, foiled again.*" she thinks.
 
-If Kim were here, he would be silently broadcasting his frustration with Ellen and her unpredictability. Charlie would dive in, grab controls and flail towards a solution. She hated that about Kim, loved that about Charlie. She loved that Kim gave her space to fail, hated that Charlie's energy forced her to act abruptly.
+If Kim were here, he would silently broadcast his frustration with Ellen and her determination. Charlie would dive in, grab controls and flail towards a solution. She hated that about Kim, loved that about Charlie.
 
 "Huey, move so you can see Louise's backside." Ellen tells Huey to move, then snickers. Is this an HR violation? Someone on earth will review this later and hopefully have a laugh. Huey makes no comment and moves into place.
 
-Now Ellen can see how the tip of one leg has passed through the grab point and wedged into the clamp at the end of another leg. How this happened is a mystery, but getting the leg free is going to require three hands. Ellen wonders for a minute if she could just use Huey to give Louise a hard yank. It might work, or it might not, or it might bust something else. Tempting - but she makes the smart choice.
+Now Ellen can see how the tip of one leg has passed through the grab point and wedged into the clamp at the end of another leg. Getting it free will require three hands. Ellen wonders if she could just use Huey to give Louise a hard yank. It might work, or it might not, or it might bust something else. Tempting - but she makes the smart choice.
 
 "Dewey, come to the right side of this window."
 
-"Are you sure?" Rome IV interrupts. "This will move all crawlers to one location. An accident may cause the loss of Huey, Louise, and Dewey." Rome IV has a bit more smarts than the crawlers and is able to calculate risk/reward assessments. Rome IV, like Kim, doesn't approve of Ellen's increasingly risky approach to this repair.
+"Are you sure?" Huey interrupts. "This will move all crawlers to one location. An accident may cause the loss of Huey, Louise, and Dewey." Huey, like Kim, doesn't approve of Ellen's increasingly risky approach.
 
 "I confirm my request," says Ellen. Again, the smart thing would be to include this as part of the maintenance to be performed later today. But she is obsessed and is willing to double-down on her solution. For the briefest of moments, she is aware of making a commitment on behalf of the entire project and crew.
 
 "I will arrive in fifteen minutes," Dewey pipes up. The juvenile voice synthesizes enthusiasm. Some engineer back on earth must be proud of this little tweak to an otherwise dry programming request. Charlie would be enthusiastic. Kim would not.
 
-She fantasized about being less independent with Charlie, more compliant for Kim. "*Kim, what do you think? Should we fix this ourselves, or call in the entire crew for consultation?"* She could voice the request inside her head, but even in the privacy of the lab she couldn't bring herself to say it out loud. She begins to add to the letter she started, but makes no headway.
+She fantasized about being less independent with Charlie, more compliant for Kim. "*Kim, what do you think? Should we fix this ourselves, or call in the entire crew for consultation?"* She could voice the request inside her head, but even in the privacy of the lab she couldn't bring herself to say it out loud. She begins to add to the video to Kim, but makes no headway.
 
 "I have arrived," says Dewey. This crawler is right next to the MDM and could easily open the panel; Ellen instead chooses to work on Louise first.
 
-"Louise, mimic my hand." Ellen uses Louise's front manipulator to grip an anchor point.
+"Huey, mimic my right hand. Dewey, mimic my left hand." She untangles Louise's legs from the anchor point.
 
-"Huey, mimic my right hand. Dewey, mimic my left hand." Ellen takes a minute to get accustomed to watching Huey and Dewey's video feeds as well as moving their arms. It's disorienting; similar to writing with your left hand instead of your dominant right hand. Slowly, and with help from Dewey and Huey, she untangles Louise's legs from the anchor point.
+# It's so easy when people/crawlers do what I can see is obvious...
 
 Louise pulls herself forward and away from the other two crawlers. *Forward and away...* she thinks. Is she pulling forward and away from Kim and Charlie? Or is she giving them room to express themselves. Kim would say the former. Charlie is still to young to have made up his mind.
 
