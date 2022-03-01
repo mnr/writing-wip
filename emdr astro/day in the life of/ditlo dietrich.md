@@ -39,11 +39,11 @@ She can see herself from the crawler's video camera; it shows her behind the win
 
 The video lurches, but Louise remains where it is. Ellen can see the crawler twitching, unable to reach the next grab point. Ellen can't see why. With enough time, she could summon Huey or Dewey to rescue Louise. Or she can add this to a maintenance EVA. This problem is becoming larger and, for Ellen, more interesting. She puts down the routine maintenance clipboard and tries to get a better look at Louise's rear legs.
 
-Kim, her partner and father to Charlie, learned not to re-direct her obsessions. Kim is steady, a suitable partner for someone with an aversion to boredom and attraction to novel challenges. They built a child who was happy to live on earth, with Kim, at the parenting collective. She loves Charlie. She loves Kim. She misses them both, but was driven to be on the Rome IV, staring down a stuck crawler, broken box, and inoperable antenna.
+Jim, her partner and father to Charlie, learned not to re-direct her obsessions. Jim is steady, a suitable partner for someone with an aversion to boredom and attraction to novel challenges. They built a child who was happy to live on earth, with Jim, at the parenting collective. She loves Charlie. She loves Jim. She misses them both, but was driven to be on the Rome IV, staring down a stuck crawler, broken box, and inoperable antenna.
 
-Kim is a more hands-on parent than Ellen. On hikes, Ellen would be far ahead, assuming Kim and Charlie would explore and learn on their own time; Ellen would not force education on Charlie, nor would she force enjoyment on Kim.
+Jim is a more hands-on parent than Ellen. On hikes, Ellen would be far ahead, assuming Jim and Charlie would explore and learn on their own time; Ellen would not force education on Charlie, nor would she force enjoyment on Jim.
 
-More than once, when Kim and Charlie caught up to her, there were harsh words about the "family" hike and Ellen's lack of participation. Yes, a hike was for physical exercise; but it was also a bonding experience and a chance to share interests and viewpoints. By charging off, Ellen missed that experience. That was Kim's view - Ellen disagreed; saw it as giving them space for unsupervised learning.
+More than once, when Jim and Charlie caught up to her, there were harsh words about the "family" hike and Ellen's lack of participation. Yes, a hike was for physical exercise; but it was also a bonding experience and a chance to share interests and viewpoints. By charging off, Ellen missed that experience. That was Jim's view - Ellen disagreed; saw it as giving them space for unsupervised learning.
 
 She needs more eyes on the problem.
 
@@ -51,27 +51,27 @@ She needs more eyes on the problem.
 
 "I'll be there in ten minutes," Huey responds. This seems like a long time - but it's infinitely quicker than suiting up herself. The crawlers are methodical and know the shortest path from their garage to any point on the ship. She will just have to wait.
 
-Accepting the flight to Venus was a ten-month commitment, plus a year of intense preparation and years of exhaustive follow-up. Kim chafed at this project, comparing it to her mode of participation in family hikes.
+Accepting the flight to Venus was a ten-month commitment, plus a year of intense preparation and years of exhaustive follow-up. Jim chafed at this project, comparing it to her mode of participation in family hikes.
 
-She didn't see the problem; Charlie goes to an elite school and has a caring father. Kim has a faithful partner with a good income.
+She didn't see the problem; Charlie goes to an elite school and has a caring father. Jim has a faithful partner with a good income.
 
-"Ellen, this family can't survive your trip," said Kim. He had arranged for Charlie to be at his grandmother's for the evening; she assumed this would be a romantic dinner.
+"Ellen, this family can't survive your trip," said Jim. He had arranged for Charlie to be at his grandmother's for the evening; she assumed this would be a romantic dinner.
 
 "My job..." she started.
 
-"Yes, your job asks a lot - of all three of us. And that means you need to try even harder with Charlie and I," Kim said. He picked at his spaghetti. "You like challenges. We are the most meaningful challenge you will ever have."
+"Yes, your job asks a lot - of all three of us. And that means you need to try even harder with Charlie and I," Jim said. He picked at his spaghetti. "You like challenges. We are the most meaningful challenge you will ever have."
 
 "This is unfair," she said. "You get to do what you want. If we want this expensive school for Charlie and you want to start your business, then we need my income. That income results from my job, which you are asking me to give up."
 
-Kim left the table. Ellen left the Earth.
+Jim left the table. Ellen left the Earth.
 
-Charlie sent messages when Kim felt the need, but they were becoming less frequent. The lack of contact isn't her motivation to fix the antenna; the challenge to fix the problem is enough all by itself. But Huey is still en route - enough time to queue up a video.
+Charlie sent messages when Jim felt the need, but they were becoming less frequent. The lack of contact isn't her motivation to fix the antenna; the challenge to fix the problem is enough all by itself. But Huey is still en route - enough time to queue up a video.
 
-"Hi Kim. Hi Charlie. I'm still out here, putzing along to Venus. Stuff is broken, so I can't send this right away."
+"Hi Jim. Hi Charlie. I'm still out here, putzing along to Venus. Stuff is broken, so I can't send this right away."
 
 "You've mentioned I'm distant and don't seem invested in the relationship. True - I'm certainly distant now - and will be for another year - but I think it's wrong to say I'm not invested. I just want you to be free to pursue your life the same way I pursue mine."
 
-"I have arrived," Huey interrupts. Sure enough, a second crawler is peeking over the left edge of the window, waiting for instructions. Ellen pauses the message to Kim.
+"I have arrived," Huey interrupts. Sure enough, a second crawler is peeking over the left edge of the window, waiting for instructions. Ellen pauses the message to Jim.
 
 She nudges Huey to get a better view of Louise; through his eyes, she can see how Louise has jammed two legs into one grab-point, wedging itself in place and unable to release its grip.
 
@@ -79,7 +79,7 @@ She nudges Huey to get a better view of Louise; through his eyes, she can see ho
 
 "*Can't free the crawler, but at least I can fix the antenna.*" Ellen moves Huey towards the broken MDM until it stops. Louise is blocking the grab points Huey needs. "*Curses, foiled again.*" she thinks.
 
-If Kim were here, he would silently broadcast his frustration with Ellen and her determination. Charlie would dive in, grab controls and flail towards a solution. She hated that about Kim, loved that about Charlie.
+If Jim were here, he would silently broadcast his frustration with Ellen and her determination. Charlie would dive in, grab controls and flail towards a solution. She hated that about Jim, loved that about Charlie.
 
 "Huey, move so you can see Louise's backside." Ellen tells Huey to move, then snickers. Is this an HR violation? Someone on earth will review this later and hopefully have a laugh. Huey makes no comment and moves into place.
 
@@ -87,13 +87,13 @@ Now Ellen can see how the tip of one leg has passed through the grab point and w
 
 "Dewey, come to the right side of this window."
 
-"Are you sure?" Huey interrupts. "This will move all crawlers to one location. An accident may cause the loss of Huey, Louise, and Dewey." Huey, like Kim, doesn't approve of Ellen's increasingly risky approach.
+"Are you sure?" Huey interrupts. "This will move all crawlers to one location. An accident may cause the loss of Huey, Louise, and Dewey." Huey, like Jim, doesn't approve of Ellen's increasingly risky approach.
 
 "I confirm my request," says Ellen. Again, the smart thing would be to include this as part of the maintenance to be performed later today. But she is obsessed and will double-down on her solution. For the briefest of moments, she is aware of making a commitment on behalf of the entire project and crew.
 
-"I will arrive in fifteen minutes," Dewey pipes up. The juvenile voice synthesizes enthusiasm. Some engineer back on earth must be proud of this little tweak to an otherwise dry programming request. Charlie would be enthusiastic. Kim would not.
+"I will arrive in fifteen minutes," Dewey pipes up. The juvenile voice synthesizes enthusiasm. Some engineer back on earth must be proud of this little tweak to an otherwise dry programming request. Charlie would be enthusiastic. Jim would not.
 
-She fantasized about being less independent of Charlie, more compliant for Kim. "*Kim, what do you think? Should we fix this ourselves, or call in the entire crew for consultation?"* She could voice the request inside her head, but even in the privacy of the lab, she couldn't bring herself to say it out loud. She adds to the video to Kim, but makes no headway.
+She fantasized about being less independent of Charlie, more compliant for Jim. "*Jim, what do you think? Should we fix this ourselves, or call in the entire crew for consultation?"* She could voice the request inside her head, but even in the privacy of the lab, she couldn't bring herself to say it out loud. She adds to the video to Jim, but makes no headway.
 
 "I have arrived," says Dewey. This crawler is right next to the MDM and could easily open the panel; Ellen instead works on Louise first.
 
@@ -105,28 +105,28 @@ Louise pulls herself forward and away from the other two crawlers. *Forward and 
 
 Reaching towards the MDM moves Huey in that direction. Together, they select the correct tool and open the access panel. She knows what they want to do; Huey knows how to do it.
 
-"I'm pregnant," she told Kim, six months after meeting him at a subcontractor meet-and-greet. Charlie was a sudden development, but she was curious enough about parenthood to pursue it. Like she pursued Kim. He was a puzzle, with his emotions and romantic rituals. He insisted on making the bed when he slept over, said it honored the relationship.
+"I'm pregnant," she told Jim, six months after meeting him at a subcontractor meet-and-greet. Charlie was a sudden development, but she was curious enough about parenthood to pursue it. Like she pursued Jim. He was a puzzle, with his emotions and romantic rituals. He insisted on making the bed when he slept over, said it honored the relationship.
 
-Kim was more enthusiastic than she was prepared for. He was the oldest of his siblings and had helped raise the last child. He knew how to do it. They moved into a two-bedroom apartment within a month, enrolled in pre-natal courses, started eating *really* healthy. She chafed a bit at the endless list of demands necessary for the health of this child, but she cooperated.
+Jim was more enthusiastic than she was prepared for. He was the oldest of his siblings and had helped raise the last child. He knew how to do it. They moved into a two-bedroom apartment within a month, enrolled in pre-natal courses, started eating *really* healthy. She chafed a bit at the endless list of demands necessary for the health of this child, but she cooperated.
 
 She pushes the test button; Five cards have green lights, one flickers red. She - Huey - reaches in, grabs the handle on the red board and pulls. The board should slide out, but doesn't.
 
-"What are you eating?" asked Kim. She said she would be home for dinner tonight, but was late (*again*) at the flight simulator. Kim had called and watched her through a video conference.
+"What are you eating?" asked Jim. She said she would be home for dinner tonight, but was late (*again*) at the flight simulator. Jim had called and watched her through a video conference.
 
 "It's a bologna sandwich from the robo-chef," she replied. "I'm hungry."
 
-"Great," says Kim with a sarcastic roll of his eyes. He holds a plate of ratatouille with eggs in front of the camera. "By the time you get home, this will be cold."
+"Great," says Jim with a sarcastic roll of his eyes. He holds a plate of ratatouille with eggs in front of the camera. "By the time you get home, this will be cold."
 
 She reaches towards the red MDM card, grabs it, and pulls with strength. "Come on, dammit! Come out of there."
 
 "The amount of force you are suggesting is greater than this card can withstand," says Huey. He is simply quoting from the big book of subcontractor specifications. Huey will not exceed those specifications, no matter how frustrated Ellen might become. Swearing at Huey will not change his mind.
 
-"I'm sure what you've made will still be delicious when I get home," Ellen tells Kim through the video. "My ETA is fifteen minutes. We can have dinner, then compare notes on how we got pregnant."
+"I'm sure what you've made will still be delicious when I get home," Ellen tells Jim through the video. "My ETA is fifteen minutes. We can have dinner, then compare notes on how we got pregnant."
 
 Ellen and Huey unbolt the entire MDM and fasten it to Huey's back. Slowly, carefully, he climbs towards the maintenance airlock. Doing this correctly was worth the time and effort.
 
 Ellen retrieves the maintenance clipboard and examines the list. Their relationship hadn't always been tedious maintenance. If she squinted, she could see a list of challenges; not tedium.
 
-Tonight, after her day was through, she would call Charlie. And Kim. She would show them her letter of resignation, effective the day she returned to Earth.
+Tonight, after her day was through, she would call Charlie. And Jim. She would show them her letter of resignation, effective the day she returned to Earth.
 
-When Kim figured out what he wanted, she would know how to do it.
+When Jim figured out what he wanted, she would know how to do it.
