@@ -5,23 +5,33 @@ author: "Mark Niemann-Ross"
 date: "January 2022"
 ---
 
-Ellen discovered the problem during morning maintenance. The broken thing is a multiplexer / demultiplexer. It's bolted to the outside of the ship, nearby the antenna pointed at Earth. You can call it an "MDM" if you're in a hurry or trying to sound important. If you saw it at a garage sale, you'd pick it up with one hand, squint at the identification plate, then put it back on the table with the other miscellaneous stereo parts. You'd assume it's nothing remarkable.
+Flashing red lights are never welcome, never on a spaceship, and never at the start of a maintenance task. Ellen clears the error report, it turns green, then immediately back to red.
 
-She knows she should add this to the maintenance schedule, then move through today's tasks. These are an endless list of long-term and boring tedium necessary for the health of this ship. The antenna is broken, it will not become any more broken. Other systems are working and her attention to routine maintenance will keep them in operation.
+The broken thing is a multiplexer / demultiplexer. It's bolted to the outside of the ship, nearby the antenna pointed at Earth. Astronauts call it an "MDM" when they're in a hurry or trying to sound important.
 
-Unfortunately, the MDM is remarkable. It is one of two MDMs operating the high-gain antenna, transmitting data from the Rome IV spacecraft to Earth and back. When this MDM failed, the backup took over. If the backup fails, Rome IV will fall back to low-gain antennas. This would be a bad thing. Nobody has died, but this non-operational MDM is making many people very unhappy.
+She *should* add this to the maintenance schedule, then move on to the rest of today's tasks. These are an endless list of long-term and boring tedium necessary for the health of this ship. The MDM is broken, it will not become any more broken. Other systems are working and her attention to routine maintenance will keep them in operation.
 
-There ought to be a way to fix it from here, right now.
+She *would* add this to the maintenance schedule, but today is different. She just received a message from Charlie. He was in tears because his father wouldn't let him go barefoot to school. Jim, Charlie's father and Ellen's partner, hovers in the background. His arms are crossed, lips are tight. Ellen knows the look. Jim was often angry the last two years. It makes Ellen angry and impatient.
 
-"Louise," says Ellen Dietrich. "Please come to my location."
+> "Dad won't let me," cries Charlie. When Ellen is home, Charlie will go to her in hopes of a preferable decision. It puts friction between Jim and Ellen. More friction in an already grinding relationship.
+>
+> "Go ahead," Ellen agrees. There is no winning. Jim is vexed or Charlie is sobbing. She is provoked and makes rash, uncharacteristic decisions.
+
+If you saw the MDM at a garage sale, you'd pick it up with one hand, squint at the identification plate, then put it back on the table with the other miscellaneous stereo parts. You'd assume it's nothing remarkable.
+
+But it is remarkable. The MDM is one of two devices operating the high-gain antenna, transmitting data from the Rome IV spacecraft to Earth and back. When this one failed, the backup took over. If the backup fails, Rome IV will fall back to low-gain antennas. This would be a bad thing. Nobody has died, but this non-operational MDM is making many people very unhappy.
+
+There ought to be a way to fix things from here, right now.
+
+"Louise," says Ellen. "Please come to my location."
 
 "I'll be there in five minutes," responds Louise. The voice sounds like an adult woman, but it actually belongs to one of the three hull crawlers on-board the Rome IV spacecraft. They move around outside, anchoring themselves against one gee acceleration.
 
-Crawlers are expensive mechanical crabs with manipulators instead of pincers, easy to use for quick repairs. They always have three of six legs attached, never from the same side. Detachment would cause falling down a bottomless pit, forever lost to the ship. The alternative is a human suiting up for a spacewalk, a complex activity requiring days of preparation, shutting down the drive, and subsequent recovery.
+Crawlers are mechanical crabs with manipulators instead of pincers, easy to use for quick repairs. They always have three of six legs attached, never from the same side. Detachment would cause falling down a bottomless pit, forever lost to the ship. The alternative is a human suiting up for a spacewalk, a difficult activity requiring days of preparation, shutting down the drive, and subsequent recovery.
 
 Huey, the second of three crawlers, is twice the size of Louise and carries stronger manipulator arms. It has an adult man's voice. Dewey, the third crawler, has a young boy's voice and is half the size of Louise. Dewey is the quickest and nimblest of the three.
 
-The voices aren't intended to make them human. Rather, it provides the astronauts aboard Rome IV quick confirmation of which crawler they are working with. The crawlers have a bit of artificial intelligence, but only enough to plot the shortest route between two points, find the best grab point, recognize components, and perform simple actions.
+The voices aren't intended to make them human. Rather, it provides the astronauts aboard Rome IV quick confirmation of which crawler they are working with. The crawlers have a bit of intelligence, but only enough to plot the shortest route between two points, find the best grab point, recognize components, and perform simple actions.
 
 This hasn't stopped other (bored) members of the crew from using the crawlers to put on performances. The recording of Dewey and Huey performing "Who's On First" is viral.
 
@@ -33,27 +43,27 @@ When Ellen looks down through the top side of the window, she can see Louise; at
 
 To Ellen's right is a monitor fed from Louise's camera. Ellen can see herself; a thirty-something mom with brunette hair.
 
-"Louise, mimic my hand," Ellen instructs the crawler. She reaches toward the MDM; Louise does the same. Ellen reaches for the access door, intending to twist a handle and view the internal diagnostic panel. Louise doesn't reach far enough.
+"Louise, mimic my hand," Ellen instructs the crawler. She reaches toward the MDM; Louise does the same. Ellen reaches for the access door, intending to twist a handle and view the internal diagnostic lights. But Louise doesn't reach far enough.
 
 "Louise, move closer to the MDM."
 
-The video lurches, but Louise remains where it is. Ellen can see the crawler twitching, unable to reach the next grab point. Ellen can't see why. With enough time, she could summon Huey or Dewey to rescue Louise. Or she can add this to a maintenance EVA. This problem is becoming larger and, for Ellen, more interesting. She puts down the routine maintenance clipboard and tries to get a better look at Louise's rear legs.
+The video lurches, but Louise remains where it is. Ellen can see the crawler twitching, unable to reach the next grab point. Ellen can't see why.
 
-> Jim, her partner and father to Charlie, learned not to re-direct her obsessions. Jim is steady, a suitable partner for someone with an aversion to boredom and attraction to novel challenges. They built a child who was happy to live on earth, with Jim, at the parenting collective. She loves Charlie. She loves Jim. She misses them both, but was driven to be on the Rome IV, staring down a stuck crawler, broken box, and inoperable antenna.
+This situation is becoming complex and, for Ellen, more interesting. She puts down the maintenance clipboard and tries to get a better look at Louise's rear legs.
+
+> Jim learned not to re-direct her obsessions. Jim is steady, a suitable partner for someone with an aversion to boredom and attraction to novel challenges. They built a child who was happy to live on earth, with Jim, at the parenting collective. She loves Charlie. She loves Jim. She misses them both, but was driven to be on the Rome IV, staring down a stuck crawler, broken box, and inoperable antenna.
 >
 > Jim is a more hands-on parent than Ellen. On hikes, Ellen would be far ahead, assuming Jim and Charlie would explore and learn on their own time; Ellen would not force education on Charlie, nor would she force enjoyment on Jim.
 >
-> More than once, when Jim and Charlie caught up to her, there were harsh words about the "family" hike and Ellen's lack of participation. Yes, a hike was for physical exercise; but it was also a bonding experience and a chance to share interests and viewpoints. By charging off, Ellen missed that experience. That was Jim's view - Ellen disagreed; she saw it as giving them space for unsupervised learning.
+> More than once, when Jim and Charlie caught up to her, there were harsh words about the "family" hike and Ellen's lack of participation. Yes, Jim agreed, a hike was for physical exercise; but it was also a bonding experience and a chance to share interests and viewpoints. By charging off, Ellen missed that experience. That was Jim's view - Ellen disagreed; she saw it as giving them space for unsupervised learning.
 
-She needs more eyes on the problem.
+She needs more eyes to see what's wrong.
 
 "Huey," Ellen says. "Move to my location."
 
 "I'll be there in ten minutes," Huey responds. This seems like a long time - but it's infinitely quicker than suiting up herself. The crawlers are methodical and know the shortest path from their garage to any point on the ship. She will just have to wait.
 
-Accepting the flight to Venus was a ten-month commitment, plus a year of intense preparation and years of exhaustive follow-up. Jim chafed at this project, comparing it to her mode of participation in family hikes.
-
-She didn't see the problem; Charlie goes to an elite school and has a caring father. Jim has a faithful partner with a good income.
+Accepting the flight to Venus was a ten-month commitment, plus a year of intense preparation and years of exhaustive follow-up. Jim chafed at this project, comparing it to her mode of participation in family hikes. She didn't understand; Charlie goes to an elite school and has a caring father. Jim has a faithful partner with a good income.
 
 > A year before the Rome IV exited earth orbit, Jim had arranged for Charlie to be at his grandmother's for the evening; she assumed this would be a romantic dinner. But no...
 >
@@ -67,13 +77,13 @@ She didn't see the problem; Charlie goes to an elite school and has a caring fat
 >
 > Jim left the table. Ellen left the Earth.
 
-Charlie sent messages when Jim felt the need, but they were becoming less frequent. The loss of this antenna would reduce these messages even further. But the lack of contact isn't her motivation to fix the antenna; the challenge to fix the problem is enough all by itself. But Huey is still en route - enough time to queue up a video.
+Charlie sent messages when Jim felt the need, but they were becoming less frequent. The loss of this antenna would reduce these messages even further. The lack of contact isn't her motivation to fix the antenna; the challenge to fix the problem is enough all by itself. But Huey is still en route - enough time to queue up a video.
 
 "Hi Jim. Hi Charlie. I'm still out here, putzing along to Venus. Stuff is broken, so I can't send this right away."
 
 "You've mentioned I'm distant and don't seem invested in the relationship. True - I'm certainly distant now - and will be for another year - but I think it's wrong to say I'm not invested. I just want you to be free to pursue your life the same way I pursue mine."
 
-"I have arrived," Huey interrupts. Sure enough, a second crawler is peeking over the left edge of the window, waiting for instructions. Ellen pauses the message to Jim.
+"I have arrived," Huey interrupts. Sure enough, a second crawler is peeking over the left edge of the window, waiting for instructions. Ellen pauses the recording.
 
 She nudges Huey to get a better view of Louise; through his eyes, she can see how Louise has jammed two legs into one grab-point, wedging itself in place and unable to release its grip.
 
@@ -81,7 +91,7 @@ She nudges Huey to get a better view of Louise; through his eyes, she can see ho
 
 "*Can't free the crawler, but at least I can fix the antenna.*" Ellen moves Huey towards the broken MDM until it stops. Louise is blocking the grab points Huey needs. "*Curses, foiled again.*" she thinks.
 
-If Jim were here, he would try to convince her to stop, create a plan, debate alternatives, get three bids from contractors, watch several tutorials. Charlie would dive in, grab controls and flail towards a solution. She hated that about Jim, loved that about Charlie.
+[If Jim were here, he would try to convince her to stop, create a plan, debate alternatives, get three bids from contractors, watch several tutorials. Charlie would dive in, grab controls and flail towards a solution. She hated that about Jim, loved that about Charlie.]{.ul}
 
 "Huey, move so you can see Louise's backside." Ellen tells Huey to move, then snickers. Is this an HR violation? Someone on earth will review this later and hopefully have a laugh. Huey makes no comment and moves into place.
 
