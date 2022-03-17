@@ -9,6 +9,8 @@ Nobody sleeps on the streets, although Do-Ye0n fantasizes about the option.
 
 If he wasn't assigned to this apartment, he could choose where he slept, instead of these recyclable sheets and pillow. He could choose what he smelled, instead of the pervasive odor of chlorine and urine from the cassette toilet. He could choose his neighbors, instead of the screaming and thumping of the genetic cesspool collective living on the other side of the shared wall. He could have his freedom.
 
+But he doesn't. So he opens his only door and steps out of the filthy little apartment.
+
 Volume 2
 
 Do-Ye0n lives on
