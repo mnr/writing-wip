@@ -29,13 +29,13 @@ If he can find long term work, he can move someplace that doesn't stink. Day gig
 
 "Yes. Please broaden the industries you are searching. In fact, please remove the automotive sector entirely. It's obvious they don't want me, so let's move on."
 
-"Done," says Alex without hesitation. "Removing the automotive search restriction produces two good matches; cybersecurity and agricultural. Which would you like to start with?"
+"Done," says Alex without hesitation. "Removing the automotive search restriction produces two good matches; cyber security and agriculture. Which would you like to start with?"
 
 "Which pays better?"
 
-"Cybersecurity. It is corporate network penetrative testing."
+"Cyber security. It is corporate network penetrative testing."
 
-"Ransomware, you mean." Do-Ye0n frowns. "What does it pay?"
+"Ransomware, you mean." Do-Ye0n frowns. "What are the numbers?"
 
 "It is ranked in the top 30% of compensation plans, includes level four housing and grants stock options every quarter." Alex smiles. "They have reviewed your resume and are extending an offer. Shall I tell them you are able to start?"
 
@@ -47,7 +47,29 @@ Not surprisingly, the stock market isn't bothered. Corporate espionage (ransomwa
 
 //#
 
-Teaching a computer to assault a data warehouse is easier than teaching a car to solve the trolley problem. The steps are identical; gather data, define the goal, try a solution, evaluate success. Do-Ye0n is good at it.
+Teaching a computer to assault a data warehouse is easy. The steps are: gather data, define the goal, try a solution, evaluate success. Do-Ye0n is good at this. He taught cars to solve the trolley problem. He is teaching computers to pick a lock and crack a safe.
+
+It's not a social job. Do-Ye0n has a desk in a warehouse of desks. The internet flows through the office like an invisible river at flood plain. It feeds whirlpools of data to the fifty-seven people on the inside of a Faraday cage. None of the data leaks out of the office, but those fifty-seven find novel ways to bring data in.
+
+Corporate network penetrative testing used to be illegal. It was breaking and entering secured computers. It was against the law. But laws change. People like Do-Ye0n performed a service by identifying companies with sloppy security. It was like issuing parking tickets to repeat offenders; better to be called out by friends than to be destroyed by enemies.
+
+This is how it works.
+
+Do-Ye0n does his research. He finds an opening. He encrypts data. He calls the new client.
+
+"Hello," starts Do-Ye0n. "I've identified an open port to your system. Our consulting fee is... (this is where Do-Ye0n inserts a large financial amount in the currency local to the company he has contacted.) When you are prepared to remit that fee we will release both the method of penetration and the encryption key to prove the validity of the method."
+
+"Dammit," says the corporate IT representative. "We had that plugged. I cannot believe that was left open. Okay, can you send an invoice?"
+
+"I'll have our billing department contact your purchasing agent," says Do-Ye0n. "I see this isn't our first contract, so we already have the necessary information."
+
+"Yep - not our first time," responds IT. "You're going to get me fired if you keep this up."
+
+"You're going to get yourself fired if you don't close these ports," responds Do-Ye0n. "I'll look forward to speaking to you again."
+
+"Asshole," says IT.
+
+"A pleasure," says Do-Ye0n."
 
 ///---///
 
