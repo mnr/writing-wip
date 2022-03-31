@@ -81,7 +81,7 @@ Do-Ye0n stares at a matrix of numbers, then switches to a heat map, converting n
 
 "Hello. I'm a cybersecurity analyst with Alpha60," starts Do-Ye0n. "I've identified an opening on your system and performed the encryption necessary to verify our research. Our consulting fee is... (this is where Do-Ye0n inserts a large financial amount in the currency local to the company he contacted.) When you remit that fee we will release both the method of penetration and the encryption key."
 
-"Dammit," says the corporate IT representative Do-Ye0n is talking to. "I thought I had that plugged. Okay, can you send an invoice?"
+"Dammit," says the corporate IT representative Do-Ye0n is talking to. "I had that plugged, but guess not. Okay, can you send an invoice?"
 
 "I'll have our billing department contact your purchasing agent," says Do-Ye0n. "I see this isn't our first contract, so we already have the necessary information."
 
@@ -91,11 +91,55 @@ Do-Ye0n stares at a matrix of numbers, then switches to a heat map, converting n
 
 "Asshole," says IT.
 
-"A pleasure," says Do-Ye0n. He breaks the connection.
+"A pleasure," says Do-Ye0n. "Let's do this again soon."
 
-Do-Ye0n is good at this. He's already in the top ten performers list. If he can keep this momentum, he'll be an associate within a year. Possibly a partner in five.
+He breaks the connection. Do-Ye0n is good at this. He's only been at this for a few months and is already in the top ten performers list. If he can keep this momentum, he'll be an associate within a year. Possibly a partner in five.
 
-D0-Ye0n smiles to himself in cubicle number thirty-five of fifty-seven. He takes a moment to savor this unexpected success, but only a moment before he dives into the next corporate network.
+D0-Ye0n smiles to himself in cubicle thirty-five of fifty-seven. He takes a moment to savor this unexpected success, but only a moment before he dives into the next corporate network.
+
+//#
+
+"Alpha60 is outperforming."
+
+Chip Venetian tweaked the color of his tie and looked around the virtual conference. Commodities lawyers tended to choose conservative avatars for these meetings, although Chip knew several who would switch out to wild-side versions during their off-hours. While they discussed the business of the partnership, everyone was dead serious.
+
+"They've been hiring penetrators for the past year and are seeing some solid returns. They've documented fifty-seven assets in Portland alone, with probably double that number in New York," says Chip. He tosses an animated performance chart into the room, illustrating the short term growth of Alpha60's value.
+
+"Their stock is valuable enough, and fragile enough, that they'll take an arrest-threat as possible and having serious consequences. I think we should be the firm to work the challenge and realize the value of a strike."
+
+The three non-english speakers respond through translators, by presenting icons, or changing their expressions. They all agree with Chip. Five of the remaining eight participants verbally agree; three do not. The disagreement isn't about the ethics of Alpha60, or the ethics of threatening a corporation. It's purely about the return on potential gains to be realized given the amount of work to be done to shake-down a business involved in *Corporate Penetrative Testing*. Threatening Alpha60 without doing the required homework would only invite the likelihood of a ransomware attack in response.
+
+"It's decided then," concludes Chip. "I'll put together a strike team and we can move when the plan is set up. I forecast payoff within the month."
+
+//#
+
+Do-Ye0n swallows the last of a power drink, basketball-tosses the foil container in the trash and waves through the research in his virtual field-of-view. He's already completed one billable invasion this week and he wants this next one to be bigger. Bigger and more worthwhile of his time. If he's going to make partner, he needs impressive plays. He's confident he can swing it.
+
+The shifting graph in his main view is abruptly pushed to the corner. In its place is some sort of corporate communiqué, telling him to please report to room 1233, an office upstairs.
+
+*That was quick*, he thinks. Smiling, he grabs his terminal and heads for the elevator. Working in the cube farm was beneath him and he's looking forward to a room with a view of the skyline.
+
+He presents himself to the elevator station. Almost immediately, one of the sliding doors open and call his name. He walks in, the door shuts, and accelerates skyward. *This is almost poetic*, he thinks. The interior of the elevator is bland, but his visor displays enough interesting data to keep his attention. It's only a minute before he's decelerating and stopping on the twelfth floor.
+
+The door opens to an unfinished space. There isn't carpet on the floor, the walls are still rough construction board, and there is no common space. His visor informs him to go left, then straight, then open the third door. *This must be an expansion. I'm on a new team. Probably the director of the team.*
+
+He opens a door marked as 1233 and steps in. Two security guards flank a chair, which faces a desk, behind which is sitting a woman younger than Do-Ye0n. Other than the desk and chair, there is no other furniture. There isn't a window and light seems to come from a hidden source. Probably the walls are painted with electro-luminescent paint. One of the security guards moves the chair around, motioning for him to sit. He does so, arranges his legs and faces the woman. He smiles.
+
+"Do-Ye0n Kurrat?" asks the woman. "This is you, correct?"
+
+"Of course," says Do-Ye0n. "I'm pleased to be here."
+
+"Well, maybe not," she responds.
+
+Do-Ye0n notices there is no name band, either real or virtual. Neither guard has a name band. He's the only person with a name in this office.
+
+"I'm afraid we've been notified of some aggressive transactions between you and several corporations." She waves up a list of Do-Ye0n's billable hours over the past month. "You've been planting ransomware in computer systems and extorting companies to have it removed. You've been doing this during work hours and while accessing the corporate bandwidth."
+
+"Yes, I have." agrees Do-Ye0n. "I believe I've been quite successful. Are you saying I haven't been performing to expectations?"
+
+"No," she responds. "I'm saying you're doing illegal things and Alpha60 can't be seen as hosting those activities. I'm saying you're being arrested for felony espionage. These gentlemen will escort you out of the building and to a detention facility.
+
+Do-Ye0n looks at the two security guards and realizes these aren't security guards - they are police. One of them is presenting him with zip-tie handcuffs. The other is helping him to his feet, using gentle restraining force, and turning him around so the officer with the handcuffs can clamp his wrists behind his back.
 
 ///---///
 
@@ -104,7 +148,7 @@ Volume 2
 Do-Ye0n lives on
 
 1)  \>\>\> publicly traded ransomware companies
-2)  arrests based on profitability
+2)  \>\>\> arrests based on profitability
 3)  bail as recruitment tactic
 4)  betting (short and long) on results of conviction
 5)  incarceration by public companies
