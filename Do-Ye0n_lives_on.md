@@ -119,7 +119,7 @@ The shifting graph in his main view is abruptly pushed to the corner. In its pla
 
 *That was quick*, he thinks. Smiling, he grabs his terminal and heads for the elevator. Working in the cube farm was beneath him and he's looking forward to a room with a view of the skyline.
 
-He presents himself to the elevator station. Almost immediately, one of the sliding doors open and call his name. He walks in, the door shuts, and accelerates skyward. *This is almost poetic*, he thinks. The interior of the elevator is bland, but his visor displays enough interesting data to keep his attention. It's only a minute before he's decelerating and stopping on the twelfth floor.
+He presents himself to the elevator station. Almost immediately, one of the sliding doors open and call his name. He walks in, the door shuts, and accelerates skyward. *This is almost poetic*, he thinks. The interior is bland, but his visor displays enough interesting data to keep his attention. It's only a minute before he's decelerating and stopping on the twelfth floor.
 
 The door opens to an unfinished space. There isn't carpet on the floor, the walls are still rough construction board, and there is no common space. His visor informs him to go left, then straight, then open the third door. *This must be an expansion. I'm on a new team. Probably the director of the team.*
 
@@ -143,57 +143,69 @@ Do-Ye0n looks at the two security guards and realizes these aren't security guar
 
 //#
 
-The ride isn't bad. It could be more padded, but Do-Ye0n understands the back seat of the police transport needs to be easy to clean. He appreciates that detail. Cushions would be absorbent, saturated with pee and vomit. From where he sits, everything is visible and sanitary.
+The back seat of this police transport could be padded, but Do-Ye0n appreciates it needs to be easy to clean. Cushions would be absorbent and saturated with pee and vomit. Without cushions, everything is visible and sanitary.
 
-They arrive at the station and he goes through booking. He doesn't have pockets so he doesn't have to empty them. He does have to surrender his visor but its placed in a lock box and secured with a scan of his retina. It's safe until later.
+It's a short ride to the station and a shorter trip through booking. He doesn't have pockets so he doesn't have to empty them. His visor is placed in a lock box and secured with a scan of his retina. It's safe until later.
 
-The door opens into a small hall, reminiscent of the elevator lobby. One door is open, the other five are closed. It's obvious he is to enter and he does as expected.
-
-The room is empty, the wall is a display large enough to show a life-size woman. She might be artificial, Do-Ye0n doesn't care.
+The door opens into a small hall, reminiscent of Alpha60's elevator lobby. One door is open, the other five are closed. It's obvious he is to enter. The room is empty, the wall is a display large enough to show a life-size woman. She might be artificial; Do-Ye0n doesn't care.
 
 "Hello Do-Ye0n. I'm Yvette and I'll be your case manager." She smiles but otherwise avoids the gestures used to reassure humans. "Standardized sentencing dictates bail for your situation at 20% of your current salary plus benefits. Do you already have a chosen bail supplier?"
 
-"Bail supplier?" asks Do-Ye0n. "Forgive me, but I haven't been arrested before. What is a chosen bail supplier?"
+"Bail supplier?" asks Do-Ye0n. "Forgive me, but things must have changed since I was last arrested. What is a chosen bail supplier?"
 
-"You may already have an employment agreement with first option to supply bail," she says. "Or you may wish to make yourself available to the open market. There are already five corporations providing you with an offer."
+"You may already have an employment agreement with first option to supply bail," she says. "Or you may wish to make yourself available to the open market. There are already five corporations ready to provide you with an offer."
 
 "There are corporations competing to provide me with bail?"
 
 "Yes," she says. "Would you like to speak with them? I can sort them by whatever attribute you wish."
 
-Do-Ye0n mulls this over. He's been arrested and before he can even appear in court, he's being bailed out by companies competing for his attention.
-
-"What sectors are these corporations operating in?"
+Do-Ye0n mulls this over. "What sectors are these corporations operating in?"
 
 "They all specialize in Corporate network penetrative testing."
 
-*Of course,* thinks Do-Ye0n. "Please let me speak with the company with the highest market value."
+*Of course,* thinks Do-Ye0n. "Let me speak with the company with the highest market value."
 
-She fades out and is immediately replaced with a different woman, this time dressed in a business suit and an identifier band across the screen. It reads; ***Aishwarya Vala**, Corporate Recruiter, Fairwell Network Security*.
+Yvette fades out and is immediately replaced with a different woman, this time dressed in a business suit and an identifier band across the screen. It reads; ***Aishwarya Vala**, Corporate Recruiter, Fairwell Network Security*.
 
-"Hello Do-Ye0n," says Aishwarya. "Fairwell would like to supply bail and legal representation for your charges and court appearance. In exchange, we ask for a first employment option after your sentencing and possible incarceration. We request a minimum of five years employment but do not require a non-compete agreement after employment. We offer a level four employment compensation package."
+"Hello Do-Ye0n," says Aishwarya. She smiles before she continues with her pitch. "Fairwell would like to supply bail and legal representation for your charges and court appearance. In exchange, we ask for a first employment option after your sentencing and possible incarceration. We request a minimum of five years employment but do not require a non-compete agreement after that time. We offer a level four employment compensation package."
 
 "Yvette?" calls Do-Ye0n. Aishwarya is swapped out of view and Yvette appears in her place. "Are the other offers comparable?"
 
-"With minor deviations, this is a standard offer." Yvette says.
+"Comparable but with minor deviations. This is a standard offer." Yvette says.
 
 "Please bring Aishwarya back," says Do-Yeon. Aishwarya reappears immediately.
 
-"I'll accept the offer," Do-Ye0n tells her. "When does this happen?"
+"I'll accept your offer," Do-Ye0n tells her. "When does this happen?"
 
 "Most excellent," Aishwarya responds. "Wait just a minute please."
 
-She picks up a tablet, makes a few motions, waits for a minute, then returns her attention to Do-Ye0n. "Okay. All set. We'll send a car to bring you to our offices. Congratulations on joining up with Fairwell!"
+She picks up a tablet, makes a few motions, then returns her attention to Do-Ye0n. "All set. We'll send a car to bring you to our offices. Congratulations on joining up with Fairwell!"
 
 //#
 
-///---///
+Do-Ye0n meets Aishwarya at the Fairwell corporate headquarters for paperwork and a tour. The first floor is dominated by an opulent reception lobby. Second floor is human resources. Third through fifth floor is the cubicle farm for entry-level employees. Sixth and seventh is private offices for level three employees. Eighth and ninth is level four. They don't tour floors above nine; those require a separate elevator and Aishwarya doesn't have permission to use it.
 
-Do-Ye0n lives on
+Do-Ye0n is assigned an office on ninth floor. There is a window and he can see the wires of the radiation cage embedded in the glass. *What happens on ninth floor stays on ninth floor.*
+
+"Welcome to your new home," says Aishwarya. "Is there anything else I can do to make your transition pleasant?"
+
+"Aren't you moving a bit fast?" asks Do-Ye0n. "I still have a court appearance. Hopefully things go well. But what if they don't?"
+
+"We ran your odds before we made the offer," she says. "You're the closest thing to a lock we find. Be sure to watch your conviction futures if you're not reading Fairwell stock values."
+
+//#
+
+"Get up," Aishwarya says. "We need to get into the office. I've got recruitment quotas that won't be satisfied hanging out here. And as I recall, you have a meeting with your lawyer. Miss it and you're going to fade into being an underdog."
+
+Do-Ye0n puts a pillow over his head, but Aishwarya pulls it away and throws it to the corner of the room. "Nobody cares if I'm convicted," he says. "I'm not going to serve time, Fairwell is going to pay the settlement, my lawyer gets paid either way."
+
+"I care," says Aishwarya. "I've got action on you. Don't blow up my investment."
+
+///---///
 
 1)  \>\>\> publicly traded ransomware companies
 2)  \>\>\> arrests based on profitability
-3)  bail as recruitment tactic
+3)  \>\>\> bail as recruitment tactic
 4)  betting (short and long) on results of conviction
 5)  incarceration by public companies
 6)  early release based on job interview and desirability of candidate (prisoner)
