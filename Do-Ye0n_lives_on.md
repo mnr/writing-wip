@@ -141,9 +141,53 @@ Do-Ye0n notices there is no name band, either real or virtual. Neither guard has
 
 Do-Ye0n looks at the two security guards and realizes these aren't security guards - they are police. One of them is presenting him with zip-tie handcuffs. The other is helping him to his feet, using gentle restraining force, and turning him around so the officer with the handcuffs can clamp his wrists behind his back.
 
-///---///
+//#
 
-Volume 2
+The ride isn't bad. It could be more padded, but Do-Ye0n understands the back seat of the police transport needs to be easy to clean. He appreciates that detail. Cushions would be absorbent, saturated with pee and vomit. From where he sits, everything is visible and sanitary.
+
+They arrive at the station and he goes through booking. He doesn't have pockets so he doesn't have to empty them. He does have to surrender his visor but its placed in a lock box and secured with a scan of his retina. It's safe until later.
+
+The door opens into a small hall, reminiscent of the elevator lobby. One door is open, the other five are closed. It's obvious he is to enter and he does as expected.
+
+The room is empty, the wall is a display large enough to show a life-size woman. She might be artificial, Do-Ye0n doesn't care.
+
+"Hello Do-Ye0n. I'm Yvette and I'll be your case manager." She smiles but otherwise avoids the gestures used to reassure humans. "Standardized sentencing dictates bail for your situation at 20% of your current salary plus benefits. Do you already have a chosen bail supplier?"
+
+"Bail supplier?" asks Do-Ye0n. "Forgive me, but I haven't been arrested before. What is a chosen bail supplier?"
+
+"You may already have an employment agreement with first option to supply bail," she says. "Or you may wish to make yourself available to the open market. There are already five corporations providing you with an offer."
+
+"There are corporations competing to provide me with bail?"
+
+"Yes," she says. "Would you like to speak with them? I can sort them by whatever attribute you wish."
+
+Do-Ye0n mulls this over. He's been arrested and before he can even appear in court, he's being bailed out by companies competing for his attention.
+
+"What sectors are these corporations operating in?"
+
+"They all specialize in Corporate network penetrative testing."
+
+*Of course,* thinks Do-Ye0n. "Please let me speak with the company with the highest market value."
+
+She fades out and is immediately replaced with a different woman, this time dressed in a business suit and an identifier band across the screen. It reads; ***Aishwarya Vala**, Corporate Recruiter, Fairwell Network Security*.
+
+"Hello Do-Ye0n," says Aishwarya. "Fairwell would like to supply bail and legal representation for your charges and court appearance. In exchange, we ask for a first employment option after your sentencing and possible incarceration. We request a minimum of five years employment but do not require a non-compete agreement after employment. We offer a level four employment compensation package."
+
+"Yvette?" calls Do-Ye0n. Aishwarya is swapped out of view and Yvette appears in her place. "Are the other offers comparable?"
+
+"With minor deviations, this is a standard offer." Yvette says.
+
+"Please bring Aishwarya back," says Do-Yeon. Aishwarya reappears immediately.
+
+"I'll accept the offer," Do-Ye0n tells her. "When does this happen?"
+
+"Most excellent," Aishwarya responds. "Wait just a minute please."
+
+She picks up a tablet, makes a few motions, waits for a minute, then returns her attention to Do-Ye0n. "Okay. All set. We'll send a car to bring you to our offices. Congratulations on joining up with Fairwell!"
+
+//#
+
+///---///
 
 Do-Ye0n lives on
 
