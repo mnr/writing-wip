@@ -213,7 +213,7 @@ Do-Ye0n sits up. "You bet on my innocence?"
 
 "So romantic." He flops back on the bed, covering his head with the sheet. "Are we sleeping here tonight or at your place?"
 
-"We've had this conversation for five months now," Aishwarya says. She climbs across the bed and touches his forehead. "Maybe we should think about a longer-term solution?"
+"We've had this conversation for five months now," Aishwarya says. She climbs across the bed and touches his arm. "Maybe we should think about a longer-term solution?"
 
 //#
 
@@ -235,7 +235,7 @@ Do-Ye0n hears his lawyer quietly swear. He uneasily looks at the door behind the
 
 //#
 
-"Three years?" screams Do-Ye0n. "This was supposed to be a sure thing. I'm supposed to be in a meeting this afternoon. I'm having dinner with Aishwarya tonight."
+"Ten years?" screams Do-Ye0n. "This was supposed to be a sure thing. I'm supposed to be in a meeting this afternoon. I'm having dinner with Aishwarya tonight."
 
 Do-Ye0n faces his lawyer across the table in the room behind the door behind the baliff. Do-Ye0n is just as surprised as Steve to hear he will be doing time. Justice used to move slower. Court appearance and sentencing used to take days, sometimes weeks. Now it takes hours. Do-Ye0n is returning to serve his time so much sooner than he expected.
 
@@ -243,7 +243,25 @@ Do-Ye0n faces his lawyer across the table in the room behind the door behind the
 
 "Which sounds like I'll be spending tonight in prison," says Do-Ye0n. He was not exhibiting self-control. "I'm not okay with this!"
 
-"Relax. We'll get this under control," says Steve. "Take the night off. Think of this as a ....
+"Relax. We'll get this under control," says Steve. "Take the night off. Think of this as a spa day, just without the spa. Let's talk first thing in the morning."
+
+//#
+
+Steve didn't call the next morning. Do-Ye0n heard nothing until Aishwarya arranged a visit a week later.
+
+"I had to give up our apartment," she says. "Without you, I'm only allowed a level three single apartment, plus I lost a lot of savings on your conviction. I moved your things into storage, I just don't have room for all of our furniture."
+
+"Fine. Sell the big stuff we bought together," Do-Ye0n says. "Please keep my personal things in your closet. We can move back to a larger place when I get out."
+
+"Don't get this wrong," Aishwarya says. "I think you're great, but I think I need some space to think this out. I'm young, I want to have children. I can't wait ten years for you to be released. Then you'll need to relearn skills and restart employment. It could be fifteen or sixteen years before we can afford a place big enough for a family."
+
+"You're breaking up with me?" asks Do-Ye0n.
+
+"We need to think about our options. I'll call you next week and we can talk about more."
+
+//#
+
+Learning a new habit takes most people three weeks of repeated practice. Adjusting to a new living situation takes a bit longer; some research indicates a year and one-half.
 
 ///---///
 
