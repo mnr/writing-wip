@@ -103,6 +103,8 @@ Chip Venetian tweaks the color of his tie and looks around the virtual conferenc
 
 "They've been hiring penetrators for the past year and are seeing some solid returns. They've documented fifty-seven assets in Portland alone, with probably double that number in New York," says Chip. He tosses an animated performance chart into the room, illustrating the short term growth of Alpha60's value.
 
+"Surprisingly, this all came about when Fairwell Network Security approached us with a contract to oversee a strategic incarceration on Alpha60. *If you can't beat them, jail them.* Fairwell wants us to lock up a few Alpha60 employees long enough to give them a competitive advantage."
+
 "Their stock is valuable enough, and fragile enough, that they'll take an arrest-threat seriously. I think we should realize the value of a strike."
 
 The three non-english speakers respond through translators by presenting icons or changing their expressions. They all agree with Chip. Five of the remaining eight participants verbally agree; three do not. The disagreement isn't about the ethics of Alpha60, or the ethics of threatening a corporation. It's purely about the return on the work to be done to shake-down a business involved in *Corporate Penetrative Testing*. Threatening Alpha60 without preparation would only invite a ransomware attack.
@@ -221,7 +223,7 @@ Do-Ye0n is wears a formal shirt. And formal pants. Court appearances are still i
 
 "Do-Ye0n Kurrat, case 63-CR-325631. Please step forward."
 
-The prior defendant was not guilty and happily leaves the room by the door behind the seated observers. The other door, next to the baliff, is for unhappy defendants.
+The prior defendant was not guilty and happily leaves the room by the door behind the seated observers. The other door, next to the bailiff, is for unhappy defendants.
 
 Do-Ye0n steps up next to Steve, a real (not virtual) lawyer supplied by Fairwell. They've been working on his case for several months but with the assumption this will be nothing more than a reading of charges followed by a dismissal. At worst, he'll agree to a plea bargain with probation.
 
@@ -231,7 +233,7 @@ Also stepping forward is the prosecuting attorney. Do-Ye0n's lawyer does a liter
 
 There's no time for conversation, but both attorneys straighten up. Do-Ye0n must have caught someone's attention, or his case caught someone's attention, or the nature of *Corporate Penetrative Testing* caught someone's attention.
 
-Do-Ye0n hears his lawyer quietly swear. He uneasily looks at the door behind the baliff.
+Steve swears quietly. Do-Ye0n looks uneasily at the door behind the bailiff.
 
 //#
 
@@ -247,21 +249,53 @@ Do-Ye0n faces his lawyer across the table in the room behind the door behind the
 
 //#
 
-Steve didn't call the next morning. Do-Ye0n heard nothing until Aishwarya arranged a visit a week later.
+But Steve didn't call the next morning. Do-Ye0n heard nothing from anyone until Aishwarya arranged a visit a week later.
 
-"I had to give up our apartment," she says. "Without you, I'm only allowed a level three single apartment, plus I lost a lot of savings on your conviction. I moved your things into storage, I just don't have room for all of our furniture."
+"I had to give up our apartment," she says. "Without us together, I'm only allowed a level three single apartment. Plus I lost a lot of money on your conviction. I moved your things into storage, there just isn't room for all of the furniture."
 
 "Fine. Sell the big stuff we bought together," Do-Ye0n says. "Please keep my personal things in your closet. We can move back to a larger place when I get out."
 
-"Don't get this wrong," Aishwarya says. "I think you're great, but I think I need some space to think this out. I'm young, I want to have children. I can't wait ten years for you to be released. Then you'll need to relearn skills and restart employment. It could be fifteen or sixteen years before we can afford a place big enough for a family."
+"Don't get this wrong," Aishwarya says. "I think you're great, but I need space to think this out. I'm young, I want to have children. I can't wait ten years for you to be released. Then you'll need to relearn skills and restart employment. It could be fifteen or sixteen years before we can afford a place big enough for a family."
 
 "You're breaking up with me?" asks Do-Ye0n.
 
-"We need to think about our options. I'll call you next week and we can talk about more."
+"We need to think about our options. I'll call you next week and we can talk more."
 
 //#
 
-Learning a new habit takes most people three weeks of repeated practice. Adjusting to a new living situation takes a bit longer; some research indicates a year and one-half.
+Learning a new habit takes most people three weeks of repeated practice. Adjusting to a new living situation takes a bit longer; some research says a year and a half. For Do-Ye0n, it takes two years to become accustomed to prison habits.
+
+He is back to small gig jobs, but with close supervision, limited bandwidth, and short working hours. Since he reimburses the state for the cost of incarceration, he's being considered for early parole.
+
+At some point in his day, he always receives a call from Yvette for some case management.
+
+"Hello Do-Ye0n," says *not* Yvette*.*
+
+"You're not Yvette," Do-Ye0n states the obvious.
+
+"True," says Steve. "Sorry I didn't get back to you sooner. Been busy, all that kind of stuff."
+
+"Sorry?" says Do-Ye0n. "That's all you have? *Sorry?* Where did you go? You said you'd call me the day after my appearance. What happened in there?"
+
+"It was a complex deal," replies Steve. "My office AI has been sorting this out for some time. It came up with three hundred and fifty-seven scenarios before it solved what happened. Jimbo didn't even know what happened until I had lunch with him last week."
+
+"You had lunch with the guy who's responsible for this?" Do-Ye0n gestured at the prison-surplus terminal he was forced to gig with."
+
+"Yep. And I won't even include it in your billable hours. Here's the deal. You were doing a great job for Alpha60. A *really* great job. Alpha60 was eclipsing the market and Fairwell couldn't compete, so they hired a corporate raider to trip Alpha60 up."
+
+"But Fairwell provided my employment and legal contract?"
+
+"Entirely opportunistic. Fairwell didn't expect Alpha60 to throw you under the bus. When you were available, they swooped in. You do have to admire how quick they put that package together."
+
+"But not clever enough to keep me out of here."
+
+"Jimbo is a good litigator and you attracted a lot of action. More than I realized. Some big investors and international drug corporations formed a hedge fund, bought a strong position in your case, and made sure they didn't lose."
+
+"And now?" asks Do-Ye0n. "You show up with a social visit and a big reveal. Should I make an appointment with your scheduler for repeat meeting in two years?"
+
+"No need," Steve pulls up a document for Do-Ye0n to see. "The first page is an early release. It has some contingencies, but nothing you haven't already encountered over the last couple of years. It's the second document you'll find interesting."
+
+"Early release is a good start. How about a steak dinner?"
 
 ///---///
 
@@ -269,10 +303,8 @@ Learning a new habit takes most people three weeks of repeated practice. Adjusti
 2)  \>\>\> arrests based on profitability
 3)  \>\>\> bail as recruitment tactic
 4)  \>\>\> betting (short and long) on results of conviction
-5)  incarceration by public companies
+5)  \>\>\> incarceration by public companies
 6)  early release based on job interview and desirability of candidate (prisoner)
-
-Prosecution of corporate illegal behavior is a competitive strategy. "If you can't beat them, then jail them." Find a way to lock up strategic employees.
 
 "Our assets walk out of the door each evening. We have to make sure that they come back the next morning."
 
