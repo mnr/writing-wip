@@ -27,7 +27,7 @@ This apartment doesn't have a proper table. Instead, a panel and chair fold out 
 
 If he folds up the bed he has room to briefly pace the apartment. Before he folds out the bed, he has to fold up the table and chair. Before he opens the door, he has to fold up the bed. He doesn't bother, there's nothing outside for him.
 
-//#
+------------------------------------------------------------------------
 
 Do-Ye0n ranks at 95% proficiency in vehicle AI engineering. Prior to his *almost* conviction he had a level five apartment with a kitchen, living room, bedroom, and a door that could be opened without folding anything in the apartment. He had a window. He was at the top of the industry. He's known in the industry.
 
@@ -63,7 +63,7 @@ It's actually a bit more complex. Every sane corporation must have insurance aga
 
 "Okay. Yes," Do-Ye0n agrees. He's already struggling with reputation issues. How much worse can this be?
 
-//#
+------------------------------------------------------------------------
 
 Moving from level one to level four housing isn't normal. First, level one to level two. Years later, level two to level three. Many more years to level four. But today he sips strong coffee, turns off the mirror health diagnostics, and leaves his bed unmade.
 
@@ -95,7 +95,7 @@ He breaks the connection. He's only been at this for a few months and is already
 
 D0-Ye0n smiles to himself in cubicle thirty-five of fifty-seven. He takes a moment to savor this unexpected success, but only a moment before he dives into the next corporate network.
 
-//#
+------------------------------------------------------------------------
 
 "Alpha60 is outperforming."
 
@@ -111,7 +111,7 @@ The three non-english speakers respond through translators by presenting icons o
 
 "It's decided then," concludes Chip. "I'll put together a strike team and we can move when the plan is set up. I forecast payoff within the month."
 
-//#
+------------------------------------------------------------------------
 
 Do-Ye0n swallows the last of a power drink, basketball-tosses the foil container in the trash and waves through the research in his virtual field-of-view. He's already completed one billable invasion this week and he wants the next one to be bigger. Bigger and more worthwhile of his time. If he's going to make partner, he needs impressive plays. He's confident he can swing it.
 
@@ -141,7 +141,7 @@ Do-Ye0n notices there is no name band, either real or virtual. Neither guard has
 
 Do-Ye0n looks at the two security guards and realizes these aren't security guards - they are police. One of them is presenting him with zip-tie handcuffs. The other is helping him to his feet, using gentle restraining force, and turning him around so the officer with the handcuffs can clamp his wrists behind his back.
 
-//#
+------------------------------------------------------------------------
 
 The back seat of this police transport could be padded, but Do-Ye0n appreciates it should to be easy to clean. Cushions would be absorbent and saturated with pee and vomit. Without cushions, everything is visible and sanitary.
 
@@ -181,7 +181,7 @@ Yvette fades out and is immediately replaced with a different woman, this time d
 
 She picks up a tablet, makes a few motions, then returns her attention to Do-Ye0n. "All set. We'll send a car to bring you to our offices. Congratulations on joining up with Fairwell!"
 
-//#
+------------------------------------------------------------------------
 
 Do-Ye0n meets Aishwarya at the Fairwell corporate headquarters for paperwork and a tour. The first floor is dominated by an opulent reception lobby. Second floor is human resources. Third through fifth floor is the cubicle farm for entry-level employees. Sixth and seventh is private offices for level three employees. Eighth and ninth is level four. They don't tour floors above nine; those require a separate elevator and Aishwarya doesn't have permission to use it.
 
@@ -201,7 +201,7 @@ Do-Ye0n is assigned an office on ninth floor. There is a window and he can see t
 
 Aishwarya pauses and considers Do-Ye0n. "Sure, but I have to buy. I can't accept gifts from new hires."
 
-//#
+------------------------------------------------------------------------
 
 "Get up," Aishwarya says. "We need to get into the office. I've got recruitment quotas that won't be satisfied hanging out here. And as I recall, you have a meeting with your lawyer, Steve. Miss it and you're going to fade into an underdog in the betting pool."
 
@@ -217,7 +217,7 @@ Do-Ye0n sits up. "You bet on my innocence?"
 
 "We've had this conversation for five months now," Aishwarya says. She climbs across the bed and touches his arm. "Maybe we should think about a longer-term solution?"
 
-//#
+------------------------------------------------------------------------
 
 Do-Ye0n is wears a formal shirt. And formal pants. Court appearances are still in person and defendants have to stand up. There is no hiding behind a desk.
 
@@ -235,7 +235,7 @@ There's no time for conversation, but both attorneys straighten up. Do-Ye0n must
 
 Steve swears quietly. Do-Ye0n looks uneasily at the door behind the bailiff.
 
-//#
+------------------------------------------------------------------------
 
 "Ten years?" screams Do-Ye0n. "This was supposed to be a sure thing. I'm supposed to be in a meeting this afternoon. I'm having dinner with Aishwarya tonight."
 
@@ -247,9 +247,9 @@ Do-Ye0n faces his lawyer across the table in the room behind the door behind the
 
 "Relax. We'll get this under control," says Steve. "Take the night off. Think of this as a spa day, just without the spa. Let's talk first thing in the morning."
 
-//#
+------------------------------------------------------------------------
 
-But Steve didn't call the next morning. Do-Ye0n heard nothing from anyone until Aishwarya arranged a visit a week later.
+But Steve doesn't call the next morning. Do-Ye0n hears nothing from anyone until Aishwarya arranges a visit a week later.
 
 "I had to give up our apartment," she says. "Without us together, I'm only allowed a level three single apartment. Plus I lost a lot of money on your conviction. I moved your things into storage, there just isn't room for all of the furniture."
 
@@ -261,13 +261,43 @@ But Steve didn't call the next morning. Do-Ye0n heard nothing from anyone until 
 
 "We need to think about our options. I'll call you next week and we can talk more."
 
-//#
+------------------------------------------------------------------------
 
 Learning a new habit takes most people three weeks of repeated practice. Adjusting to a new living situation takes a bit longer; some research says a year and a half. For Do-Ye0n, it takes two years to become accustomed to prison habits.
 
 He is back to small gig jobs, but with close supervision, limited bandwidth, and short working hours. Since he reimburses the state for the cost of incarceration, he's being considered for early parole.
 
-At some point in his day, he always receives a call from Yvette for some case management.
+But he's not happy about all this. He didn't do anything wrong, he continues to do nothing wrong. Yvette explained it all to him when he figured out how to ask the right question: *"What is the purpose of this? Why am I here?"*
+
+Yvette is programmed to recite a carefully scripted response. The response came about when one or another department of justice had been coached by the Hammurabi corporation, which passed the benefit of their education on to Yvette, who now passes it on to Do-Ye0n.
+
+"Incarceration provides society with several benefits," begins Yvette. "First, it provides crime victims with a sense of retribution. Without retribution, victims lose faith in the system of justice. Without retribution, victims resort to vigilantism and other aberrant social behavior."
+
+"I could have viewed this video without your help," retorts Do-Ye0n. "I believe this is covered in some corporate shareholder discussion. I'm guessing Hammurabi? Perhaps Incarceration Corporation of America?"
+
+Yvette pauses for this outburst just like a video playback. At least her mouth closes and she continues to blink and watch Do-Ye0n. But it is clear she is following a playback.
+
+"Second, incarceration is a deterrence to aberrant social behavior," she continues. Do-Ye0n rolls his eyes and sits with resignation. "Law abiding citizens, like all men, are tempted by legal shortcuts to desired results. Without deterrents, there would be no consequences for misbehaving."
+
+From his seat, Do-Ye0n sits up and interrupts. "I wasn't misbehaving. I was doing what Alpha60 rewarded me to do. Why aren't they in here with me?"
+
+"Corporations have rights, just like every other citizen of the United States," replied Yvette, projecting synthesized patience. "Jailing a corporation and all its employees and shareholders is impractical. With a low possibility of success it is considered a waste of judicial resources."
+
+Do-Ye0n slumps back in the chair. Yvette restarts the lecture.
+
+"Third, incarceration provides an opportunity to rehabilitate offenders. Criminals haven't benefited from the lessons of social cooperation and mutually beneficial behaviors. Without rehabilitation, crime and incarceration are an endless cycle a criminal will never escape."
+
+Do-Ye0n retreats to a futile hand-waving gesture that encourages Yvette to speed up the unwelcome playback. Yvette does not take the hint.
+
+"Finally, incarceration is a short term method for incapacitating a persistent criminal. Many criminals refuse to change past behaviors and are not deterred by incarceration. Without incapacitation, some criminals view release from prison as a short-term window to enhance their aberrant career."
+
+"Your talking points are a polite way of justifying why this corporation needs to keep prisons operating and occupied," spits back Do-Ye0n. "No incarceration, no cash flow. No cash flow, no market value. No market value, no shareholders. If I had been smart, I would have bought stock in Hammurabi before I was sent here. Then I would have at least profited from my unjust imprisonment."
+
+Yvette isn't programmed to disagree. And she doesn't.
+
+------------------------------------------------------------------------
+
+Everyday, D0-Ye0n receives a call from Yvette for case management. But not today.
 
 "Hello Do-Ye0n," says *not* Yvette*.*
 
@@ -291,11 +321,9 @@ At some point in his day, he always receives a call from Yvette for some case ma
 
 "Jimbo is a good litigator and you attracted a lot of action. More than I realized. Some big investors and international drug corporations formed a hedge fund, bought a strong position in your case, and made sure they didn't lose."
 
-"And now?" asks Do-Ye0n. "You show up with a social visit and a big reveal. Should I make an appointment with your scheduler for repeat meeting in two years?"
+"And now?" asks Do-Ye0n. He's not done being sarcastic. "You show up with a social visit and a big reveal. Should I make an appointment with your scheduler for repeat meeting in two years?"
 
 "No need," Steve pulls up a document for Do-Ye0n to see. "The first page is an early release. It has some contingencies, but nothing you haven't already encountered over the last couple of years. It's the second document you'll find interesting."
-
-"Early release is a good start. How about a steak dinner?"
 
 ///---///
 
@@ -311,7 +339,5 @@ At some point in his day, he always receives a call from Yvette for some case ma
 Dyk enters the criminal economy
 
 Question: what does imprisonment look like in 2062?
-
-Purpose of incarceration 1) retribution 2) deterrence 3) rehabilitation 4) incapacitation
 
 Everyone has an identifying Blockchain hosted by Id.gov or provider of their choice.
