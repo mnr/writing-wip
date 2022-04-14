@@ -1,5 +1,5 @@
 ---
-title: "Do-Ye0n"
+title: "Do-Ye0n performs a cost/benefit analysis on a career based around questionable activities"
 output: word_document
 author: "Mark Niemann-Ross"
 date: "March 2022"
