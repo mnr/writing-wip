@@ -2,7 +2,7 @@
 title: "Do-Ye0n"
 output: word_document
 author: "Mark Niemann-Ross"
-date: "February 2022"
+date: "March 2022"
 ---
 
 Nobody sleeps on the streets, but Do-Ye0n fantasizes about it.
@@ -35,7 +35,9 @@ He's shunned by the industry.
 
 His resulting unemployment dropped him back to level one. He knows how far he fell and he wants it back.
 
-Today, he has no choice but to open the first job offer of the day. It's a contract gig, just like every other from the past four months. It requires advanced skills but offers minimum payout. This is what he gets after hijacking autonomous vehicles and probably (*not proven or convicted*) killing two people. He accepts and completes the project in two short hours, fulfilling his daily contribution requirement. But that payment doesn't get him out of this apartment.
+Today, he has no choice but to open the first job offer of the day. It's a contract gig, just like every other from the past four months. It requires advanced skills but offers minimum payout. This is what he gets after hijacking autonomous vehicles and probably (*not proven or convicted*) killing two people. He accepts and completes the project in two short hours.
+
+A second short-term gig slides into view, marked as \#*IntlPenTest*. International Penetration Testing, also known as short-term freelance espionage against some country - or someone pretending to be a country. It's an easy ask, just annoy the target long enough to get their attention. Not much different than yelling "*Hey - stop that*" when you see a thief stealing a bicycle. One *HeyStopThat* isn't going to change anything; one-hundred *HeyStopThat*s might cause them to reconsider. Do-Ye0n takes the gig, harasses someone for forty-eight minutes, then collects his fee.
 
 If he can find long term work, he can move someplace that doesn't stink. Day gigs are a gerbil-wheel for losers. He calls up the job search counselor - an artificial coach with a cheery attitude.
 
@@ -47,15 +49,19 @@ If he can find long term work, he can move someplace that doesn't stink. Day gig
 
 "Done," says Alex without hesitation. "Removing the automotive search restriction produces two good matches; cyber security and agriculture. Which would you like to start with?"
 
+"What is the agriculture gig?"
+
+"Training field robots to recognize and exterminate an invasive worm."
+
 "Which pays better?"
 
-"Cyber security. It is corporate network penetrative testing."
+"Cyber security. It is corporate network penetrative testing. They reference the #IntlPenTest gig you just completed and give your solution a five-star review. They want you to do more."
 
-"Ransomware, you mean." Do-Ye0n frowns. "What are the numbers?"
+"It's ransomware," Do-Ye0n frowns. "What are the numbers?"
 
-"Ransomware is a diminutive term and not an approved descriptor. Corporate network penetrative testing is ranked in the top 30% of compensation plans, includes level four housing and grants stock options every quarter." Alex smiles. It's the only expression Alex has. "The company is named Alpha60 and they have reviewed your resume. They are extending an offer. Shall I tell them you are able to start?"
+"Ransomware is a diminutive term and not an approved descriptor. Corporate network penetrative testing is ranked in the top 30% of compensation plans, includes level four housing and grants stock options every quarter." Alex smiles. It's the only expression Alex has. "The company is named Alpha60. They are extending an offer. Shall I tell them you are able to start?"
 
-"Wait a minute," says Do-Ye0n. He needs time to think. Ransomware professionals are well paid, but accepting a job like this can be a permanent career choice. Once you begin performing *corporate network penetrative testing* all future potential employers view you as a possible threat, maybe even a sleeper for a competitor. That's why compensation and stock options are big.
+"Wait a minute," says Do-Ye0n. He needs time to think. Ransomware professionals are well paid, but accepting a job like this can be a permanent career choice. Once you add *corporate network penetrative testing* to your resume all future potential employers view you as a possible threat, maybe even a sleeper for a competitor. That's why compensation and stock options are big.
 
 Not surprisingly, the stock market isn't bothered about this enterprise. Corporate espionage (*ransomware*) has cash flow and can be publicly traded. There are legal issues and occasionally a corporation will step beyond the boundaries, but in those cases, lawsuits are filed, a few guilty engineers are punished, divisions are sold off to competitors and the stockholders lose their investment. Just another hostile takeover.
 
@@ -65,7 +71,7 @@ It's actually a bit more complex. Every sane corporation must have insurance aga
 
 ------------------------------------------------------------------------
 
-Moving from level one to level four housing isn't normal. First, level one to level two. Years later, level two to level three. Many more years to level four. But today he sips strong coffee, turns off the mirror health diagnostics, and leaves his bed unmade.
+Moving from level one to level four housing isn't a normal progression. First, level one to level two. Years later, level two to level three. Many more years to level four. But today he sips strong coffee, turns off the mirror health diagnostics, and leaves his bed unmade.
 
 He doesn't work at home. This job requires serious bandwidth and there are legal concerns. So Do-Ye0n has a desk in a warehouse of desks. The internet flows through the office like an invisible river at flood plain. It feeds whirlpools of data to the fifty-seven people on the inside of a Faraday cage. None of the data leaks out of the office, but those fifty-seven find novel ways to bring data in.
 
@@ -317,7 +323,7 @@ Everyday, D0-Ye0n receives a call from Yvette for case management. But not today
 
 "Entirely opportunistic. Fairwell didn't expect Alpha60 to throw you under the bus. When you were available, they swooped in. You do have to admire how quick they put that package together."
 
-"But not clever enough to keep me out of here."
+"But they aren't clever enough to keep me out of here."
 
 "Jimbo is a good litigator and you attracted a lot of action. More than I realized. Some big investors and international drug corporations formed a hedge fund, bought a strong position in your case, and made sure they didn't lose."
 
@@ -325,19 +331,42 @@ Everyday, D0-Ye0n receives a call from Yvette for case management. But not today
 
 "No need," Steve pulls up a document for Do-Ye0n to see. "The first page is an early release. It has some contingencies, but nothing you haven't already encountered over the last couple of years. It's the second document you'll find interesting."
 
-///---///
+"Let me see it," says Do-Ye0n. Steve waves the document over to him and it floats across the security barrier. "This is some sort of spreadsheet with my name on it."
 
-1)  \>\>\> publicly traded ransomware companies
-2)  \>\>\> arrests based on profitability
-3)  \>\>\> bail as recruitment tactic
-4)  \>\>\> betting (short and long) on results of conviction
-5)  \>\>\> incarceration by public companies
-6)  early release based on job interview and desirability of candidate (prisoner)
+"Yep. You're no longer profitable. Hammurabi ran a cost-benefit analysis on your imprisonment. You make too much on your gigs to allow Hammurabi to claim you as a reimbursable burden and collect fees from the state. But you don't make enough to be in the top 20% of income producers for incarceration by Hamurabi. Additionally, they're not impressed by your long-term prospects. You're not profitable for them and they want to fill your bunk with someone who has a better chance of a big payoff."
 
-"Our assets walk out of the door each evening. We have to make sure that they come back the next morning."
+"I'm being fired for being a non-performing asset," realizes Do-Ye0n.
 
-Dyk enters the criminal economy
+"That's not the accepted terminology. You're being released because your incarceration is not in anyone's best interest. Pack your spare socks, you're sleeping at your own place tonight."
 
-Question: what does imprisonment look like in 2062?
+------------------------------------------------------------------------
 
-Everyone has an identifying Blockchain hosted by Id.gov or provider of their choice.
+Once again, he's stuck in level one housing with just enough internet for what is required of him. He sits up from the folding desk and takes two steps to the bathroom door. Pees and flushes and walks back out.
+
+"Alex, what do you have for me today?" Do-Ye0n summons his job-search counselor.
+
+"Hello Do-Ye0n," Alex smiles. "Sorry, I have nothing for you today."
+
+"Fine. Broaden the search filter. I'll look at anything."
+
+"I've already done that. I have nothing for you today."
+
+"Nothing?"
+
+"Nothing," confirmed Alex. "Your ranked performance has dipped below the long-term employable threshold."
+
+"Why did that happen?" says Alex. He uses his outdoor voice, but knows it won't really change Alex's behavior.
+
+"You recently received a sub-standard performance review from the Hammurabi corporation," Alex says, smiling. "They rated you lower than the top 20% of performing assets."
+
+"I was a prisoner!" Do-Ye0n now uses his outdoor voice with gusto. "They can't rank my performance."
+
+"Hammurabi combines performance of incarcerated assets with their traditionally employed assets. It is part of their annual report and statement of financial condition."
+
+"They can't!"
+
+"It is an accepted accounting practice. Otherwise, they would have to declare incarcerated labor as short-term assets, in which case they would be forced to depreciate your value over five years. The law prevents attaching value to a person. So they are forced to report incarcerated productivity as part of overall productivity."
+
+Do-Ye0n angrily shuts the conversation. He looks around the small room. He smells chlorine and urine. He hears the neighbors fighting.
+
+Nobody sleeps on the streets, but Do-Ye0n fantasizes about it.
