@@ -191,7 +191,13 @@ She picks up a tablet, makes a few motions, then returns her attention to Do-Ye0
 
 ------------------------------------------------------------------------
 
-Do-Ye0n meets Aishwarya at the Fairwell corporate headquarters for paperwork and a tour. The first floor is dominated by an opulent reception lobby. Second floor is human resources. Third through fifth floor is the cubicle farm for entry-level employees. Sixth and seventh is private offices for level three employees. Eighth and ninth is level four. They don't tour floors above nine; those require a separate elevator and Aishwarya doesn't have permission to use it.
+The car Do-Ye0n rides in is meant to impress everyone it passes, but mostly meant to impress the rider. It's longer by half than other vehicles and emits a low rumble: subsonic, so it is felt rather than heard. Blue-green waves of light pulse from front to back, like a ocean heartbeat. Inside, the seats are held at a constant body temperature. The in-dash bartender asks Do-Ye0n what type of Scotch he desires - but not the age. The age is eighteen years, *why would you drink anything less?*
+
+The car slides into its privileged space at Fairwell and opens, urging Do-Ye0n to step out. Aishwarya is already waiting for him with his badge.
+
+"Namaste," she presses her palms together and touches her forehead, then looks up. "Fairwell is pleased you are here. As am I." She smiles warmly. "Can I give you a tour?"
+
+They enter the first floor lobby, dominated by an opulent reception station. The second floor is occupied by human resources, but Aishwarya bypasses this in favor of the third floor. Third through fifth floor is the cubicle farm for entry-level employees. Sixth and seventh is private offices for level three employees. Eighth and ninth is level four. They don't tour floors above nine; those require a separate elevator and Aishwarya doesn't have permission to use it.
 
 Do-Ye0n is assigned an office on ninth floor. There is a window and he can see the wires of the radiation cage embedded in the glass. *What happens on ninth floor stays on ninth floor.*
 
@@ -199,7 +205,7 @@ Do-Ye0n is assigned an office on ninth floor. There is a window and he can see t
 
 "Aren't you moving a bit fast?" asks Do-Ye0n. "I still have a court appearance. Hopefully things go well. But what if they don't?"
 
-"We ran your odds before we made the offer," she says. "You're a lock - there's barely a chance you'll be convicted. Be sure to watch the futures on your conviction when you're not reading Fairwell stock values."
+"We ran your odds before we made the offer," she says. "You're a lock - there's barely a chance you'll be convicted. Be sure to watch the futures on your conviction when you're not binging on Fairwell stock values."
 
 "I guess I'm new to this world," he says. "I used to worry about breaking the law. It seems like you consider it part of the job."
 
@@ -211,7 +217,7 @@ Aishwarya pauses and considers Do-Ye0n. "Sure, but I have to buy. I can't accept
 
 ------------------------------------------------------------------------
 
-"Get up," Aishwarya says. "We need to get into the office. I've got recruitment quotas that won't be satisfied hanging out here. And as I recall, you have a meeting with your lawyer, Steve. Miss it and you're going to fade into an underdog in the betting pool."
+"Get up," Aishwarya says, selecting a business saree from her closet. "We need to get into the office. I've got recruitment quotas that won't be satisfied hanging out here. And as I recall, you have a meeting with your lawyer, Steve. Miss it and you're going to fade into an underdog in the betting pool."
 
 Do-Ye0n puts a pillow over his head, but Aishwarya pulls it away and throws it to the corner of the room. "Nobody cares if I'm convicted," he says. "I'm not going to serve time, Fairwell is going to pay the settlement, my lawyer gets paid either way."
 
@@ -221,7 +227,7 @@ Do-Ye0n sits up. "You bet on my innocence?"
 
 "No. I bet on the probability your case will be dismissed. The stats department at Fairwell is confident you're a favorable risk. I'm just following their bet."
 
-"So romantic." He flops back on the bed, covering his head with the sheet. "Are we sleeping here tonight or at your place?"
+"So romantic." He flops back on the bed, covering his head with the sheet. "Are we sleeping here tonight or at my place?"
 
 "We've had this conversation for five months now," Aishwarya says. She climbs across the bed and touches his arm. "Maybe we should think about a longer-term solution?"
 
@@ -237,7 +243,7 @@ Do-Ye0n steps up next to Steve, a real (not virtual) lawyer supplied by Fairwell
 
 Also stepping forward is the prosecuting attorney. Do-Ye0n's lawyer does a literal double-take. "Jim-bo. Are you defense?" There is a note of surprise in this friendly greeting. Maybe a note of concern.
 
-"Hi Steve," says Attorney Jim Lancaster, aka *Jim-bo*. One of Portland's highest paid lawyers.
+"Hi Steve," says Attorney Jim Lancaster, aka *Jim-bo*. One of Portland's highest paid and most aggressive lawyers.
 
 There's no time for conversation, but both attorneys straighten up. Do-Ye0n must have caught someone's attention, or his case caught someone's attention, or the nature of *Corporate Penetrative Testing* caught someone's attention.
 
@@ -273,11 +279,13 @@ But Steve doesn't call the next morning. Do-Ye0n hears nothing from anyone until
 
 Learning a new habit takes most people three weeks of repeated practice. Adjusting to a new living situation takes a bit longer; some research says a year and a half. For Do-Ye0n, it takes two years to become accustomed to prison habits.
 
-He is back to small gig jobs, but with close supervision, limited bandwidth, and short working hours. Since he reimburses the state for the cost of incarceration, he's being considered for early parole.
+His state-sponsored accommodations aren't given the dignity of a rating. He thinks of it as level zero. The bathroom is communal, his room is spartan, his privacy is nil. The mirror reads his physical health, but doesn't reveal the results to him. Other inmates would be able to view his stats, and that would violate HIPAA laws. If he wants to know his blood pressure, he would need to file a request.
 
-But he's not happy about all this. He didn't do anything wrong, he continues to do nothing wrong. Yvette explained it all to him when he figured out how to ask the right question: *"What is the purpose of this? Why am I here?"*
+He is back to small gig jobs, but with close supervision, limited bandwidth, and short working hours. Seventy-five percent of his income is garnished to pay for his incarceration. He's having a difficult time saving anything for retirement or moving into something other than level one housing when he gets out.
 
-Yvette is programmed to recite a carefully scripted response. The response came about when one or another department of justice had been coached by the Hammurabi corporation, which passed the benefit of their education on to Yvette, who now passes it on to Do-Ye0n.
+He's not happy about this. He didn't do anything wrong, he continues to do nothing wrong. Yvette explained it all to him when he figured out how to ask the right question: *"What is the purpose of this? Why am I here?"*
+
+Yvette is programmed to recite a carefully scripted response. The response is a result of coaching by the Hammurabi corporation, which passed the benefit of their education on to Yvette, who now passes it on to Do-Ye0n.
 
 "Incarceration provides society with several benefits," begins Yvette. "First, it provides crime victims with a sense of retribution. Without retribution, victims lose faith in the system of justice. Without retribution, victims resort to vigilantism and other aberrant social behavior."
 
@@ -291,7 +299,7 @@ From his seat, Do-Ye0n sits up and interrupts. "I wasn't misbehaving. I was doin
 
 "Corporations have rights, just like every other citizen of the United States," replied Yvette, projecting synthesized patience. "Jailing a corporation and all its employees and shareholders is impractical. With a low possibility of success it is considered a waste of judicial resources."
 
-Do-Ye0n slumps back in the chair. Yvette restarts the lecture.
+Do-Ye0n slumps back in the chair. He doesn't miss the subtext; Yvette knows how to respond to questions about corporate culpability. Yvette resumes the lecture.
 
 "Third, incarceration provides an opportunity to rehabilitate offenders. Criminals haven't benefited from the lessons of social cooperation and mutually beneficial behaviors. Without rehabilitation, crime and incarceration are an endless cycle a criminal will never escape."
 
@@ -305,7 +313,7 @@ Yvette isn't programmed to disagree. And she doesn't.
 
 ------------------------------------------------------------------------
 
-Everyday, D0-Ye0n receives a call from Yvette for case management. But not today.
+Everyday, D0-Ye0n receives a call from Yvette for case management. She is his only caller. But not today.
 
 "Hello Do-Ye0n," says *not* Yvette*.*
 
@@ -315,27 +323,27 @@ Everyday, D0-Ye0n receives a call from Yvette for case management. But not today
 
 "Sorry?" says Do-Ye0n. "That's all you have? *Sorry?* Where did you go? You said you'd call me the day after my appearance. What happened in there?"
 
-"It was a complex deal," replies Steve. "My office AI has been sorting this out for some time. It came up with three hundred and fifty-seven scenarios before it solved what happened. Jimbo didn't even know what happened until I had lunch with him last week."
+"It was a complex deal," replies Steve. "My office AI has been analyzing it for some time. It came up with three hundred and fifty-seven scenarios before it solved what happened. Jimbo didn't even know until I told him last week. We had lunch."
 
 "You had lunch with the guy who's responsible for this?" Do-Ye0n gestured at the prison-surplus terminal he was forced to gig with."
 
 "Yep. And I won't even include it in your billable hours. Here's the deal. You were doing a great job for Alpha60. A *really* great job. Alpha60 was eclipsing the market and Fairwell couldn't compete, so they hired a corporate raider to trip Alpha60 up."
 
-"But Fairwell provided my employment and legal contract?"
+"But Fairwell provided my employment and legal contract!"
 
-"Entirely opportunistic. Fairwell didn't expect Alpha60 to throw you under the bus. When you were available, they swooped in. You do have to admire how quick they put that package together."
+"Entirely opportunistic. Fairwell didn't expect Alpha60 to throw you under the bus. When you were available, they swooped in. You do have to admire how quickly they put that package together."
 
 "But they aren't clever enough to keep me out of here."
 
 "Jimbo is a good litigator and you attracted a lot of action. More than I realized. Some big investors and international drug corporations formed a hedge fund, bought a strong position in your case, and made sure they didn't lose."
 
-"And now?" asks Do-Ye0n. He's not done being sarcastic. "You show up with a social visit and a big reveal. Should I make an appointment with your scheduler for repeat meeting in two years?"
+"And now?" asks Do-Ye0n. He's not done being sarcastic. "You show up with a social visit. Should I make an appointment with your scheduler for repeat meeting in two years?"
 
-"No need," Steve pulls up a document for Do-Ye0n to see. "The first page is an early release. It has some contingencies, but nothing you haven't already encountered over the last couple of years. It's the second document you'll find interesting."
+"No need," Steve pulls up a document for Do-Ye0n to see. "This is an early release. It has some contingencies, but nothing you haven't already encountered over the last couple of years. Take a look, but this second document is more interesting."
 
 "Let me see it," says Do-Ye0n. Steve waves the document over to him and it floats across the security barrier. "This is some sort of spreadsheet with my name on it."
 
-"Yep. You're no longer profitable. Hammurabi ran a cost-benefit analysis on your imprisonment. You make too much on your gigs to allow Hammurabi to claim you as a reimbursable burden and collect fees from the state. But you don't make enough to be in the top 20% of income producers for incarceration by Hamurabi. Additionally, they're not impressed by your long-term prospects. You're not profitable for them and they want to fill your bunk with someone who has a better chance of a big payoff."
+"Yep. You're no longer profitable. Hammurabi ran a cost-benefit analysis on your imprisonment. You make too much on your gigs to allow Hammurabi to claim you as a reimbursable burden and collect fees from the state. But you don't make enough to be in the top 20% of income producers for incarceration by Hamurabi. Additionally, they're not impressed by your long-term prospects. You're not profitable and they want to fill your bunk with someone who has a better payoff."
 
 "I'm being fired for being a non-performing asset," realizes Do-Ye0n.
 
