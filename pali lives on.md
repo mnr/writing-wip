@@ -17,33 +17,59 @@ Pali Hiapo creates life at her apartment. No zinc, no ichor, no cadavers, no rob
 
 All software projects start small. A small software project in 2063 wouldn't have been considered small in 1994. When released in 1994, Linux filled 352,500 bytes of memory, just a bit shorter than *Lord of the Flies*. Pali's small starting project is roughly twice the length of *War and Peace.*
 
-Pali initiates the program and a cartoonish face appears in her visor. It floats, virtually, like a spouse sitting across the breakfast table. The face's androgynous mouth moves, speaking quotes from the *I-Ching* in a generic tenor voice. It took Pali fifteen minutes to produce this experiment. She doesn't bother to speak to it or examine the facial detail. This is just a *Hello World*.
+Pali starts her program and a cartoonish head appears. It floats in her visor, like a spouse sitting across the breakfast table. The face's androgynous mouth moves, speaking quotes from the *I-Ching* in a generic tenor voice. It took Pali fifteen minutes to produce this experiment. She doesn't bother to speak to it or examine the facial detail. This is just a *Hello World*.
 
-But the size of the project is irrelevant. At any size, her project would be problematic. Illegal, depending on the location of the physical server hosting the code. Pali is a Professor at the Universidad de Montevideo, lecturing on Autonomous Robotics in the School of Engineering. Uruguay encourages software research, short of performing corporate penetrative testing across international boundaries. Pali is clear of legal restraints.
+The size of the project is irrelevant. At any size, her project would be problematic. Illegal, depending on the location of the physical server hosting the code. Pali is a Professor at the Universidad de Montevideo, lecturing on Autonomous Robotics in the School of Engineering. Uruguay encourages software research, short of performing corporate penetrative testing across international boundaries. Pali is clear of legal restraints.
 
-Pali links in a machine learning library and instructs it to draw from the online presence of a former lover: Jupyter Fuertes. Jupyter lives in Portland Oregon with Avery, a new boyfriend. Pali is convinced, *hopeful*, that Avery is a temporary distraction.
+Pali links in a machine learning library and instructs it to study the online presence of a former lover: Jupyter Fuertes. Jupyter lives in Portland Oregon with Avery, a new boyfriend. Pali is convinced, *hopeful*, that Avery is a temporary distraction.
 
-**[Why is Pali doing this? Why is she obsessed with Jupyter?]**
+Privacy laws were enacted to stifle stalking, both by citizens and corporations. Not that there's a discernible difference. The internet doesn't recognize international boundaries, so a law in one country is a law in every country. Pali's unwelcome attention to Jupyter will bring trouble. But she does it anyways.
 
-Data flows in like a blood transfusion and the cartoon face softens. Pores appear in the skin and the complexion darkens. The face becomes female, her hair darkens. Her eyebrows arch and her cheeks become fuller.
+Jupyter ignores Pali, something Pali can't stand. Creation of a virtual version of Jupyter isn't stalking - it's practicing. If she can create a high-fidelity copy of Jupyter, and she can repair the relationship with the copy, then she'll be able to repair the relationship with the real Jupyter. What she is doing might be illegal, but when Jupyter returns, the end will justify the means.
+
+Data flows into the simulation like a blood transfusion. The cartoon face softens. The skin gains pores and its complexion darkens. The face becomes female, her hair darkens. Her eyebrows arch and her cheeks become fuller.
 
 More pleasing to Pali, possibly alarming to others, the floating Jupyter stops quoting the *I-Ching* and begins repeating phrases spoken by Jupyter. The texture of her voice approaches, then mimics Jupyter.
 
-"q [**substitute these with Jupyter quotes from Stupid Machine**]{.ul} e," says the virtual Jupyter mimic. "q [**substitute these with Jupyter quotes from Stupid Machine**]{.ul} e."
+"Show me your event log," says the virtual Jupyter mimic. "Soteria, go on vacation."
 
-Pali grabs the floating head and "sticks" it to the table. She holds her finger to the lips of the head to mute the voice. When she walks away, the head remains behind, silent but still animated. Pali leaves it to continue learning: the mouth moves and the face assimilates features of Jupyter. Below the head, a neck sprouts, then shoulders. It is like a plant growing from the top-down, sending out a descending wireframe with resolution improving from the neck and rougher towards the feet.
+Pali grabs the floating head and "sticks" it to the table. She holds her finger to the lips of the head to mute the voice. When she walks away, the head remains behind, silent but still animated. Pali leaves it, but it continues learning: the mouth moves and the face assimilates features of Jupyter. Below the head, a neck sprouts, then shoulders. It grows from the top-down, sending out a descending wire frame with resolution improving from the neck and rougher towards the feet.
 
-[PALI DOES SOMETHING HERE, THEN RETURNS TO JUPYTER]
+Pali grabs her *Yerba Mate* cup and a flask of hot water, leaves her apartment and descends to the street. The Gateway of the Citadel is a short walk; she passes through it and wanders with the crowd in Old Town. Sipping mate through a silver straw, she reflects on the tragedy that caused her to leave Portland. To leave Jupyter. To return to her home in Montevideo.
 
-[PALI ADDS MORE SOFTWARE TO THE JUPYTER SIMULATION]
+She met Jupyter in church, five years after her transitional surgery and two years after leaving Montevideo for Minneapolis. *No prophet is accepted in her own country.* Pali had the right combination of mentors and family to lead her to understanding autonomous robotics like no one else. Her PhD dissertation revealed how artificial intelligence solved the trolley problem with SLAM-3. Her TED Talk was viral. She was hired in Minneapolis, then moved to Portland, Oregon - the mecca of autonomous vehicles.
+
+Jupyter is perfect. Smart, sarcastic. So cute to have grown up on a farm. Someone Pali would like to possess. They moved in together. They moved to Portland together. Then Jupyter left.
+
+Pali retraces her steps to the apartment, opens the door, and unmutes the virtual Jupyter.
 
 Jupyter is back to reciting the *I-Ching*, but with Jupyter's tone and accent. This might seem innocent, but this is the division between legal and illegal. The first version of this virtual Jupyter was only a puppet replaying video clips from recordings Jupyter made herself. The *I-Ching* version of Jupyter is sampling random phrases, then modifying them to match how Jupyter would perform them.
 
 "A quiet-hearted person awakes with a smile on his lips and an eagerness in his heart for the day ahead." Jupyter would never have said this. But in Pali's visor, that is exactly what Jupyter is doing.
 
-But it's not convincing. Jupyter doesn't use these words. The simulation tries again:
+But it's not convincing. Jupyter doesn't use these words. The simulation tries again: "When you wake up in a stupor, you miss the crap happening all around you." Pali smiles - that's more like her Jupyter.
 
-------------------------------------------------------------------------
++:---------------------------------------------------------------------------------------------------------------------------+
+| What happens:                                                                                                              |
+|                                                                                                                            |
+| -   Pali creates a virtual copy of Jupyter                                                                                 |
+|                                                                                                                            |
+| -   Pali is obsessive about improving the virtual version of jupyter (V_Jupyter). She is *practicing* getting jupyter back |
+|                                                                                                                            |
+| -   V_Jupyter is meant to be beautiful, but emulates all of the unpleasant parts of jupyter.                               |
+|                                                                                                                            |
+| -   V_Jupyter attacks Avery.                                                                                               |
+|                                                                                                                            |
+| -   Pali is horrified by what she has created                                                                              |
+|                                                                                                                            |
+| -   V_Jupyter disappears. Pali assumes everything is okay                                                                  |
+|                                                                                                                            |
+| -   V_jupyter makes it's presence known                                                                                    |
+|                                                                                                                            |
+| -   Pali is obsessed with destroying V_Jupyter                                                                             |
+|                                                                                                                            |
+| -   This is just Frankenstein retold                                                                                       |
++----------------------------------------------------------------------------------------------------------------------------+
 
 Pali does a double take. Like Dr. Frankenstein looking over his shoulder at the night watchman.
 
