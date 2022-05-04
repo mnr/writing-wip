@@ -57,6 +57,22 @@ Jupyter is back to reciting the *I-Ching*. This might seem innocent, but this st
 
 But it's not convincing. The simulation tries again: "When you wake up in a stupor, you miss the crap happening all around you." Pali smiles - that's more like her Jupyter.
 
+But still - this version of Jupyter is just a clever talking puppet. It can apply syntactical language rules, but it has no motivation and a limited tolerance for novelty. Pali gives it a test...
+
+"Jupyter, would you like some ice cream?"
+
+"Yes," replies virtual Jupyter, smiling. "I'd like a handful of chocolate." Which is exactly how Jupyter would respond and the flavor she preferred.
+
+"We're out of chocolate ice cream," says Pali. This is the test. In real life, chocolate ice cream is always available - just order it and it arrives. But in the world Pali has simulated for virtual Jupyter, there is no more chocolate ice cream. What will virtual Jupyter do? Actually, it's unclear what the real Jupyter would do.
+
+"I would...I would like...I would..." stutters virtual Jupyter. Pali mutes the voice, but it continues to try to solve a problem without a solution. This virtual Jupyter has no framework for an indeterminate decision.
+
+But Pali does. She wrote her PhD dissertation about the trolley problem, an ethical sandbox with tuneable variables. Correctly coded, the trolley problem can be used to teach a machine divination of the truth in a subjective environment.
+
+Her PhD combined SLAM-3 with the trolley problem. SLAM-or Simultaneous Location and Mapping-is a computer method of keeping track of the current location in an uncertain environment. SLAM-1 was created for use by autonomous guided vehicles. SLAM-2 broadened to virtual spaces. SLAM-3 completely abstracts the concept of current location and the concept of environment. Pali makes a small jump in logic to define the environment as an uncertain collection of choices.
+
+Once she made the first jump, the next jump was logical and inevitable. The law of unintended consequences is one of the most basic laws of nature-right up there with gravity and radiation. SLAM-4 would be the codification of an ethical framework. It's unfortunate this wasn't given more discernment.
+
 +:---------------------------------------------------------------------------------------------+
 | What happens:                                                                                |
 |                                                                                              |
