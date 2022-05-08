@@ -7,23 +7,25 @@ date: "March 2022"
 
 Nobody sleeps on the streets, but Do-Ye0n fantasizes about it.
 
-Nobody sleeps on the streets since 2052. Housing is a right of citizenship, but level one housing isn't much more than a tent with solid walls and a locking door.
+Housing is a right of citizenship since 2052. The level one housing Do-Ye0n is assigned to is just solid walls and a locking door. Nothing more. The community bathrooms are robotically cleaned every hour, but the floors still host a persistent culture of bacteria. It's best to wear shoes and disinfect when you get home.
 
-Nobody sleeps on the streets, but if Do-Ye0n wasn't assigned to this apartment, he could choose where he slept. He could choose what he smelled, instead of the odor of chlorine and urine from the cassette toilet. He could choose his neighbors, instead of the screaming and thumping of the genetic cesspool collective living on the other side of the shared wall. He could have his freedom.
+If housing wasn't enforced, he could choose where he slept. He could choose what he smelled, instead of the odor of chlorine and urine from the sanitizers. He could choose his neighbors, instead of the screaming and thumping of the genetic cesspool collective living on the other side of the shared wall. He could have his freedom.
 
-But he doesn't. He could have made better choices at his last job. Maybe he shouldn't have used a debug tool on those self-driving cars. Maybe he shouldn't have driven them off the road. Maybe he killed the drivers. None of it was proven. But things didn't go his way and he's stuck here with just enough internet for what is required of him. Not enough for entertainment; only enough to look for work, pay bills, order food. Until he figures out better employment, he's living here.
+If you kneel, close your eyes, straighten your back, and tilt your head upwards you appear content. Do-Ye0n has his eyes closed, but sits on the bed with shoulders slumped, head down. This is the difference between contentment and defeat.
 
-He needs to urinate. He climbs out of the bed and takes two steps to the bathroom door. He slides it to the side and considers the sink, toilet, mirror and hand shower. He sits because there isn't room to stand. From his throne, he reaches for the shower head; it doubles as a bidet. Standing, he looks in the mirror.
+He should have made better choices at his last job. Maybe he shouldn't have used a debug tool on those self-driving cars. Maybe he shouldn't have driven them off the road. Maybe he killed the drivers. None of it was proven. But things didn't go his way and he's stuck here with minimal internet. Not enough for entertainment; only enough to look for work, pay bills, order food. Until he figures out better employment, he's languishing here.
 
-The mirror tells him about him. Numbers scroll down the left side; blood pressure, possible diabetes, cancer screening, heart attack, addictions, pregnancy (omitted from display: he doesn't have a uterus). The mirror scans him for melanoma, wounds, and visible signs of stress. It checks his eyesight and retinas for glaucoma or cataracts. Preventative healthcare is cheaper than treatment and everyone in level one housing has a mirror feeding health data to a central diagnostic. No choice about it. Privacy is forfeit.
+He rises and spits on the floor. Something will clean it up. He puts on his visor and walks down the hall to the bathroom. As he urinates, numbers scroll down the left side of his view; blood pressure, possible diabetes, cancer screening, heart attack, addictions, pregnancy (omitted from display: he doesn't have a uterus). Invasive cameras scan him for melanoma, wounds, and visible signs of stress. They check his eyesight and retinas for glaucoma or cataracts. Preventative healthcare is cheaper than treatment so everyone in level one housing has their health data sent to a central diagnostic system. No choice about it. Privacy is a priviledge.
 
-Do-Ye0n shakes himself, steps out and closes the door. By default, he is now facing the food storage unit (refrigerator, FSU, or "green room" because of the green refrigerant gel). Do-Ye0n reaches into the FSU and pulls out a breakfast provided to level one housing. It's a kind of oatmeal with a packet of banana. Do-Ye0n knows this because it's printed on the package. Without the label it would be difficult to identify. He puts it in the food processor and turns back to the refrigerator to find coffee.
+Do-Ye0n returns to his housing box and disinfects his feet, carefully spraying between his toes. His spit is gone, consumed by the sanitizer that came from the small door in the wall near the floorboard. It's a communal robot. He suspects it spreads diseases from room to room.
 
-Coffee is optional. He can eat anything he wants, but if it's not level one, he has to buy it himself. And cook it. Which isn't hard; the food processor knows how, just turn it on. But he doesn't have any coffee this morning.
+He stands, facing the food storage unit (refrigerator, FSU, or "green room" because of the green refrigerant gel). Do-Ye0n reaches into the FSU and pulls out a breakfast provided to level one housing. It's a kind of oatmeal with a packet of banana. Do-Ye0n knows this because it's printed on the package. Without the label it would be difficult to identify. He puts it in the food processor and turns back to the refrigerator to find coffee.
 
-The food processor tells him the thing he placed inside it has been transmogrified into oatmeal. And bananas. Probably.
+But coffee isn't level one. He can eat anything he wants, but if it's not level one, he has to buy it himself. And cook it. Which isn't hard; the food processor knows how, just turn it on. But he doesn't have any coffee this morning.
 
-This apartment doesn't have a proper table. Instead, a panel and chair fold out from the wall. Do-Ye0n can eat breakfast at the table, then clear the packaging, then work, then move the terminal, then eat lunch at the table, then clear the packaging, then...and so on.
+The food processor tells him the thing he placed inside it has been changed into oatmeal. And bananas. Probably. It smells similar to oatmeal, but he knows what oatmeal actually smells like. He got it when he lived in level five. This oatmeal has a faint odor of warm plastic. The banana bits are chewy - it isn't really banana.
+
+This apartment doesn't have a proper table. Instead, a panel and chair fold out from the wall. Do-Ye0n can eat breakfast at the table, then clear the food packaging, then work, then move the terminal, then eat lunch at the table, then clear the packaging, then...and so on.
 
 If he folds up the bed he has room to briefly pace the apartment. Before he folds out the bed, he has to fold up the table and chair. Before he opens the door, he has to fold up the bed. He doesn't bother, there's nothing outside for him.
 

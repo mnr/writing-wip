@@ -47,7 +47,7 @@ She met Jupyter in church, five years after her transitional surgery and two yea
 
 Pali had the right combination of mentors and family to lead her to understanding autonomous robotics like no one else. Her PhD dissertation revealed how artificial intelligence solved the trolley problem with SLAM-3. Her TED Talk was viral. She was hired in Minneapolis, then moved to Portland, Oregon - the mecca of autonomous vehicles.
 
-To Pali, Jupyter is perfect. Smart, sarcastic. It's so cute that she grew up on a farm. Someone Pali would like to possess. They met, they moved in together, they moved to Portland. Then Jupyter left her. Jupyter left a level three apartment for a cramped level one.
+To Pali, Jupyter is perfect. Smart, sarcastic. It's so cute that she grew up on a farm. Someone Pali would like to possess. They met, they moved in together, they moved to Portland. Then Jupyter left her. Jupyter left a level four apartment for a cramped level two.
 
 Pali retraces her steps to her spacious apartment, opens the door, and unmutes the virtual Jupyter.
 
