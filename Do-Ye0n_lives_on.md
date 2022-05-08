@@ -11,23 +11,23 @@ Housing is a right of citizenship since 2052. The level one housing Do-Ye0n is a
 
 If housing wasn't enforced, he could choose where he slept. He could choose what he smelled, instead of the odor of chlorine and urine from the sanitizers. He could choose his neighbors, instead of the screaming and thumping of the genetic cesspool collective living on the other side of the shared wall. He could have his freedom.
 
-If you kneel, close your eyes, straighten your back, and tilt your head upwards you appear content. Do-Ye0n has his eyes closed, but sits on the bed with shoulders slumped, head down. This is the difference between contentment and defeat.
+If you kneel, close your eyes, straighten your back, and tilt your head upwards you appear content. Do-Ye0n has his eyes closed, but sits on the bed with shoulders slumped, head down. This is the posture of defeat.
 
 He should have made better choices at his last job. Maybe he shouldn't have used a debug tool on those self-driving cars. Maybe he shouldn't have driven them off the road. Maybe he killed the drivers. None of it was proven. But things didn't go his way and he's stuck here with minimal internet. Not enough for entertainment; only enough to look for work, pay bills, order food. Until he figures out better employment, he's languishing here.
 
 He rises and spits on the floor. Something will clean it up. He puts on his visor and walks down the hall to the bathroom. As he urinates, numbers scroll down the left side of his view; blood pressure, possible diabetes, cancer screening, heart attack, addictions, pregnancy (omitted from display: he doesn't have a uterus). Invasive cameras scan him for melanoma, wounds, and visible signs of stress. They check his eyesight and retinas for glaucoma or cataracts. Preventative healthcare is cheaper than treatment so everyone in level one housing has their health data sent to a central diagnostic system. No choice about it. Privacy is a priviledge.
 
-Do-Ye0n returns to his housing box and disinfects his feet, carefully spraying between his toes. His spit is gone, consumed by the sanitizer that came from the small door in the wall near the floorboard. It's a communal robot. He suspects it spreads diseases from room to room.
+Do-Ye0n returns to his housing box and disinfects his feet, carefully spraying between his toes. The spittle on the floor is gone, consumed by a sanitizer entering from the small door in the wall near the floorboard. It's a communal robot. He suspects it spreads disease from room to room.
 
 He stands, facing the food storage unit (refrigerator, FSU, or "green room" because of the green refrigerant gel). Do-Ye0n reaches into the FSU and pulls out a breakfast provided to level one housing. It's a kind of oatmeal with a packet of banana. Do-Ye0n knows this because it's printed on the package. Without the label it would be difficult to identify. He puts it in the food processor and turns back to the refrigerator to find coffee.
 
 But coffee isn't level one. He can eat anything he wants, but if it's not level one, he has to buy it himself. And cook it. Which isn't hard; the food processor knows how, just turn it on. But he doesn't have any coffee this morning.
 
-The food processor tells him the thing he placed inside it has been changed into oatmeal. And bananas. Probably. It smells similar to oatmeal, but he knows what oatmeal actually smells like. He got it when he lived in level five. This oatmeal has a faint odor of warm plastic. The banana bits are chewy - it isn't really banana.
+The food processor tells him the thing he placed inside has changed into oatmeal. And bananas. Probably. It *almost* smells like oatmeal, but he knows what oatmeal really smells like. He got it when he lived in level five. This oatmeal has a faint odor of warm plastic. The banana bits are chewy, like banana-flavored apple bits..
 
 This apartment doesn't have a proper table. Instead, a panel and chair fold out from the wall. Do-Ye0n can eat breakfast at the table, then clear the food packaging, then work, then move the terminal, then eat lunch at the table, then clear the packaging, then...and so on.
 
-If he folds up the bed he has room to briefly pace the apartment. Before he folds out the bed, he has to fold up the table and chair. Before he opens the door, he has to fold up the bed. He doesn't bother, there's nothing outside for him.
+If he folds up the bed he has room to briefly pace the apartment. Before he folds out the bed, he has to fold up the table and chair. Before he opens the door, he has to fold up the bed. He doesn't bother, there's nothing outside for him. He slumps to sitting on the bed. His eyes are closed, his head is down.
 
 ------------------------------------------------------------------------
 
@@ -35,17 +35,17 @@ Do-Ye0n ranks at 95% proficiency in vehicle AI engineering. Prior to his *almost
 
 He's shunned by the industry.
 
-His resulting unemployment dropped him back to level one. He knows how far he fell and he wants it back.
+His resulting unemployment dropped him back to level one. He knows how far he fell and he wants it back. But first, he has a work quota to fill. He clears the table of the half-eaten pseudo-oatmeal.
 
-Today, he has no choice but to open the first job offer of the day. It's a contract gig, just like every other from the past four months. It requires advanced skills but offers minimum payout. This is what he gets after hijacking autonomous vehicles and probably (*not proven or convicted*) killing two people. He accepts and completes the project in two short hours.
+He has no choice but to open the first job offer of the day. It's a contract gig, just like every other from the past four months. It requires advanced skills but offers minimum payout. This is what he gets after hijacking autonomous vehicles and probably (*not proven or convicted*) killing two people. He accepts and completes the project in two short hours.
 
 A second short-term gig slides into view, marked as \#*IntlPenTest*. International Penetration Testing, also known as short-term freelance espionage against some country - or someone pretending to be a country. It's an easy ask, just annoy the target long enough to get their attention. Not much different than yelling "*Hey - stop that*" when you see a thief stealing a bicycle. One *HeyStopThat* isn't going to change anything; one-hundred *HeyStopThat*s might cause them to reconsider. Do-Ye0n takes the gig, harasses someone for forty-eight minutes, then collects his fee.
 
 If he can find long term work, he can move someplace that doesn't stink. Day gigs are a gerbil-wheel for losers. He calls up the job search counselor - an artificial coach with a cheery attitude.
 
-"Do-Ye0n," says the coach. His name tag says *Alex* in a comic-book font. Alex has a head, torso, and arms although he rarely uses anything other than facial expressions. Mostly his eyebrows. Alex is not an expensive render - public funds are better spent on other things. Oatmeal and bananas, for example.
+"*Helllll-oooo* Do-Ye0n," says the coach. His name tag says *Alex* in a comic-book font. Alex has a head, torso, and arms although he rarely uses anything other than facial expressions. Mostly his eyebrows. Alex is not an expensive render - public funds are better spent on other things. Oatmeal and bananas, for example.
 
-"Welcome back!" Alex is enthusiastic and upbeat. His personality is also not expensive. "I don't have anything for your current profile. Would you like some suggestions?"
+"Welcome back!" Alex is enthusiastic and upbeat. His personality, like his appearance, is not expensive. "I don't have anything for your current profile. Would you like some suggestions?"
 
 "Yes. No. How about broaden the industries you are searching. In fact, please remove the automotive sector entirely. It's obvious they don't want me, so let's move on."
 
@@ -55,43 +55,49 @@ If he can find long term work, he can move someplace that doesn't stink. Day gig
 
 "Training field robots to recognize and exterminate an invasive worm. Agricultural work is socially rewarding and employees working in this sector report a high degree of job satisfaction and self worth."
 
-"Which pays better?"
+"Which job pays better?"
 
-"Cyber security. It is corporate network penetrative testing. They have already referenced the #IntlPenTest job you just completed and give your solution a five-star review. They want you to do more."
+"Cyber security. It is corporate network penetrative testing. They have already referenced the #IntlPenTest job you just completed and gave your solution a five-star review. They want you to do more."
 
 "Corporate network penetrative testing is just a fancy name for ransomware," Do-Ye0n frowns. "What are the numbers?"
 
-"Ransomware is a diminutive term and not an approved descriptor. Corporate network penetrative testing is ranked in the top 30% of compensation plans, includes level four housing and grants stock options every quarter." Alex smiles. It's the only expression Alex has. "The company is named Alpha60. They are extending an offer. Shall I tell them you are able to start?"
+"Ransomware is a diminutive term and not an approved descriptor. Corporate network penetrative testing is ranked in the top 30% of compensation plans, includes level three housing and grants stock options every quarter." Alex smiles. It's the only expression Alex has. "The company is named Alpha60. They are extending an offer. Shall I tell them you are able to start?"
 
-"Wait a minute," says Do-Ye0n. He needs time to think. Ransomware professionals are well paid, but accepting a job like this can be a permanent career choice. Once you add *corporate network penetrative testing* to your resume all future potential employers view you as a possible threat, maybe even a sleeper for a competitor. That's why compensation and stock options are big.
+"Wait a minute," says Do-Ye0n. He needs time to think. Ransomware professionals are well paid, but accepting a job like this can be a permanent career choice. Once you add *corporate network penetrative testing* to your resume future potential employers view you as a possible threat, maybe even a sleeper for a competitor. This explains why compensation and stock options are big.
 
-Not surprisingly, the stock market isn't bothered about this enterprise. Corporate espionage (*ransomware*) has cash flow and can be publicly traded. There are legal issues and occasionally a corporation will step beyond the boundaries, but in those cases, lawsuits are filed, a few guilty engineers are punished, divisions are sold off to competitors and the stockholders lose their investment. Just another hostile takeover.
+Not surprisingly, the stock market isn't bothered about this enterprise. Corporate espionage (*ransomware*) has good cash flow and can be publicly traded. There *are* legal issues and occasionally a corporation will step beyond the boundaries, but in those cases, lawsuits are filed, a few guilty engineers are punished, divisions are sold off to competitors and the stockholders lose their investment. Just another hostile takeover.
 
-It's actually a bit more complex. Every sane corporation must have insurance against ransomware if they want to remain on the stock market. No insurance is corporate malfeasance. Insurance makes good money on *corporate penetrative network testing* insurance. Insurance companies invested heavily in legislation to ensure the viability of ransomware insurance products.
+It's actually a bit more complex. Every sane corporation must have insurance against ransomware if they want to remain on the stock market. Not carrying insurance is corporate malfeasance. The insurance industry makes good money on *corporate penetrative network testing* insurance and they invested in legislation to ensure the viability of ransomware insurance products.
 
 "Okay. Yes," Do-Ye0n agrees. He's already struggling with reputation issues. How much worse can this be?
+
+He straightens his back. Just a bit.
 
 ------------------------------------------------------------------------
 
 Moving from level one to level three housing isn't the normal progression. Normal is level one to level two. Years later, level two to level three. But today he sips strong coffee, turns off the mirror health diagnostics, and leaves his bed unmade.
 
-The bathroom doesn't stink of urine or bleach; just a faint orange scent. His window (a *window!*) displays the Willamette river. The ferries to Vancouver and Astoria leave for the second trip of the day.
+Leaving his level one apartment was easy. Pack his shit, walk two blocks, open a new door, walk in, toss the box in the closet. He clasps his hands behind his back and looks out the window at the sunny day. There is a tree cresting over the apartment building across the street. Maybe there is a park nearby.
 
-He doesn't work at home. This job requires serious bandwidth and there are legal concerns. So Do-Ye0n has a desk in a warehouse of desks. The internet flows through the office like an invisible river at flood plain. It feeds whirlpools of data to the fifty-seven people on the inside of a Faraday cage. None of the data leaks out of the office, but those fifty-seven find novel ways to bring data in.
+The bathroom (*he has a private bathroom*) doesn't stink of urine or bleach; just a faint orange scent. His window (a *window!*) displays the Willamette river. The ferries to Vancouver and Astoria leave for the second trip of the day.
 
-The internet doesn't have a smell. The men and women connected to it smell. The room could use more ventilation and the people could use a shower; most of them are level two housing and subject to water rationing. There are enough level three employees scattered about the room to keep the level two's envious and motivated. Nobody wants to smell bad. Nobody wants to admit they had oatmeal for breakfast. Level three gets *bacon.*
+He doesn't work at home. This job requires serious bandwidth and there are legal concerns about who is contacting who and why. Do-Ye0n strolls to the subway, smiling at the neighbors, reading the news feed.
 
-*Corporate network penetrative testing* used to be illegal. It was breaking and entering secured computers. It was against the law. But laws change. People like Do-Ye0n perform a service by identifying companies with sloppy security. It's better to be called out by friends than to be destroyed by enemies.
+Do-Ye0n has a desk in a warehouse of desks. The internet flows through the office like an invisible river at flood plain. It feeds whirlpools of data to the fifty-seven people on the inside of a Faraday cage. None of the data leaks out of the office, but those fifty-seven find profitable ways to bring data in.
 
-Teaching a computer to assault a data warehouse is easy. The steps are: gather data, define the goal, try a solution, evaluate success. Do-Ye0n is good at this. He taught cars to solve the trolley problem. He is teaching computers to pick a lock and crack a safe.
+The internet doesn't have a smell, unlike the men and women connected to it. The room could use more ventilation and these people could use a shower; most of them are level two housing and subject to water rationing. There are enough level three employees scattered about the room to keep the level two's envious and motivated. Nobody wants to smell bad. Nobody wants to admit they had oatmeal for breakfast. Level three gets *bacon.*
 
-Do-Ye0n stares at a twitching matrix of numbers, then switches to a heat map, converting numbers to colors. It looks like a topographic map of Mars. There are rings of blue, then rings of purple, then a circle of red. Red is an opening to a data warehouse and Do-Ye0n grabs it. He encrypts the data then calls his new client.
+*Corporate network penetrative testing* used to be illegal. It is breaking and entering secured computers. It was against the law. But laws change. People like Do-Ye0n perform a service by identifying companies with sloppy security. It's better to be called out by friends than to be destroyed by enemies.
+
+Teaching a computer to assault a data warehouse is easy. The steps are well known: gather data, define the goal, try a solution, evaluate success. Do-Ye0n is good at this. He is teaching computers to pick a lock and crack a safe.
+
+Do-Ye0n stares at a twitching matrix of numbers, then switches to a heat map, converting numbers to colors. It looks like a topographic map of Mars. There are rings of blue, then rings of purple, then a small circle of red. Red is the unprotected opening to a corporate data warehouse used by a retailer of hemolytic filters. Do-Ye0n encrypts the data in the warehouse then calls his new client.
 
 "Hello. I'm a cybersecurity analyst with Alpha60," says Do-Ye0n. "I've identified an opening on your system and performed the encryption necessary to verify our research. Our consulting fee is... (this is where Do-Ye0n inserts a large financial amount in the currency local to the company he contacted.) When you remit payment we will release both the method of penetration and the encryption key."
 
 "Dammit," says the corporate IT representative Do-Ye0n is talking to. "I thought I had that plugged, but guess not. Okay, can you send an invoice?"
 
-"Let me put you through to our contracts department," says Do-Ye0n. "I see we've done business before."
+"Let me put you through to our billing department," says Do-Ye0n. "I see we've done business before."
 
 "Yep - not our first time," responds IT. "You're going to get me fired if you keep this up."
 
@@ -101,7 +107,7 @@ Do-Ye0n stares at a twitching matrix of numbers, then switches to a heat map, co
 
 "A pleasure," says Do-Ye0n. "Let's do this again soon."
 
-He forwards the connection. He's only been at this for a few months and is already in the top ten performers list. If he can keep this momentum, he'll be an associate within a year. Possibly a partner in five.
+He forwards the connection to billing. He's only been at this for a few months and is already in the top ten performers list. If he can keep this momentum, he'll be an associate within a year. Possibly a partner in five.
 
 D0-Ye0n smiles to himself in cubicle thirty-five of fifty-seven. He takes a moment to savor this unexpected success, but only a moment before he dives into the next corporate network.
 
@@ -109,13 +115,13 @@ D0-Ye0n smiles to himself in cubicle thirty-five of fifty-seven. He takes a mome
 
 "Alpha60 is outperforming."
 
-Chip Venetian tweaks the color of his tie and looks around the virtual conference. Commodities lawyers choose conservative avatars for these meetings, although Chip knows several who will switch out to wild-side versions during their off-hours. While they discuss the business of the partnership, everyone is dead serious.
+Chip Venetian tweaks the color of his tie and looks around the virtual conference. Commodities lawyers choose conservative avatars for these meetings, although Chip knows several who will switch out to wild-side versions during their off-hours. For now, while they discuss the business of the partnership, everyone is dead serious.
 
-"They've been hiring penetrators for the past year and are seeing some solid returns. They've documented fifty-seven assets in Portland alone, with probably double that number in New York," says Chip. He tosses an animated performance chart into the room, illustrating the short term growth of Alpha60's value.
+"They've been hiring penetrators for the past year and are seeing some solid returns. Their annual report documented fifty-seven assets in Portland alone, with probably double that number in New York," says Chip. He tosses an animated performance chart into the room, illustrating the short term growth of Alpha60's value.
 
-"Surprisingly, this all came about when Fairwell Network Security approached us with a contract to oversee a strategic incarceration on Alpha60. *If you can't beat them, jail them.* Fairwell wants us to lock up a few Alpha60 employees long enough to give them a competitive advantage."
+"Fairwell Network Security has approached us with a contract to oversee a strategic incarceration on Alpha60. *If you can't beat them, jail them.* Fairwell wants us to lock up a few Alpha60 employees long enough to give Fairwell a competitive advantage."
 
-"Their stock is fragile and valuable enough. They'll take an arrest-threat seriously. I think we should realize the value of a strike."
+"Alpha60 stock is fragile and valuable. They'll take an arrest-threat seriously. I think we should realize the value of a strike."
 
 The three non-english speakers respond through translators by presenting icons or changing their expressions. They all agree with Chip. Five of the remaining eight participants verbally agree; three do not. The disagreement isn't about the ethics of Alpha60, or the ethics of threatening a corporation. It's purely about the return on the work to be done to shake-down a business involved in *Corporate Penetrative Testing*. Threatening Alpha60 without preparation would only invite a ransomware attack.
 
@@ -127,19 +133,19 @@ Do-Ye0n swallows the last of a power drink, basketball-tosses the foil container
 
 The shifting graph in his main view is abruptly pushed to the corner. In its place is some sort of corporate communiqué, telling him to please report to room 1233, an office upstairs.
 
-*That was quick*, he thinks. Smiling, he grabs his terminal and heads for the elevator. Working in the cube farm was beneath him and he's looking forward to a room with a view of the skyline.
+*That was quick*, he thinks. Smiling, he heads for the elevator. Working in the cube farm was beneath him and he's looking forward to a room with a view of the skyline.
 
-He presents himself to the elevator station. Almost immediately, one of the sliding doors open and calls his name. He walks in, the door shuts, and accelerates skyward. *This is poetic*, he thinks. The interior is bland, but his visor displays enough interesting data to keep his attention. It's only a minute before he's decelerating and stopping on the twelfth floor.
+He presents himself to the elevator station. Almost immediately, one of the sliding doors open and calls his name. He walks in, the door shuts, and accelerates skyward. *This is poetic*, he thinks. The interior is bland, but his visor displays enough interesting data to keep him amused. It's only a minute before he decelerates and stops on the twelfth floor.
 
-The door opens to an unfinished space. There isn't carpet on the floor, the walls are still rough construction board, and there is no common space. His visor informs him to go left, then straight, then open the third door. *This must be an expansion. I'm on a new team. Probably the director of the team.*
+The door opens to an unfinished space. There isn't carpet on the floor, the walls are still rough construction board. There is a faint smell of paint and glue. His visor informs him to go left, then straight, then open the third door. *This must be an expansion,* he thinks. *I'm on a new team. Probably the director of the team.*
 
-He opens the door marked 1233 and steps in. Two security guards flank a chair, which faces a desk, behind which is sitting a woman younger than Do-Ye0n. Other than the desk and chair, there is no other furniture. There isn't a window and light seems to come from a hidden source. Probably the walls are painted with electro-luminescent paint. One of the security guards moves the chair around, motioning for him to sit. He does so, arranges his legs and faces the woman. He smiles.
+He opens the door marked 1233 and steps in. Two security guards flank a chair which faces a desk, behind which sits a woman younger than Do-Ye0n. Other than the desk and chair, there is no other furniture. There isn't a window and light seems to come from a hidden source. Probably the walls are painted with electro-luminescent paint. One of the security guards moves the chair around, motioning for him to sit. He does so, arranges his legs and faces the woman. He smiles.
 
 "Do-Ye0n Kurrat?" asks the woman. "This is you, correct?"
 
 "Of course," says Do-Ye0n. "I'm pleased to be here."
 
-"Well, maybe not," she responds.
+"Maybe not," she responds.
 
 Do-Ye0n notices there is no name band, either real or virtual. Neither guard has a name band. He's the only person with a name in this office.
 
@@ -147,17 +153,27 @@ Do-Ye0n notices there is no name band, either real or virtual. Neither guard has
 
 "Yes, I have." agrees Do-Ye0n. "I believe I've been quite successful. Are you saying I haven't been performing to expectations?"
 
-"No," she responds. "I'm saying you're doing illegal things and Alpha60 can't be seen as hosting those activities. We're under investigation for illegal corporate penetrations, several of which are from you. I'm saying you're being arrested for felony espionage. These gentlemen will escort you out of the building and to a detention facility.
+"No," she responds. "I'm saying you're doing illegal things and Alpha60 can't be seen as hosting those activities. We're under investigation for illegal corporate penetrations, several of which are from you. I'm saying you're being arrested for felony espionage."
+
+"I'm sorry," says Do-Ye0n. "I've been doing what you asked me to do. I found vulnerable data warehouses and pointed it out to the owners of that data. That's what penetrative testing is."
+
+"That's one interpretation," she replies. "But it's an illegal interpretation. Here at Alpha60, we pride ourselves on making the world safe from hackers and other miscreants while maintaining an ethically spotless profile."
+
+"You've seen everything I've been working on," states Do-Ye0n. He leans forward and the two security guards take a step closer. "You've encouraged everything I've done. How can you suddenly tell me I'm unethical?"
+
+"We've determined you were acting alone and without sufficient supervision from your manager. He was fired this morning," she says. "These officers will escort you out of the building and to a detention facility."
 
 Do-Ye0n looks at the security guards and realizes these aren't security guards - they are police. One of them presents him with zip-tie handcuffs. The other helps him to his feet, using gentle restraining force, and turns him around to clamp his wrists behind his back.
 
 ------------------------------------------------------------------------
 
-The back seat of this police transport could be padded, but Do-Ye0n appreciates it should to be easy to clean. Cushions would be absorbent and saturated with pee and vomit. Without cushions, everything is visible and sanitary.
+The back seat of this police transport could be padded. Through his agitation, Do-Ye0n appreciates the hard plastic. Cushions would be absorbent and saturated with pee and vomit. Without cushions, everything is visible and sanitary.
 
 It's a short ride to the station and a shorter trip through booking. He doesn't have pockets so he doesn't have to empty them. His visor is placed in a lock box and secured with a scan of his retina. It's safe until later.
 
-The door opens into a small hall, reminiscent of Alpha60's elevator lobby. One door is open, the other five are closed. It's obvious where he is to go. The room is empty, the wall is a display large enough to show a life-size woman. She might be artificial; Do-Ye0n doesn't care.
+He's a bit faint. Maybe it's the power drink wearing off and missing lunch. Maybe.
+
+His guard escorts him into a small hall, reminiscent of Alpha60's elevator lobby. One door is open, the other five are closed. It's obvious where he is to go. The room is empty, the wall is a display large enough to show a life-size woman. She might be artificial; Do-Ye0n doesn't care.
 
 "Hello Do-Ye0n. I'm Yvette and I'll be your case manager." She smiles but otherwise avoids the gestures used to reassure humans. "Standardized sentencing dictates bail for your situation at 20% of your current salary plus benefits. Do you already have a chosen bail supplier?"
 
