@@ -1,8 +1,12 @@
 ---
-title: "Do-Ye0n performs a cost/benefit analysis on a career based around questionable activities"
-output: word_document
+title: Do-Ye0n performs a cost/benefit analysis on a career based around questionable
+  activities
 author: "Mark Niemann-Ross"
 date: "March 2022"
+output:
+  word_document: default
+  html_document:
+    df_print: paged
 ---
 
 Nobody sleeps on the streets, but Do-Ye0n fantasizes about it.
