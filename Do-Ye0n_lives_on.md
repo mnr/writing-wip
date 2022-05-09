@@ -15,7 +15,7 @@ If you kneel, close your eyes, straighten your back, and tilt your head upwards 
 
 He should have made better choices at his last job. Maybe he shouldn't have used a debug tool on those self-driving cars. Maybe he shouldn't have driven them off the road. Maybe he killed the drivers. None of it was proven. But things didn't go his way and he's stuck here with minimal internet. Not enough for entertainment; only enough to look for work, pay bills, order food. Until he figures out better employment, he's languishing here.
 
-He rises and spits on the floor. Something will clean it up. He puts on his visor and walks down the hall to the bathroom. As he urinates, numbers scroll down the left side of his view; blood pressure, possible diabetes, cancer screening, heart attack, addictions, pregnancy (omitted from display: he doesn't have a uterus). Invasive cameras scan him for melanoma, wounds, and visible signs of stress. They check his eyesight and retinas for glaucoma or cataracts. Preventative healthcare is cheaper than treatment so everyone in level one housing has their health data sent to a central diagnostic system. No choice about it. Privacy is a priviledge.
+He rises and spits on the floor. Something will clean it up. He puts on his visor and walks down the hall to the bathroom. As he urinates, numbers scroll down the left side of his view; blood pressure, possible diabetes, cancer screening, heart attack, addictions, pregnancy (omitted from display: he doesn't have a uterus). Invasive cameras scan him for melanoma, wounds, and visible signs of stress. They check his eyesight and retinas for glaucoma or cataracts. Preventative healthcare is cheaper than treatment so everyone in level one housing has their health data sent to a central diagnostic system. No choice about it. Privacy is a privilege.
 
 Do-Ye0n returns to his housing box and disinfects his feet, carefully spraying between his toes. The spittle on the floor is gone, consumed by a sanitizer entering from the small door in the wall near the floorboard. It's a communal robot. He suspects it spreads disease from room to room.
 
@@ -123,7 +123,7 @@ Chip Venetian tweaks the color of his tie and looks around the virtual conferenc
 
 "Alpha60 stock is fragile and valuable. They'll take an arrest-threat seriously. I think we should realize the value of a strike."
 
-The three non-english speakers respond through translators by presenting icons or changing their expressions. They all agree with Chip. Five of the remaining eight participants verbally agree; three do not. The disagreement isn't about the ethics of Alpha60, or the ethics of threatening a corporation. It's purely about the return on the work to be done to shake-down a business involved in *Corporate Penetrative Testing*. Threatening Alpha60 without preparation would only invite a ransomware attack.
+The three non-English speakers respond through translators by presenting icons or changing their expressions. They all agree with Chip. Five of the remaining eight participants verbally agree; three do not. The disagreement isn't about the ethics of Alpha60, or the ethics of threatening a corporation. It's purely about the return on the work to be done to shake-down a business involved in *Corporate Penetrative Testing*. Threatening Alpha60 without preparation would only invite a ransomware attack.
 
 "It's decided then," concludes Chip. "I'll put together a strike team and we can move when the plan is set up. I forecast payoff within the month."
 
@@ -171,13 +171,13 @@ The back seat of this police transport could be padded. Through his agitation, D
 
 It's a short ride to the station and a shorter trip through booking. He doesn't have pockets so he doesn't have to empty them. His visor is placed in a lock box and secured with a scan of his retina. It's safe until later.
 
-He's a bit faint. Maybe it's the power drink wearing off and missing lunch. Maybe.
+He's a bit faint. Maybe it's the power drink wearing off and missing lunch. Maybe it's the missing visor. Or maybe he's fucked and he knows it.
 
 His guard escorts him into a small hall, reminiscent of Alpha60's elevator lobby. One door is open, the other five are closed. It's obvious where he is to go. The room is empty, the wall is a display large enough to show a life-size woman. She might be artificial; Do-Ye0n doesn't care.
 
-"Hello Do-Ye0n. I'm Yvette and I'll be your case manager." She smiles but otherwise avoids the gestures used to reassure humans. "Standardized sentencing dictates bail for your situation at 20% of your current salary plus benefits. Do you already have a chosen bail supplier?"
+"Hello Do-Ye0n. I'm Yvette and I'll be your case manager." She smiles but otherwise avoids the gestures used to reassure humans. "Standardized sentencing dictates bail for your situation at 20% of your current salary plus benefits. Do you already have a chosen supplier?"
 
-"Bail supplier?" asks Do-Ye0n. "Forgive me, but things must have changed since I was last arrested. What is a chosen bail supplier?"
+"Bail supplier?" asks Do-Ye0n. The faintness hasn't cleared up and he is having problems connecting his thoughts. "Forgive me, but things must have changed since I was last arrested. What is a chosen bail supplier?"
 
 "You may already have an employment agreement with first option to supply bail," she says. "Or you may wish to make yourself available to the open market. There are already five corporations ready to provide you with an offer."
 
@@ -199,19 +199,19 @@ Yvette fades out and is immediately replaced with a different woman, this time d
 
 "Comparable but with minor deviations. This is a standard offer." Yvette says.
 
-"Please bring Aishwarya back," says Do-Yeon. Aishwarya reappears immediately.
+"Please bring Aishwarya back," says Do-Ye0n. Aishwarya reappears immediately.
 
 "I'll accept your offer," Do-Ye0n tells her. "When does this happen?"
 
 "Most excellent," Aishwarya responds. "Wait just a minute please."
 
-She picks up a tablet, makes a few motions, then returns her attention to Do-Ye0n. "All set. We'll send a car to bring you to our offices. Congratulations on joining up with Fairwell!"
+In full view of Do-Ye0n, she picks up a tablet, makes a few motions, then returns her attention. "All set. We'll send a car to bring you to our offices. Congratulations on joining up with Fairwell!"
 
 ------------------------------------------------------------------------
 
-The car Do-Ye0n rides in is meant to impress everyone it passes, but mostly meant to impress the rider. It's longer by half than other vehicles and emits a low rumble: subsonic, so it is felt rather than heard. Blue-green waves of light pulse from front to back, like a ocean heartbeat. Inside, the seats are held at a constant body temperature. The in-dash bartender asks Do-Ye0n what type of Scotch he desires - but not the age. The age is eighteen years, *why would you drink anything less?*
+The car Do-Ye0n rides in impresses everyone it passes, but it is mostly meant to impress the rider. It's longer by half than other vehicles and emits a low rumble: subsonic, so it is felt rather than heard. Blue-green waves of light pulse from front to back, like a ocean heartbeat. Inside, the seats are held at a constant body temperature. The in-dash bartender asks Do-Ye0n what type of Scotch he desires.
 
-The car slides into its privileged space at Fairwell and opens, urging Do-Ye0n to step out. Aishwarya is already waiting for him with his badge.
+The car slides into its privileged space at Fairwell and opens, urging Do-Ye0n to step out. Aishwarya is already waiting for him.
 
 "Namaste," she presses her palms together and touches her forehead, then looks up. "Fairwell is pleased you are here. As am I." She smiles warmly. "Can I give you a tour?"
 
@@ -223,7 +223,7 @@ Do-Ye0n is assigned an office on ninth floor. There is a window and he can see t
 
 "Aren't you moving a bit fast?" asks Do-Ye0n. "I still have a court appearance. Hopefully things go well. But what if they don't?"
 
-"We ran your odds before we made the offer," she says. "You're a lock - there's barely a chance you'll be convicted. Be sure to watch the futures on your conviction when you're not binging on Fairwell stock values."
+"We ran your odds before we made the offer," she says. "You're a lock - there's barely a chance you'll be convicted. Be sure to watch the futures on your conviction when you're not gloating on Fairwell stock values."
 
 "I guess I'm new to this world," he says. "I used to worry about breaking the law. It seems like you consider it part of the job."
 
@@ -235,7 +235,7 @@ Aishwarya pauses and considers Do-Ye0n. "Sure, but I have to buy. I can't accept
 
 ------------------------------------------------------------------------
 
-"Get up," Aishwarya says, selecting a business saree from her closet. "We need to get into the office. I've got recruitment quotas that won't be satisfied hanging out here. And as I recall, you have a meeting with your lawyer, Steve. Miss it and you're going to fade into an underdog in the betting pool."
+"Get up," Aishwarya says, selecting a business saree from her closet. "We need to get into the office. I've got recruitment quotas that won't be satisfied hanging out here. And as I recall, you have a meeting with your lawyer. Miss it and you're going to become an underdog in the betting pool."
 
 Do-Ye0n puts a pillow over his head, but Aishwarya pulls it away and throws it to the corner of the room. "Nobody cares if I'm convicted," he says. "I'm not going to serve time, Fairwell is going to pay the settlement, my lawyer gets paid either way."
 
@@ -259,7 +259,7 @@ The prior defendant was not guilty and happily leaves the room by the door behin
 
 Do-Ye0n steps up next to Steve, a real (not virtual) lawyer supplied by Fairwell. They've been working on his case for several months but with the assumption this will be nothing more than a reading of charges followed by a dismissal. At worst, he'll agree to a plea bargain with probation.
 
-Also stepping forward is the prosecuting attorney. Do-Ye0n's lawyer does a literal double-take. "Jim-bo. Are you defense?" There is a note of surprise in this friendly greeting. Maybe a note of concern.
+Also stepping forward is the prosecuting attorney. Do-Ye0n's lawyer does a literal double-take. "Jim-bo. Are you prosecution?" There is a note of surprise in this friendly greeting. Maybe a note of concern.
 
 "Hi Steve," says Attorney Jim Lancaster, aka *Jim-bo*. One of Portland's highest paid and most aggressive lawyers.
 
@@ -271,9 +271,9 @@ Steve swears quietly. Do-Ye0n looks uneasily at the door behind the bailiff.
 
 "Ten years?" screams Do-Ye0n. "This was supposed to be a sure thing. I'm supposed to be in a meeting this afternoon. I'm having dinner with Aishwarya tonight."
 
-Do-Ye0n faces his lawyer across the table in the room behind the door behind the baliff. Do-Ye0n is just as surprised as Steve to hear he will be doing time. Justice used to move slower. Court appearance and sentencing used to take days, sometimes weeks. Now it takes hours. Do-Ye0n is returning to serve his time so much sooner than he expected.
+Do-Ye0n faces his lawyer across the table in the room behind the door behind the baliff. Do-Ye0n is just as surprised as Steve to hear he will be doing time. Justice used to move slower. Court appearance and sentencing used to take days, sometimes weeks. Now it takes hours.
 
-"Okay. This didn't go the way we planned," admits Steve, his now disgraced lawyer. "But I wouldn't worry. Fairview has an interest in your employment after incarceration. It's in their best interests for you to get out quickly, and I expect they'll be calling tomorrow morning to get me started on your early release."
+"Okay. This didn't go the way we planned," admits Steve, his now disgraced lawyer. "But I wouldn't worry much. Fairview has an interest in your employment after incarceration. It's in their best interests for you to get out quickly, and I expect they'll be calling tomorrow morning to get me started on your early release."
 
 "Which sounds like I'll be spending tonight in prison," says Do-Ye0n. He was not exhibiting self-control. "I'm not okay with this!"
 
@@ -297,13 +297,17 @@ But Steve doesn't call the next morning. Do-Ye0n hears nothing from anyone until
 
 Learning a new habit takes most people three weeks of repeated practice. Adjusting to a new living situation takes a bit longer; some research says a year and a half. For Do-Ye0n, it takes two years to become accustomed to prison habits.
 
-His state-sponsored accommodations aren't given the dignity of a rating. He thinks of it as level zero. The bathroom is communal, his room is spartan, his privacy is nil. The mirror reads his physical health, but doesn't reveal the results to him. Other inmates would be able to view his stats, and that would violate HIPAA laws. If he wants to know his blood pressure, he would need to file a request.
+He no longer sticks out as the new guy. He knows when to talk and when shut up. He lines up for meals, fresh clothes and linens. He knows when the commissary is open. He made a friend, that friend was transferred and he learned to make more than one friend. He listens more than talks. He doesn't borrow, doesn't loan.
+
+His state-sponsored accommodations aren't given the dignity of a rating. He thinks of it as level zero. The bathroom is communal, his room is spartan, his privacy is nil. The mirror reads his physical health, but doesn't reveal the results to him. Other inmates will be able to view his stats, and that will violate HIPAA laws. If he wants to know his blood pressure, he will need to file a request.
+
+He gets depressed. He gets counseling. He gets exercise. He gets outdoors. Most important, he gets jobs.
 
 He is back to small gig jobs, but with close supervision, limited bandwidth, and short working hours. Seventy-five percent of his income is garnished to pay for his incarceration. He's having a difficult time saving anything for retirement or moving into something other than level one housing when he gets out.
 
 He's not happy about this. He didn't do anything wrong, he continues to do nothing wrong. Yvette explained it all to him when he figured out how to ask the right question: *"What is the purpose of this? Why am I here?"*
 
-Yvette is programmed to recite a carefully scripted response. The response is a result of coaching by the Hammurabi corporation, which passed the benefit of their education on to Yvette, who now passes it on to Do-Ye0n.
+Yvette is programmed to recite a carefully scripted response. The response is a result of coaching by the Hammurabi corporation, owner of the private incarceration holding Do-Ye0n.
 
 "Incarceration provides society with several benefits," begins Yvette. "First, it provides crime victims with a sense of retribution. Without retribution, victims lose faith in the system of justice. Without retribution, victims resort to vigilantism and other aberrant social behavior."
 
@@ -365,11 +369,11 @@ Everyday, D0-Ye0n receives a call from Yvette for case management. She is his on
 
 "I'm being fired for being a non-performing asset," realizes Do-Ye0n.
 
-"That's not the accepted terminology. You're being released because your incarceration is not in anyone's best interest. Pack your spare socks, you're sleeping at your own place tonight."
+"That's not the accepted terminology. You're being released because your incarceration is not in anyone's best interest. Pack your socks, you're sleeping at your own place tonight."
 
 ------------------------------------------------------------------------
 
-Once again, he's stuck in level one housing with just enough internet for what is required of him. He sits up from the folding desk and takes two steps to the bathroom door. Pees and flushes and walks back out.
+Once again, he's in level one housing with just enough internet for what is required of him. He sits up from the folding desk and walks to the communal bathroom. Pees and flushes and walks back to his hell.
 
 "Alex, what do you have for me today?" Do-Ye0n summons his job-search counselor.
 
