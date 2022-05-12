@@ -215,27 +215,27 @@ In full view of Do-Ye0n, she picks up a tablet, makes a few motions, then return
 
 The car Do-Ye0n rides in impresses everyone it passes, but it is mostly meant to impress the rider. It's longer by half than other vehicles and emits a low rumble: subsonic, so it is felt rather than heard. Blue-green waves of light pulse from front to back, like a ocean heartbeat. Inside, the seats are held at a constant body temperature. The in-dash bartender asks Do-Ye0n what type of Scotch he desires.
 
-The car slides into its privileged space at Fairwell and opens, urging Do-Ye0n to step out. Aishwarya is already waiting for him.
+The car slides into its privileged space at Fairwell and opens, urging Do-Ye0n to step out. Aishwarya is already waiting for him. Do-Ye0n notices she is still wearing the business sari, but without the formal jacket. Her eyes seem more vibrant than when they conversed earlier that afternoon.
 
-"Namaste," she presses her palms together and touches her forehead, then looks up. "Fairwell is pleased you are here. As am I." She smiles warmly. "Can I give you a tour?"
+"Namaste," she presses her palms together and touches her forehead, then looks up. "Fairwell is pleased you are here. As am I." She smiles warmly, moves closer and takes his arm. "Can I give you a tour?"
 
 They enter the first floor lobby, dominated by an opulent reception station. The second floor is occupied by human resources, but Aishwarya bypasses this in favor of the third floor. Third through fifth floor is the cubicle farm for entry-level employees. Sixth and seventh is private offices for level three employees. Eighth and ninth is level four. They don't tour floors above nine; those require a separate elevator and Aishwarya doesn't have permission to use it.
 
 Do-Ye0n is assigned an office on ninth floor. There is a window and he can see the wires of the radiation cage embedded in the glass. *What happens on ninth floor stays on ninth floor.*
 
-"Welcome to your new home," says Aishwarya. "Is there anything else I can do to make your transition pleasant?"
+"Welcome to your new home," says Aishwarya. She walks to the window, then half-turns to regard him over her shoulder. "Is there anything else I can do to make your transition pleasant?"
 
-"Aren't you moving a bit fast?" asks Do-Ye0n. "I still have a court appearance. Hopefully things go well. But what if they don't?"
+"Aren't you moving a bit fast?" asks Do-Ye0n. *No, you aren't moving too fast*, thinks Do-Ye0n. "I still have a court appearance. Hopefully things go well. But what if they don't?"
 
 "We ran your odds before we made the offer," she says. "You're a lock - there's barely a chance you'll be convicted. Be sure to watch the futures on your conviction when you're not gloating on Fairwell stock values."
 
 "I guess I'm new to this world," he says. "I used to worry about breaking the law. It seems like you consider it part of the job."
 
-"Nobody here will agree with that statement," she says. "We strive to provide the highest level of service to our clients. Sometimes they don't realize how much service they need."
+"Nobody here will agree with that statement," she says. She turns and walks towards him, then touches his arm. "We strive to provide the highest level of service to our clients. Sometimes they don't realize how much service they need."
 
 "I still have questions," he says. "But I haven't eaten. Is there any chance we can continue this orientation over dinner?"
 
-Aishwarya pauses and considers Do-Ye0n. "Sure, but I have to buy. I can't accept gifts from new hires."
+Aishwarya considers Do-Ye0n. "I believe I have met my recruitment quota for the day, so, yes. Then I'll be able to show you your new apartment."
 
 ------------------------------------------------------------------------
 
@@ -251,7 +251,7 @@ Do-Ye0n sits up. "You bet on my innocence?"
 
 "So romantic." He flops back on the bed, covering his head with the sheet. "Are we sleeping here tonight or at my place?"
 
-"We've had this conversation for five months now," Aishwarya says. She climbs across the bed and touches his arm. "Maybe we should think about a longer-term solution?"
+"We've had this conversation for five months now," Aishwarya says. She climbs across the bed and touches his face. "Maybe we should think about a longer-term solution?"
 
 ------------------------------------------------------------------------
 
