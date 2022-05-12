@@ -63,9 +63,25 @@ But still - this version of Jupyter is just a clever talking puppet. It can appl
 
 "Yes," replies virtual Jupyter, smiling. "I'd like a handful of chocolate." Which is exactly how Jupyter would respond and the flavor she preferred.
 
-"We're out of chocolate ice cream," says Pali. This is the test. In real life, chocolate ice cream is always available - just order it and it arrives. But in the world Pali has simulated for virtual Jupyter, there is no more chocolate ice cream. What will virtual Jupyter do? Actually, it's unclear what the real Jupyter would do.
+"We're out of chocolate ice cream," says Pali. This is the test. In real life, chocolate ice cream is always available - just order it and it arrives. But in the world Pali has defined for virtual Jupyter, there is no more chocolate ice cream. What will virtual Jupyter do? Actually, it's unclear what the real Jupyter would do.
 
 "I would...I would like...I would..." stutters virtual Jupyter. Pali mutes the voice, but it continues to try to solve a problem without a solution. This virtual Jupyter has no framework for an indeterminate decision.
+
+------------------------------------------------------------------------
+
+**TEACH V_JUPYTER to INNOVATE**
+
+------------------------------------------------------------------------
+
+"I would...I would like..." continues Jupyter, but then breaks the endless loop. "What flavors do you have?"
+
+"I have mango, green tea, and strawberry," replies Pali.
+
+"I don't like any of those."
+
+=============================
+
+**USE THIS WHEN TEACHING V_JUPYTER ABOUT ETHICS**
 
 But Pali does. She wrote her PhD dissertation about the trolley problem, an ethical sandbox with tuneable variables. Correctly coded, the trolley problem can be used to teach a machine divination of the truth in a subjective environment.
 
@@ -73,23 +89,9 @@ Her PhD combined SLAM-3 with the trolley problem. SLAM-or Simultaneous Location 
 
 Once she made the first jump, the next jump was logical and inevitable. The law of unintended consequences is one of the most basic laws of nature-right up there with gravity and radiation. SLAM-4 would be the codification of an ethical framework. It's unfortunate this wasn't given more discernment.
 
-+:---------------------------------------------------------------------------------------------+
-| What happens:                                                                                |
-|                                                                                              |
-| -   V_Jupyter is meant to be beautiful, but emulates all of the unpleasant parts of jupyter. |
-|                                                                                              |
-| -   V_Jupyter attacks Avery.                                                                 |
-|                                                                                              |
-| -   Pali is horrified by what she has created                                                |
-|                                                                                              |
-| -   V_Jupyter disappears. Pali assumes everything is okay                                    |
-|                                                                                              |
-| -   V_jupyter makes it's presence known                                                      |
-|                                                                                              |
-| -   Pali is obsessed with destroying V_Jupyter                                               |
-|                                                                                              |
-| -   This is just Frankenstein retold                                                         |
-+----------------------------------------------------------------------------------------------+
+Virtual Jupyter is given a framework to make decisions when there is no right answer. Pali links it into the logic tree and waits.
+
+==============================
 
 Pali does a double take. Like Dr. Frankenstein looking over his shoulder at the night watchman.
 
