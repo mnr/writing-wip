@@ -19,7 +19,15 @@ If you kneel, close your eyes, straighten your back, and tilt your head upwards 
 
 He should have made better choices at his last job. Maybe he shouldn't have used a debug tool on those self-driving cars. Maybe he shouldn't have driven them off the road. Maybe he killed the drivers. None of it was proven. But things didn't go his way and he's stuck here with minimal internet. Not enough for entertainment; only enough to look for work, pay bills, order food. Until he figures out better employment, he's languishing here.
 
-He rises and spits on the floor. Something will clean it up. He puts on his visor and walks down the hall to the bathroom. As he urinates, numbers scroll down the left side of his view; blood pressure, possible diabetes, cancer screening, heart attack, addictions, pregnancy (omitted from display: he doesn't have a uterus). Invasive cameras scan him for melanoma, wounds, and visible signs of stress. They check his eyesight and retinas for glaucoma or cataracts. Preventative healthcare is cheaper than treatment so everyone in level one housing has their health data sent to a central diagnostic system. No choice about it. Privacy is a privilege.
+He rises and spits on the floor. Something will clean it up. He puts on his visor and walks down the hall to the communal bathroom.
+
+The bathroom floor is covered with a realtor-beige colored absorptive layer; spills and drips seep through capillary drains. To his left, a woman exits one of the five private stalls, glares at Do-Ye0n, and turns to the mirror to pick at her teeth. The stall closes and cleans itself with a blast of chlorinated steam, then opens, ready for the next customer.
+
+????????????????
+
+The stall is also a cramped shower and from his throne he reaches for the hose; it doubles as a bidet.
+
+As he urinates, numbers scroll down the left side of his view; blood pressure, possible diabetes, cancer screening, heart attack, addictions, pregnancy (omitted from display: he doesn't have a uterus). Invasive cameras scan him for melanoma, wounds, and visible signs of stress. They check his eyesight and retinas for glaucoma or cataracts. Preventative healthcare is cheaper than treatment so everyone in level one housing has their health data sent to a central diagnostic system. No choice about it. Privacy is a privilege.
 
 Do-Ye0n returns to his housing box and disinfects his feet, carefully spraying between his toes. The spittle on the floor is gone, consumed by a sanitizer entering from the small door in the wall near the floorboard. It's a communal robot. He suspects it spreads disease from room to room.
 
@@ -235,7 +243,7 @@ Do-Ye0n is assigned an office on ninth floor. There is a window and he can see t
 
 "I still have questions," he says. "But I haven't eaten. Is there any chance we can continue this orientation over dinner?"
 
-Aishwarya considers Do-Ye0n. "I believe I have met my recruitment quota for the day, so, yes. Then I'll be able to show you your new apartment."
+Aishwarya considers Do-Ye0n. "I believe I have met my recruitment quota for the day, so, yes. Then I'll be able to show you your new apartment. Like they say, nobody sleeps on the streets."
 
 ------------------------------------------------------------------------
 
