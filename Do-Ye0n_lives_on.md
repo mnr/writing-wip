@@ -11,7 +11,7 @@ output:
 
 Nobody sleeps on the streets, but Do-Ye0n fantasizes about it.
 
-Housing is a right of citizenship since 2052. The level one housing Do-Ye0n is assigned to is just solid walls and a locking door. Nothing more. The community bathrooms are robotically cleaned every hour, but the floors still host a persistent culture of bacteria. It's best to wear shoes and disinfect when you get home.
+Housing is a right of citizenship since 2052. The level one housing Do-Ye0n is assigned to is just solid walls and a locking door. Nothing more. The community bathrooms are cleaned every hour, but the floors still host a persistent culture of bacteria. It's best to wear shoes and disinfect when you get home.
 
 If housing wasn't enforced, he could choose where he slept. He could choose what he smelled, instead of the odor of chlorine and urine from the sanitizers. He could choose his neighbors, instead of the screaming and thumping of the genetic cesspool collective living on the other side of the shared wall. He could have his freedom.
 
@@ -19,17 +19,15 @@ If you kneel, close your eyes, straighten your back, and tilt your head upwards 
 
 He should have made better choices at his last job. Maybe he shouldn't have used a debug tool on those self-driving cars. Maybe he shouldn't have driven them off the road. Maybe he killed the drivers. None of it was proven. But things didn't go his way and he's stuck here with minimal internet. Not enough for entertainment; only enough to look for work, pay bills, order food. Until he figures out better employment, he's languishing here.
 
-He rises and spits on the floor. Something will clean it up. He puts on his visor and walks down the hall to the communal bathroom.
+He could move back in with his parents. Sell everything, pack a bag, book a poverty ticket on a boat, suffer through seasickness for a week, return to his childhood room and try to restart his life.
 
-The bathroom floor is covered with a realtor-beige colored absorptive layer; spills and drips seep through capillary drains. To his left, a woman exits one of the five private stalls, glares at Do-Ye0n, and turns to the mirror to pick at her teeth. The stall closes and cleans itself with a blast of chlorinated steam, then opens, ready for the next customer.
+He rises and spits on the floor. Something will clean it up. He puts on his visor and walks down the hall to the bathroom.
 
-????????????????
+The floor is covered with a realtor-beige colored absorptive layer; spills and drips seep through capillary drains. To his left, a woman exits one of the five private stalls, glares at Do-Ye0n, and turns to the mirror to pick at her teeth. The stall closes and cleans itself with a blast of chlorinated steam, then opens, ready for the next customer. He enters and sits.
 
-The stall is also a cramped shower and from his throne he reaches for the hose; it doubles as a bidet.
+It features a throne and hand-shower doubling as a bidet. He urinates and numbers scroll down the left side of his visor; blood pressure, possible diabetes, cancer screening, heart attack, addictions, pregnancy (omitted from display: he doesn't have a uterus). Invasive cameras scan him for melanoma, wounds, and visible signs of stress. They check his eyesight and retinas for glaucoma or cataracts. Preventative healthcare is cheaper than treatment and everyone in level one housing has their health data collected. No choice about it. Privacy is a privilege.
 
-As he urinates, numbers scroll down the left side of his view; blood pressure, possible diabetes, cancer screening, heart attack, addictions, pregnancy (omitted from display: he doesn't have a uterus). Invasive cameras scan him for melanoma, wounds, and visible signs of stress. They check his eyesight and retinas for glaucoma or cataracts. Preventative healthcare is cheaper than treatment so everyone in level one housing has their health data sent to a central diagnostic system. No choice about it. Privacy is a privilege.
-
-Do-Ye0n returns to his housing box and disinfects his feet, carefully spraying between his toes. The spittle on the floor is gone, consumed by a sanitizer entering from the small door in the wall near the floorboard. It's a communal robot. He suspects it spreads disease from room to room.
+Do-Ye0n returns to his housing box and disinfects his feet, carefully spraying between his toes. He reminds himself to wear shoes next time. The spittle on the floor is gone, consumed by a sanitizer robot entering from the small door in the wall near the floorboard. He suspects it spreads disease from room to room.
 
 He stands, facing the food storage unit (refrigerator, FSU, or "green room" because of the green refrigerant gel). Do-Ye0n reaches into the FSU and pulls out a breakfast provided to level one housing. It's a kind of oatmeal with a packet of banana. Do-Ye0n knows this because it's printed on the package. Without the label it would be difficult to identify. He puts it in the food processor and turns back to the refrigerator to find coffee.
 
@@ -52,6 +50,10 @@ His resulting unemployment dropped him back to level one. He knows how far he fe
 He has no choice but to open the first job offer of the day. It's a contract gig, just like every other from the past four months. It requires advanced skills but offers minimum payout. This is what he gets after hijacking autonomous vehicles and probably (*not proven or convicted*) killing two people. He accepts and completes the project in two short hours.
 
 A second short-term gig slides into view, marked as \#*IntlPenTest*. International Penetration Testing, also known as short-term freelance espionage against some country - or someone pretending to be a country. It's an easy ask, just annoy the target long enough to get their attention. Not much different than yelling "*Hey - stop that*" when you see a thief stealing a bicycle. One *HeyStopThat* isn't going to change anything; one-hundred *HeyStopThat*s might cause them to reconsider. Do-Ye0n takes the gig, harasses someone for forty-eight minutes, then collects his fee.
+
+Do-Ye0n thinks of going out for the afternoon. Possibly taking his lunch to the park, sitting on a bench, watching people enjoying themselves. There would be clusters of parents talking while their kids and dogs play. There might be other singles eating their lunches, also looking for companionship.
+
+He reflects on the difficulty of friendships. Friends take time, they always want something or they want him to do something. Girlfriends, especially, are a lot of work. His past attempts were unsatisfying. A match would appear. He would respond, tentatively. A few times they would send something back. They would want him to do something.
 
 If he can find long term work, he can move someplace that doesn't stink. Day gigs are a gerbil-wheel for losers. He calls up the job search counselor - an artificial coach with a cheery attitude.
 
@@ -81,7 +83,9 @@ Not surprisingly, the stock market isn't bothered about this enterprise. Corpora
 
 It's actually a bit more complex. Every sane corporation must have insurance against ransomware if they want to remain on the stock market. Not carrying insurance is corporate malfeasance. The insurance industry makes good money on *corporate penetrative network testing* insurance and they invested in legislation to ensure the viability of ransomware insurance products.
 
-"Okay. Yes," Do-Ye0n agrees. He's already struggling with reputation issues. How much worse can this be?
+The world isn't done with ethics. Not yet. He could explain the agriculture job to his parents. He could go to parties and not have to debate his career choices. He could go on a date and discuss his occupation with pride instead of evasion. Killing invasive worms would be the right thing to do.
+
+"I'll take the job from Alpha60," Do-Ye0n says. He's already struggling with reputation issues. How much worse can this be? And the pay is better.
 
 He straightens his back. Just a bit.
 
@@ -89,11 +93,19 @@ He straightens his back. Just a bit.
 
 Moving from level one to level three housing isn't the normal progression. Normal is level one to level two. Years later, level two to level three. But today he sips strong coffee, turns off the mirror health diagnostics, and leaves his bed unmade.
 
-Leaving his level one apartment was easy. Pack his shit, walk two blocks, open a new door, walk in, toss the box in the closet. He clasps his hands behind his back and looks out the window at the sunny day. There is a tree cresting over the apartment building across the street. Maybe there is a park nearby.
+Leaving his level one apartment had been easy.
+
+1.  Pack his shit in one biodegradable bag.
+
+2.  Walk two blocks to the new place. Level one, two, and three housing is co-mingled.
+
+3.  Open a new door, walk in, toss the bag in the closet.
+
+He clasps his hands behind his back and looks out his new window at the sunny day. There is a tree cresting over the apartment building across the street. Maybe there is a park nearby.
 
 The bathroom (*he has a private bathroom*) doesn't stink of urine or bleach; just a faint orange scent. His window (a *window!*) displays the Willamette river. The ferries to Vancouver and Astoria leave for the second trip of the day.
 
-He doesn't work at home. This job requires serious bandwidth and there are legal concerns about who is contacting who and why. Do-Ye0n strolls to the subway, smiling at the neighbors, reading the news feed.
+But he cannot gloat for long. The job at Alpha60 requires serious bandwidth and there are legal concerns about who is contacting who and why. Do-Ye0n locks the door behind him and strolls to the subway, smiling at the neighbors, reading his news feed.
 
 Do-Ye0n has a desk in a warehouse of desks. The internet flows through the office like an invisible river at flood plain. It feeds whirlpools of data to the fifty-seven people on the inside of a Faraday cage. None of the data leaks out of the office, but those fifty-seven find profitable ways to bring data in.
 
@@ -101,7 +113,7 @@ The internet doesn't have a smell, unlike the men and women connected to it. The
 
 *Corporate network penetrative testing* used to be illegal. It is breaking and entering secured computers. It was against the law. But laws change. People like Do-Ye0n perform a service by identifying companies with sloppy security. It's better to be called out by friends than to be destroyed by enemies.
 
-Teaching a computer to assault a data warehouse is easy. The steps are well known: gather data, define the goal, try a solution, evaluate success. Do-Ye0n is good at this. He is teaching computers to pick a lock and crack a safe.
+Teaching a computer to assault a data warehouse is easy. The steps are well known: gather data, try a solution, evaluate success. Just like the rules of tennis; see the ball, hit the ball. Performing a task competently isn't as easy as knowing the rules. But Do-Ye0n is good at this. He is teaching computers to pick a lock and crack a safe.
 
 Do-Ye0n stares at a twitching matrix of numbers, then switches to a heat map, converting numbers to colors. It looks like a topographic map of Mars. There are rings of blue, then rings of purple, then a small circle of red. Red is the unprotected opening to a corporate data warehouse used by a retailer of hemolytic filters. Do-Ye0n encrypts the data in the warehouse then calls his new client.
 
@@ -119,9 +131,9 @@ Do-Ye0n stares at a twitching matrix of numbers, then switches to a heat map, co
 
 "A pleasure," says Do-Ye0n. "Let's do this again soon."
 
-He forwards the connection to billing. He's only been at this for a few months and is already in the top ten performers list. If he can keep this momentum, he'll be an associate within a year. Possibly a partner in five.
+He forwards the connection to billing. He's only been at this for a few months and is already in the top ten performers list. If he can keep this momentum, he'll be an associate within a year. Possibly a partner in five. He imagines a privileged life, possibly with a girlfriend, social engagements, and invitations to parties.
 
-D0-Ye0n smiles to himself in cubicle thirty-five of fifty-seven. He takes a moment to savor this unexpected success, but only a moment before he dives into the next corporate network.
+Do-Ye0n smiles to himself in cubicle thirty-five of fifty-seven. He takes a moment to savor this unexpected success, but only a moment before he dives into the next corporate network.
 
 ------------------------------------------------------------------------
 
@@ -135,7 +147,7 @@ Chip Venetian tweaks the color of his tie and looks around the virtual conferenc
 
 "Alpha60 stock is fragile and valuable. They'll take an arrest-threat seriously. I think we should realize the value of a strike."
 
-The three non-English speakers respond through translators by presenting icons or changing their expressions. They all agree with Chip. Five of the remaining eight participants verbally agree; three do not. The disagreement isn't about the ethics of Alpha60, or the ethics of threatening a corporation. It's purely about the return on the work to be done to shake-down a business involved in *Corporate Penetrative Testing*. Threatening Alpha60 without preparation would only invite a ransomware attack.
+The three non-English speakers respond through translators by presenting icons or changing their expressions. They all agree with Chip. Five of the remaining eight participants verbally agree; three do not. The disagreement isn't about the ethics of Alpha60, or the ethics of threatening a corporation. It's purely about the financial return on the work to be done to shake-down a business involved in *Corporate Penetrative Testing*. Threatening Alpha60 without preparation would only invite a ransomware attack.
 
 "It's decided then," concludes Chip. "I'll put together a strike team and we can move when the plan is set up. I forecast payoff within the month."
 
@@ -203,7 +215,7 @@ Do-Ye0n mulls this over. "What sectors are these corporations operating in?"
 
 *Of course,* thinks Do-Ye0n. "Let me speak with the company with the highest market value."
 
-Yvette fades out and is immediately replaced with a different woman, this time dressed in a business sari and an identifier band across the screen. It reads; ***Aishwarya Vala**, Corporate Recruiter, Fairwell Network Security*.
+Yvette fades out and is immediately replaced with a different woman, this time dressed in a business saree and an identifier band across the screen. It reads; ***Aishwarya Vala**, Corporate Recruiter, Fairwell Network Security*.
 
 "Hello Do-Ye0n," says Aishwarya. She smiles before she continues with her pitch. "Fairwell would like to supply bail and legal representation for your charges and court appearance. In exchange, we ask for a first employment option after your sentencing and possible incarceration. We request a minimum of five years employment but do not require a non-compete agreement after that time. We offer a level four employment compensation package."
 
@@ -223,7 +235,7 @@ In full view of Do-Ye0n, she picks up a tablet, makes a few motions, then return
 
 The car Do-Ye0n rides in impresses everyone it passes, but it is mostly meant to impress the rider. It's longer by half than other vehicles and emits a low rumble: subsonic, so it is felt rather than heard. Blue-green waves of light pulse from front to back, like a ocean heartbeat. Inside, the seats are held at a constant body temperature. The in-dash bartender asks Do-Ye0n what type of Scotch he desires.
 
-The car slides into its privileged space at Fairwell and opens, urging Do-Ye0n to step out. Aishwarya is already waiting for him. Do-Ye0n notices she is still wearing the business sari, but without the formal jacket. Her eyes seem more vibrant than when they conversed earlier that afternoon.
+The car slides into its privileged space at Fairwell and opens, urging Do-Ye0n to step out. Aishwarya is already waiting for him. Do-Ye0n notices she is still wearing the business saree, but without the formal jacket. Her eyes seem more vibrant than when they conversed earlier that afternoon.
 
 "Namaste," she presses her palms together and touches her forehead, then looks up. "Fairwell is pleased you are here. As am I." She smiles warmly, moves closer and takes his arm. "Can I give you a tour?"
 
@@ -231,23 +243,23 @@ They enter the first floor lobby, dominated by an opulent reception station. The
 
 Do-Ye0n is assigned an office on ninth floor. There is a window and he can see the wires of the radiation cage embedded in the glass. *What happens on ninth floor stays on ninth floor.*
 
-"Welcome to your new home," says Aishwarya. She walks to the window, then half-turns to regard him over her shoulder. "Is there anything else I can do to make your transition pleasant?"
+"Welcome to your new home," says Aishwarya. She walks to the window, then half-turns to regard him over her shoulder. "I think you're going to be one of my better recruits."
 
-"Aren't you moving a bit fast?" asks Do-Ye0n. *No, you aren't moving too fast*, thinks Do-Ye0n. "I still have a court appearance. Hopefully things go well. But what if they don't?"
+"Isn't this a bit presumptive?" asks Do-Ye0n. He considers Aishwarya for a moment, then continues. "I still have a court appearance. Hopefully things go well. But what if they don't?"
 
 "We ran your odds before we made the offer," she says. "You're a lock - there's barely a chance you'll be convicted. Be sure to watch the futures on your conviction when you're not gloating on Fairwell stock values."
 
-"I guess I'm new to this world," he says. "I used to worry about breaking the law. It seems like you consider it part of the job."
+"I guess I'm new to this world," he says. "It seems like you assume breaking the law is part of the job."
 
-"Nobody here will agree with that statement," she says. She turns and walks towards him, then touches his arm. "We strive to provide the highest level of service to our clients. Sometimes they don't realize how much service they need."
+"Nobody here will agree with that statement," she says. She turns and walks towards him, then touches his arm. "Fairwell strives to provide the highest level of service to our clients. Sometimes they don't realize how much service they need."
 
 "I still have questions," he says. "But I haven't eaten. Is there any chance we can continue this orientation over dinner?"
 
-Aishwarya considers Do-Ye0n. "I believe I have met my recruitment quota for the day, so, yes. Then I'll be able to show you your new apartment. Like they say, nobody sleeps on the streets."
+"I believe I have met my quota for the day, so, yes. Then I'll be able to show you your new apartment. Like they say, nobody sleeps on the streets."
 
 ------------------------------------------------------------------------
 
-"Get up," Aishwarya says, selecting a business saree from her closet. "We need to get into the office. I've got recruitment quotas that won't be satisfied hanging out here. And as I recall, you have a meeting with your lawyer. Miss it and you're going to become an underdog in the betting pool."
+"Get up," Aishwarya says, selecting a saree from her closet. "We need to get into the office. I've got recruitment quotas that won't be satisfied hanging out here. And as I recall, you have a meeting with your lawyer. Miss it and you're going to become an underdog in the betting pool."
 
 Do-Ye0n puts a pillow over his head, but Aishwarya pulls it away and throws it to the corner of the room. "Nobody cares if I'm convicted," he says. "I'm not going to serve time, Fairwell is going to pay the settlement, my lawyer gets paid either way."
 
@@ -331,7 +343,7 @@ Yvette pauses for this outburst just like a video playback. At least her mouth c
 
 From his seat, Do-Ye0n sits up and interrupts. "I wasn't misbehaving. I was doing what Alpha60 rewarded me to do. Why aren't they in here with me?"
 
-"Corporations have rights, just like every other citizen of the United States," replied Yvette, projecting synthesized patience. "Jailing a corporation and all its employees and shareholders is impractical. With a low possibility of success it is considered a waste of judicial resources."
+"Corporations have rights, just like every other citizen of the United States," replied Yvette, projecting synthesized patience. "Jailing a corporation and all its employees and shareholders is impractical. With a low possibility of success it is a waste of judicial resources."
 
 Do-Ye0n slumps back in the chair. He doesn't miss the subtext; Yvette knows how to respond to questions about corporate culpability. Yvette resumes the lecture.
 
