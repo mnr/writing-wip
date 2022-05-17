@@ -93,11 +93,11 @@ He straightens his back. Just a bit.
 
 Moving from level one to level three housing isn't the normal progression. Normal is level one to level two. Years later, level two to level three. But today he sips strong coffee, turns off the mirror health diagnostics, and leaves his bed unmade.
 
-Leaving his level one apartment had been easy.
+Leaving his apartment had been easy.
 
 1.  Pack his shit in one biodegradable bag.
 
-2.  Walk two blocks to the new place. Level one, two, and three housing is co-mingled.
+2.  Walk two blocks to the new place.
 
 3.  Open a new door, walk in, toss the bag in the closet.
 
@@ -105,7 +105,7 @@ He clasps his hands behind his back and looks out his new window at the sunny da
 
 The bathroom (*he has a private bathroom*) doesn't stink of urine or bleach; just a faint orange scent. His window (a *window!*) displays the Willamette river. The ferries to Vancouver and Astoria leave for the second trip of the day.
 
-But he cannot gloat for long. The job at Alpha60 requires serious bandwidth and there are legal concerns about who is contacting who and why. Do-Ye0n locks the door behind him and strolls to the subway, smiling at the neighbors, reading his news feed.
+But he cannot gloat for long. The job at Alpha60 requires serious bandwidth and there are legal concerns about who is contacting who and why, so he has to commute to an office. Do-Ye0n locks the door behind him and strolls to the subway, smiling at the neighbors, reading his news feed.
 
 Do-Ye0n has a desk in a warehouse of desks. The internet flows through the office like an invisible river at flood plain. It feeds whirlpools of data to the fifty-seven people on the inside of a Faraday cage. None of the data leaks out of the office, but those fifty-seven find profitable ways to bring data in.
 
@@ -113,7 +113,7 @@ The internet doesn't have a smell, unlike the men and women connected to it. The
 
 *Corporate network penetrative testing* used to be illegal. It is breaking and entering secured computers. It was against the law. But laws change. People like Do-Ye0n perform a service by identifying companies with sloppy security. It's better to be called out by friends than to be destroyed by enemies.
 
-Teaching a computer to assault a data warehouse is easy. The steps are well known: gather data, try a solution, evaluate success. Just like the rules of tennis; see the ball, hit the ball. Performing a task competently isn't as easy as knowing the rules. But Do-Ye0n is good at this. He is teaching computers to pick a lock and crack a safe.
+Teaching a computer to assault a data warehouse is easy. The steps are well known: gather data, try a solution, evaluate success. Just like the rules of tennis; see the ball, hit the ball. But performing a task competently isn't as easy as knowing the rules and Do-Ye0n is good at this. He teaches computers to pick a lock and crack a safe.
 
 Do-Ye0n stares at a twitching matrix of numbers, then switches to a heat map, converting numbers to colors. It looks like a topographic map of Mars. There are rings of blue, then rings of purple, then a small circle of red. Red is the unprotected opening to a corporate data warehouse used by a retailer of hemolytic filters. Do-Ye0n encrypts the data in the warehouse then calls his new client.
 
@@ -133,13 +133,13 @@ Do-Ye0n stares at a twitching matrix of numbers, then switches to a heat map, co
 
 He forwards the connection to billing. He's only been at this for a few months and is already in the top ten performers list. If he can keep this momentum, he'll be an associate within a year. Possibly a partner in five. He imagines a privileged life, possibly with a girlfriend, social engagements, and invitations to parties.
 
-Do-Ye0n smiles to himself in cubicle thirty-five of fifty-seven. He takes a moment to savor this unexpected success, but only a moment before he dives into the next corporate network.
+Do-Ye0n smiles to himself in cubicle thirty-five of fifty-seven. He takes a moment to savor this unexpected success, then dives into the next unprotected corporation.
 
 ------------------------------------------------------------------------
 
 "Alpha60 is outperforming."
 
-Chip Venetian tweaks the color of his tie and looks around the virtual conference. Commodities lawyers choose conservative avatars for these meetings, although Chip knows several who will switch out to wild-side versions during their off-hours. For now, while they discuss the business of the partnership, everyone is dead serious.
+Chip Venetian tweaks the color of his tie and looks around the virtual conference of five partners. Commodities lawyers choose conservative avatars for these meetings, although Chip knows several who will switch to wild-side versions during their off-hours. For now, while they discuss the business of the partnership, everyone is dead serious.
 
 "They've been hiring penetrators for the past year and are seeing some solid returns. Their annual report documented fifty-seven assets in Portland alone, with probably double that number in New York," says Chip. He tosses an animated performance chart into the room, illustrating the short term growth of Alpha60's value.
 
@@ -147,9 +147,17 @@ Chip Venetian tweaks the color of his tie and looks around the virtual conferenc
 
 "Alpha60 stock is fragile and valuable. They'll take an arrest-threat seriously. I think we should realize the value of a strike."
 
-The three non-English speakers respond through translators by presenting icons or changing their expressions. They all agree with Chip. Five of the remaining eight participants verbally agree; three do not. The disagreement isn't about the ethics of Alpha60, or the ethics of threatening a corporation. It's purely about the financial return on the work to be done to shake-down a business involved in *Corporate Penetrative Testing*. Threatening Alpha60 without preparation would only invite a ransomware attack.
+"The ethics of this make me nervous," says the oldest partner. "I recognize I'm operating on traditional rules, but this has bad karma and the consequences are painful."
 
-"It's decided then," concludes Chip. "I'll put together a strike team and we can move when the plan is set up. I forecast payoff within the month."
+"Your traditional rules are based on traditional models," replies the outside partner. "We're not operating in those models anymore, so breaking old rules doesn't imply the same consequences."
+
+"Ethics are bullshit," says a bearded partner. "Rules are made by technocrats to keep themselves in power. If we follow them, they are stronger and we never succeed."
+
+"Oh please," says the partner with the highest bandwidth. "Let's save the ethics discussion for the bar. We're here purely to decide on the financial return of a shake-down of a business involved in *Corporate Penetrative Testing*. Do we make money or not?"
+
+"True," says the last partner. "Threatening Alpha60 without preparation would only invite a ransomware attack. That's a negative return. We simply check our defense then take them down."
+
+"If the only objections are ethical, It's decided," concludes Chip. "I'll put together a strike team and we can move when the plan is set up. I forecast payoff within the month."
 
 ------------------------------------------------------------------------
 
@@ -191,7 +199,7 @@ Do-Ye0n looks at the security guards and realizes these aren't security guards -
 
 ------------------------------------------------------------------------
 
-The back seat of this police transport could be padded. Through his agitation, Do-Ye0n appreciates the hard plastic. Cushions would be absorbent and saturated with pee and vomit. Without cushions, everything is visible and sanitary.
+The back seat of this police transport could be padded. Despite his agitation, Do-Ye0n appreciates the hard plastic. Cushions would be absorbent and saturated with pee and vomit. Without cushions, everything is visible and sanitary.
 
 It's a short ride to the station and a shorter trip through booking. He doesn't have pockets so he doesn't have to empty them. His visor is placed in a lock box and secured with a scan of his retina. It's safe until later.
 
@@ -239,11 +247,13 @@ The car slides into its privileged space at Fairwell and opens, urging Do-Ye0n t
 
 "Namaste," she presses her palms together and touches her forehead, then looks up. "Fairwell is pleased you are here. As am I." She smiles warmly, moves closer and takes his arm. "Can I give you a tour?"
 
+Do-Ye0n is uncertain about this woman's familiarity. Aishwarya is attractive and how he should respond is unfamiliar. He decides to emulate a confident industry player, although his only models come from fictional vidplays. "Yes, please," he replies, dropping his voice to emulate a rich baritone. The emulation is unpracticed and amateurish, but Aishwarya doesn't object.
+
 They enter the first floor lobby, dominated by an opulent reception station. The second floor is occupied by human resources, but Aishwarya bypasses this in favor of the third floor. Third through fifth floor is the cubicle farm for entry-level employees. Sixth and seventh is private offices for level three employees. Eighth and ninth is level four. They don't tour floors above nine; those require a separate elevator and Aishwarya doesn't have permission to use it.
 
 Do-Ye0n is assigned an office on ninth floor. There is a window and he can see the wires of the radiation cage embedded in the glass. *What happens on ninth floor stays on ninth floor.*
 
-"Welcome to your new home," says Aishwarya. She walks to the window, then half-turns to regard him over her shoulder. "I think you're going to be one of my better recruits."
+"Welcome to your new family," says Aishwarya. She walks to the window, then half-turns to regard him over her shoulder. "I think you're going to be one of my better recruits."
 
 "Isn't this a bit presumptive?" asks Do-Ye0n. He considers Aishwarya for a moment, then continues. "I still have a court appearance. Hopefully things go well. But what if they don't?"
 
@@ -251,9 +261,9 @@ Do-Ye0n is assigned an office on ninth floor. There is a window and he can see t
 
 "I guess I'm new to this world," he says. "It seems like you assume breaking the law is part of the job."
 
-"Nobody here will agree with that statement," she says. She turns and walks towards him, then touches his arm. "Fairwell strives to provide the highest level of service to our clients. Sometimes they don't realize how much service they need."
+"Nobody here will agree with that statement on record," she says, then turns and walks towards him and touches his arm. "Fairwell strives to provide the highest level of service to our clients. Sometimes they don't realize how much service they need."
 
-"I still have questions," he says. "But I haven't eaten. Is there any chance we can continue this orientation over dinner?"
+"I still have questions," he says. "But I haven't eaten. Can we continue this orientation over dinner?"
 
 "I believe I have met my quota for the day, so, yes. Then I'll be able to show you your new apartment. Like they say, nobody sleeps on the streets."
 
@@ -309,9 +319,9 @@ But Steve doesn't call the next morning. Do-Ye0n hears nothing from anyone until
 
 "I had to give up our apartment," she says. "Without us together, I'm only allowed a level three single apartment. Plus I lost a lot of money on your conviction. I moved your things into storage, there just isn't room for all of the furniture."
 
-"Fine. Sell the big stuff we bought together," Do-Ye0n says. "Please keep my personal things in your closet. We can move back to a larger place when I get out."
+"Fine. Sell the big stuff we bought," Do-Ye0n says. "keep my personal things in your closet. We can move back to a larger place when I get out."
 
-"Don't get this wrong," Aishwarya says. "I think you're great, but I need space to think this out. I'm young, I want to have children. I can't wait ten years for you to be released. Then you'll need to relearn skills and restart employment. It could be fifteen or sixteen years before we can afford a place big enough for a family."
+"Don't get this wrong," Aishwarya says. "I think you've got potential, but I need space to think this out. I want to have children. I can't wait ten years for you to be released. Even then you'll need to relearn skills and restart employment. It could be fifteen or sixteen years before we can afford a place big enough for a family."
 
 "You're breaking up with me?" asks Do-Ye0n.
 
@@ -323,7 +333,7 @@ Learning a new habit takes most people three weeks of repeated practice. Adjusti
 
 He no longer sticks out as the new guy. He knows when to talk and when shut up. He lines up for meals, fresh clothes and linens. He knows when the commissary is open. He made a friend, that friend was transferred and he learned to make more than one friend. He listens more than talks. He doesn't borrow, doesn't loan.
 
-His state-sponsored accommodations aren't given the dignity of a rating. He thinks of it as level zero. The bathroom is communal, his room is spartan, his privacy is nil. The mirror reads his physical health, but doesn't reveal the results to him. Other inmates will be able to view his stats, and that will violate HIPAA laws. If he wants to know his blood pressure, he will need to file a request.
+His state-sponsored accommodations aren't given the dignity of a rating. He thinks of it as level zero. The bathroom is communal, his room is spartan, his privacy is nil. The mirror reads his physical health, but doesn't reveal the results to him. Other inmates will be able to view his stats, and that will violate HIPAA laws. If he wants to know his blood pressure, he will need to file a freedom of information.
 
 He gets depressed. He gets counseling. He gets exercise. He gets outdoors. Most important, he gets jobs.
 
@@ -369,7 +379,7 @@ Everyday, D0-Ye0n receives a call from Yvette for case management. She is his on
 
 "Sorry?" says Do-Ye0n. "That's all you have? *Sorry?* Where did you go? You said you'd call me the day after my appearance. What happened in there?"
 
-"It was a complex deal," replies Steve. "My office AI has been analyzing it for some time. It came up with three hundred and fifty-seven scenarios before it solved what happened. Jimbo didn't even know until I told him last week. We had lunch."
+"It was a complex deal," replies Steve. "My office A.I. has been analyzing it for some time. It came up with three hundred and fifty-seven scenarios before it solved what happened. Jimbo didn't even know until I told him last week. We had lunch."
 
 "You had lunch with the guy who's responsible for this?" Do-Ye0n gestured at the prison-surplus terminal he was forced to gig with."
 
@@ -381,7 +391,7 @@ Everyday, D0-Ye0n receives a call from Yvette for case management. She is his on
 
 "But they aren't clever enough to keep me out of here."
 
-"Jimbo is a good litigator and you attracted a lot of action. More than I realized. Some big investors and international drug corporations formed a hedge fund, bought a strong position in your case, and made sure they didn't lose."
+"Jimbo is a good litigator and you attracted a lot of action. More than I realized. Some big investors and mostly-illegal cartels formed a hedge fund, bought a strong position in your case, and made sure they didn't lose."
 
 "And now?" asks Do-Ye0n. He's not done being sarcastic. "You show up with a social visit. Should I make an appointment with your scheduler for repeat meeting in two years?"
 
@@ -409,7 +419,7 @@ Once again, he's in level one housing with just enough internet for what is requ
 
 "Nothing?"
 
-"Nothing," confirmed Alex. "Your ranked performance has dipped below the long-term employable threshold."
+"Nothing," confirmed Alex. "Your ranked performance has dipped below the employable threshold."
 
 "Why did that happen?" says Alex. He uses his outdoor voice, but knows it won't really change Alex's behavior.
 
