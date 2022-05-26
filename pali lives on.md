@@ -5,7 +5,25 @@ author: "Mark Niemann-Ross"
 date: "March 2022"
 ---
 
-Life is so much easier to create nowadays.
+From her kitchen table, Pali can see The Gateway of the Citadel. She's made a cup of *Yerba Mate.* It's the most productive thing she's done this morning. It sits on the table, unconsumed, next to a flask of hot water.
+
+Every flat surface in the room contains computers, circuit boards, adapters, converters, synchs and memory buckets. Two systems are idling, but nothing productive is happening. The rest are dark and cold. It's been like this for three days, two hours, twenty-five minutes.
+
+It's a beautiful February day in Montevideo. There was a little rain in the early morning, now it's sunny. Tourists are everywhere. If Jupyter were here, Pali would be outside, walking the plaza with her. They would be part of the crowd; happy, laughing. But Jupyter isn't here. Pali is disinterested. She holds the cup of Yerba Mate, but doesn't drink.
+
+One of the two piles of electronic parts activates; Pali hears a fan spin up, trying to remove the sudden heat. A warm breeze moves through the room, fluttering the curtains, ruffling Pali's hair. The computer has manifested a ghost that only lives when a complex algorithm hits the CPU and it only lives while the CPU is working. When the CPU solves the problem, the fan stops, and the ghost returns to the void. This ghost lacks motivation and tenacity, but that's typical of most. In that way, this computer passes the turing test.
+
+Pali isn't even curious about this pulse of life. Life is so much easier to create nowadays.
+
+//
+
+Pali grabs her *Yerba Mate* cup and a flask of hot water, leaves her apartment and descends to the street. The Gateway of the Citadel is a short walk; she passes through it and wanders with the crowd in Old Town. Sipping mate through a silver straw, she reflects on the tragedy that caused her to leave Portland. To leave Jupyter. To return to her home in Montevideo.
+
+She met Jupyter in church, five years after her transitional surgery and two years after leaving Montevideo for Minneapolis. *No prophet is accepted in her own country.*
+
+//
+
+~~Life is so much easier to create nowadays.~~
 
 Nearly 3,000 years in the past, Hephaestus crafted Talos, a giant bronze automaton. The robot was powered with *ichor*, the blood of the gods. Ichor is notoriously difficult to obtain and human contact results in instantaneous death. Be sure to wear personal protective equipment. Sacrificing an oxen might also be a good idea.
 
@@ -41,9 +59,9 @@ More pleasing to Pali, possibly alarming to others, the floating Jupyter stops q
 
 Pali grabs the floating head and "sticks" it to the table. She holds her finger to the lips of the head to mute the voice. When she walks away, the head remains in place, silent but still animated. It continues learning: the mouth moves and the face assimilates features of Jupyter and refines the textures. Below the head, a neck sprouts, then shoulders. It grows from the top-down, sending out a descending wire frame with high resolution at the neck and improving towards the feet.
 
-Pali grabs her *Yerba Mate* cup and a flask of hot water, leaves her apartment and descends to the street. The Gateway of the Citadel is a short walk; she passes through it and wanders with the crowd in Old Town. Sipping mate through a silver straw, she reflects on the tragedy that caused her to leave Portland. To leave Jupyter. To return to her home in Montevideo.
+~~Pali grabs her *Yerba Mate* cup and a flask of hot water, leaves her apartment and descends to the street. The Gateway of the Citadel is a short walk; she passes through it and wanders with the crowd in Old Town. Sipping mate through a silver straw, she reflects on the tragedy that caused her to leave Portland. To leave Jupyter. To return to her home in Montevideo.~~
 
-She met Jupyter in church, five years after her transitional surgery and two years after leaving Montevideo for Minneapolis. *No prophet is accepted in her own country.*
+~~She met Jupyter in church, five years after her transitional surgery and two years after leaving Montevideo for Minneapolis. *No prophet is accepted in her own country.*~~
 
 Pali had the right combination of mentors and family to lead her to understanding autonomous robotics like no one else. Her PhD dissertation revealed how artificial intelligence solved the trolley problem with SLAM-3. Her TED Talk was viral. She was hired in Minneapolis, then moved to Portland, Oregon - the mecca of autonomous vehicles.
 
