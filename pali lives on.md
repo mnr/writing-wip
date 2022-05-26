@@ -5,7 +5,7 @@ author: "Mark Niemann-Ross"
 date: "March 2022"
 ---
 
-From her kitchen table, Pali can see The Gateway of the Citadel. She's made a cup of *Yerba Mate.* It's the most productive thing she's done this morning. It sits on the table, unconsumed, next to a flask of hot water.
+She's made a cup of *Yerba Mate*; the most productive thing she's done this morning. It sits on the table, unconsumed, next to a flask of hot water. From her kitchen table, Pali can see The Gateway of the Citadel.
 
 Every flat surface in the room contains computers, circuit boards, adapters, converters, synchs and memory buckets. Two systems are idling, but nothing productive is happening. The rest are dark and cold. It's been like this for three days, two hours, twenty-five minutes.
 
