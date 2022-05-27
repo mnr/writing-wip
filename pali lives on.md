@@ -5,7 +5,7 @@ author: "Mark Niemann-Ross"
 date: "March 2022"
 ---
 
-She's made a cup of *Yerba Mate*; the most productive thing she's done this morning. It sits on the table, unconsumed, next to a flask of hot water. From her kitchen table, Pali can see The Gateway of the Citadel.
+She's made a cup of *Yerba Mate*; the most productive thing she's done this morning. It sits untouched on the table next to a flask of hot water. From her kitchen table, Pali can see The Gateway of the Citadel.
 
 Every flat surface in the room contains computers, circuit boards, adapters, converters, synchs and memory buckets. Two systems are idling, but nothing productive is happening. The rest are dark and cold. It's been like this for three days, two hours, twenty-five minutes.
 
@@ -17,7 +17,7 @@ Pali isn't even curious about this pulse of life. Life is so much easier to crea
 
 //
 
-Pali grabs her *Yerba Mate* cup and a flask of hot water, leaves her apartment and descends to the street. The Gateway of the Citadel is a short walk; she passes through it and wanders with the crowd in Old Town. Sipping mate through a silver straw, she reflects on the tragedy that caused her to leave Portland. To leave Jupyter. To return to her home in Montevideo.
+~~Pali grabs her *Yerba Mate* cup and a flask of hot water, leaves her apartment and descends to the street. The Gateway of the Citadel is a short walk; she passes through it and wanders with the crowd in Old Town.~~ Sipping mate through a silver straw, she reflects on the tragedy that caused her to leave Portland. To leave Jupyter. To return to her home in Montevideo.
 
 She met Jupyter in church, five years after her transitional surgery and two years after leaving Montevideo for Minneapolis. *No prophet is accepted in her own country.*
 
