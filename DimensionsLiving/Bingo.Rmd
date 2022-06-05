@@ -1,0 +1,29 @@
+# We Think She Cheats at Bingo
+that
+ano
+
+
+that
+
+## Appendix
+Here is R code to build a Bingo card...
+
+```{r}
+gimmeFive <- function(range) {
+  as.character(sample(x = range, size = 5))
+}
+
+BingoMatrix <- matrix(data = c(gimmeFive(1:15),
+                               gimmeFive(16:30),
+                               gimmeFive(31:45),
+                               gimmeFive(46:60),
+                               gimmeFive(61:75)),
+                      nrow = 5)
+
+colnames(BingoMatrix) <- c("B","I","N","G","O")
+
+BingoMatrix[3,3] <- "Free"
+
+BingoMatrix
+```
+
