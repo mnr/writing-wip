@@ -46,13 +46,13 @@ Be *inordinately* clear about your action and intention when you make change fro
 
 Before each round of bingo can begin, the designated money collector circulates among the tables and gathers the contents of each bowl. It's assumed the money collector confirms each table has contributed the correct amount. This collection is then placed at the head table and the bingo caller can proceed.
 
-Not so fast...
+*Not so fast...*
 
 You might think this task is inconsequential, but it is not. First, being asked to perform this job is an honor. An informal and self-designated sub-committee of bingo sharks bestows this honor. The qualifications are not available for public review anywhere that I've seen, but I believe the ability to squeeze between the tightly-packed tables is an essential skill. This requires the ability to bend your knees and locomote without the assistance of a walker or wheelchair. I am proud to note I have been asked to perform this task and discharge my duties with the earnestness of first-time student council president.
 
 The task of collecting bingo fees must be done with efficiency; the game is, after all, delayed until this is completed. The sharks are waiting, but not patiently. Pick up the bowl, count the change. That should be simple enough.
 
-However. What is the proper response if the value is not correct?
+*However*. What is the proper response if the change is not correct?
 
 Your first strategy might be to ask if everyone has contributed their two nickels. If you're fortunate, one member of the table will realize it is time to ante-up and contribute their fair share. Unfortunately, this rarely happens.
 
@@ -90,7 +90,7 @@ So. The caller will reach into the bucket, withdraw a ball, announce the letter/
 
 . . .
 
-Before we get to the climax of the evening, let's discuss the reality of a live bingo game in the context of a simplified communication model, and let's just consider the sender, noise, and the receiver.
+Before we get to the climax of the evening, let's discuss the reality of a live bingo game in the context of a simplified communication model; We'll just consider the sender, noise, and the receiver.
 
 ## Sender
 
@@ -98,23 +98,37 @@ Qualities of a good bingo caller - the sender, in this discussion - include enun
 
 Ideally, the bingo caller will draw a ball from the bucket, then pause to look at the letter/number on the ball, call out the number clearly and carefully, pause, repeat the letter/number, place the ball in the master matrix, pause, shuffle the balls, and finally draw the next ball.
 
-However, some callers have forgotten their training. The worst infraction a caller can make is to be soft of voice or pronunciation. Thirty years of accounting experience might not be the best resume for an aspiring caller. Instead, consider those with resumes listing experience as pastor, square-dance caller, sports announcer, elementary school teacher, or game-show host.
+However, some callers have forgotten their training. The worst infraction a caller can make is to be soft of voice or pronunciation. Thirty years of accounting experience might not be the best resume for an aspiring caller. Instead, consider those with experience as pastor, square-dance caller, sports announcer, elementary school teacher, or game-show host.
 
-Pacing is more important than you might think. You, with your less than seventy-year-old brain, don't have empathy for the reduction in processing speed of those gathered for Dimensions Living bingo. When I was twenty-years-old, I could do polynomial equations in my head. I could also perform deep-knee bends while lifting seventy-pound weights. Forty years later, math takes longer, just like my knees support less. Pausing between numbers gives everyone a chance to hear the number, parse the number, check both bingo cards, slide the plastic cover on a number, confirm the number with a neighbor, check for a bingo pattern, and finally look up in preparation for the next number.
+Pacing is every bit as important as volume and enunciation. If your brain is less than seventy years old, you don't have empathy for the reduction in processing speed of those gathered for Dimensions Living bingo. When I was twenty-years-old, I could do polynomial equations in my head. I could also perform deep-knee bends while lifting seventy-pound weights. Forty years later, math takes longer, just like my knees support less. Pausing between numbers gives everyone a chance to hear the number, parse the number, check both bingo cards, slide the plastic cover on a number, confirm the number with a neighbor, check for a bingo pattern, and re-focus in preparation for the next number.
 
-Imagine if I called out polynomial equations for you to solve at the pace of one per minute. You might get the first one. Possibly the second. By the third you would be calling for a pause, and by the fourth you would be irretrievably lost. Then someone calls out **BINGO** and everyone begins talking at the same time. Chaos and madness ensue.
+Imagine if I called out polynomial equations at the pace of one per minute. You might solve the first one. Possibly the second. By the third you would be calling for a pause, and by the fourth you would be irretrievably lost and complaining to your table-mates. Chaos and madness ensue.
 
 ## Noise
 
-Communication models include the channel of transmission (paper for writing, copper wires for phone calls, air for sound) and include noise as a complicating factor. Smears for paper, static for phone calls, and rattling bingo balls for sound. Add cross-chatter and requests to repeat the last number.
+Communication models include the channel of transmission (paper for writing, copper wires for phone calls, air for sound) and include noise as a complicating factor. Smeared ink for paper, static for phone calls, and rattling bingo balls for bingo callers.
 
-Let's start with the damn bingo balls. They are plastic and every time you stir the bucket of balls, you generate a noise akin to a ball-bearing factory. It's audio static and it masks human speech. If you don't pause long enough between calling the number and stirring the balls, you get the following...
+About those damn bingo balls. They are plastic; every time you stir the bucket of balls, you generate a noise akin to a ball-bearing factory. It effectively masks human speech. If you don't pause long enough between calling the number and stirring the balls, you get the following...
 
 "O-63...that's O-(RATTLERATTLERATTLE). The next number is B-3. That's B-(RATTLERATTLERATTLE)."
 
-There is secondary fallout noise, caused by one or more calls to repeat the last number, followed by 25% of the bingo players repeating the number (out of sync, so the response is also confused) followed by the bingo caller requesting silence, which is followed by another 25% of bingo players again asserting the latest bingo call, followed by the caller repeating the number, followed by someone asking if that is the last number or the next number. Additionally, there is background rumbles about the caller being inaudible or the players needing to pay better attention. I've already mentioned mayhem and chaos.
+RATTLERATTLERATTLE results in secondary fallout noise, caused by one or more calls to repeat the last number, followed by 25% of the bingo players repeating the number (out of sync, so the response is also confused) followed by the bingo caller demanding silence, which is followed by another 25% of bingo players again asserting the latest number simultaneous to a different 25% asking if it was a different number, followed by the caller repeating the number, followed by someone asking if that is the last number or the next number. At this time, there is background rumbling about the caller being inaudible or the players needing to pay better attention. I've already mentioned mayhem and chaos.
+
+Also problematic is the arrival of outsiders: relatives, children, nursing staff, janitors. Relatives and children are the worst as they interrupt with no respect for the game in progress. Typically, they appear at the door of the bingo parlor, squeal and call out; "Grandma! We're here!" They invade en-masse, surround their relative and talk loudly about their *car trip* and *how good it is to see them* and *how big the kids have grown* and *we have this pie we baked for you* and *what's going on here* and *Oh, I love bingo* and *we should join in*.
+
+Now, I'm enthusiastic about visitors. They brighten up everyone's day. But *gawdammit*, we're trying to play **bingo** here. ***Nickel Bingo!***
+
+Likewise, the nursing staff are heroes and wrangle medications and blood pressures with grace and care. But the brief interruption in game play means possibly missed numbers, causing one or more calls to repeat the last number, followed by 25% of the bingo players repeating the number ... and so on.
+
+If maintenance is backed up, they may try to vacuum in the next room. The white noise masks the bingo caller's voice, players won't be able to hear, one or more calls to repeat the last number ... and further so on and so forth.
 
 ## Receiver
+
+If the caller enunciates, projects, and paces and someone's kids aren't playing with a vacuum cleaner, then everything should go smoothly. However, there is still the matter of the receiver-the bingo player, in this scenario.
+
+By age 80, it's not uncommon to have hearing loss of 50% in the frequency range of the human voice. Roughly one-third of the bingo players have some level of Alzheimers, one of the symptoms being confusion and agitation when dealing with the cacophony of many people talking at once.
+
+---
 
 STUFF
 
