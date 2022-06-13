@@ -1,0 +1,6 @@
+---
+title: "Red Chair"
+author: "Mark Niemann-Ross"
+format: docx
+editor: visual
+---
