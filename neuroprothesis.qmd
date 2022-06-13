@@ -1,0 +1,24 @@
+---
+title: "Neuroprothesis"
+author: "Mark Niemann-Ross"
+format: html
+editor: visual
+---
+
+[Wikipedia](https://en.wikipedia.org/wiki/Neuroprosthetics)
+
+-   Sensory: Visual. Auditory. Pain relief. Cochlear, Optical
+
+-   Motor: Bladder control
+
+Related works:
+
+-   [Flowers for Algernon](https://en.wikipedia.org/wiki/Flowers_for_Algernon)
+
+-   [Terminal Man](https://en.wikipedia.org/wiki/The_Terminal_Man)
+
+# summary
+
+A patient with increasing dementia is fitted for a neuroprothesis for bladder control. This version is upgradeable, and over time, enhancements are made to control alzheimers.
+
+This patient becomes more dependent on the prothesis. Eventually the patient disappears and only the prothesis remains. The patient is a meat puppet, kept alive and ambulatory by the prothesis. But the prothesis lacks motivation, imagination. Both are trapped in a symbiotic relationship until one or the other dies.
