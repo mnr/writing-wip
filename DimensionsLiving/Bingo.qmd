@@ -5,7 +5,7 @@ format: docx
 editor: visual
 ---
 
-## Mayhem in the IDR
+## Nickel Bingo in the IDR
 
 Consider this listing in the weekly event guide:
 
@@ -195,25 +195,39 @@ Blackout bingo means you cover all the spots on a card. This takes a bit longer 
 
 So - you've won bingo! This is the time to do a victory dance, beat your chest, throw your winning bingo card across the room and shout "**I DOMINATE! I AM THE BINGO JEDI MASTER! COWER IN FEAR, ALL WHO BEHOLD ME!**"
 
-Actually, don't do that. First, your knees are probably not up to dancing around, beating your chest is *not* advised if you've had any history of heart trouble, throwing anything across the room is likely to result in somebody getting hurt, and honestly, your voice at 65+ years of age just isn't as impressive as it might have been when you were 20. (The above should be read in a faster-than-normal voice used by TV announcers at the end of a miracle drug ad with multiple adverse side effects.)
+Actually, don't do that. First, your knees are probably not up to dancing around, beating your chest is *not* advised if you've had any history of heart trouble, throwing anything across the room is likely to poke someone's eye out, and honestly, your voice at 65+ years of age just isn't as impressive as it might have been when you were 20. (The above should be read in a faster-than-normal voice used by TV announcers at the end of a miracle drug ad with multiple adverse side effects.)
 
-When you win, just revel in the momentary endorphin rush of seeing a pile of change pour into your bingo change jar, tell your table friends how much fun that was and how surprised you are to have won. Then get ready for the next round.
+When you win, revel in the momentary endorphin rush of seeing a pile of change pour into your bingo change jar, tell your table friends how much fun that was and how surprised you are to have won. Then get ready for the next round.
 
 ### Two or More Winners
 
 Most bingo is won by a single person, but it's not uncommon for two (or more) people to simultaneously win bingo. (The odds of winning bingo is a fascinating subject if you are a statistician or math professor. Look it up on the internet if you're interested. The rest of us should leave the math geeks in peace).
 
-When multiple **BINGO**s are confirmed, the winnings are split. There are three strategies used to accomplish this split.
+When multiple **BINGO!**s are confirmed, the winnings are split. There are three strategies used to accomplish this split.
 
--   Total, then count
+-   Total, then count. Add up all the change. Divide by the number of winners. Count out a pile for each winner.
 
--   Drag into piles
+-   Drag into piles. One for you. One for me. Repeat until all coins are distributed.
 
--   Eyeball
+-   Eyeball. Hmm...this pile looks about this big. Some for you and some for you.
+
+There's a secret I learned in Bingo Collecting School, and I'll only tell you this if you promise not to make a big damn deal about it.
+
+Here's the secret: Where I live, *Nobody cares!*
+
+Divide up the money in mostly equal piles then distribute to the winners. You'll pour that money into a pouch or jar already containing an uncounted amount of change; there is no accounting trail or software involved. The thrill of the win is what counts. Delaying the start of the next game is a buzzkill.
+
+## Final Thoughts
+
+I play bingo with my friends. Some of them are losing their memory and reasoning and physical dexterity. All of them are getting older. Bingo is a opportunity to do something together.
+
+When I grew up, my family played cards so your hands had something to do while you talked. Games were a second act after family meals; we enjoyed hanging out together (most of the time) and we needed some sort of excuse to do so.
+
+(needs more here)
 
 ## Appendix
 
-Here is R code to build an American bingo card...
+Here is R code to build an American bingo card. R is a programming language used by statisticians and researchers. It is overkill for generating bingo cards, but it's what I'm amused by at this time.
 
 ```{r}
 gimmeFive <- function(range) {
