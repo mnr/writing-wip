@@ -17,8 +17,20 @@ Related works:
 
 -   [Terminal Man](https://en.wikipedia.org/wiki/The_Terminal_Man)
 
-# summary
+# Summary
 
 A patient with increasing dementia is fitted for a neuroprothesis for bladder control. This version is upgradeable, and over time, enhancements are made to control alzheimers.
 
 This patient becomes more dependent on the prothesis. Eventually the patient disappears and only the prothesis remains. The patient is a meat puppet, kept alive and ambulatory by the prothesis. But the prothesis lacks motivation, imagination. Both are trapped in a symbiotic relationship until one or the other dies.
+
+# Concepts
+
+-   BCI = Brain computer interface
+
+-   Privacy issues. Will a commercial BCI allow for the capture of signals, then use that information in the same way Facebook monetizes user clickstreams
+
+-   BCI is normally thought of directly controlling appendages. but what if BCI is only a suggestion for what should happen, which is fed to a neural net which decides on the best path to execution. For example, If I use BCI to control my artificial arm to reach for a light switch, wouldn't it be more efficient for the system to communicate with the house automation system and use that to turn on the light?
+
+-   Prosthesis are attached to limbs and meant to duplicate the functionality of that limb. But rather than trying to mimic the limb, why not build a manipulator best adapted to the task. Is it best to attach an arm prosthesis to a limb stump that can manipulate a screwdriver - or provide a manipulator backpack with best-adapted tools?
+
+-   What about replacement of lost senses? Vision, smell, touch, hearing? Is it possible to add additional senses? Replace current senses with equivalent? (Touch vs Proximity?) (different ranges of visual frequency sensitivity) ![](http://26d3ia2o0l581y7l752i7a5k-wpengine.netdna-ssl.com/wp-content/uploads/2014/12/Visible-spectrum.jpeg)
