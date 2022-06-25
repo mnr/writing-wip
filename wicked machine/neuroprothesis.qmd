@@ -5,17 +5,21 @@ format: html
 editor: visual
 ---
 
-[Wikipedia](https://en.wikipedia.org/wiki/Neuroprosthetics)
+#### [Wikipedia](https://en.wikipedia.org/wiki/Neuroprosthetics)
 
 -   Sensory: Visual. Auditory. Pain relief. Cochlear, Optical
 
 -   Motor: Bladder control
 
-Related works:
+#### Related works:
 
 -   [Flowers for Algernon](https://en.wikipedia.org/wiki/Flowers_for_Algernon)
 
 -   [Terminal Man](https://en.wikipedia.org/wiki/The_Terminal_Man)
+
+#### Products
+
+-   [Exopulse Mollii Suit](https://exopulse.com/en/home/) The first full-body neuromodulation suit relaxing spastic and tense muscles, activating weak muscles, and relieving related chronic pain
 
 # Summary
 
@@ -36,3 +40,13 @@ This patient becomes more dependent on the prothesis. Eventually the patient dis
 -   Prosthesis are attached to limbs and meant to duplicate the functionality of that limb. But rather than trying to mimic the limb, why not build a manipulator best adapted to the task. Is it best to attach an arm prosthesis to a limb stump that can manipulate a screwdriver - or provide a manipulator backpack with best-adapted tools?
 
 -   What about replacement of lost senses? Vision, smell, touch, hearing? Is it possible to add additional senses? Replace current senses with equivalent? (Touch vs Proximity?) (different ranges of visual frequency sensitivity) ![](http://26d3ia2o0l581y7l752i7a5k-wpengine.netdna-ssl.com/wp-content/uploads/2014/12/Visible-spectrum.jpeg)
+
+## Types of Neuroprothesis
+
+-   Auditory Neuroprosthetics / Cochlear Implants
+-   Visual Neuroprosthetics/ Retinal Implants
+-   Motor Neuroprosthetics
+-   Cognitive Neuroprosthetics
+-   Motor Neuron Disorders
+-   Physiological Disorders
+-   Cognitive Disorders
