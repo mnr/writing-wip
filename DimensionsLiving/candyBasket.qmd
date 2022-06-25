@@ -32,3 +32,7 @@ This graph would show consumption of chocolate bars.
 It would show non-consumption
 
 It would show contributions
+
+## hallway artwork
+
+This artwork is designed to be less interesting the longer you look at it. It is chosen so the colors match the paint, rather than paint accentuating the artwork.
