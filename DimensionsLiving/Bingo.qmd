@@ -9,7 +9,7 @@ editor: visual
 
 At 63 years old, I'm the youngest community member of my Mother-In-Law's senior residence hall. How I got here is an interesting story, but one for later. It's enough to know I'm helping her recover her strength. Unexpectedly, I have access to a wealth of new perspectives from an older generation.
 
-This is the generation who told me I needed a haircut, who told me Satan inspired the Beatles, and who told me astronauts drank Tang. It's also the generation that changed my diapers and let me use the family car.
+This is the generation who told me I needed a haircut, who told me Satan inspired the Beatles, and who told me astronauts drank Tang. It's also the generation that changed my diapers, let me use the family car, and occupy most seats of our senior levels of government.
 
 Every Sunday, a weekly activity guide appears in my mailbox. Fitness Class is Monday at 1:00 p.m. The Catholics among us recite The Rosary at 2:30 on Wednesdays. Ice Cream is just before the Rosary. Pub night is in the evening at 6:00.
 
@@ -39,67 +39,67 @@ Official memos come from the Facility Director. They are copied on letterhead an
 
 ## Bingo Basics
 
-The essentials of bingo are necessary if you hope to understand the drama associated with nickel bingo. I'll make this as brief as possible, after which I'll explain why our bingo night frequently descends into mayhem.
+Knowing the essentials of bingo will help you understand the drama associated with nickel bingo. I'll make this as brief as possible, after which I'll explain why our bingo night frequently descends into mayhem.
 
-Simply explained, each bingo player possesses one or more cards displaying a printed matrix of random numbers. The caller sits in front and announces a series of random numbers. When a called number matches a number on the player card, the player marks this position in the matrix. When the marked positions on a bingo card align in a pattern (such as a complete row or column) the player calls out "BINGO." Assuming all the player numbers match caller numbers, the player is a winner. Everyone calls out in amazement and the game is reset.
+Simply explained, each bingo player possesses one or more printed cards displaying a grid of random numbers. The bingo caller sits in front of the room and announces a series of random numbers. When a called number matches a number on the player card, the player marks this position on the grid. When the marked positions on a bingo card align in a pattern (such as a complete row or column) the player calls out "BINGO." Assuming all the player numbers match caller numbers, the player is a winner. Everyone calls out in amazement and the game is reset.
 
-The random numbers called out are traditionally generated with a bucket of numbered balls, although some callers use computer programs. With the bucket-of-balls approach, the caller shuffles the balls (either by hand in a bucket or with a tumbler cage), retrieves a ball, then reads the value printed on the ball. Computer applications select a random number at the push of a button, then display it on screen. An internet search will turn up several versions for all phones and computers.
+The random numbers are traditionally generated with a bucket of numbered balls, although some callers use computer programs. With the bucket-of-balls approach, the caller shuffles the balls (either by hand in a bucket or with a tumbler cage), retrieves a ball, then reads the value printed on the ball. Computer applications select a random number at the push of a button, then display it on screen. An internet search will turn up several versions for all phones and computers.
 
-Until recently, I did not understand there are different versions of bingo. The number of balls used to generate random numbers can vary from thirty to ninety. The rows and columns on the cards, when multiplied, can equal as few as nine positions and as many as twenty-five. At this residence hall, we play American bingo; seventy-five balls for random number generation and the players use cards with a five-by-five matrix of integers. The letters of "BINGO top each column." The center square is marked as "FREE."
+Until recently, I did not understand there are different versions of bingo. The number of balls used to generate random numbers can vary from thirty to ninety. The rows and columns on the cards, when multiplied, can equal as few as nine positions and as many as twenty-five. At this residence hall, we play American bingo; seventy-five balls for random number generation and the players use cards with a five-by-five matrix of integers. The letters of "BINGO" top each column. The center square is marked as "FREE."
 
-You select your bingo card from a stack. I don't believe you can bring your own card, although I haven't tried. This isn't like pool room where you bring your custom-made stick. At the least, it would be a topic of conversation for weeks; at worst, it would be the topic of an *official memo*.
+If you want to play, you select a bingo card from a stack. I don't believe you can bring your own card, although I haven't tried. This isn't like pool where you bring your custom-made stick. At the least, it would be a topic of conversation for weeks; at worst, it would be the topic of another *official memo*.
 
-Our bingo cards are reusable; each number appears in a window with a sliding, transparent-red piece of plastic. When a number is called, you slide the plastic down. When the game is over, you slide the plastic to the top of each window and prepare for the next round. With age, these plastic sliders become sticky and reticent to move. I have found no maintenance instructions for these cards but soon I'm going to test WD-40. I've tried to disassemble a card for better access to the internals, but like carburetors and mobile phones, I don't have the correct proprietary tool and my many attempts have only resulted in fewer operational bingo cards.
+Our bingo cards are reusable; each number appears in a window with a sliding, transparent-red piece of plastic. When a number is called, you slide the plastic down. When the game is over, you slide the plastic to the top of each window and prepare for the next round. With age, these plastic sliders become sticky and reticent to move. I have found no maintenance instructions for these cards. I've tried to disassemble a card for better access to the internals, but like carburetors and mobile phones, I don't have the proprietary tool and my many attempts have only resulted in fewer operational bingo cards.
 
 When I am less engaged in the game, my mind wanders through the wonderful math of these cards. There are algorithmic rules for placing numbers on the board. Each column has a range of discrete integers, each integer can only appear once. The integers must be random in value and occurrence.
 
-I shared my rapture with Janell and she gave me a look I have received only once before. In that case, I had excitedly discussed my progress in creating an etch-a-sketch program for the Apple //e computer, written in assembler. We were dirt-poor and she failed to see how this could be a career-enhancing pursuit. (Side note: It *was* career enhancing, but that's another story.)
+I shared my rapture of the math behind these cards with Janell and she gave me a look I have received only once before. In that case, I had excitedly discussed my progress in creating an etch-a-sketch program for the Apple //e computer, written in assembler. We were dirt-poor and she failed to see how this could be a career-enhancing pursuit. (Side note: It *was* career enhancing, but that's another story.)
 
 As much as I would like to inflict a comprehensive discussion of the programming necessary to generate the bingo matrix, I realize the audience for this sort of thing is limited. Instead, I have added an appendix with code to create a proper bingo card. You're welcome.
 
 ## The Player Table
 
-The bingo sharks have unofficially agreed on assigned seating, although there was an *official memo* to the contrary. I advise visitors to sit at a table in the room's periphery to avoid crashing the normal order; even then, you may have to crowd in as the fifth at a table of four. Maybe you should consider just watching, rather than causing a disruption.
+Our bingo sharks have unofficially agreed on assigned seating, although this was discouraged by was an *official memo*. I advise visitors to sit at a table in the room's periphery to avoid crashing the normal order; even then, you may have to crowd in as the fifth at a table of four. Maybe you should consider just watching, rather than causing a disruption.
 
-I find a place to sit. Each of us has two bingo cards. (I could play more, but two seems to be the norm. And I've learned to stick to the norm. Mostly. Occasionally. *It's complicated*.)
+Because of my age, I am an honored guest and am invited to join one of the regular tables. Each of us has two bingo cards. (I could play more, but two seems to be the norm. And I've learned to stick to the norm. Mostly. Occasionally. *It's complicated*.)
 
-If I forget to bring my jar of nickels, I have to sponge off my Mother-in-law. She's gracious, but I worry about straining our relationship. Her jar contains quarters, dimes, pennies, and sometimes dollar bills. I'll explain in a minute, but non-nickels cause confusion. For God's sake, don't bring foreign currency: This would be probable cause for an *official memo*.
+If I forget to bring my jar of nickels, I will sponge off my Mother-in-law. She's gracious, but I worry this will strain our relationship. Her jar contains quarters, dimes, pennies, and sometimes dollar bills. I'll explain in a minute, but non-nickels cause confusion. For God's sake, don't bring foreign currency: This would be probable cause for yet another *official memo*.
 
-A small bowl is in the middle of our table. It might be empty or it might contain change. I want to play this round of bingo so I contribute one nickel per bingo card. Two bingo cards, two nickels. Four people at the table times two bingo cards will cause eight nickels in the bowl. Which equals forty cents. Instead of two nickels, we are allowed to deposit one dime. If someone deposits a quarter, they can remove fifteen cents from the bowl.
+A small bowl is in the middle of our table. It might be empty or it might contain change. I want to play this round of bingo so I contribute one nickel per bingo card. Two bingo cards, two nickels. This is why we call this game nickel bingo. Four people at the table times two bingo cards will cause eight nickels in the bowl. Which equals forty cents. Instead of two nickels, we are allowed to deposit one dime. If someone deposits a quarter, they can remove fifteen cents from the bowl.
 
-Before I remove money from the bowl, I am *inordinately* clear about my action and intention. Someone might misconstrue sudden movement near the group nickel bowl. Fortunately, weapons are not allowed in our building.
+Before I remove money from the bowl, I am *inordinately* clear about my action and intention. Someone might misconstrue sudden movement near the group nickel bowl. Fortunately, weapons are not allowed in our building. But I don't want to be shunned. 
 
 ## Game Phase One-The Collection
 
-Before each round of bingo can begin, the designated money collector circulates among the tables and gathers the change from each bowl. We assume the money collector confirms each table has contributed the correct amount (*but maybe not. More on this in a minute)*. This collection is placed at the head table and the bingo caller can proceed.
+Before each round of bingo can begin, the designated money collector circulates among the tables and gathers the change from each bowl. We assume the money collector confirms each table has contributed the correct amount (*but maybe not. More on this in a minute*). This collection is placed at the head table and the bingo caller can proceed.
 
-Collecting bingo fees must be done with efficiency. The sharks are waiting for the game to begin, but not patiently. Pick up the bowl, count the change. This should be simple enough.
+Collecting bingo fees must be done with efficiency. Our sharks are waiting for the game to begin, but not patiently. Pick up the bowl, count the change. This should be simple enough.
 
 *But not so fast...*
 
-You might think the job of money collection is inconsequential, but it is not. An informal and self-designated sub-committee of bingo sharks bestows the honor of money collector upon an individual. The qualifications are not available for public review anywhere that I've seen, but I believe squeezing between tightly packed tables, walkers, and wheelchairs is an essential skill. This requires the ability to bend your knees and locomote without help. I am proud to note I have been asked to perform this task and have discharged my duties with the earnestness of a first-time student council president.
+You might think the job of money collection is inconsequential, but it is not. An informal and self-designated sub-committee of bingo sharks bestows the honor of money collector upon an individual. The qualifications are not available for public review anywhere that I've seen, but I believe the main qualifier is squeezing between tightly packed tables, walkers, and wheelchairs. This requires the ability to bend your knees and locomote without support. I am proud to note I have been asked to perform this task and have discharged my duties with the earnestness of a first-time student council president.
 
 Now-I propose a conundrum for you to consider. *What is the proper response if the change is not correct for the number of bingo cards visible on the table?*
 
-Your first strategy might be to ask if everyone has contributed their two nickels. When I'm fortunate, one member of the table will realize it is time to ante-up and contribute their fair share. Unfortunately, this rarely happens.
+My first strategy might be to ask if everyone has contributed their two nickels. When I'm fortunate, one member of the table will realize it is time to ante-up and contribute their fair share. Unfortunately, this rarely happens.
 
 There are two complexities to consider, possibly more. For example, this table may assume that nickels are placed in the cup *after* the money collector has emptied the bowl for the current round. This is an advanced bingo shark technique. Speaking from personal experience, it is easy to become confused about the state of the bowl and you would be mistaken to blame this on any of the seven stages of dementia.
 
 It's also possible there is a change-making anomaly, one indicator being the presence of a quarter in the bowl and exacerbated by the cumulative arthritis of everyone at the table. Arthritis is when your knuckles grind bone-on-bone. To develop empathy, insert 60-grit sandpaper between each joint in your fingers so it is excruciating to bend them, then wrap each finger in duct-tape so you cannot flex. Now pick up three nickels placed in a small bowl to make change for your quarter.
 
-During your training to become certified as a bingo money collector, you'll also learn of the inadvertent bowl collection confusion. Here's a scenario:
+During my training to become certified as a bingo money collector, I also learned of the inadvertent bowl collection confusion. Here's a scenario:
 
-1.  I arrive at the table and develop empathy with the sharks at this table. I assure them they will win during this round.
+1.  I arrive at the table and develop empathy with the sharks at this table. I assure them they will win during this round. They assume I am lying to gain their favor, which is true. I'm trying to make friends here.
 
 2.  Someone will need change, most likely for a dollar. I count out nickels from the bingo fees I've already collected, then exchange those nickels for the dollar.
 
 3.  I reach to collect the bowl from the table. Sometimes, someone will object; "You've already collected for this round."
 
-I may think I am *certain* I have not collected. But I am only one vote out of five, the other four being the players seated at the table. They may assume the bowl contains money for the next round. The act of making change may have interrupted the normal flow of the interaction between sharks and collectors. Or sadly, there may be some dementia and short-term memory is a bit wobbly.
+I may think I am *certain* I have not collected. But I am only one vote out of five, the other four being the players seated at the table. They may assume the bowl contains money for the next round. The act of making change may have interrupted the normal flow of the interaction between sharks and collector. Or sadly, there may be some dementia and short-term memory is a bit wobbly.
 
-Untangling an error in cash flow is tortuous. I've tried to reason through a narrative of the collection, but I have no written proof. I've found it easiest to just agree everything is accurate, then pour this bowl into the general collection. This isn't an IRS audit, there is no audit trail, the amount to be won is secondary to the win itself. Smile and move on. After all, it's only forty cents.
+Untangling an error in cash flow is tortuous. I've tried to reason through a narrative of the collection, but the accounting trail is miserable. I've found it easiest to just agree everything is accurate, then pour this bowl into the general collection. This isn't an IRS audit and the amount to be won is secondary to the win itself. Smile and move on.
 
-At times, someone may be unable to contribute or is flustered with the quick flow of money across the table. I've learned to carry a supplemental pocket of nickels and make a lightning loan where necessary. *"I've got you covered,"* I tell my new friend. In a few minutes everyone forgets about the loan, but the friendship remains.
+At times, someone may be unable to contribute or is flustered with the quick flow of money across the table. I've learned to carry a supplemental pocket of nickels and make a lightning loan where necessary. *"I've got you covered,"* I tell my new friend. In a few minutes everyone forgets about the loan, but the friendship remains. I count that as a win.
 
 Collections has become an issue of major contention and even made it to a topic of discussion at the recent town hall. Two volunteers stepped up with a plan; now we have a collection system inspired by the traditions of the Lutheran Church. When God ordains, things go smoother.
 
@@ -119,7 +119,7 @@ The caller withdraws a ball from a bucket of 75 balls and announces the letter/n
 
 ### What could possibly go wrong?
 
-Before we get to the climax of the evening, let's discuss the reality of a live bingo game in the context of a simplified communication model. There are many models; we'll just consider the sender, noise, and the receiver.
+Before we get to the climax of the evening, I'll discuss the reality of a live bingo game in the context of a simplified communication model. There are many versions advanced and researched by communications specialists; I'll just consider the sender, noise, and the receiver.
 
 #### Sender
 
@@ -129,7 +129,7 @@ Ideally, the bingo caller will draw a ball from the bucket, then pause to look a
 
 However, some callers have forgotten their training and acquire bad habits: Speaking softly. Sloppy pronunciation. Calling too fast. When auditioning a caller, we consider experience as pastor, square-dance caller, sports announcer, elementary school teacher, or game-show host. Unfortunately, the qualification of the caller is not the only chaotic force in action.
 
-Pacing is every bit as important as volume and enunciation. If your brain is less than seventy years old, you probably don't have empathy for the reduction in processing speed as we age. When I was twenty-years-old, I could do polynomial equations in my head. I could also perform deep-knee bends while lifting seventy-pound weights. Forty years later, math takes longer and my knees support less weight. Pausing between numbers gives everyone a chance to hear the number, parse the number, check both bingo cards, slide the plastic cover on a number, wiggle the cover if it sticks, confirm the number with a neighbor, check for a bingo pattern, and re-focus in preparation for the next number.
+Pacing is every bit as important as volume and enunciation. My brain is less than seventy years old and I don't have enough empathy for the reduction in processing speed as we age. When I was twenty-years-old, I could do polynomial equations in my head. I could also perform deep-knee bends while lifting seventy-pound weights. Forty years later, math takes longer and my knees support less weight. Pausing between numbers gives everyone a chance to hear the number, parse the number, check both bingo cards, slide the plastic cover on a number, wiggle the cover if it sticks, confirm the number with a neighbor, check for a bingo pattern, and re-focus in preparation for the next number.
 
 ::: {.callout-note icon="false"}
 ## Polynomial Equations
@@ -141,13 +141,13 @@ This is a complex polynomial equation: $a_2x^2 + a_1x + a_0$
 Quickly solve for $x$ . Good luck...
 :::
 
-Imagine if I called out polynomial equations at the pace of one per minute. You might solve the first one. Possibly the second. By the third you would call for a pause, and by the fourth you would be irretrievably lost and complaining to your table-mates. Madness and shouting would ensue. We don't like it when bingo callers move too fast.
+I imagine a professor calling out polynomial equations at the pace of one per minute. I might solve the first one. Possibly the second. By the third I would call for a pause, and by the fourth I would be irretrievably lost and complaining to my table-mates. Madness and shouting would ensue. We don't like it when bingo callers move too fast.
 
 #### Noise
 
 Communication models include the channel of transmission (paper for writing, copper wires for phone calls, air for sound) and include noise as a complicating factor. Smeared ink for paper, static for phone calls, and rattling bingo balls for bingo callers.
 
-About those damn bingo balls. They are plastic; every time the caller stirs the bucket of balls, they generate noise akin to a ball-bearing factory. It masks human speech. We tell them don't stir the balls while calling a number. If they don't pause long enough between calling the number and stirring the balls, we hear the following...
+About those damn bingo balls. They are plastic; every time the caller stirs the bucket of balls, they generate noise akin to a ball-bearing factory. It masks human speech. Me and the bingo sharks tell callers not to stir the balls while calling a number. If they don't pause long enough between calling the number and stirring the balls, we hear the following...
 
 > "O-63...that's O- (RATTLERATTLERATTLE). The next number is B-3. That's B- (RATTLERATTLERATTLE)."
 
@@ -157,9 +157,9 @@ Also problematic is outsiders: relatives, children, nursing staff, janitors. Rel
 
 I'm enthusiastic about visitors. They brighten up everyone's day. But *gawdammit*, we're trying to play **bingo** here. ***Nickel Bingo!***
 
-Likewise, the nursing staff are heroes and wrangle medications and blood pressures with grace and care. But the brief interruption in game play means possibly missed numbers, causing one or more calls to repeat the last number, followed by 25% of the bingo players repeating the number ... and so on.
+Likewise, the nursing staff will sometimes stop by for blood pressure and pulse ox. They truely are heroes and wrangle medications and blood pressures with grace and care. But the brief interruption in game play means possibly missed numbers, causing one or more calls to repeat the last number, followed by 25% of the bingo players repeating the number ... and so on.
 
-If maintenance is backed up, they may try to vacuum in the next room. The white noise masks the bingo caller's voice. Players won't be able to hear, one or more calls to repeat the last number ... and further so on and so forth.
+If maintenance is working late, they may vacuum in the next room. A vacuum cleaner produces something called "white noise," and it masks the bingo caller's voice. Players won't be able to hear, one or more calls to repeat the last number ... and further so on and so forth.
 
 #### Receiver
 
@@ -167,7 +167,7 @@ If the caller enunciates, projects, and paces-and someone's kid isn't playing wi
 
 By age 80, it's not uncommon to have a hearing loss of 50% in the frequency range of the human voice. Roughly one-third of the bingo players have some level of dementia, one symptom being confusion and agitation when dealing with the cacophony of many people talking at once. My friends are doing their best, but they need a bit of slack.
 
-Do you wonder how this feels? Did you solve the polynomials shown above? Solve them again while teaching an elementary band class. Or coaching the high school homecoming football game. These are both good examples of cacophony as applied to bingo.
+Do you wonder how this feels? Did you solve the polynomials shown above? Solve them again while teaching a first-year band class. This is an example of cacophony as applied to bingo.
 
 By the way, good table mates look out for each other. After I scan my bingo cards, I stealthily scan my neighbor's cards and politely point out any numbers they may have missed. Done quietly, this is a gesture of kindness.
 
@@ -179,35 +179,35 @@ It eventually happens. Sometimes I hear it from another table. Sometimes from my
 
 In American bingo, there are three basic winning patterns: Five in a row, five in a column, and five diagonally. We have three additional patterns: four corners, picture frame, and the high-stakes *blackout*. (more about blackout in a minute) Some callers try additional patterns (i.e. postage stamp, two lines, small diamond) but approval among the sharks is mixed.
 
-Upon hearing bingo, the caller pauses the game.
+Upon hearing bingo, the caller pauses the game and confirms the winner.
 
-An experienced caller will remind players *not* to clear their board in case a bingo isn't confirmed. An inexperienced caller will forget this step and players will clear their boards. If a bingo is not confirmed, the confusion quotient of the room will rise. A player whom mistakenly cleared their board will request a re-call of all the drawn numbers, but that takes time and is not a popular suggestion. By the way, not clearing your bingo card until confirmation is an earmark of an experienced player. If you wait until confirmation, congratulations, you are on your way to bingo sharkdom.
+An experienced caller will remind players *not* to clear their board in case bingo isn't confirmed. An inexperienced caller will forget this step and players will clear their boards. If a bingo is not confirmed, the confusion quotient of the room will rise. A player whom mistakenly cleared their board will request a re-call of all the drawn numbers, but that takes time and is not a popular suggestion. By the way, not clearing your bingo card until confirmation is an earmark of an experienced player. If you wait until confirmation, congratulations, you are on your way to bingo sharkdom.
 
 Confirming a bingo is mechanically easy, but can be problematic. If everything runs smoothly, the winning player reads out-loud the numbers comprising their bingo, the caller confirms those numbers were actually called and if all goes well, the caller confirms a winning bingo. To the winner goes the nickels and everyone resets their bingo cards.
 
-As in all steps of bingo, problems appear during the implementation. The concept of "out loud" has various interpretations with variables, including speed of delivery and volume of the player. Here's a scenario: When I win bingo, I call out a random set of five numbers between one and seventy-five. I can do this as quickly and as softly as I want. (for example, *8-16-Free-57-72*. "Free" because this is the middle row) I might include the corresponding B-I-N-G-O letters.
+Sometimes it isn't smooth. As in all steps of bingo, problems appear during the implementation. The concept of "out loud" has various interpretations with multiple variables, including speed of delivery and volume of the player. Here's a scenario: When I claim bingo, I call out the five winning numbers. I can do this as quickly and as softly as I want. (for example, *8-16-Free-57-72*. "Free" because this is the middle row) I might include the corresponding B-I-N-G-O letters.
 
-Callers check those numbers against the matrix of balls used to generate the calls. Maybe the caller's hearing isn't as good as it used to be. Maybe other players are chatting/gossiping/remarking at how close *they* were at winning. Maybe the caller's memory for numbers isn't 100%. In my case, I can barely remember my phone number after practicing for five years, and much less remember someone else's phone number or a random set of five numbers without writing them down.
+Callers check those numbers against the matrix of balls used to generate the calls. Maybe the caller's hearing isn't as good as it used to be. Maybe other players are chatting/gossiping/remarking at how close *they* were at winning. Maybe the caller's memory for numbers isn't 100%.
 
 Confirming a bingo often takes multiple tries. But in the end (usually) everything works out and we have a winner.
 
 ### Blackout Bingo
 
-Each evening bingo session includes ten rounds with the standard row/column/diagonal bingo pattern. As mentioned above, these games cost one nickel per card. There is an additional, final round which uses a blackout pattern - cover all windows on the card. It surprised me to learn the cost per card doubles to *ten cents per card*. Where we put down five cents per card times two cards per player times four players per table (equals forty cents) we now put down *ten* cents per card (equals *eighty* cents per table). Our bingo room has space for seven tables, so winning blackout bingo is a big payout - over FIVE DOLLARS!
+Each evening bingo session includes ten rounds with the standard row/column/diagonal bingo pattern. As mentioned above, these games cost one nickel per card. There is an additional, final round which uses a blackout pattern - cover **all** windows on the card. It surprised me to learn the cost per card doubles to *ten cents per card*. Where I put down five cents per card times two cards per player times four players per table (equals forty cents) I now put down *ten* cents per card (equals *eighty* cents per table). Our bingo room has space for seven tables, so winning blackout bingo is a big payout - over FIVE DOLLARS!
 
-Blackout bingo takes longer than standard patterns, but the suspense is *killer!* I feel my blood pressure rise as I watch the card shift to red. Several times I've had only two, maybe one window open. Several times my fantasy of a big payout has been crushed by someone else calling **BINGO**. *Dammit!*
+Blackout bingo takes longer than standard patterns, but the suspense is *killer!* I feel my blood pressure rise as I watch the card approach 100% coverage. Several times I've had only two, maybe one window open. Several times my fantasy of a big payout has been crushed by someone else calling **BINGO**. *Dammit!*
 
 ## Game Phase Four-PAYOUT
 
 I've won several times! It tempted me to do a victory dance, beat my chest, throw my winning bingo card across the room and shout "**I DOMINATE! I AM THE BINGO JEDI MASTER! COWER IN FEAR, ALL WHO BEHOLD ME!**"
 
-I haven't done this. My knees are not up to dancing around. My older table mates would be ill-advised to beat their chests, considering any history of heart trouble, and throwing anything across the room is likely to poke someone's eye out. (The above should be read in a faster-than-normal voice used by TV announcers at the end of a miracle drug ad with multiple adverse side effects.)
+I haven't done this. My knees are not up to dancing around. My older table mates would be ill-advised to beat their chests, considering any history of heart trouble, and throwing anything across the room is likely to poke someone's eye out.
 
 When I win, I revel in the momentary endorphin rush of seeing a pile of change pour into my bingo change jar, I tell my table friends how much fun that was and how surprised I am to have won. Then I get ready for the next round.
 
 ### Two or More Winners
 
-A single person wins most bingo, but it's not uncommon for two (or more) people to win simultaneously. (The odds of winning bingo is a fascinating subject if you are a statistician or math professor. Look it up on the internet. The rest of us should leave the math geeks in peace).
+Normally, one single person wins each round, but it's not uncommon for two (or more) people to win simultaneously. (The odds of winning bingo is a fascinating subject if you are a statistician or math professor. Look it up on the internet. The rest of us should leave the math geeks in peace).
 
 When multiple **BINGO!**s are confirmed, winners split the prize. As a money collector, it is my job to split the cash. There are three strategies I've used to accomplish this accounting feat of daring-do.
 
@@ -217,17 +217,17 @@ When multiple **BINGO!**s are confirmed, winners split the prize. As a money col
 
 -   Eyeball. Hmm...this pile looks about this big. Some for one winner and some for the other winner.
 
-There's a secret I learned in Bingo Collecting School and I'll tell you if you promise not to make a big damn deal about it.
+There's a secret I learned and I'll tell you if you promise not to make a big damn deal about it.
 
 Here's the secret: Where I live, *Nobody cares!*
 
-I divide up the money in mostly equal piles, then distribute to the winners. I pour that money into a pouch or jar already containing an uncounted amount of change; there is no accounting trail or software involved. The thrill of the win counts. Delaying the start of the next game is a buzzkill.
+I divide up the money in mostly equal piles, then give it to the winners. I pour that money into a pouch or jar already containing an uncounted amount of change; there is no accounting trail or software involved. The thrill of the win counts. Delaying the start of the next game is a buzz kill.
 
 ## Final Thoughts
 
-When I grew up, my family played cards. The intent was to give your hands something to do while you talked. Games were a second act after family meals; we enjoyed hanging out together (most of the time) and we needed some sort of excuse to do so.
+My family played cards. The intent was to give your hands something to do while you talked. Games were a second act after family meals; we enjoyed hanging out together (most of the time) and we needed some sort of excuse to do so.
 
-I play bingo with my friends. Some of them are losing their memory and reasoning and physical dexterity. All of them are getting older. When we play bingo, it isn't really about bingo. It's about smiling at each other across the table during the time we have to be with each other.
+I play bingo with my friends. Some of them are losing their memory and reasoning and physical dexterity. All of them are getting older. The best part of playing bingo is hanging out with each other during the short time we have.
 
 ## Appendix
 
