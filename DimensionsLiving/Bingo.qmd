@@ -213,13 +213,15 @@ I divide up the money in mostly equal piles, then give it to the winners. I pour
 
 ## Cheating at bingo
 
-We're pretty sure James cheats. He wins *a lot*--at least, more than he should. I think I've figured out how he does it. James sits with his back to a wall so no one can look over his shoulder. He uses small picture easels to hold his two bingo cards upright. In his mind, he combines these two cards into one, doubling his chances of a matching number. When he calls bingo and reads back his numbers, he may be reading the first number from the first card, then the second number from the *second* card, the third number from first (or second) card, and so-on.
+We're pretty sure James cheats. He wins *a lot*--at least, more than he should. I think I've figured out how he does it. James sits with his back to a wall so no one can look over his shoulder. He uses small picture easels to hold his two bingo cards upright (Everyone else positions their cards flat on the table). As normal, he records matching numbers on the correct card.
 
-I have two considerations about this. First, James is demonstrating advanced math skills by converting an exercise in random-number correlation from a two-dimensional matrix to a three-dimensional array. That's impressive stuff and I'm loath to call him on his adept transformations.
+Here's the trick; In his mind, he combines these two cards into one, doubling his chances of a matching number. When he calls bingo and reads back his numbers, he may be reading the first number from the first card, then the second number from the *second* card, the third number from first (or second) card, and so-on.
 
-Second, James may not realize he's cheating. Our brains are masters of rerouting around faulty circuits. What we call cheating may actually be the result of an adaptation to a brain injury sustained on a Naval destroyer or Army tank. 
+I have two considerations about this. First, James is demonstrating advanced math skills by converting from a two-dimensional matrix to a three-dimensional array. That's impressive stuff and I'm loath to call him on his adept transformations. I'm curious if he would find three-dimensional chess interesting? Imagine two stacked chessboards, allowing moves up and down, as well as left and right. For that matter, imagine eight levels, converting the playing field from a grid to a cube.
 
-Either way, I gain nothing by destroying the elated mood surrounding an evening of nickel bingo.   
+Second, James may not realize he's cheating. Our brains are masters of rerouting around malfunctioning synapses. James may simply be adapting to a brain injury sustained on a Naval destroyer or Army tank. I find it unappreciative to dismiss this level of error-correction as simple cheating.
+
+Either way, I gain nothing by destroying the elated mood surrounding an evening of nickel bingo. I'm spending no more energy on policing James.   
 
 ## Final Thoughts
 
