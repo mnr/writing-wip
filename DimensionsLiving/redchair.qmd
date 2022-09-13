@@ -4,3 +4,5 @@ author: "Mark Niemann-Ross"
 format: docx
 editor: visual
 ---
+
+## Theft of the red chair
