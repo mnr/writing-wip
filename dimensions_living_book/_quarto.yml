@@ -1,0 +1,23 @@
+project:
+  type: book
+
+book:
+  title: "dimensions_living_book"
+  author: "Mark Niemann-Ross"
+  date: "1/22/2023"
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - summary.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+editor: visual
+
