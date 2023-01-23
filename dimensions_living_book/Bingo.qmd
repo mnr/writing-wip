@@ -1,11 +1,4 @@
----
-title: "Nickel Bingo"
-author: "Mark Niemann-Ross"
-format: docx
-editor: visual
----
-
-## A New Home
+# Nickel Bingo {.unnumbered}
 
 At 63 years old, I'm the youngest member of my mother-in-law's senior residence hall. How this happened is an interesting story, but one for later. It's enough to know I'm helping her recover her strength and that requires my presence 24x7. Unexpectedly, I have access to a wealth of new perspectives from an older generation.
 

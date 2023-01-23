@@ -1,11 +1,4 @@
----
-title: "The Candy Basket"
-author: "Mark Niemann-Ross"
-format: docx
-editor: visual
----
-
-## Seven Hallways
+# The Candy Basket {.unnumbered}
 
 There are seven hallways in the residence where I live; three are in the assisted living wing, three are in the independent wing, and one is in the memory wing. Each hallway services six or more rooms. Each room has a door with a small cubby to the side. It's a blank space that invites personal expression by the occupant of the room. Most cubbies have pictures of Jesus or Mary. Many have ceramic dogs or cats (but not both). There are plants and flags and war memorabilia and ceramic figures and wind chimes and drawings by grandchildren.
 
