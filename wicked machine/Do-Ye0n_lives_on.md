@@ -1,8 +1,8 @@
 ---
 title: Do-Ye0n performs a cost-benefit analysis on a career based on questionable
   activities
-author: “Mark Niemann-Ross”
-date: “May 2022”
+author: Mark Niemann-Ross
+date: May 2022
 output:
   word_document: default
   html_document:

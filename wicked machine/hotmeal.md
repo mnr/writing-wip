@@ -1,3 +1,8 @@
+---
+output:
+  word_document: default
+  html_document: default
+---
 # Hot Meal
 
 Detective Araci Belo admires the view of post-earthquake Portland from this small condominium. The west hills provide a lush green background to the dense housing towers, interconnected by skyways and hypertube stations. 
