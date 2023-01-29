@@ -9,6 +9,7 @@ book:
   cover-image: cover.png
   chapters:
     - index.qmd
+    - howIgotHere.qmd
     - redchair.qmd
     - Bingo.qmd
     - candyBasket.qmd
