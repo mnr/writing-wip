@@ -1,6 +1,1 @@
----
-title: "How I Got Here"
-author: "Mark Niemann-Ross"
-format: docx
-editor: visual
----
+# How I Got Here {.unnumbered}
