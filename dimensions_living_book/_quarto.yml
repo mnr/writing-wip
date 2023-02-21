@@ -13,6 +13,7 @@ book:
     - redchair.qmd
     - Bingo.qmd
     - candyBasket.qmd
+    - goodbyeToDimensions.qmd
 
 format:
   html:
