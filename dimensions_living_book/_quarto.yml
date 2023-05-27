@@ -15,6 +15,7 @@ book:
     - Bingo.qmd
     - candyBasket.qmd
     - goodbyeToDimensions.qmd
+    - gretamemorycare.qmd
 
 format:
   html:
