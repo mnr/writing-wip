@@ -2,7 +2,7 @@
 
 When Janell and I were first dating, I lived on a porch. In Minnesota. In winter. With no heat.
 
-I did have a space heater. One of those gray, metal, 1,500-watt devices with the two chrome bars in the front, preventing fires if the unit were to tip over on its face. It tried its best to warm the room, but was no match for the high thermal conductivity of the wrap-around glass.
+I did have a space heater. One of those gray, metal, 1,500-watt devices with the two chrome bars in the front to prevent fires if the unit were to tip over on its face. It tried its best to warm the room, but was no match for the high thermal conductivity of the wrap-around glass.
 
 For a bed I had a two-inch foam pad and some sheets. Possibly a quilt. I was not big on home furnishings.
 
@@ -10,27 +10,27 @@ Janell was repelled by this sub-standard sleeping arrangement, but attracted by 
 
 Instead of a space heater and foam mattress, Janell's sister volunteers furnishings currently in a Milwaukee storage unit. We are free to use her bed, dressers and tables. All we have to do is move it from Milwaukee to Stevens Point and return it when we are done.
 
-"No problem," I confidently assure Janell. "Our Honda CR-V has a tow hitch, we can rent a 6 x 12 trailer from U-Haul, I'll drive down, load up, and we're set!" I have all the enthusiasm, none of the experience.
+"No problem," I confidently assure Janell. "Our Honda CR-V has a tow hitch, we can rent a 6x12 trailer from U-Haul, I'll drive down, load up, and we're set!" I all enthusiasm, but no experience.
 
 ## Adventures In Moving
 
-The U-Haul dealer is willing to believe I know what I am doing and leaves me to attach the trailer. I back the CR-V up to the trailer and try to lift the hitch onto the ball. I lift with my legs (not my back). Can't do it.
+The U-Haul dealer is willing to believe I know what I am doing and leaves me to attach the trailer. I back the CR-V up and try to lift the hitch onto the ball. I lift with my legs (not my back). Can't do it. Too heavy.
 
 "Hmmm...," I ponder. Nobody else is around except the trailer and the CR-V. They aren't talking.
 
-But the CR-V has a jack for changing a tire. Perfect. I jack up the trailer, back up the CR-V, drop the jack, the hitch goes on the ball, problem solved. The jack goes back in the car, I connect the safety chain, drive around the parking lot once to check my work. I start off for Milwaukee!
+The CR-V has a jack for changing a tire. Perfect. I jack up the trailer, back up the CR-V, drop the jack, the hitch goes on the ball, problem solved. The jack goes back in the car, I connect the safety chain, drive around the parking lot once to check my work. Everything stays attached so I start off for Milwaukee!
 
-There is a graphic counseling device called Johari's Window used to help people understand their relationship with themselves and others. It is a grid of four squares: two rows, two columns. The columns are labeled "Known to self" and "Not known to self. The rows are labeled"Known to others" and "Not known to others." Each of the cells contains something revealing about the person or situation. Here is an example:
+There is a graphic counseling device called Johari's Window used to help people understand their relationship with themselves and others. It is a grid of four squares: two rows, two columns. The columns are labeled "Known to self" and "Not known to self. The rows are labeled "Known to others" and "Not known to others." Each of the cells contains something revealing about the person or situation. Here is an example:
 
-+-----------------------+--------------------------------------------------+----------------------------------------------------------+
-|                       | Known To Others                                  | Not Known To Others                                      |
-+=======================+==================================================+==========================================================+
-| **Known To Self**     | I am driving to Milwaukee with a 6 x 12 trailer. | I am getting low on gas.                                 |
-+-----------------------+--------------------------------------------------+----------------------------------------------------------+
-| **Not Known To Self** | Janell knows I should be less than confident.    | I have neglected to tighten the hitch latch to the ball. |
-|                       |                                                  |                                                          |
-|                       | (I am unaware of anything that could go wrong.)  |                                                          |
-+-----------------------+--------------------------------------------------+----------------------------------------------------------+
++-----------------------+-------------------------------------------------+----------------------------------------------------------+
+|                       | Known To Others                                 | Not Known To Others                                      |
++=======================+=================================================+==========================================================+
+| **Known To Self**     | I am driving to Milwaukee with a 6x12 trailer.  | I am getting low on gas.                                 |
++-----------------------+-------------------------------------------------+----------------------------------------------------------+
+| **Not Known To Self** | Janell knows I should be less than confident.   | I have neglected to tighten the hitch latch to the ball. |
+|                       |                                                 |                                                          |
+|                       | (I am unaware of anything that could go wrong.) |                                                          |
++-----------------------+-------------------------------------------------+----------------------------------------------------------+
 
 : Johari's Window
 
@@ -50,13 +50,15 @@ The newly freed trailer rolls backwards. I can only watch in dismay - I know eno
 
 This will be easy to solve. I disconnect the safety chains and pull the CR-V forward. I jack up the trailer, then back the CR-V to the hitch. Only this time, I don't jack the trailer up far enough. With barely a nudge, the jack falls backward and the trailer again rolls towards the ditch. I stupidly watch. "Stupidly" because I should have chocked the wheels; "watch" because that's the sum total of actions available to me.
 
-Three feet of drama later, the trailer stops. I run to the nearby woods to find a piece of wood small enough for me to lift and large enough to chock a 1,920 pound trailer. With a new appreciation for trailer behavior, I again jack up the tongue and successfully mount the hitch to the ball. I reattach the chains. And yes, I finally lock the trailer to the ball. I return to the freeway on a mission to fill the CR-V with gasoline.
+Three feet of drama later, the trailer stops. I run to the nearby woods to find a piece of wood small enough for me to lift and large enough to chock a 1,920 pound trailer. With a new appreciation for trailer behavior, I again jack up the tongue and successfully mount the hitch to the ball. I reattach the chains. And yes, I finally lock the trailer to the ball. I return to the freeway.
 
 ## Gas. Rain.
 
-My CR-V calculates the available range in miles based on current miles-per-gallon versus gallons of gas in the tank. It's a computer trick added by Stephen, an intern Honda hired for the summer. *Available Range* doesn't really tell me anything more than what I could observe by looking at the gas gauge at the bottom of the speedometer, but adding it to the car was the crowning act of Stephen's college degree. For me, I am happy with analog; when the gas needle gets to the last quarter of the tank, I should fill it up.
+My CR-V calculates the available range in miles by multiplying the calculated miles-per-gallon times gallons of gas in the tank. It's a computer trick added by Stephen, an intern Honda hired for the summer. *Available Range* doesn't really tell me anything more than what I could observe by looking at the gas gauge at the bottom of the speedometer, but adding it to the car was the crowning act of Stephen's college degree.
 
-That's where the needle is now, so I should do this. I watch signs for a freeway exit with a gas station. It has started to rain, so I turn on the wipers. First at intermittent, then low speed, then high as the abrupt storm obliterates the view of other cars and roadside features. The rain has enough force to bounce back in the air when it hits the hood of my car. I can't see the exit signs.
+For me, I am happy with analog; when the gas needle gets to the last quarter of the tank, I should fill up. That's where the needle is now, so I should do this.
+
+I watch signs for a freeway exit with a gas station. It has started to rain, so I turn on the wipers. First at intermittent, then low speed, then high as the abrupt storm obliterates the view of other cars and roadside features. The rain has enough force to bounce back in the air when it hits the hood of my car. I can't see the exit signs.
 
 With the trailer dragging along behind, the CR-V is getting half the normal MPG I've come to expect. With a curse, I see Stephen's available range is a single digit. I have nine miles to buy gas. Oops - now I have eight. Seven. This trailer must have its breaks on. Stephen is excited to see his internship has dialed my anxiety up to eleven.
 
@@ -64,7 +66,7 @@ I am curious if Stephen programmed his available range computer to stop at zero,
 
 The range goes to zero, then remains zero. Stephen has no sense of humor.
 
-The obvious conclusion to this part of the story sees me walking five miles to a gas station in a pounding rain, wondering what seam of my raincoat is going to start leaking next. But God must not have pushed my button hard enough, because I turn off at the next exit and can see an (open) gas station. Maybe Saint Peter gets his five drachma back.
+The obvious conclusion to this part of the story sees me walking five miles to a gas station in a pounding rain, wondering what seam of my raincoat is going to start leaking next. But God must not have pushed my cream-pie button hard enough, because I turn off at the next exit and can see an (open) gas station. Maybe Saint Peter gets his five drachma back.
 
 I don't know if Stephen programmed in a margin of safety, or how accurate his sensor data was, or if he simply did the calculation without any care of human fragility. I am tempted to repeatedly circle the gas pump until I truly sputter to a stop, but I am done tempting The Fates and fill up the tank. No more drama, please.
 
