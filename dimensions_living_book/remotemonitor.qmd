@@ -1,0 +1,26 @@
+---
+title: "remote monitoring"
+author: "Mark Niemann-Ross"
+---
+
+# Greta By Wire
+
+Greta has become a 24x7 project. I live one floor and one hall away. I can be at her door in two minutes--and I often am. I receive reports on her attendance at activities throughout the week. I watch her interact with her peers at breakfast, lunch, and dinner. I *spy* on Greta. I am a helicopter son-in-law.
+
+I am also a technology enthusiast. I teach how to program single-board computers with the python programming language. I post videos on how to build a weather station or implement telemetry transport between two microprocessors. I have an in-depth knowledge of the technologies necessary to place a camera in Greta's room and record her every motion.
+
+I could also build a two-way wrist-radio for Greta. We could talk like Dick Tracy. I would know exactly where she was, updated every 500 milliseconds.
+
+Two things prevent me from becoming an evil voyeur: Respect for Greta, and, well--Greta.
+
+## Promise
+
+I don't need to implement my own personal survellience device. An internet search will produce several pre-built devices designed to for elders and children to stay in touch. The promotional websites and videos show happy senior citizens dancing and interacting with their grandchildren. Everyone has perfect make-up and interesting dialog.
+
+Greta's children have purchased an internet-connected picture frame. We can send photos of our lives to her device and they are displayed in a continuous loop near her favorite chair. She doesn't need to do anything to watch the pictures change from slide-to-slide. It's the electronic equivalent of the shelves of photo albums in her room.
+
+## Reality
+
+I made my fortune in high-technology and approach new technology with enthusiasm and optimism. I've worked on projects that have changed society and industry. I'm out of the inner circles of innovation, but I look with admiration at the emergence of new technologies.
+
+But folks - these remote presence devices make me crazy with their clueless assumptions about how to bring Greta closer to her family.
