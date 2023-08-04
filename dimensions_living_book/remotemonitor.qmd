@@ -15,7 +15,7 @@ Two things prevent me from becoming an evil voyeur: Respect for Greta, and, well
 
 ## Promise
 
-I don't need to implement my own personal survellience device. An internet search will produce several pre-built devices designed to for elders and children to stay in touch. The promotional websites and videos show happy senior citizens dancing and interacting with their grandchildren. Everyone has perfect make-up and interesting dialog.
+I don't need to implement my own personal surveillance device. An internet search will produce several pre-built devices designed to for elders and children to stay in touch. The promotional websites and videos show happy senior citizens dancing and interacting with their grandchildren. Everyone has perfect make-up and interesting dialog.
 
 Greta's children have purchased an internet-connected picture frame. We can send photos of our lives to her device and they are displayed in a continuous loop near her favorite chair. She doesn't need to do anything to watch the pictures change, showing the best of her children out camping, her grandchildren swimming, or someone's new house. It's the electronic equivalent of the shelves of photo albums in her room.
 
@@ -59,9 +59,9 @@ Forgive me as I stray into my first love of science fiction. Wouldn't it be wond
 
 "Oh, hello Mark," She would respond without surprise. Time/space travel means nothing to someone who experiences discontinuity of time and space. All Greta cares about is that I am here.
 
-This is the assumption of these senior-friendly video communicators. *POP* I am here! Let's talk!
+This is the assumption of these senior-friendly video communicators. *POP.* I am here! Let's talk!
 
-Not true. Unlike my fictional time/space travel, this requires a series of steps.
+But they fall short of the promise. Unlike my fictional time/space travel, this device requires a series of steps.
 
 1.  Turn the device on.
 
@@ -77,6 +77,28 @@ Let me break this down.
 
 ### Turn the device on/start the app/look at the camera
 
-This assumes several things. First, there is an agreement about *when* to turn the device on. Or the device makes some sort of an audible signal. Or Greta is actually in the room or awake when this is happening. The next assumption is someone is available to "turn the device on." Is the app visible? Is there a button that is clearly labeled "talk to *someone*." Is there someone in the room (an aide?) who understands what the device is doing and how to respond so that Greta can see the screen.
+These first steps assume several things. First, Greta and grandchild/child have an agreement about *when* to turn the device on. If it is mealtime, Greta will be in the dining hall and not available. If Greta has a medical appointment, she won't be in the building. If she is at *Drumfit*, she won't be in her room. If she is sleeping, nobody will wake her. If she is having a bad day, her attendant may not have the patience to get her in front of the camera.
 
-Then there is looking at the screen. Actually the camera. Greta (and most people I know) don't instinctively look at the camera. They look at the image of the person calling them. So we see up Greta's nose or the top of her forehead or who knows? But it's not really talking to Greta.
+How about if the device makes an audible alert. Or Greta is actually in the room or awake. Someone (one of the staff) must be available to "turn the device on." Is the app visible? Is there a button that is clearly labeled "talk to *someone*." Is there someone in the room who understands what the device is doing and how to respond so that Greta can see the screen.
+
+Then there is looking at the screen. Actually the camera. Greta (and most people I know) don't instinctively look at the camera. They look at the image of the person calling them. So we see up Greta's nose or the top of her forehead or who knows?
+
+### Disconnect the conversation when done
+
+Let's assume the best of all outcomes and thus, Greta has a conversation with child or grandchild. Hallelujah! The conversation is over and we say our goodbyes.
+
+But this is ignorant of Greta and her emerging chronological discontinuity. Remember that Greta perceives time in shorter loops than she used to. *Yesterday*, *this morning, today,* and *tomorrow* are no longer clearly defined. Those of us who are firmly rooted in linear time assume a conversation has a salutation, a body, and a close. Greta does not.
+
+When I am in Greta's physical presence, I know a conversation will last until she needs a nap or dinner starts or the nurse arrives to check blood pressure or another interruption. It's not when I have completed a logical discussion of the topic for today. I know how Greta's day is going and so I know how our conversation will evolve. These are contextual clues hidden from a telecommunicator.
+
+Without those clues, how can a conversation be done?
+
+### Put the device away
+
+For the sake of a continued dissertation, let's assume the conversation has somehow ended. Our distant person logs off. Greta is left with a mute device (and probably an aide). Time to put the device away.
+
+This implies the device is placed somewhere it can be found again. It also implies the device is connected to power so it can recharge.
+
+More likely, the device is left on a table or near an armchair. At first, it is on the top of the stack of papers, but it is soon a victim of life's detritus. It is soon covered with *Catholicism Today, Wisconsin Travel*, The local *Pennysaver,* and a birth/wedding announcement from a grandchild. Hopefully it does make an audio alert so an aide can locate it under the stack. It's just as likely someone from house cleaning or a child-in-charge will place the growing stack of paper in recycling without realizing the stack contains a mute device.
+
+Some devices have a "find me" feature which allows a smart phone to return the physical location or to play a loud signal. All these assume the device is charged, which implies it was plugged in the last time it was used. Both are unlikely.
