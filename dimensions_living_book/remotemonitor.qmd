@@ -3,6 +3,24 @@ title: "remote monitoring"
 author: "Mark Niemann-Ross"
 ---
 
+# Tech Support
+
+I'm hanging out with Greta, my mother-in-law. We're at her apartment in the memory care unit of Dimensions Senior Living. I'm reading to her and we're just finishing up when my phone rings.
+
+It's from area code 503 - a long distance call from my home state of Oregon. I don't recognize the number, so I suspect a spammer, but I answer. Greta and I could use a laugh. I answer and put the call on speaker phone.
+
+"Hello. This is Samuel from Microsoft Technical Support." Samuel has a distinct accent and I can hear several voices in the background. "Your computer is sending many virus to the internet and I am calling to help you clean this virus off your computer."
+
+Greta is alarmed to hear this, but only because she has forgotten she doesn't have a computer. This may be a bit beyond what she will find humorous, but I'm interested.
+
+"Perfect," I reply. "We've been having some problems with Facetime and I was hoping someone from Microsoft would be available to help."
+
+You may know Facetime is an Apple product--not Microsoft. I am deliberately misleading Samuel, but this mismatch doesn't cause him to pause and re-assess.
+
+"That is good," replies Samuel. "Are you sitting in front of the computer?"
+
+Game on.
+
 # Greta By Wire
 
 I *spy* on Greta.
