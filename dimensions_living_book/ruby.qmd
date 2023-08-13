@@ -1,3 +1,8 @@
+---
+title: "Ruby"
+author: "Mark Niemann-Ross"
+---
+
 ## Ruby
 
 in which ruby comes to visit, but we don't know ruby is a dog until the end
