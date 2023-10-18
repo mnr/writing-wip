@@ -1,9 +1,4 @@
----
-title: "remote monitoring"
-author: "Mark Niemann-Ross"
----
-
-# Tech Support
+# Tech Support {.unnumbered}
 
 I'm hanging out with Greta, my mother-in-law, at her apartment in the memory care unit of Dimensions Senior Living. I'm reading to her when my phone rings.
 

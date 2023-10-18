@@ -17,7 +17,6 @@ book:
     - remotemonitor.qmd
     - ruby.qmd
     - goodbyeToDimensions.qmd
-    - gretamemorycare.qmd
 
 format:
   html:

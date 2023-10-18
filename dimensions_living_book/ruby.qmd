@@ -1,9 +1,4 @@
----
-title: "Ruby"
-author: "Mark Niemann-Ross"
----
-
-## Ruby
+# Ruby {.unnumbered}
 
 Ruby's legs are short and she has some trouble walking, but manages to get where she wants to go and get there when she wants to be there. You might wish for more rapid progress towards a destination, but that's something you want - not Ruby.
 
