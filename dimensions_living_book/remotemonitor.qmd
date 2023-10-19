@@ -16,7 +16,7 @@ You may know Facetime is an Apple product--not Microsoft. I am deliberately misl
 
 Game on.
 
-# Greta By Wire
+## Greta By Wire
 
 Let's put Thomas on hold for just a minute. Before we go any further, I must confess that I *spy* on Greta.
 
