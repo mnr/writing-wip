@@ -1,27 +1,3 @@
----
-title: "greta memory care"
----
+# Memory Care
 
-In which greta goes to memory care
-
-resolution of Gary/POA as mentioned in the first chapter
-
-------------------------------------------------------------------------
-
-## **5. The climax**
-
-You've built your story up to the climax with rising action, and now the climactic scene (or scenes) will have the highest level of conflict, the greatest tension, and/or the most devastating emotional upheaval.
-
-Several things vital to your climax include:
-
--   Your protagonist needs to be in the scene(s).
-
--   Your protagonist needs to resolve the conflict (no other character can do this).
-
--   The conflict and tension need to be highest at this point in the story.
-
--   You need to avoid deus ex machina (an unexpected power or event resolving the conflict, rather than your protagonist).
-
--   The central conflict of the story must be resolved.
-
-The protagonist should face the biggest obstacle in the story and determine their own fate.
+Greta has been wandering the halls of Dimensions Living.
