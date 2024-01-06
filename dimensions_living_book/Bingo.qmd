@@ -32,15 +32,15 @@ In my family, games were a thing to do with your hands while we socialized. In t
 
 Greta will happily play cribbage well past the time my humor can stay awake. She's quick, recognizes the points for certain combinations of cards and announces her score after a glance. Apparently it's an automatic reflex, like breathing or heart beats or flinching away from my strong coffee.
 
-Lately, we've noticed her score is occasionally wrong. She accidentally double counts (not on purpose. Her husband would occasionally do it to see if we were paying attention.) We've noticed Greta is slowing down.
+Lately, we've noticed her score is occasionally wrong. She accidentally double counts (not on purpose. Her husband would occasionally do it to see if we were paying attention.)
 
-I've been taking Greta to community bingo. She misses some of the called numbers, but I help her out. We like hanging out together more than bingo.
+Instead of cribbage, I've been taking Greta to community bingo. She misses some of the called numbers, but I help her out. We like hanging out together more than playing bingo.
 
 ## Bingo Basics
 
 Knowing the essentials of bingo will help you understand the drama associated with nickel bingo. I'll make this as brief as possible, after which I'll explain why our bingo night frequently descends into mayhem.
 
-Simply explained, each bingo player possesses one or more printed cards displaying a grid of random numbers. The bingo caller sits in front of the room and announces another series of random numbers. When a called number matches a number on the player card, the player marks this position on the grid. When the marked positions on a bingo card align in a pattern (such as a complete row or column) the player calls out "BINGO." Assuming all the player numbers match caller numbers, the player is a winner. Everyone calls out in amazement and the game is reset.
+Simply explained, bingo is played on a card showing a grid of random numbers. Someone calls out numbers then everyone marks those numbers if they are on their card. When a row or column is filled, the player calls out "BINGO." Everyone expresses amazement and the game is reset.
 
 The random numbers are traditionally generated with a bucket of numbered balls, although some callers use a computer. With the bucket-of-balls approach, the caller shuffles the balls (either by hand in a bucket or with a tumbler cage), retrieves a ball, then reads the value printed on the ball. Computer applications select a random number at the push of a button, then display it on screen. Computers are more efficient, but lack the aesthetics of numbered balls.
 
@@ -48,15 +48,15 @@ Until recently, I did not understand there are different versions of bingo depen
 
 If you want to play, you select a bingo card from a stack on the middle table. I don't believe you can bring your own card, although I haven't tried. This isn't like pool where you bring your custom-made stick. Private bingo cards, at the least, would be a topic of conversation for weeks; at worst, it would be the topic of another *official memo*.
 
-Our bingo cards are reusable; each number appears in a window with a sliding, transparent-red piece of plastic. When a called number matches a number on your card, you slide the plastic over the number. When someone wins, you slide the plastic to the top of each window and prepare for the next round. With age, these plastic sliders become sticky and difficult to move. I have found no maintenance instructions. I've tried to disassemble a card for better access to the internals, but like carburetors and mobile phones, I don't have the proprietary bingo card tool and my many attempts have only resulted in fewer operational cards.
+Our bingo cards are reusable; each number appears in a window with a sliding, transparent-red piece of plastic. When a called number matches a number on your card, you slide the plastic over the number. When someone wins, you slide the plastic to the top of each window and prepare for the next round. With age, these plastic sliders become sticky and difficult to move. I have found no maintenance instructions. I've tried to disassemble a card for better access to the internals, but I don't have the proprietary bingo card tool and my many attempts have only resulted in fewer operational cards.
 
-When I am less engaged in the game, my mind wanders through the wonderful math of these cards. The numbers are random, but within a range for each column. I once shared this observation with my wife and she gave me a look I have received only once before. In that case, I had excitedly discussed my progress in creating an etch-a-sketch program for the Apple //e computer, written in assembler. We were dirt-poor and she failed to see how this could be a career-enhancing pursuit. (Side note: It *was* career enhancing, but that's another story.)
+When I am less engaged in the game, my mind wanders through the wonderful math of these cards. The numbers are random, but within a range for each column. I once shared this observation with my wife and she gave me a look I have received only once before. In that case, I had excitedly discussed my progress in creating an etch-a-sketch program for the Apple //e computer, written in assembly language. We were dirt-poor and she failed to see how this could be a career-enhancing pursuit. (Side note: It *was* career enhancing, but that's another story.)
 
 ## The Player Table
 
 Our bingo sharks have unofficially agreed on assigned seating, although this was discouraged by an *official memo*. Visitors might consider sitting at a table on the room's periphery to avoid crashing this unspoken tradition. If you can't find a seat, maybe you should consider just watching, rather than causing a disruption. I have earned the position of honored guest and am invited to join one of the regular tables.
 
-Each of player has two bingo cards. (I could play more, but two seems to be the norm. And I've learned to stick to the norm. Mostly. Occasionally. *It's complicated*.)
+Each player has two bingo cards. (I could play more, but two is the norm. And I've learned to stick to the norm. Mostly. Occasionally. *It's complicated*.)
 
 If I forget to bring my jar of nickels, I will sponge off Greta. She's gracious, but I worry this will strain our relationship. Her change includes quarters, dimes, pennies, and sometimes dollar bills. I'll explain in a minute, but non-nickels cause confusion. For God's sake, don't bring foreign currency: This would be probable cause for yet another *official memo*.
 
@@ -158,9 +158,7 @@ By the way, good tablemates look out for each other. After I scan my bingo cards
 
 ## Game Phase Three---BINGO
 
-**BINGO!**
-
-It eventually happens. Sometimes from another table. Sometimes from my table. Sometimes I double-take at my card, realize I have the game pattern and hear myself yell **BINGO**.
+It eventually happens. Sometimes from another table. Sometimes from my table. Sometimes I double-take at my card, realize I have the game pattern and hear myself yell **BINGO**!
 
 In American bingo, there are three basic winning patterns: Five in a row, five in a column, and five diagonally. We have three additional patterns: four corners, picture frame, and the high-stakes *blackout*. (more about blackout in a minute) Some callers try additional patterns (i.e. postage stamp, two lines, small diamond) but approval among the sharks is mixed.
 
