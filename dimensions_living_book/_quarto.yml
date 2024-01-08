@@ -10,7 +10,10 @@ book:
   chapters:
     - index.qmd
     - greta.qmd
+    - fires.qmd
     - sundown.qmd
+    - assistedLife.qmd
+    - twenty4x7.qmd
     - howIgotHere.qmd
     - harassingTheNatives.qmd
     - myMuse.qmd
