@@ -9,6 +9,7 @@ book:
   cover-image: cover.png
   chapters:
     - index.qmd
+    - mnr_aging.qmd
     - greta.qmd
     - fires.qmd
     - sundown.qmd
