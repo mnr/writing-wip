@@ -8,24 +8,25 @@ book:
   page-navigation: true
   cover-image: cover.png
   chapters:
-    - index.qmd
-    - mnr_aging.qmd
-    - greta.qmd
-    - fires.qmd
-    - sundown.qmd
-    - assistedLife.qmd
-    - howIgotHere.qmd
-    - harassingTheNatives.qmd
-    - myMuse.qmd
-    - furnishedApartment.qmd
-    - redchair.qmd
-    - Bingo.qmd
-    - candyBasket.qmd
-    - hallways.qmd
-    - ruby.qmd
-    - gretamemorycare.qmd
-    - goodbyeToDimensions.qmd
+    - index.md
+    - mnr_aging.md
+    - greta.md
+    - fires.md
+    - sundown.md
+    - assistedLife.md
+    - howIgotHere.md
+    - harassingTheNatives.md
+    - myMuse.md
+    - furnishedApartment.md
+    - redchair.md
+    - Bingo.md
+    - candyBasket.md
+    - hallways.md
+    - ruby.md
+    - gretamemorycare.md
+    - goodbyeToDimensions.md
     - gretalastchapter.md
+    - acknowledgments.md
 
 format:
   html:
