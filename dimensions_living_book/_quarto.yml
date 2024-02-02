@@ -25,6 +25,7 @@ book:
     - ruby.qmd
     - gretamemorycare.qmd
     - goodbyeToDimensions.qmd
+    - gretalastchapter.md
 
 format:
   html:
