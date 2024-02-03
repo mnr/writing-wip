@@ -2,11 +2,13 @@
 
 I've only been married once, so Greta is my *only* mother-in-law. It amuses me to tell her this. Greta always laughs and give me a hug. She calls me "Marky."
 
-Greta was born in 1934 and born in Marshfield, Wisconsin. She grew up on a farm (as did everyone in Wisconsin in 1930). Her father maintained a small dairy herd and opened a roadside tavern where she helped served roasted chicken and beer. Her dad served minors, although he was quick to tell these kids "you've had enough." He was also protective of Greta, reminding everyone to watch their language because there were women present. She loved her Dad; he would take her to town when he went there for business and buy her a treat. Her sister was jealous, and Greta told her Dad would take her as well - she just needed to ask. Apparently she never did.
+Greta was born in 1934 in Marshfield, Wisconsin. She grew up on a farm (as did everyone in Wisconsin in 1930). Her father maintained a small dairy herd and opened a roadside tavern where she helped served roasted chicken and beer. Her dad served minors, although he was quick to tell these kids "you've had enough" and made it clear drinking was not an opportunity to harass his daughters.
 
-Greta was one year old when the Social Security Act was passed. When she was sixteen a vaccine for polio was invented and tested. She went to college to become a teacher.
+She loved her Dad; he would take her to town when he went there for business and buy her a treat. Her sister was jealous, and Greta told her that Dad would take her as well - she just needed to ask. Apparently she never did.
 
-Greta has told us (several times) about her experience in teacher's college. She was in charge of at least one of the annual trips and we have seen the pictures, diary entries, and budget. Greta was quite the sparkplug, singing and dancing until early in the morning, then getting her fellow students up and in the busses for another day driving through the mountains.
+She saw girlfriends and sisters deal with date rape and unwanted pregnancies. She knows pregnancies don't always go well. Greta lived through the polio epidemic. To her, vaccines are a miracle.
+
+Greta went to college to become a teacher. She has told us (several times) about her experience in teacher's college. She was in charge of at least one of the annual trips and we have seen the pictures, diary entries, and budget. Greta was quite the sparkplug, singing and dancing until early in the morning, then getting her fellow students up and in the buses for another day driving through the mountains.
 
 Eugene Ross returned from being stationed in the Chorwan Valley during the Korean War. He had a piece of shrapnel in his arm, but never talked about his experiences.
 
@@ -58,9 +60,11 @@ In response to the wedding announcement, we received a letter from Janell's aunt
 
 But then, there's Greta. She never brought this up. Never. Not once. She loved me for who I was. She overlooked my faith, my bad hygiene, my goofy dress code; so many things I regret as I age. She only saw the man her daughter loved and the potential I had as a son-in-law.
 
+She loves her gay nephew. She's seen men (and priests) misbehave and small town voices hush it up. Greta will tell you we are God's children and we are less than perfect, but we still deserve his love and if God loves us, then who are we to judge?
+
 ## **Fun-gi**
 
-Greta is an absolute hoot. She laughs at my jokes. When we visit she looks past Janell to see if I'm there. If I am, Janell is dismissed and I get the first hug. I've told Greta she is my favorite mother-in-law (she is my *only* mother-in-law) and she agrees that I am her favorite son-in-law. (The other son-in-law is aware of this but chooses to ignore my little insults).
+Greta laughs at my jokes. When we visit she looks past Janell to see if I'm there. If I am, Janell is dismissed and I get the first hug. I've told Greta she is my favorite mother-in-law (she is my *only* mother-in-law) and she agrees that I am her favorite son-in-law. (The other son-in-law is aware of this but chooses to ignore my little insults).
 
 My role in Greta's life is comedic relief--I'm the fun guy. With apologies to the family members who wrangle medications and bills and doctor visits, my job is to make Greta laugh. When Greta is feeling blue, I put on my walking shoes, leave my home in Portland, Oregon, and drive five days to Stevens Point, Wisconsin. I stay for a week, usually longer.
 
