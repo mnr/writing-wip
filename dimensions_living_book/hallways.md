@@ -48,7 +48,7 @@ I won't disclose how this would be accomplished. But if I were trying to curtail
 
 For art to be appreciated, you must spend time with it. Flipping through a coffee-table book about the Louvre will not reveal the wonder of the Mona Lisa. You must spend time looking at her eyes. You must see the delicate veil over her hair. Who else was in the studio? Why is she smiling?
 
-To appreciate the community I live with takes time. You can't wander through on a Sunday afternoon and hope to notice subtle details. You will walk by the artwork of the grouse and hunter but never see it. You might take a piece of candy, but which piece? And why? You'll never look up and notice the umbrella at the corner of California and Florida. If your aging parent bothers to explain this umbrella, you might dismiss the whole story as another symptom of an aging mind.
+To appreciate the community I live with takes time. You can't wander through on a Sunday afternoon and hope to notice subtle details. You will walk by the artwork of the grouse and hunter but never see it. You might take a piece of candy, but which piece? And why? You'll never look up and notice the umbrella at the corner of California and Florida. If your parent bothers to explain this umbrella, you might dismiss the whole story as another symptom of an aging mind.
 
 You can't just march in and expect the world to reveal itself at your demand. Instead, you must be patient and allow the hallway to unfold as it is ready. There are comfortable chairs--you should try one for a bit of time.
 

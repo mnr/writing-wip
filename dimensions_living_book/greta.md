@@ -1,6 +1,6 @@
 # Greta {.unnumbered}
 
-I've only been married once, so Greta is my *only* mother-in-law. It amuses me to tell her of this fact. Greta always laughs and give me a hug. She calls me "Marky."
+I've only been married once, so Greta is my *only* mother-in-law. It amuses me to tell her this. Greta always laughs and give me a hug. She calls me "Marky."
 
 Greta was born in 1934 and born in Marshfield, Wisconsin. She grew up on a farm (as did everyone in Wisconsin in 1930). Her father maintained a small dairy herd and opened a roadside tavern where she helped served roasted chicken and beer. Her dad served minors, although he was quick to tell these kids "you've had enough." He was also protective of Greta, reminding everyone to watch their language because there were women present. She loved her Dad; he would take her to town when he went there for business and buy her a treat. Her sister was jealous, and Greta told her Dad would take her as well - she just needed to ask. Apparently she never did.
 
@@ -8,7 +8,7 @@ Greta was one year old when the Social Security Act was passed. When she was six
 
 Greta has told us (several times) about her experience in teacher's college. She was in charge of at least one of the annual trips and we have seen the pictures, diary entries, and budget. Greta was quite the sparkplug, singing and dancing until early in the morning, then getting her fellow students up and in the busses for another day driving through the mountains.
 
-Eugene Ross returned from being stationed in the Chorwan Valley during the Korean War. He had a piece of shrapnel in his arm, but never talke about his experiences.
+Eugene Ross returned from being stationed in the Chorwan Valley during the Korean War. He had a piece of shrapnel in his arm, but never talked about his experiences.
 
 Greta married Gene after he came home from the Korean war and birthed five children in a small town in Wisconsin. She carried lunch down to his Citgo service station and did the banking for the business. She made dinner and thanked the Lord for such a good provider as Eugene Ross.
 
@@ -52,11 +52,17 @@ Greta and I had one particular conversation I remember. We were walking on the O
 
 ## Religion
 
-Janell grew up Catholic. I grew up Presbyterian (a liberal flavor of Protestant). When we married, we decided to do it in my childhood church, North Como Presbyterian Church in Roseville, Minnesota. We enlisted a Presbyterian minister and a Catholic Deacon to officiate.
+Janell grew up Catholic. I grew up Presbyterian (a liberal flavor of Protestant). We married at my childhood church, North Como Presbyterian in Roseville, Minnesota. We enlisted a Presbyterian minister and a Catholic Deacon to officiate.
 
-In response to the wedding announcement, we received a letter from Janell's aunt, who shared her disappointment that Janell was marrying outside the Catholic religion. I suppose she expected I would convert to Catholicism. The Catholic church, for their part, refused to allow me to participate in Catholic sacraments since I was a protestant outcast. My emotions have mellowed over the years, but I still clench my teeth when I recall the conversation with the Catholic Father who informed me I was *persona-non-grata* and would have to remain seated in the back row of the sanctuary. The internet provides pages of rationalization about why this is, but none of it dampens the sting of being told I'm less than perfect in God's eye. Fuck you, Catholic church.
+In response to the wedding announcement, we received a letter from Janell's aunt, who shared her disappointment that Janell was marrying outside the Catholic religion. I suppose she expected I would convert to Catholicism. The Catholic church, for their part, refused to allow me to participate in Catholic sacraments since I was a protestant outcast. My emotions have mellowed over the years, but I still clench my teeth when I recall the conversation with the Catholic Father at a pre-marriage encounter I attended with Janell. The Priest informed me I was *persona-non-grata* and would have to remain seated during the celebration of mass. The internet provides pages of rationalization about why this is, but none of it dampens the sting of being told I'm less than perfect in God's eye. Fuck you, Catholic church.
 
 But then, there's Greta. She never brought this up. Never. Not once. She loved me for who I was. She overlooked my faith, my bad hygiene, my goofy dress code; so many things I regret as I age. She only saw the man her daughter loved and the potential I had as a son-in-law.
+
+## **Fun-gi**
+
+Greta is an absolute hoot. She laughs at my jokes. When we visit she looks past Janell to see if I'm there. If I am, Janell is dismissed and I get the first hug. I've told Greta she is my favorite mother-in-law (she is my *only* mother-in-law) and she agrees that I am her favorite son-in-law. (The other son-in-law is aware of this but chooses to ignore my little insults).
+
+My role in Greta's life is comedic relief--I'm the fun guy. With apologies to the family members who wrangle medications and bills and doctor visits, my job is to make Greta laugh. When Greta is feeling blue, I put on my walking shoes, leave my home in Portland, Oregon, and drive five days to Stevens Point, Wisconsin. I stay for a week, usually longer.
 
 I'm not sure why I have a close relationship with Greta. We didn't survive a plane crash in the Alps, foraging for food together in the frozen mountains. She didn't donate one of her kidneys to save me from a terminal illness. I've never borrowed money from her. Perhaps once for ice cream. But still, when I see her, my heart sings.
 

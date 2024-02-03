@@ -4,21 +4,7 @@ For two months, I have been the youngest resident of my mother-in-law's senior c
 
 In contrast to my older friends at Dimensions Living, my knees still work, I do yoga balance poses without a chair, and I (occasionally) win at pickle ball. I eat and drink pretty much what I like and I stay up past 9:00 p.m. All of these disqualify me from living at Dimensions Assisted Living Facility.
 
-Yet, here I am. Let me explain why.
-
-## **Fun-gi**
-
-Greta, my mother-in-law, is an absolute hoot. She laughs at my jokes. When Janell (my wife and Greta's daughter) visits Dimensions Living, Greta looks past Janell to see if I'm also visiting. If I am, Janell is dismissed and I get the first hug. I've told Greta she is my favorite mother-in-law (she is my *only* mother-in-law) and she agrees that I am her favorite son-in-law. (The other son-in-law is aware of this but chooses to ignore my little insults).
-
-Greta is losing her sense of time as a linear experience. As she ages, her brain no longer files events in chronological sequence. Events in the past are classified as dreams, rather than "something I did yesterday afternoon." She knows this is happening, and it frightens her--it would frighten anyone.
-
-I understand. My father was an engineer and noticed his diminished ability to remember specifics. As a result, he stopped working on crossword puzzles. He was fearful one day he wouldn't grasp the concept of a matrix.
-
-So my role in Greta's life is comedic relief--I'm the fun guy. With apologies to the family members who wrangle medications and bills and doctor visits, my job is to make Greta laugh. When Greta is feeling blue, I put on my walking shoes, leave my home in Portland, Oregon, and drive five days to Stevens Point, Wisconsin. I stay for a week, usually longer.
-
-In this case, Greta is in rehab after a fall and is in hospice. Greta can't move out of rehab without full-time support. That's expensive.
-
-Janell and I are flexible with both our schedule and our place of residence. We have time and interest in working with Greta so arrive in Stevens Point with an open-ended commitment.
+Yet, here I am.
 
 ## **Housing**
 

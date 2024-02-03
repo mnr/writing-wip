@@ -26,9 +26,7 @@ The only wear and tear is a discolored area corresponding to the previous owner'
 
 It's easy to see how the chair cradled its owner; late night television supplying unwatched light and unheard sound. Every evening, both chair and owner rested peacefully until one morning when the owner did not greet the sunrise. Maintenance cleaned the apartment but nobody wanted the chair, so they hauled it downstairs. To the pile.
 
-Janell stores her bicycle next to mine and comes over to see what I am looking at. We stand before the chair, wondering how it came to be down here.
-
-Without any need for imagination, we see the ghost of the chair's owner. It stands behind the chair, one hand possessively stroking the head rest. The ghost, with the eternal desire of those who have moved on, whispers a sales pitch. It has an interest in the well being of this favorite chair.
+Janell stores her bicycle next to mine and comes over to see what I am looking at. Without any need for imagination, we see the ghost of the chair's owner. It stands behind the chair, one hand possessively stroking the head rest. The ghost, with the eternal desire of those who have moved on, whispers a sales pitch. It has an interest in the well-being of this favorite chair.
 
 "*It's mechanically perfect,*" says the ghost.
 

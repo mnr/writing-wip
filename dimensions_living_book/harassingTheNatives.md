@@ -1,8 +1,6 @@
 # Harassing The Natives {.unnumbered}
 
-Now that I'm a resident, I'm allowed to loiter in the hallways, and I frequently do so outside Greta's door, located on the main avenue between assisted living and the dining room. There is a lot of foot traffic. To my left, I see Gladice approaching, pushing her walker.
-
-I'm in a frivolous mood, and I summon my best impression of a construction-site hardhat at lunch. I call her out.
+Now that I'm a resident, I'm allowed to loiter in the hallways, and I frequently do so outside Greta's door, located on the main avenue between assisted living and the dining room. There is a lot of foot traffic. To my left, I see Gladice approaching, pushing her walker. I'm in a frivolous mood and I call her out.
 
 "Young lady," I bellow. "Do you have a hall pass? I think you should be in class, and if you don't have permission to be out here, you'll have to report to the principal's office!"
 

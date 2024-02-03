@@ -22,9 +22,11 @@ But they don't understand what happens in the larger house standing next to thei
 
 They get bored and wander off. They lack the context and vocabulary to understand electricity and its related wonders. They also don't possess the cognitive skills to understand the internet or world-wide web.
 
-I suspect I have the same relationship with God. He thinks I'm sweet, but oh-so-dumb. I find it necessary to describe "him" in terms of a human presence, complete with arms, legs, and emotions. "He" (she? it? them? they?) can't even explain how I am wrong because I don't have the cognitive skills.
+I suspect I have the same relationship with God. He thinks I'm sweet, but oh-so-dumb. I find it necessary to describe "him" in terms of a human presence, complete with arms, legs, and emotions. "He" (she? it? them? they?) can't explain to me how I am wrong because I don't have the cognitive skills.
 
 So I become distracted by flies and worms and erratically wonder how God works. But I know I will never attain cosmic wisdom.
+
+## God is a Bartender
 
 Instead of becoming overwhelmed with my inadequacies, I make something up. I choose to think of God as a good-natured fellow, with St. Peter as his trusty side-kick and administrative assistant.
 
@@ -96,7 +98,7 @@ This will be easy to solve. I disconnect the safety chains and pull the CR-V for
 
 Three feet of drama later, the trailer stops, but for no good reason. I run to the nearby woods to find a piece of wood small enough for me to lift and large enough to chock a 1,920 pound trailer. With a new appreciation for trailer behavior, I again jack up the tongue and successfully mount the hitch to the ball. I reattach the chains. And yes, I finally lock the trailer to the ball. I return to the freeway.
 
-*At this point, the entire population of blessed's are nearly falling off their stools with laughter. Even the murderer, forgiven for her sins but forevermore guilt-ridden, manages a chuckle. Perhaps there is redemption.*
+*The entire bar-full of blessed's are trying not to snort beer through their noses. Even the murderer, forgiven for her sins but forevermore guilt-ridden, manages a chuckle. Perhaps there is redemption.*
 
 ## Gas. Rain.
 

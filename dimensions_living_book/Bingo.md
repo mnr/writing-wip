@@ -222,6 +222,4 @@ Either way, I gain nothing by destroying the elated mood surrounding an evening 
 
 ## Getting Older
 
-My family played cards. The intent was to give your hands something to do while you talked. Games were a second act after family meals; we enjoyed hanging out together (most of the time) and we needed some sort of excuse to do so.
-
-Now I play bingo with my friends. Some of them are losing their memory and reasoning and physical dexterity. All of them are getting older. The best part of playing bingo is hanging out with each other during the short time we have.
+I play bingo with my friends. Some of them are losing their memory and reasoning and physical dexterity. All of them are getting older. The best part of playing bingo is hanging out with each other during the short time we have.

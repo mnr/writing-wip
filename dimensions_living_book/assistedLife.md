@@ -18,6 +18,14 @@ Bobbi shows up at Greta's door, knocks, and Greta lets her in. Virus be dammed.
 
 I am not making this up. The Dimensions Living marketing director will attest to the fact of finding Greta and Bobbi in the staircase, drinking a clandestine beer. She asked them why they were sneaking around and got the full story. By the way, independent residents can do anything they damn well please, as long as it doesn't scare the staff. Drinking beer in the staircase, or their room, or the common spaces is allowed. But it's much more fun if it's not.
 
+## Changes
+
+Greta is losing her sense of time as a linear experience. As she ages, her brain no longer files events in chronological sequence. Events in the past are classified as dreams, rather than "something I did yesterday afternoon." She knows this is happening, and it frightens her--it would frighten anyone.
+
+I understand. My father was an engineer and noticed his diminished ability to remember specifics. As a result, he stopped working on crossword puzzles. He was fearful one day he wouldn't grasp the concept of a matrix.
+
+Greta is facing a transition.
+
 ## Independent. Assisted. Memory.
 
 There is a standard progression of events in a senior living facility. First is independent living; a standard apartment. Independent living comes with housekeeping, maintenance, a meal plan, free bus transportation, and a watchful staff. It's a bit pricey, but only if you don't consider the value of a full support staff.
