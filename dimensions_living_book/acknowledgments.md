@@ -1,11 +1,13 @@
 # Acknowledgments {.unnumbered}
 
-**Siblings:** Bob Ross, Connie Ross, Kathleen Rusovick
+**Siblings:** Bob Ross, Kathleen Rusovick. Connie - thanks for the edits
 
 **In Laws:** Lisa Ross, Mike Rusovick
 
-Jon Gehrke
+Jon Gehrke and Sharon Baumer and Ruby
 
-Staff of Dimensions Living
+Staff of Dimensions Living (be specific)
+
+**Readers and Editors**: Robin Rolfe
 
 Janell Niemann-Ross
