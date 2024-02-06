@@ -20,11 +20,25 @@ I sit on the couch and place my water on the side table. "Couldn't sleep," I say
 
 "But you're in Stevens Point."
 
-"Some of me is. Some of me isn't. Think of it like conservation of mass. I don't cease to exist, I just fade from one place and show up somewhere else. Tonight I'm here. You'll be happier if you don't try to puzzle it out."
+"Some of me is. Some of me isn't. Think of it like conservation of mass. The parts of me you don't see in Stevens Point don't cease to exist, they just fade from one place and show up somewhere else."
+
+"What's it like?"
+
+"What's what like?"
+
+"Death. Heaven. The afterlife?"
+
+"I don't know," says Greta. "Ask me after I'm dead. But even then I won't be able to tell you much."
+
+"Because you signed an NDA?"
+
+"No," Greta laughs. "Because these spoken words don't have what it takes to describe it. What happens after you die is so much more complex and wonderful than you can understand. It's kind of like talking to chickens, right? You'll be happier if you don't try to puzzle it out."
+
+I pause, take a drink of water. What do you ask a ghost, or whatever it is I am talking to? How to get rich? How to be all-powerful? Where did I misplace my keys?
 
 "Do you see Gene?"
 
-"Sure. He's my soulmate. *Always* has been, *always* will be. I know you're thinking as man and woman - but that's just a convenient thing you use to understand how this works. Kind of like your chickens."
+"Sure. He's my soul mate. *Always* has been, *always* will be. Of course, 'Gene' isn't just a man at a gas station; that was just a fling. Next time, we're coming back as a pair of trees in a forest. But that has to wait until I'm free to pursue other interests."
 
 ...
 
