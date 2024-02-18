@@ -1,14 +1,14 @@
 # Greta Visits {.unnumbered}
 
-I wake up at two o'clock in the morning. If I open my eyes, I'll admit I'm awake and can't go back to sleep. Janell is ~~gently~~ snoring next to me, which she'll do for another half-hour. I leave her alone to her dreams.
+I wake up at two o'clock in the morning. If I open my eyes, I'll admit I'm awake and can't go back to sleep. Janell is ~~gently~~ snoring next to me, which she'll do for another half-hour before she returns to deep sleep. I leave her alone to her dreams.
 
-I know it's two in the morning because I heard my father's clock chiming the hour. It's a Seth-Thomas Ogee, built between 1842 and 1913. It has two weights; one for the clock and one for the chime, and it rings out each hour. No fancy westminster chimes; just once for one-o'clock, two for two-o'clock. The clockworks are in plain sight when I open the glass front to wind it up.
+I know it's two in the morning because I heard my father's clock chiming the hour. It's a Seth-Thomas Ogee, built between 1842 and 1913. It has two weights; one for the clock and one for the chime, and it rings out each hour. No fancy Westminster chimes; just once for one-o'clock, two for two-o'clock. The clockworks are in plain sight when I open the glass front to wind it up.
 
-I also received a clock from my mother. It is much more ornate and the chime is louder and more melodious. It's clockworks are hidden inside the case and when it rings the hour, it is much more demanding of attention and keeps everyone awake. We don't wind the alarm anymore but I can hear it tick-tock all the way downstairs. My mother always had a habit of waiting up late at night for me to come home from a night of youthful disobedience.
+I also received a clock from my mother. It is much more ornate and the chime is louder and more melodious. It's clockworks are hidden inside the case and when it rings the hour, it is much more demanding of attention and keeps everyone awake. We don't wind the alarm anymore but I can hear it tick-tock all the way downstairs. My mother waited up late at night for me to come home from a night of youthful disobedience, her clock has the same late-night presence.
 
-My eyes are open, so I get up. I fiddle with email for a moment, then go downstairs for a snack. I keep a jar of pickled spicy brussels sprouts for this sort of thing. Janell hates brussels sprouts, so I enjoy the treat without feeling like I need to save some for her.
+I fiddle with email for a moment, then go downstairs for a snack. I keep a jar of pickled Brussels sprouts for this sort of thing. Janell hates Brussels sprouts, so I enjoy the treat without feeling the need to save some for her.
 
-I grab a glass of water and head back to the stairs, passing the living room. I glance over, and see Greta sitting in the red chair. Both her and the chair seem to be content.
+I pour a glass of water and head back to the stairs, passing the living room. I glance over, and see Greta sitting in the red chair. Both her and the chair seem to be content.
 
 My rational self knows Greta is 1,945 miles to the east, sleeping in her bed at Dimensions Living. She isn't here, just as the red chair doesn't manifest ghosts.
 
@@ -20,27 +20,45 @@ I sit on the couch and place my water on the side table. "Couldn't sleep," I say
 
 "But you're in Stevens Point."
 
-"Some of me is. Some of me isn't. Think of it like conservation of mass. The parts of me you don't see in Stevens Point don't cease to exist, they just fade from one place and show up somewhere else."
+"Some of me is. Some of me isn't. The parts of me you don't see in Stevens Point don't cease to exist, they just fade from one place and show up somewhere else."
 
-"What's it like?"
+I try to remember our conversations in her home where I first met her. She loved to play cribbage, so like a good host, I get a deck of cards and a cribbage board. I'm not very good at cribbage, but Greta is always patient. She used to always win, but lately, she has a hard time remembering how the game is played.
 
-"What's what like?"
+"Cribbage?" I ask. I pull up a small table, put out the board and deal the cards.
 
-"Death. Heaven. The afterlife?"
+"I thought you didn't play cribbage?" she asks.
 
-"I don't know," says Greta. "Ask me after I'm dead. But even then I won't be able to tell you much."
+"You taught me. I play on special occasions."
 
-"Because you signed an NDA?"
+"I'd love to," Greta responds. "But you're going to have to help me with cards. My hands don't hold things very well. I guess that's one of the things still in Stevens Point."
 
-"No," Greta laughs. "Because these spoken words don't have what it takes to describe it. What happens after you die is so much more complex and wonderful than you can understand. It's kind of like talking to chickens, right? You'll be happier if you don't try to puzzle it out."
+I spread the cards out and Greta points at one of them. I turn it over; a four of hearts. I draw an ace of diamonds, so I get the first crib. I deal six cards to each of us and put two cards in my crib. Greta points at two cards and I place them in the crib as well. The cut reveals a two of diamonds. Greta points at a card in her hand on the table; I turn it over. It's a nine of clubs.
 
-I pause, take a drink of water. What do you ask a ghost, or whatever it is I am talking to? How to get rich? How to be all-powerful? Where did I misplace my keys?
+I play a two of spades. She plays a three of hearts. I play an ace. For that, I get 2 points for fifteen, three points for a run. I'm feeling cocky until Greta plays a second ace for two points. We play out the cards, count out the pairs, I count crib. She plays confidently, I sputter along, trying not to make a mistake. The round ends with Greta at 10 points, I'm at fourteen. I remind myself not to get cocky.
+
+"What's it like?" I ask. I deal for Greta, cut the deck.
+
+"What's what like?" She points to cards and tells me to add them to her crib.
+
+"Death. Heaven. The afterlife?" I play the four of hearts.
+
+"I don't know," says Greta. "Ask me after I'm dead. But even then I won't be able to tell you much." She plays the four of diamonds for two points.
+
+"Because you signed an NDA?" I play the four of spades for six points.
+
+"No," Greta laughs. "Because these spoken words don't have what it takes to describe it. What happens after you die is so much more complex and wonderful than you can understand. Explaining it is kind of like talking to chickens, right? You'll be happier if you don't try to puzzle it out."
+
+The round ends with Greta at twenty-eight, I have twenty-three. I pause, take a drink of water. What do you ask a ghost, or whatever it is I am talking to? How to get rich? How to be all-powerful? Where did I misplace my keys?
 
 "Do you see Gene?"
 
-"Sure. He's my soul mate. *Always* has been, *always* will be. Of course, 'Gene' isn't just a man at a gas station; that was just a fling. Next time, we're coming back as a pair of trees in a forest. But that has to wait until I'm free to pursue other interests."
+"Sure. He's my soul mate. *Always* has been, *always* will be. Of course, 'Gene' isn't just a man at a gas station, returning to the same thing over and over. Next time, we're coming back as a pair of trees in a forest. But that has to wait until I'm free to pursue other interests."
 
-...
+I deal, we put cards in the crib. Greta plays the eight of clubs.
+
+\[03:11\]
+
+...\[working on this\]
 
 "Is Janell coming down?"
 
