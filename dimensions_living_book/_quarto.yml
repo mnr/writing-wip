@@ -27,6 +27,7 @@ book:
     - goodbyeToDimensions.md
     - gretalastchapter.md
     - acknowledgments.md
+    - aboutMNR.md
 
 format:
   html:
