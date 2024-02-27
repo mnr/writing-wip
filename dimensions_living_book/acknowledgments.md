@@ -4,7 +4,7 @@
 
 **In Laws:** Lisa Ross, Mike Rusovick
 
-Jon Gehrke and Sharon Baumer and Ruby
+**Barn Supplied By:** Jon Gehrke and Sharon Baumer and Ruby
 
 Staff of Dimensions Living (be specific)
 
