@@ -12,7 +12,17 @@ Greta went to college to become a teacher. She has told us (several times) about
 
 Eugene Ross returned from being stationed in the Chorwan Valley during the Korean War. He had a piece of shrapnel in his arm, but never talked about his experiences.
 
-Greta married Gene after he came home from the Korean war and birthed five children in a small town in Wisconsin. She carried lunch down to his Citgo service station and did the banking for the business. She made dinner and thanked the Lord for such a good provider as Eugene Ross.
+Greta married Gene after he came home from the Korean war and birthed five children in Neillsville, Wisconsin. In 1950, the population was 2,663 people. In 2020 the population was at 2,384. Not much has changed in seventy years.
+
+I knew nothing about Neillsville until I went there with my girlfriend, Janell. We drove into town and I started laughing.
+
+"What's so funny?" asks Janell.
+
+"Ely is bigger than this. We're in the sticks," I replied. Ely, Minnesota is a small town on the border of the Boundary Waters Canoe Area. I grew up in St. Paul, Minnesota and had a decidedly superior attitude about the sophistication of cities as a function of their population.
+
+"Neillsville is where I grew up," Janell informed me. Her tone was frosty. I decided it was best to keep my thoughts on sophistication vs population to myself. It was not a topic to pursue if I was hoping to get lucky.
+
+Greta carried lunch down to Gene's Citgo service station and did the banking for the business. She made dinner and thanked the Lord for such a good provider as Eugene Ross. They purchased a four-bedroom, one bathroom house with 1,800 square feet of floor space for a rambunctious family.
 
 Her children, like all children, tested her limits. Her middle son memorized joke books and would repeat them, rapid-fire, at the dinner table. When the kids were laughing, choking, and spitting up milk from their noses, Gene sent them to the basement. I like to think Gene and Greta would sit at the quiet table, trying to keep an air of somber wisdom, but eventually smirking and then breaking out in snorts. Parental decorum *must* be maintained.
 
