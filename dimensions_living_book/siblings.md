@@ -1,8 +1,8 @@
 # The Siblings {.unnumbered}
 
-Greta and Gene raised five children: three girls, two boys. There were more conceived, but these ended in miscarriages and Gene and Greta picked up the pieces and moved on.
+Greta and Gene raised five children: three girls, two boys. There were more conceived, but these ended in miscarriages. Gene and Greta picked up the pieces and moved on.
 
-I'm told I had an additional older sister. There were complications, and a doctor told my parents they were done having children. I'd like to meet this doctor and review his methodology, general knowledge, and conclusions.
+I'm told I had an additional older sister besides the two I grew up with. There were complications, and a doctor told my parents they were done having children. In spite of what he told them, I'm here. I'd like to meet this doctor and review his methodology, general knowledge, and conclusions.
 
 Janell and I have two children, both of whom were enthusiastically welcomed. At one point in our early lives, we were traveling for several months. Janell's period was late, so we went to a Seattle planned parenthood for a pregnancy test. Apparently this was before the day of a drugstore pee-on-a-stick.
 
@@ -10,7 +10,7 @@ Janell provided whatever fluids the clinic requested, then we sat in the waiting
 
 "Janell, you can come in now," the nurse said. "First door on your right."
 
-We walked in, closed the door, sat down. Again, I can't remember our conversation while we waited. But I do remember the excitement. Our approach to travel is dealing with the unexpected and finding the enjoyment of the moment. This was another unexpected event; we would find the enjoyable path through.
+We walked in, closed the door, sat down. Again, I can't remember our conversation while we waited. But I do remember the excitement. When we travel, we deal with the unexpected and find the enjoyment of the moment. This was another unexpected event; we would find the enjoyable path through.
 
 There was a small knock at the door and a woman in a lab coat enters, accompanied by the nurse. She has a piece of paper. This part of my memory plays out like a reality show reveal, where there is a dramatic statement ("And this week's star baker is...") followed by reaction shots of several faces, followed by the verdict ("...MARSHA!")
 
@@ -26,7 +26,7 @@ Janell and I express disappointment. We were ready for an adventure. We were rea
 
 We held hands and walked out the door. I'm not sure we told our travel friends.
 
-Janell and I have never experienced a miscarriage in our personal lives. Janell, as a midwife, has experienced many, as well as the heartbreak of fetal demise. I'm part of Janell's support network, so I vicariously experienced her grief.
+Janell and I have never experienced a miscarriage in our personal lives. Janell, as a midwife, has experienced many, as well as the heartbreak of fetal demise. I'm part of Janell's support network, so I vicariously experience her grief.
 
 I believe Greta loves her five children with the extra capacity of those two miscarriages. Gene was a quiet man, but I know he did as well. I saw him demonstrate this love in quiet ways.
 

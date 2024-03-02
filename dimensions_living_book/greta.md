@@ -2,25 +2,33 @@
 
 I've only been married once, so Greta is my *only* mother-in-law. It amuses me to tell her this. Greta always laughs and give me a hug. She calls me "Marky."
 
+I've known Greta for forty years and she likes to tell me stories about growing up. When we are hanging out together, I'll fix her a Wisconsin Old Fashioned (Brandy and 7-up with an orange slice and a bright-red maraschino cherry) and ask her questions. She'll repeat stories she has told me before, but then I ask her deeper questions.
+
+"Oh, you are really picking my brain now," she says. She looks into the forty years before we met, then comes back. I know that's a sign I'm going to hear something new and always unexpected.
+
 Greta was born in 1934 in Marshfield, Wisconsin. She grew up on a farm (as did everyone in Wisconsin in 1930). Her father maintained a small dairy herd and opened a roadside tavern where she helped served roasted chicken and beer. Her dad served minors, although he was quick to tell these kids "you've had enough" and made it clear drinking was not an opportunity to harass his daughters.
 
-She loved her Dad; he would take her to town when he went there for business and buy her a treat. Her sister was jealous, and Greta told her that Dad would take her as well - she just needed to ask. Apparently she never did.
+She loved her Dad; he would take her to town when he went for business and buy her a treat. Her sister was jealous, and Greta told her that Dad would take her as well - she just needed to ask. Apparently she never did.
 
 She saw girlfriends and sisters deal with date rape and unwanted pregnancies. She knows pregnancies don't always go well. Greta lived through the polio epidemic. To her, vaccines are a miracle.
 
-Greta went to college to become a teacher. She has told us (several times) about her experience in teacher's college. She was in charge of at least one of the annual trips and we have seen the pictures, diary entries, and budget. Greta was quite the sparkplug, singing and dancing until early in the morning, then getting her fellow students up and in the buses for another day driving through the mountains.
+Greta went to college to become a teacher. She has told us (several times) about her experience in teacher's college. She was in charge of at least one of the annual trips and we have seen the pictures, diary entries, and budget. Greta was quite the spark plug, singing and dancing until early in the morning, then getting her fellow students up and in the buses for another day driving through the mountains.
 
-Gene and Greta first met at the dance hall in Dorchester, Wisconsin in 1951 and kept in touch while Gene was stationed in the Chorwan Valley of Korea. He returned after fifteen months and never talked about the shrapnel in his arm.
+Greta first met Gene Ross at the dance hall in Dorchester, Wisconsin in 1951. They kept in touch while Gene was stationed in the Chorwan Valley of Korea. I'm not privileged enough to have read any of their letters, but I have seen the newspaper clippings and service papers saved by Gene's mother. I only knew Gene as a quiet and steady man; it's difficult to imagine him firing a 105 mm howitzer or placing 24 M16 rockets into a T66 launcher. He returned after fifteen months and never talked about the shrapnel in his arm.
 
 Greta married Gene in 1956 and birthed five children in Neillsville, Wisconsin. In 1950, the population was 2,663 people. In 2020 the population was at 2,384. Not much has changed in seventy years.
 
-Greta carried lunch down to Gene's Citgo service station and did the banking for the business. She made dinner and thanked the Lord for such a good provider as Eugene Ross. They purchased a four-bedroom, two bath house with 1,800 square feet of floor space for a rambunctious family. Upstairs were two bedrooms; boys on the left, girls on the right. Gene and Greta had a bedroom downstairs, the fourth bedroom was Gene's office.
+Greta carried lunch down to Gene's Citgo service station and did the banking for the business. They purchased a four-bedroom, two bath house with 1,800 square feet of floor space for a rambunctious family. Upstairs were two bedrooms; boys on the left, girls on the right. Gene and Greta had a bedroom downstairs, the fourth bedroom was Gene's office.
 
 Her children, like all children, tested her limits. Her middle son memorized joke books and would repeat them, rapid-fire, at the dinner table. When the kids were laughing, choking, and spitting up milk from their noses, Gene sent them to the basement. I like to think Gene and Greta would sit at the quiet table, trying to keep an air of somber wisdom, but eventually smirking and then breaking out in snorts. Parental decorum *must* be maintained.
 
-One daughter was famous for climbing down from her second-floor bedroom via the antenna mast next to the house. She was sneaking out for parties. She had to avoid the nearby kitchen window, especially if anyone was doing late night dishes. Once, upon her return, she was halfway up the mast when a passing car caught her in its headlights.
+One daughter was famous for sneaking out from her second-floor bedroom by climbing down the antenna mast next to the house. She had to avoid the nearby kitchen window, especially if anyone was doing late night dishes. Once, upon her return, she was halfway up the mast when a passing car caught her in its headlights.
 
 One son collected beer cans. A *lot* of beer cans; empty ones. *Who emptied all those beer cans?*
+
+This family of seven traveled extensively: Ohio, Michigan, South Dakota, Florida, the Spokane World Fair, Idaho, Colorado, the Apostle Islands in Lake Superior, New York City, Colorado and more. The chariot was a 1971 Ford Country Squire with wood-like side panels. Enough room for everyone, but I've heard there were fights anyways.
+
+Janell tells me she ignored several of the scenic overlooks in favor of reading steamy stories in the back of *RedBook* magazine and learning how to kiss boys. In contrast, I was reading *Boy's Life,* learning how to start fires and run away from bears. This explains a lot about the early years of our marriage.
 
 ## Greta has no trust issues
 
@@ -50,11 +58,11 @@ I knew nothing about Neillsville until I went there with Janell. We drove into t
 
 "What's so funny?" asked Janell.
 
-"Ely is bigger than this. We're in the sticks," I replied. Ely, Minnesota is a small town on the border of the Boundary Waters Canoe Area; I spent my summers as a canoe guide at a camp just outside of Ely. When I wasn't goofing around in the north woods, I lived in St. Paul, Minnesota and had a decidedly superior attitude about the sophistication of cities as a function of their population.
+"Ely is bigger than this. We're in the sticks," I replied. Ely, Minnesota is a small town on the border of the Boundary Waters Canoe Area; I spent my summers as a canoe guide at a camp nearby. When I wasn't goofing around in the north woods, I lived in St. Paul, Minnesota and had a decidedly superior attitude about the sophistication of cities as a function of their population.
 
 "Neillsville is where I grew up," Janell informed me. Her tone was frosty. I decided it was best to keep my thoughts on sophistication vs population to myself. It was not a topic to pursue if I was hoping to get lucky.
 
-We entered town on highway 10 through downtown, took a left at highway 73, crossed the rivver
+We entered town on highway 10 through downtown, took a left at highway 73, drove through a dying downtown and crossed O'Neill Creek. From there, it's a short drive to the family home and double-car garage. We pulled up in the driveway and honked.
 
 I stand about six-foot, two-inches tall; the tallest of all the Niemann kids. My dad had the nickname of "shorty," which I originally thought was because of his height, but later learned it was due to his haircut. I am genetically like my grandfather, Louie, who stood 6-foot-6 and towered over Ella, his five-foot-and-a-little-bit-short wife.
 
@@ -62,15 +70,15 @@ Greta is about five-foot-nothing and barely comes up to my shoulder. When I firs
 
 Janell and I married, had kids, moved from the Midwest to Wyoming, then Colorado, then Portland, Oregon. Gene died shortly after we moved into our Portland home. Greta kept showing up. We have a spare bedroom and she loves to clean house. I told her several times she should move to Portland. She laughed and turned us down each time. I wasn't kidding.
 
-Greta and I had one particular conversation I remember. We were walking on the Oregon coast, just the two of us. We got to talking about abortion and her Catholic faith. I'm Presbyterian, but she never held that against me. I was explaining my stance on abortion, expressing my belief abortion was a medical issue and was a decision between a woman and her doctor. The church she belongs to was unwavering in the belief that abortion was wrong. But we had an open and respectful discussion about the issue, she gracefully accepted my thoughts, which gave me encouragement to accept hers.
+Greta and I had one particular conversation I remember. We were walking on the Oregon coast, just the two of us. We got to talking about abortion and her Catholic faith. I'm Presbyterian (a liberal flavor of Protestant), but she never held that against me. I was explaining my stance on abortion, expressing my belief abortion was a medical issue and was a decision between a woman and her doctor. The church she belongs to was unwavering in the belief that abortion was wrong. But we had an open and respectful discussion about the issue, she gracefully accepted my thoughts, which gave me encouragement to accept hers.
 
 ## Religion
 
-Janell grew up Catholic. I grew up Presbyterian (a liberal flavor of Protestant). We married at my childhood church, North Como Presbyterian in Roseville, Minnesota. We enlisted a Presbyterian minister and a Catholic Deacon to officiate.
+Janell grew up Catholic. We married at my childhood church, North Como Presbyterian in Roseville, Minnesota. To cover all of our theological bases, we enlisted a Presbyterian minister and a Catholic Deacon to officiate.
 
 In response to the wedding announcement, we received a letter from Janell's aunt, who shared her disappointment that Janell was marrying outside the Catholic religion. I suppose she expected I would convert to Catholicism. The Catholic church, for their part, refused to allow me to participate in Catholic sacraments since I was a protestant outcast. My emotions have mellowed over the years, but I still clench my teeth when I recall the conversation with the Catholic Father at a pre-marriage encounter I attended with Janell. The Priest informed me I was *persona-non-grata* and would have to remain seated during the celebration of mass. The internet provides pages of rationalization about why this is, but none of it dampens the sting of being told I'm less than perfect in God's eye. Fuck you, Catholic church.
 
-But then, there's Greta. She never brought this up. Never. Not once. She loved me for who I was. She overlooked my faith, my bad hygiene, my goofy dress code; so many things I regret as I age. She only saw the man her daughter loved and the potential I had as a son-in-law.
+But then, there's Greta. She never brought this up. Never. Not once. She loved me for who I was. She overlooked my faith, my bad hygiene, my goofy dress code. She only saw the man her daughter loved and the potential I had as a son-in-law.
 
 She loves her gay nephew. She's seen men (and priests) misbehave and small town voices hush it up. Greta will tell you we are God's children and we are less than perfect, but we still deserve his love and if God loves us, then who are we to judge?
 
