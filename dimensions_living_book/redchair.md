@@ -8,7 +8,7 @@ Some are transitory and mysterious: your sense of being watched, strange sounds 
 
 Some are the pressure of things we leave behind: clothing, fishing rods, photos, cremation ashes, toothbrushes, Facebook accounts, furniture.
 
-I have an echo in my living room.
+I have a ghostly echo in my living room.
 
 ## The Pile
 
@@ -64,7 +64,7 @@ But how?
 
 In the corner of our apartment stand the ghost and the chair, looking at us with hopeful eyes.
 
-Jon, my college roommate, lives nearby. He collects old cars and stray dogs. Actually, his wife collects dogs, Jon just collects cars. Dogs and old cars are alike except maintenance of the dogs is a fraction of that of the cars. Jon enters this story with an important asset: he owns a barn.
+Jon, my college roommate, lives nearby. He collects old cars and stray dogs. Actually, his wife collects dogs, Jon collects cars. Dogs and old cars are alike except maintenance of the dogs is a fraction of that of the cars. Jon enters this story with an important asset: he owns a barn.
 
 I wrap the chair in plastic and load it into my car, then show up at Jon's with the chair and a six-pack of beer. I leave with neither. I assure him I will return in a month to retrieve the chair and transport it to my home in Portland. Jon has experienced many years of my unpredictable antics, but agrees to cooperate. Problem solved!
 
@@ -74,23 +74,23 @@ Only...there are four depressions in the carpet where it stood. An echo.
 
 ## An Unintended Return
 
-Three weeks later Jon invites us to his home of rambunctious dogs and slumbering cars. Also attending is a frolic of former college roommates. Beer is consumed and old stories are embellished. Sometime between our arrival and the departure of common sense, we decide to move a truck topper from an unmowed patch to an unkempt room in the barn. We perform this like pallbearers carrying a coffin to a grave. It's probable this topper won't travel from this resting place for many years---normal for objects in a barn.
+Three weeks later Jon invites us to his home of rambunctious dogs and slumbering cars. Also attending is a frolic of former college roommates. Beer is consumed and old stories are embellished. Sometime between our arrival and the departure of common sense, we decide to move a truck topper from an unmowed patch to an unkempt room in the barn. We perform this like pallbearers carrying a coffin to a grave. It's probable this topper won't move from this resting place for many years---normal for objects in a barn.
 
 Janell doesn't take part in the transport, but she observes the final placement of the topper; It is within eyesight of the chair.
 
-Janell was not pleased about moving the chair to Jon's barn. This was my doing and she unwillingly allowed it to happen. But it is clear she sides with the ghost and the chair, making it three-to-one in favor of the chair residing in front of the television in our room, rather than supplying a resting and spawning facility for mice and pigeons in the barn.
+Janell was not pleased about moving the chair to Jon's barn. This was my doing and she unwillingly allowed it to happen. But it is clear she sides with the ghost and the chair, making it three-to-one in favor of the chair residing in front of the television in our room, rather than supplying a spawning facility for mice and pigeons.
 
 I finish with the truck topper and turn to see the ghost and Janell considering the chair.
 
 "I'm getting the car," they say. Janell is the vocal member of the triad, so she speaks in the singular. "We're loading this up and taking it back." I'm unclear who is the "we" in this sentence, but it will include me as part of the lift team. I am also included in the unload team, the dolly team, and the elevator team.
 
-The return of this chair means we must banish Housekeeping. We need to scrub our own toilet and vacuum our own carpet. It is a slight inconvenience considering the feelings of the chair and the pleasure of employing it as a comfort station for evening television.
+The return of this chair means we must banish Housekeeping. We scrub our own toilet and vacuum our own carpet. It is a slight inconvenience considering the feelings of the chair and the pleasure of employing it as a comfort station for evening television.
 
 ## New Home, Same Skill
 
-At the end of our stay at Dimensions Living, we transport the chair 1,945 miles to our home in Portland, Oregon. The chair is a good traveler: doesn't require bathroom breaks, doesn't shed or bark, will listen to whatever music or audiobook we choose, and doesn't cost extra when we stop at hotels. Positioned in our living room, the chair fulfills its purpose with pleasure, wrapping itself around anyone willing to pause long enough for a pre-bedtime nap.
+At the end of our stay at Dimensions Living, we transport the chair 1,945 miles to our home in Portland, Oregon. The chair is a good traveler: doesn't require bathroom breaks, doesn't shed or bark, will listen to whatever music or audiobook we choose, and doesn't pee on the carpet when we stop at hotels. Positioned in our living room, the chair fulfills its purpose with pleasure, wrapping itself around anyone willing to pause long enough for a pre-bedtime nap.
 
-My younger son, Aaron, came for a visit the other day. He had already heard the rumor of the red chair and the history of bedbugs. He experienced his own bedbug episode which resulted in the dumpsterizing of his leather overstuffed lounger.
+My younger son, Aaron, came for a visit the other day. He already heard the rumor of the red chair and the history of bedbugs. He experienced his own bedbug episode which resulted in the dumpsterizing of his leather overstuffed lounger.
 
 Aaron regards the red chair much the same way you might regard a road-kill deer dragged into the house.
 
@@ -104,6 +104,6 @@ Aaron isn't convinced, and his posture doesn't change. The chair looks from Aaro
 
 ## Ghosts
 
-Janell and I are considering downsizing to a smaller house. We don't need furniture for two guest rooms; we don't need a table to seat eight; we don't want a lawnmower, and we don't need a couch and four lounge chairs to watch television. But I'm certain we will still need a red chair. I'm uncertain we have a voice in the decision. The chair is with us until we find it a new home to the ghost's liking. Until then, the chair is in our living room.
+Janell and I are considering downsizing to a smaller house. We don't need furniture for two guest rooms. We don't need a table to seat eight. We don't want a lawnmower, and we don't need a couch and four lounge chairs to watch television. But I'm certain we will still need a red chair. I'm uncertain we have a voice in the decision. The chair is with us until we find it a new home to the ghost's liking. Until then, the chair is in our living room.
 
 I take great comfort knowing a chair can have a spiritual guardian. If something as insignificant as a mass-produced piece of furniture is cared for, then what about me? Or you? I can only hope for such an advocate when I have bedbugs and become destined for disposal.
