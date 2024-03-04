@@ -208,7 +208,7 @@ We're all pretty sure James cheats. He wins *a lot*---at least, more than he sho
 
 Here's the trick; In his mind, he combines these two cards into one, doubling his chances of a matching number. When he calls bingo and reads back his numbers, he may be reading the first number from the first card, then the second number from the *second* card, the third number from first (or second) card, and so-on.
 
-I have two considerations about this. First, James is demonstrating advanced math skills by converting from a two-dimensional matrix to a three-dimensional array. That's impressive stuff and I'm loath to call him on his adept transformations. I'm curious if he would find three-dimensional chess interesting? Imagine two stacked chessboards, allowing moves up and down, as well as left and right. For that matter, imagine eight levels, converting the playing field from a grid to a cube.
+I have two considerations about this. First, James is demonstrating advanced math skills by converting from a two-dimensional matrix to a three-dimensional array. That's impressive stuff and I'm loath to call him on his adept transformations.
 
 Second, James may not realize he's cheating. Our brains are masters of rerouting around malfunctioning synapses. James may simply be adapting to a brain injury sustained on a Naval destroyer or Army tank. I find it unappreciative to dismiss this level of error-correction as simple cheating.
 
