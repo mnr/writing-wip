@@ -36,6 +36,8 @@ As Greta ages, I see her move from verbal to visual thinking. She doesn't analyz
 
 Chasing after her to correct the mistake would point out her lapse in memory and humiliate and annoy her. Better to wait until she appears in the lobby, then passively steer her to a known location.
 
-Those of us working with a fully functional brain recognize and remember things like room numbers and hallway directions. Greta doesn't have that verbal thinking anymore. Honestly, I think it's a boring way to look at the world. I would find it much more appealing to navigate via whimsical visuals. Maybe it's a sign of my own impending change to visual thinking.
+Those of us working with a fully functional brain recognize and remember things like room numbers and hallway directions. Greta doesn't have that verbal thinking anymore. Honestly, I think it's a boring way to look at the world and I would find it much more appealing to navigate via whimsical visuals.
+
+Maybe it's a sign of my own impending change to visual thinking.
 
 ## 
