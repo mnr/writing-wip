@@ -8,9 +8,9 @@ Greta and Janell laugh; I try to maintain a sense of proper son-in-law decorum. 
 
 ## Eloping
 
-Greta improved from struggling out of bed to walking around the parking lot. Buoyed by success, I decided to enlarge our territory. Greta and I walk to the end of the sidewalk and instead of turning left to circumscribe the parking lot, we turn right towards the garden center on the next block. It's an ambitious goal, but I'm confident she will make it. If not, she can sit on her walker and I can push her home.
+When we first arrived, Greta was in hospice and could not get out of bed without prodding. She has remarkedly improved to walking around the parking lot. Buoyed by success, I decided to enlarge our territory. Greta and I walk to the end of the sidewalk and instead of turning left at the property boundaries, we turn right towards the garden center on the next block. It's an ambitious goal, but I'm confident she will make it. If not, she can sit on her walker and I can push her home.
 
-She struggles with the distance, but makes it. We are rewarded with a stroll through the nursery, and she mentions some of the vegetables she'd like to plant this next year.
+She struggles with the distance, but makes it. We are rewarded with a stroll through the nursery, and she mentions some of the vegetables she'd like to plant this next year. I conveniently neglect to remind her she no longer has a garden.
 
 This all seems like a great achievement until I am called into the ~~principal's~~ administration office the next day.
 
@@ -22,11 +22,11 @@ This all seems like a great achievement until I am called into the ~~principal's
 
 Again I am being told to *straighten up, buster*. Nicely, but the message is clear.
 
-When residents wander off-property, this is called "eloping." It is different from the high-school ill-advised marriage activity. Like marriage eloping, participants sometimes get lost and sometimes get in trouble. Families become upset and take legal action. That's bad. I shouldn't be teaching Greta to do this.
+When residents wander off-property, this is called "eloping." It is different from the high-school ill-advised marriage activity. Like marriage eloping, participants sometimes get lost and sometimes get in trouble. Families become upset and take legal action. That's bad. I shouldn't be teaching Greta to wander.
 
 ## Late Nights
 
-Greta has been wandering the halls of Dimensions Living. Normally not a problem -- I wander the halls as well. The difference between Greta and me is that Greta shouts "HELP. WHERE IS EVERYBODY?" The staff helps her get back to her room and safely back in bed.
+Greta has been pacing the halls of Dimensions Living. Normally not a problem -- I lurk around the halls as well. The difference between Greta and me is that Greta shouts "HELP. WHERE IS EVERYBODY?" The staff helps her get back to her room and safely back in bed.
 
 Yesterday the staff saw her heading out of the parking lot. They send Joan to chase her down.
 
@@ -46,13 +46,13 @@ Instead of turning right, we go straight into the memory care wing.
 
 "Mom," Janell says, and heads towards the locked door. "Let's go look at your new apartment."
 
-This is like my college dorm room. It has a shared bathroom and opens into a central space. There is a large television and sitting area. There are always people to talk to. Even better, there is a well-tended garden and patio for sunny afternoons, a 24-hour kitchen and personal staff.
+The memory wing is like my college dorm. It has a shared bathroom and opens into a central space. There is a large television and sitting area. There are always people to talk to. Even better, there is a patio for sunny afternoons, a 24-hour kitchen and personal staff.
 
 Unlike my dorm, the door to the outside world is locked.
 
-Greta is in transition. She isn't able to manage on her own and the staff in this wing provide the things she needs. But she is conversational. Much more so than her peers. She simultaneously doesn't know enough and also knows too much.
+Greta is in transition. She isn't able to manage on her own and the staff in this wing provide the things she needs. But she is chatty. Much more so than her peers. She simultaneously doesn't know enough and also knows too much.
 
-I join Greta at mealtimes and chat while she eats. During one of her first days, we have a discussion about "this place."
+I join Greta at mealtimes and talk while she eats. During one of her first days, we have a discussion about "this place."
 
 "Why am I here?" she asks me. "What test do I have to take to get out and back to my old apartment?"
 
@@ -66,7 +66,7 @@ I join Greta at mealtimes and chat while she eats. During one of her first days,
 
 "You are in Stevens Point," I tell her. "How is your lunch?"
 
-"It's not good. The beans are dry," She pokes at the beans. If there were a dog nearby, she would clandestinely hand the beans to the dog. But she never allowed dogs in her house, so perhaps she never learned that trick. Or the kids never had a dog precisely because she knew that trick.
+"It's not good. The beans are dry," She pokes at the beans. If Ruby were nearby, she would clandestinely hand the beans to the dog. But she never allowed dogs in her house, so perhaps she never learned that trick. Or the kids never had a dog precisely because she knew that trick.
 
 "How about the meat loaf?" I ask. She has eaten most of it already.
 
@@ -78,8 +78,8 @@ I join Greta at mealtimes and chat while she eats. During one of her first days,
 
 I'm trying to make a case for why she needs memory care; ironically, because she needs memory care, she can't fathom my logic. I change the topic.
 
-In a few months, Greta will slip below the cognitive threshold where she is bothered by the lack of conversation with her peers. She engages with more activities than when she was in assisted living. She gets more personal attention from the staff. When she gets up at night, there is always someone to reassure her that she isn't alone. They ask her if she would like a snack and a glass of juice. They listen to audio books with her.
+In a few months, Greta will slip below the cognitive threshold where she is bothered by the lack of conversation with her peers. On the positive, she engages with more activities than when she was in assisted living. She gets more personal attention from the staff. When she gets up at night, there is always someone to reassure her that she isn't alone. They ask her if she would like a snack and a glass of juice. They listen to audio books with her.
 
-Greta is surrounded by caring people. They don't just know *about* Greta. They like her and care for her with enthusiasm and sincerity. She calls me her favorite son-in-law, but I know she has many "favorite" people in her life.
+Greta is surrounded by caring people. They like her and care for her with enthusiasm and sincerity. She calls me her favorite son-in-law, but I know she has many "favorite" people in her life.
 
 My mother called them "angels among us." I am honored to be one of them.

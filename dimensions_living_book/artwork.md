@@ -1,24 +1,24 @@
 # Hallway Artwork {.unnumbered}
 
-In one of many trips between my apartment and my mother-in-law's apartment, I noticed the artwork hanging on the walls.
+Walking to Greta's apartment, I noticed the artwork on the walls.
 
-The halls of my residence are decorated with bland hotel art. A classic example is "Hunting Grouse." It's a wash of fall colors, mostly orange fading to brown. There is, predictably, a grouse in flight and a hunter in the distant background. The bird is flying to the left, the hunter is walking to the right. The subjects of the painting are trying their hardest to get out of this mundane print. I take their suggestion to heart and keep moving.
+It's bland; something you see in hotel lobbies. Let us ponder the classic painting of the genre, titled "Hunting Grouse." It's a wash of fall colors, mostly orange fading to brown. There is, predictably, a grouse in flight and a hunter in the distant background. The bird is flying to the left, the hunter is walking to the right. The subjects of the painting are trying their hardest to escape this mundane print.
 
-These prints are designed to be less interesting the longer you look at them. They are chosen so the colors of the art match the paint of the hallway, rather than choosing wall colors to accentuate the art. The corporate Optics and Design department strives for a calming theme that won't disrupt anyone's delicate sensibilities.
+This art is designed to be less interesting the longer you look at it. These paintings are chosen so the colors of the art match the paint of the hallway, rather than choosing wall colors to accentuate the art. The corporate Optics and Design department strives for a calming theme that won't disrupt anyone's delicate sensibilities.
 
-This pisses me off. Who the hell made the decision I need to be calmed? Some corporate focus group concluded if residents are presented with visually challenging artwork we will require weeks of therapy. Worse, our children and heirs will initiate lawsuits to collect for mental anguish.
+This pisses me off. Who the hell made the decision I need to be calmed? Some corporate focus group concluded if us members of this senior community are presented with visually challenging artwork we will require weeks of therapy. Worse, our children and heirs will initiate lawsuits to collect for mental anguish.
 
 Corporate design teams forget I live with college professors. Poets. Musicians. Librarians. World War II veterans who RAN into combat with a single-shot carbine and a green cotton shirt. I live with men and women who crippled themselves on a potato field but now miss their farm. How dare they present a piece of art intended to calm. me. down. WTF?
 
-I have discovered the current framed art is mounted with adhesive tape - not screws. With one quick yank, I could replace "Pheasant on the Prairie" with Dali's "The Persistence of Memory." I could dismount the western landscape and replace it with John Berkey's "Feather Ship."
+I have discovered the current art is mounted with adhesive tape - not screws. With one quick yank, I could replace "Pheasant on the Prairie" with Dali's "The Persistence of Memory." I could dismount the western landscape and replace it with John Berkey's "Feather Ship."
 
 Remember Dave Smith? He was the Scarabocchio guy and a former resident of Dimensions. Were he still alive, I would sneak to his door late at night (after 6:00 pm) and invite him to help me replace bad with good.
 
-This artwork rebellion would require help. A resident at the far end of the building could push their pendant, summoning the late-night staff. It takes about ten minutes to walk from the staff room to the far apartment, reset the pendant, then return. Dave and I would have about five minutes to remove "Sunset Over The Desert" and hang "The Sly Shy Spotted Sagacious Snipper Snapper."
+This artwork rebellion would require help. A resident at the far end of the building could push their pendant, summoning the late-night staff. It takes ten minutes to walk from the staff room to the far apartment, reset the pendant, then return. Dave and I would have five minutes to remove "Sunset Over The Desert" and hang "The Sly Shy Spotted Sagacious Snipper Snapper."
 
 I estimate there are ten prints per hall. The memory wing doesn't have wall art, and the independent wing doesn't have staff (we assume we can do what we want with artwork in the independent wing, although that may not be true). That leaves three wings with about thirty prints Dave and I would have to clandestinely replace. This presents three problems: our artwork supply, willing accomplices, and movement of the artwork.
 
-Thirty prints is a lot of artwork. This isn't stuff you find at Fleet Farm; you have to procure it. I'm guessing residents have favorite artwork stored with children and would now like it placed in our hallways. Janell and I have been entrusted with one such piece. I'm sure Alberta, the former owner, would take delight in the wickedness of the entire project and approve the donation.
+Thirty prints is a lot. This isn't stuff you find at Fleet Farm; you have to procure it. I'm guessing residents have favorite artwork stored with children and would agree to it hanging in our hallways. Janell and I have been entrusted with one such piece, "*Pumpkin and Table*." I'm sure Alberta, the former owner, would take delight in the wickedness of the entire project and approve the donation.
 
 I'm certain we can enlist residents to distract the staff. The pendants are known to randomly trigger so the consequences of a button push are minimal. If we have a cadre of five button-pushers, we should be good to go.
 
@@ -26,7 +26,7 @@ Imagine our logistics-director-in-charge-of-art-replacement standing in front of
 
 "Our target is Western Sunset with Cowboy hanging outside of the director's office," says our logistics director. She draws a green circle on the floor plan. "Bob, you'll move to the end of the independent wing, second floor, right near the elevator." A black circle indicates Bob's position.
 
-"Gladice, you'll position your strike team, identified as alpha team, in the first floor unisex bathroom. You will have the substitute Picasso The Three Musicians."
+"Gladice, you'll position strike team alpha in the first floor unisex bathroom. You will have the substitute Picasso '*The Three Musicians*'."
 
 "I don't like the unisex bathroom," says Gladice. "It doesn't get cleaned often enough. Can we use the women's bathroom instead?"
 
@@ -48,8 +48,8 @@ I won't disclose how this would be accomplished. But if I were trying to curtail
 
 For art to be appreciated, you must spend time with it. Flipping through a coffee-table book about the Louvre will not reveal the wonder of the Mona Lisa. You must spend time looking at her eyes. You must see the delicate veil over her hair. Who else was in the studio? Why is she smiling?
 
-To appreciate the community I live with takes time. You can't wander through on a Sunday afternoon and hope to notice subtle details. You will walk by the artwork of the grouse and hunter but never see it. You might take a piece of candy, but which piece? And why? You'll never look up and notice the umbrella at the corner of California and Florida. If your parent bothers to explain this umbrella, you might dismiss the whole story as another symptom of an aging mind.
+To appreciate the community I live with takes time. You can't wander through on a Sunday afternoon and hope to notice subtle details. You will walk by the artwork of the grouse and hunter but never see it. You'll never look up and notice the umbrella at the corner of California and Florida. If your parent bothers to explain this umbrella, you might dismiss the whole story as another symptom of an aging mind.
 
-You can't just march in and expect the world to reveal itself at your demand. Instead, you must be patient and allow the hallway to unfold as it is ready. There are comfortable chairs--you should try one for a bit of time.
+You can't just march in and expect the world to reveal itself at your demand. Instead, you must be patient and allow the hallway to unfold as it is ready. There are comfortable chairs--you should try one.
 
 Later, when you depart, would you do me a favor? If you see any artwork around the rear of the building, please discretely place it in the back of your pickup. You may keep it or dispose of it as you see fit. Strike Team Zeta appreciates your assistance.

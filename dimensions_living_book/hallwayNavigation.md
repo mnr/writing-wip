@@ -34,10 +34,10 @@ As Greta ages, I see her move from verbal to visual thinking. She doesn't analyz
 
 "You're right," I say. "But this is the wrong hall. I know, they all look the same and I get confused too. Let's wander over this way instead."
 
-Chasing after her to correct the mistake would point out her lapse in memory and humiliate and annoy her. Better to wait until she appears in the lobby, then passively steer her to a known location.
+Chasing after her to correct the mistake would point out the lapse in memory and humiliate and annoy her. Better to wait until she appears in the lobby, commiserate, then passively steer her to a known location.
 
-Those of us working with a fully functional brain recognize and remember things like room numbers and hallway directions. Greta doesn't have that verbal thinking anymore. Honestly, I think it's a boring way to look at the world and I would find it much more appealing to navigate via whimsical visuals.
+Those of us working with a fully functional brain recognize and remember things like room numbers and hallway directions. That part of Greta is fading away. Honestly, I think it's a boring way to look at the world; I would find it much more appealing to navigate via whimsical visuals.
 
-Maybe it's a sign of my own impending change to visual thinking.
+Maybe it's a sign of my own impending changes. I wonder what Janell will think when I hang a moose head in the kitchen, then tell her it's a navigational aid. Maybe that's an inside joke between my dad, Greta, and myself.
 
 ## 

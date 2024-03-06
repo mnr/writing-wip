@@ -6,7 +6,7 @@ But we have a life in Portland. We have friends, an ocean, a house, a neighborho
 
 We've explained this to Greta, but we know her weakening grasp of *now* versus *then* versus *tomorrow* blurs her awareness of the pending change in her life. She is accustomed to us appearing before breakfast to wake her up, then seeing her through the day until it is time for bed. Today is the last day this will happen.
 
-I'm watching Zero (a dog) chase the local squirrel (unnamed) for the last time this summer, possibly this year, possibly forever, depending on Tom and Pauline (Tom and Pauline own Zero). Everything we bought from Goodwill has been returned and I vacuumed the carpet for the last time.
+I'm watching Zero chase the local squirrel for the last time this summer, possibly this year, possibly forever, depending on Tom and Pauline (Tom and Pauline own Zero). Everything we bought from Goodwill has been returned.
 
 One of our last acts is saying goodbye to our friends. This takes too long, but should go on forever. We lurk through the building, saying hello and goodbye. But oh, that final walk through the dining hall is hard.
 
@@ -18,11 +18,11 @@ Ray watches too much opinion television and likes to discuss the latest conspira
 
 I wasn't sure where this would lead, but I responded positively.
 
-"What are you doing about all those homeless people?" he asked. At the time, this was a hot topic for opinion television. The TV discussion was peppered with the terms "trash," "criminals", and "drug addicts." The newscast displayed streets with rows of tents, disheveled men, and piles of trash.
+"What are you doing about all those homeless people?" he asked. At the time, this was a hot topic for opinion television. The TV discussion was peppered with the terms "trash," "criminals", and "drug addicts." The newscast displayed streets with rows of tents, disheveled men, and piles of dismembered bicycles.
 
 "That's a tough question," I responded. "We're trying to figure out how best to help all the children stuck in poverty and veterans with PTSD from their war experiences."
 
-Ray stopped mid-response. His hat displays the name of his battleship during the Korean war. He realized some of those homeless drug addicts on the TV are his brothers-in-arms.
+Ray stopped mid-response. His hat displays the name of his battleship during the Korean war. He may have realized some of those homeless drug addicts on the TV are his brothers-in-arms.
 
 From that moment on, we explored stories with our different viewpoints. We always part with a laugh and agree it's up to us. Ray is a hard-won, and most valued friend.
 
@@ -42,15 +42,15 @@ When my parents were still alive, I was sitting in their living room, talking wi
 
 "Thanks, but that's just not possible," I said.
 
-"Don't worry," my dad responded to my mom. "When you die, I'll just back up a dumpster and throw everything away. You don't have to worry about the burden on your children."
+"Don't worry," my dad responded to my mom. "When you die, I'll just back up a dumpster and throw everything away."
 
-My father never hit my mother or abused her in any way. But this time, I don't know why he didn't reach over and just slap her. From her expression, his comments was just as painful.
+My father never hit my mother or abused her in any way. But this time, I don't know why he didn't reach over and just slap her. From her expression, his comments were just as painful.
 
 My father was tossing out more than art and furniture. My mother had carefully bestowed meaning onto each item. Like an urn filled with the cremated ashes of a beloved relative, each dish and each chair contained the echo of a precious person, place, or thing. We could point to any item and she would relate the story of a picnic with a special friend, or the time she went to visit her favorite aunt's house and had a special cookie with tea.
 
 Throwing out the broken rocking chair would end the physical existence of Grandma Dietze. The painting of *Christina's World* hung above the dry sink was the last gift from a now-deceased friend. The tin pie cabinet was rescued from her mother-in-law's back porch in Cook, Nebraska before the family house was sold. These objects were the last evidence any of this had happened.
 
-Leaving was the equivalent of backing a dumpster up to the front door of Dimensions Living. All the marbles, figurines, medallions, agates, walkers, and jewelry that remind me of the residents would be at risk. Every day, one of those trinkets might disappear, along with the memory of that resident.
+For us, today, leaving was the equivalent of backing a dumpster up to the front door of Dimensions Living. All the marbles, figurines, medallions, agates, walkers, and jewelry that remind me of the residents would be at risk. Every day, one of those trinkets might disappear, along with the memory of that resident.
 
 I don't know if Ray's baseball cap will go missing. I don't know if he will be here when I get back. It makes leaving here all the more difficult. I've unwittingly made a second life and I can't have both this life in Stevens Point, Wisconsin and my other life in Portland, Oregon.
 
