@@ -12,7 +12,7 @@ The God I worship doth not smite nor crush nor strike down mine enemies. But oh,
 
 When he deems it necessary, he speaks in a booming voice, saying "I have called you by name, you are mine." With a flourish big enough to encompass a universe, he pushes a button. One of the angels working in Heavenly IT support notes a display, flashing the words "Custard Cream Pie Successfully Delivered." Here on Earth, these metaphorical pies-in-the-face manifest themselves in many ways. For some, it is a slip on a banana peel. For others, being chased by a rooster through a cow pasture.
 
-God turns to St. Peter with a smile and says, "Would thou likest to wager upon Mark? Five drachma sayeth he will accepteth any crazy idea I sendeth to his path."
+God turns to St. Peter with a smile and says, "Wouldst thou likest to wager upon Mark? Five drachma sayeth he will accepteth any crazy idea I sendeth to his path."
 
 With a sigh, St. Peter puts down his clipboard outlining the days agenda. It's difficult to keep an omnipresent deity focused on one task. "I accepth." He shrugs. It's the only way to get God back on track.
 
@@ -52,6 +52,6 @@ This room is quiet, but not lonely.
 
 To the east are sunny windows shining a pattern of light on a red chair. Miles Davis shares his genius of vibrating the air I breathe. Outside and one floor below me is a sidewalk where Tom and Pauline are walking Zero, their Norwich Terrier. Foxes (the furry kind with tails) live in the vacant lot to the southwest of the apartments next door. I've made coffee; I can get kitchen coffee from downstairs but mine is way stronger than they are willing to brew.
 
-Janell is downstairs with Greta. They are participating in *Drum Fit*, an exercise class requiring a chair, drum sticks, and a stability ball. Jenny--from a video screen--calls out rhythms and demonstrates suggested application of sticks to ball. She's a blonde Taiko drummer, infusing her energy into the room filled with senior citizens of limited mobility and stability.
+Janell is downstairs with Greta. They are participating in *Drum Fit*, an exercise class requiring a chair, drum sticks, and a stability ball. Jenny (from a video screen) calls out rhythms and demonstrates suggested application of sticks to ball. She's a blonde Taiko drummer, infusing her energy into the room filled with senior citizens of limited mobility and stability.
 
 I'll join them at 11:30 am for lunch in the cafeteria. Today is beef tips on rice, green beans, a salad, roll, tapioca pudding, and beverage of choice. The kitchen serves me a large quantity because I'm the most active resident of Dimensions Living. Most everybody else gets the medium to small quantity. The kitchen staff quickly learns who needs extra salad and pudding and who leaves green beans and rice on their plate.

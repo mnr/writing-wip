@@ -6,7 +6,7 @@ It had been a long and festive event, attended by the entire Ross clan. There ar
 
 I have a cousin who excels at this game of *Hūsker Dū?* He will tell you about the party you were at when someone dropped a cake on the picnic table. I will have no recollection of the picnic, nor being at the picnic, nor dropping the cake. At this point, he could tell me any outlandish lie and I would believe it.
 
-But...the grandson's wedding. It was a massive Ross reunion (as are they all) and I was exhausted. I suspect Janell and Greta were as well. We had rented a hotel room nearby, planned to get some sleep, then drive home the following day. We drove off, leaving the kids to the dance floor and wedding hi-jinks. Greta was in the back seat, Janell and me in front.
+But...the grandson's wedding. It was a massive Ross reunion (as are they all) and I was exhausted. I suspect Janell and Greta were as well. We had rented a hotel room nearby, planned to get some sleep, then drive home the following day. We drove off, leaving the kids to the dance floor and wedding hi-jinks. Greta was in the back seat, Janell and I in front.
 
 "I cannot believe I have such ungrateful children," Greta suddenly speaks up in the dark. "I am going to give all of my money to charity and you will get none of it."
 
@@ -14,7 +14,7 @@ This was *not* spoken in a teasing voice. Greta was serious and angry. Greta's n
 
 There *had* been an incident at the wedding. One of Greta's children felt it was appropriate to proselytize to one of the grandchildren and his girlfriend. His words were unwelcome and caused tears, leaving the rest of us to mitigate this emotional exchange. Greta may have heard some of the discussion. That's what I assumed this was about. But Greta wouldn't say what was bothering her, only that she was disgusted with us.
 
-Janell and I didn't understand what was happening. Looking back, there were clues, but we didn't know to look for them. At the hotel, she wanted me to get her suitcase out of the car--I had seen her place it in the closet just five minutes before. She asked twice why we were staying in this strange room.
+Janell and I didn't understand what was happening. Looking back, there were clues, but we didn't know to look for them. At the hotel, she wanted me to get her suitcase out of the car; I had seen her place it in the closet just five minutes before. She asked twice why we were staying in this strange room.
 
 She was angry and sullen until the following morning when we joined some of the grandkids for breakfast. Over waffles, bacon, and coffee she perked up and we were again in good graces. Evil Greta was gone.
 

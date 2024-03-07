@@ -12,7 +12,7 @@ For thirty years, she cooked three meals a day without fail and without complain
 
 I have first-hand experience on what Greta considered an acceptable dinner. It wasn't fancy, but it was plentiful and satisfying. It was delivered to the table with the timing of a professional chef. It was warm. Gene said grace, and Greta always added how she was lucky to have such a good provider. I remember thinking that if I was to continue this relationship with Janell, there were pretty clear expectations of my role in any resulting marriage.
 
-"Eat it, then it will be gone," Greta would say, passing the entree and salad around the table a third time. The refrigerator was full of leftovers from yesterday - until she brought out plates for snacking on during the evening family game.
+"Eat it, then it will be gone," Greta would say, passing the entree and salad around the table a third time. The refrigerator was full of leftovers from yesterday until she brought out plates for snacking on during the evening family game.
 
 It's important to understand how competently Greta managed her family. For many years, I participated in software trade shows. These were enormously over-blown events, monuments to the egos of the company presidents, pundits, and companies pushing the latest and greatest. A trade show was a nightmare of logistics and last-minute stress-inducing capriciousness. One company president decided the color of the booth was all wrong and forced his employees to repaint the evening before the show. This is just about the equivalent of deciding to remodel the kitchen the evening before a Thanksgiving dinner. Complete madness. It brought people to tears. I'm not kidding.
 
@@ -30,8 +30,8 @@ Greta lived alone after Gene died. She moved to a new house a few blocks away. W
 
 "Oh, nothing," Greta replied. "I could see it burning and I thought someone should call the fire department."
 
-"Mom, *You* should have called the fire department!"
+"Mom, *you* should have called the fire department!"
 
 "I suppose. How are you doing in school?"
 
-Greta was losing interest in her kitchen and her neighborhood. The siblings saw the indicators and realized it was time to move Greta out of her home and into someplace with more resources. They found a nice apartment in the independent wing of Dimensions Living in Stevens Point, Wisconsin. We have a video of Greta sticking out her tongue at us as she unhappily left her home in Neilsville.
+Greta was losing interest in her kitchen and her neighborhood. The siblings saw the indicators and realized it was time to move Greta out of her home and into someplace with more resources; a nice apartment in the independent wing of Dimensions Living in Stevens Point, Wisconsin. We have a video of Greta sticking out her tongue at us as she unhappily left her home in Neilsville.

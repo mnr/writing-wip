@@ -8,6 +8,6 @@
 
 Staff of Dimensions Living (be specific)
 
-**Readers and Editors**: Robin Rolfe, Abbie Weisenbloom
+**Readers and Editors**: Don Barnes, Robin Rolfe, Abbie Weisenbloom
 
 Janell Niemann-Ross
