@@ -44,7 +44,7 @@ When my parents were still alive, I was sitting in their living room, talking wi
 
 "Don't worry," my dad responded to my mom. "When you die, I'll just back up a dumpster and throw everything away."
 
-My father never hit my mother or abused her in any way. But this time, I don't know why he didn't reach over and just slap her. From her expression, his comments were just as painful.
+My father never hit my mother or abused her in any way. But this time, I don't know why he didn't just reach over and slap her. From her expression, his comments were just as painful.
 
 My father was tossing out more than art and furniture. My mother had carefully bestowed meaning onto each item. Like an urn filled with the cremated ashes of a beloved relative, each dish and each chair contained the echo of a precious person, place, or thing. We could point to any item and she would relate the story of a picnic with a special friend, or the time she went to visit her favorite aunt's house and had a special cookie with tea.
 
