@@ -26,9 +26,9 @@ Imagine our logistics-director-in-charge-of-art-replacement standing in front of
 
 "Our target is Western Sunset with Cowboy hanging outside of the director's office," says our logistics director. She draws a green circle on the floor plan. "Bob, you'll move to the end of the independent wing, second floor, right near the elevator." A black circle indicates Bob's position.
 
-"Gladice, you'll position strike team alpha in the first floor unisex bathroom. You will have the substitute Picasso '*The Three Musicians*'."
+"Margaret, you'll position strike team alpha in the first floor unisex bathroom. You will have the substitute Picasso '*The Three Musicians*'."
 
-"I don't like the unisex bathroom," says Gladice. "It doesn't get cleaned often enough. Can we use the women's bathroom instead?"
+"I don't like the unisex bathroom," says Margaret. "It doesn't get cleaned often enough. Can we use the women's bathroom instead?"
 
 "The women's bathroom is thirty feet away from the target," says our logistics director. "The unisex bathroom is right across the hall. Given that everyone in the strike team is using walkers, the distance is critical. Use the unisex bathroom, you'll need the extra time."
 
