@@ -18,7 +18,7 @@ At six o'clock on Thursday evenings, the late-nighters forego Rummikub and reloc
 
 Nickel Bingo is the second notable thing in the above sentence. There are *other* bingo games during the week, notably candy bingo and jewelry bingo, but these are minor-league compared to nickel bingo. If you win at candy or jewelry bingo, you get to choose a piece of candy (or a piece of jewelry). But, *you don't have to put anything in the cup to play*. For these games, you can show up empty-handed and still win. The bingo sharks take part in these lesser events, but only as a side to the big event on Thursday evening.
 
-Very few men take part in candy or jewelry bingo. I have asked the activity coordinators if there is ever gun bingo, fishing lure bingo, or whiskey bingo. (answer: *no!*) I've thought of organizing an underground bingo association for the men; the poorly lit basement would be ideal for a cigar-smoking, whiskey-drinking, Friday night game. So far, I have abstained from instigating this clandestine event. I don't want to be the cause (or subject) of an *official memo* on appropriate evening activities.
+Very few men take part in candy or jewelry bingo. I have asked the activity coordinators if there is ever gun bingo, fishing lure bingo, or whiskey bingo. (answer: *no!*) I've thought of organizing an underground bingo association for the men; the poorly lit basement would be ideal for a cigar-smoking, whiskey-drinking, Friday night game. So far, I have abstained from instigating this clandestine event. I don't want to be the cause (or subject) of an *official memo* on inappropriate evening activities.
 
 ::: {.callout-note icon="false"}
 ## Official Memos
@@ -106,7 +106,7 @@ After money is collected, the bingo caller proceeds with the announcement of the
 You might think I am kidding about bingo caller certification. I am not. Depending on location, you may be required to take a class, pass a test, and/or annually renew your license. Search the internet for *bingo certification* for details.
 :::
 
-To start, the caller withdraws one ball from a bucket of 75 and announces the letter/number combination ("G-48. That's GEE...FOUR...EIGHT), then---and this is important---places the ball in the correct place in a master matrix with seventy-five depressions. Each hole is numbered and arranged in five columns of fifteen rows. Each column is labeled with one letter from the word"BINGO." With the ball safely in place, the caller repeats the process. The master matrix is an easy way to confirm which numbers have been called. Which is really important when someone calls...
+To start, the caller draws one ball from a bucket of 75 and announces the letter/number combination ("G-48. That's GEE...FOUR...EIGHT), then---and this is important---places the ball in the correct place in a master matrix with seventy-five depressions. Each hole is numbered and arranged in five columns of fifteen rows. Each column is labeled with one letter from the word"BINGO." With the ball safely in place, the caller repeats the process. The master matrix is an easy way to confirm which numbers have been called. Which is really important when someone calls...
 
 **BINGO!**
 
@@ -206,7 +206,7 @@ I divide up the money in mostly equal piles, then give it to the winners. I pour
 
 We're all pretty sure James cheats. He wins *a lot*---at least, more than he should. I think I've figured out how he does it. James sits with his back to a wall so no one can look over his shoulder. He uses small picture easels to hold his two bingo cards upright (Everyone else positions their cards flat on the table). As normal, he records matching numbers on the correct card.
 
-Here's the trick; In his mind, he combines these two cards into one, doubling his chances of a matching number. When he calls bingo and reads back his numbers, he may be reading the first number from the first card, then the second number from the *second* card, the third number from first (or second) card, and so-on.
+Here's the trick: In his mind, he combines these two cards into one, doubling his chances of a matching number. When he calls bingo and reads back his numbers, he may be reading the first number from the first card, then the second number from the *second* card, the third number from first (or second) card, and so-on.
 
 I have two considerations about this. First, James is demonstrating advanced math skills by converting from a two-dimensional matrix to a three-dimensional array. That's impressive stuff and I'm loath to call him on his adept transformations.
 

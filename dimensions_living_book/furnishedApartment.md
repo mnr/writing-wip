@@ -2,9 +2,9 @@
 
 When Janell and I were first dating, I lived on a three-season porch. In Minnesota. In winter. With no heat or insulation on the large windows.
 
-I had a space heater; one of those gray, metal, 1,500-watt devices with the two chrome bars attached to the front to prevent fires if the unit were to tip over on its face. This brave little toaster could only aspire to start a fire; instead, it tried its best to warm the room, but was no match for the high thermal conductivity of the wrap-around glass.
+I had a space heater; one of those gray metal 1,500-watt devices with the two chrome bars attached to the front to prevent fires should the unit tip over on its face. This brave little toaster may have aspired to start a fire; instead, it tried its best to warm the room, but was no match for the high thermal conductivity of the wrap-around glass.
 
-The heater pointed directly at my pillow, but without discernible effect. For a bed, I had a two-inch foam pad and some sheets. Possibly a quilt. I was not big on home furnishings.
+The heater pointed directly at my pillow with no discernible effect. For a bed, I had a two-inch foam pad and some sheets. Possibly a quilt. I was not big on home furnishings.
 
 This sub-standard sleeping arrangement repelled Janell, but she was attracted by my youthful exuberance. Forty years later, I'm still exuberant, but room 202 of Dimensions Living was going to be furnished differently. Once again, I realize how fortunate I was to marry her and put her in charge of improving my common sense.
 
@@ -14,7 +14,7 @@ Janell's sister agrees to loan us furnishings. This furniture, including a bed a
 
 ## My Theology
 
-I've spoken a bit about my theology. I believe we aren't prepared to understand God in entirety. Here's an analogy: I raise chickens in my backyard. They are sweet and have their squabbles and sometimes I have to discipline or separate them.
+I've spoken a bit about my theology. I believe we aren't prepared to understand God. Here's an analogy: I raise chickens in my backyard. They are sweet and have their squabbles and sometimes I have to discipline or separate them.
 
 But they don't understand what happens in the larger house standing next to their coop.
 
@@ -22,7 +22,7 @@ But they don't understand what happens in the larger house standing next to thei
 
 They get bored and wander off. They lack the context and vocabulary to understand electricity and its related wonders. They also don't possess the cognitive skills to understand the internet or world-wide web.
 
-I suspect I have the same relationship with God. He thinks I'm sweet, but oh-so-dumb. I find it necessary to describe "him" in terms of a human presence, complete with arms, legs, and emotions. "He" (she? it? them? they?) can't explain to me how I am wrong because I don't have the cognitive skills.
+I suspect I have the same relationship with God. God thinks I'm sweet, but oh-so-dumb. I find it necessary to describe "him" in terms of a human presence, complete with arms, legs, and emotions because I can't wrap my head around a totally abstract God. "He" (she? it? them? they?) can't explain to me how I am wrong because I don't have the cognitive skills.
 
 So I become distracted by flies and worms and erratically wonder how God works. But I will never attain cosmic wisdom.
 
@@ -42,7 +42,7 @@ God seems to have taken an interest in my trip to Milwaukee.
 
 *"It's on the list," St. Peter wearily points to the clipboard he has been carrying for the last millennium. He turns to the second page. "It's on line 1,048,323,499,092:"Mark drives to Milwaukee to pick up furniture."*
 
-*"Right. That's the one." God delivers the pint to the prostitute sitting at the end of the bar; Everyone is welcome here. "Let's add some color to his life."*
+*"Right. That's the one." God delivers the pint to the prostitute sitting at the end of the bar (Everyone is welcome here). "Let's add some color to his life."*
 
 *"You have better things to do," St. Peter flips back to page one, line one and begins to recite. God cuts him short.*
 
@@ -54,7 +54,7 @@ God seems to have taken an interest in my trip to Milwaukee.
 
 The U-Haul dealer believes I know what I am doing and leaves me to attach the trailer. I back the CR-V up and try to lift the hitch onto the ball. I lift with my legs (not my back). Can't do it. Too heavy.
 
-"Hmmm...," I ponder. Nobody else is around except the trailer and the CR-V. They aren't talking.
+"Hmmm...," I ponder. Nobody else is around except the trailer and the CR-V. They look at each other, snigger, and look back at me, feigning attentiveness. They aren't talking.
 
 *God nudges the pure in heart, who is still adjusting to being able to see God. Pure-in-heart laughs nervously, takes a tentative sip, and watches the show on the big screen at the end of the bar.*
 
@@ -104,7 +104,7 @@ Three feet of drama later, the trailer stops, but for no good reason. I run to t
 
 My CR-V displays the distance I can drive in miles. It does this by multiplying the calculated miles-per-gallon times gallons of gas in the tank. It's a computer trick added by Stephen, an intern Honda hired for the summer. *Available Range* doesn't really tell me anything more than what I could observe by looking at the gas gauge at the bottom of the speedometer, but adding it to the car was the crowning act of Stephen's college degree.
 
-For me, I am happy with analog; when the gas needle gets to the last quarter of the tank, I should fill up. That's where the needle is now, so I should do this. I watch signs for a freeway exit with a gas station.
+For me, I am happy with analog: when the gas needle gets to the last quarter of the tank, I should fill up. That's where the needle is now, so I should do this. I watch signs for a freeway exit with a gas station.
 
 *God grabs the remote and hands it to one of the merciful. "Turn up the volume," he/she/they laugh. The merciful hesitates; after all, they are merciful and worries how this will change this mortal's fate. God sees the hesitation and offers a promise of reward; "Don't worry, I got this." The merciful looks at St. Peter, who shakes his head in disbelief, but also nods assurance. The merciful turns up the volume.*
 
@@ -120,9 +120,9 @@ The obvious conclusion to this part of the story sees me walking five miles to a
 
 I don't know if Stephen programmed in a margin of safety, or how accurate his sensor data was, or if he simply did the calculation with no care of human fragility. I am tempted to circle the gas pump until I truly sputter to a stop, but I am done tempting The Fates and fill up the tank. No more drama, please.
 
-*"Okay everyone," God says. "Happy hour is over. Orientation starts in fifteen minutes." (or 15 eons. Time is fluid in God's kingdom.) Everyone, including those hungering for righteousness (manifested as free bar snacks) head for the door.*
+*"Okay everyone," God says. "Happy hour is over. Orientation starts in fifteen minutes." (Or 15 eons. Time is fluid in God's kingdom.) Everyone, including those hungering for righteousness (manifested as free bar snacks) head for the door.*
 
-Somehow, things are suddenly quieter for me. The rest of the trip isn't worth writing about. I pick up the furniture; I return to Stevens Point; I unload the trailer; I return the U-Haul; I have an apartment with furnishing an enormous step above the mattress and space heater of my youth. Janell is happy. I am happy.
+Somehow, things are suddenly quieter for me. The rest of the trip isn't worth writing about. I pick up the furniture; I return to Stevens Point; I unload the trailer; I return the U-Haul; I have an apartment with furnishings - an enormous step above the mattress and space heater of my youth. Janell is happy. I am happy.
 
 Many people of faith look for evidence of God by praying for miracles. In my life, I've had way too many lucky brushes with fate to require proof. I'm not sure what God is, but I know I should be drowned or crushed or choked or out of gas or pushing a trailer out of a ditch.
 

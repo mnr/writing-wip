@@ -32,11 +32,9 @@ Imagine our logistics-director-in-charge-of-art-replacement standing in front of
 
 "The women's bathroom is thirty feet away from the target," says our logistics director. "The unisex bathroom is right across the hall. Given that everyone in the strike team is using walkers, the distance is critical. Use the unisex bathroom, you'll need the extra time."
 
-"Zeta Team," she continues. "You will be in the auditorium for the late-night movie. At precisely 8:00 p.m., Bob will trigger his pendant and you discretely leave the movie and move towards Alpha team." The Logistics director draws a black box with arrows pointing in the direction of movement. "Don't mess this up again. The movie is supposed to be Titanic. If you don't want to miss the conclusion, watch it beforehand."
+"Zeta Team," she continues, "you will be in the auditorium for the late-night movie. At precisely 8:00 p.m., Bob will trigger his pendant and you discretely leave the movie and move towards Alpha team." The logistics director draws a black box with arrows pointing in the direction of movement. "Don't mess this up again. The movie is supposed to be Titanic. If you don't want to miss the conclusion, watch it beforehand."
 
-"Zeta team will pass the staff heading towards Bob. When Zeta team reaches the target, they will remove Western Sunset with Cowboy and proceed to room 423 - which is the designated drop zone. Leave the print under the bed. Return to your rooms via different routes."
-
-"When you pass the unisex bathroom, knock three times," Logistics demonstrates this knock on the table top. "Alpha team, that is your signal to hang your substitute."
+"Zeta team will pass the staff heading towards Bob. When Zeta team reaches the target, they will remove Western Sunset with Cowboy and proceed to room 423, which is the designated drop zone. Leave the print under the bed. Return to your rooms via different routes. When you pass the unisex bathroom, knock three times." Logistics demonstrates this knock on the table top. "Alpha team, that is your signal to hang your substitute."
 
 "Remember, you can't be quick, so be efficient," she caps her dry-erase marker. "Any questions?"
 

@@ -10,7 +10,7 @@ A few cubbies host bird houses. There are no birds flying loose in our building 
 
 For our cubby, I considered an inflatable flappy-arm guy like you see at tire and furniture stores. At 20 feet tall this would crowd against the eight-foot ceiling, plus the one-horsepower fan might generate more noise than my neighbors will tolerate. I have considered a target-practice deer with replaceable core from Fleet Farm. We do live at the end of the hall, but setting up an indoor archery range would precipitate an *official memo*.
 
-Until I act otherwise, our cubby hosts a Buddha. This isn't because we're Buddhists. We just happen to have a garden Buddha in our borrowed household items. And it seems fair to offer equal representation for other faiths.
+Until I act otherwise, our cubby hosts a Buddha. This isn't because we're Buddhists. We just happen to have a garden Buddha in our borrowed household items and it seems fair to offer equal representation for other faiths.
 
 ## Navigation
 
