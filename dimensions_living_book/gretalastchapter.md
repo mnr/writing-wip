@@ -10,7 +10,7 @@ I fiddle with email for a moment, then go downstairs for a snack. I keep a jar o
 
 I pour a glass of water and head back to the stairs, passing the living room. I glance over, and see Greta sitting in the red chair. Both her and the chair seem to be content.
 
-My rational self knows Greta is 1,945 miles to the east, sleeping in her bed at Dimensions Living. She isn't here, just as the red chair doesn't manifest ghosts.
+My rational self knows Greta is 1,945 miles to the east, sleeping in her bed at Evergreen Meadows Senior Community. She isn't here, just as the red chair doesn't manifest ghosts.
 
 "Hello Marky," she says. "What are you doing up so late?"
 

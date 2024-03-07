@@ -50,7 +50,7 @@ My father was tossing out more than art and furniture. My mother had carefully b
 
 Throwing out the broken rocking chair would end the physical existence of Grandma Dietze. The painting of *Christina's World* hung above the dry sink was the last gift from a now-deceased friend. The tin pie cabinet was rescued from her mother-in-law's back porch in Cook, Nebraska before the family house was sold. These objects were the last evidence any of this had happened.
 
-For us, today, leaving was the equivalent of backing a dumpster up to the front door of Dimensions Living. All the marbles, figurines, medallions, agates, walkers, and jewelry that remind me of the residents would be at risk. Every day, one of those trinkets might disappear, along with the memory of that resident.
+For us, today, leaving was the equivalent of backing a dumpster up to the front door of Evergreen Meadows Senior Community. All the marbles, figurines, medallions, agates, walkers, and jewelry that remind me of the residents would be at risk. Every day, one of those trinkets might disappear, along with the memory of that resident.
 
 I don't know if Ray's baseball cap will go missing. I don't know if he will be here when I get back. It makes leaving here all the more difficult. I've unwittingly made a second life and I can't have both this life in Stevens Point, Wisconsin and my other life in Portland, Oregon.
 

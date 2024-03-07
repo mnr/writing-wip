@@ -14,11 +14,11 @@ She struggles with the distance, but makes it. We are rewarded with a stroll thr
 
 This all seems like a great achievement until I am called into the ~~principal's~~ administration office the next day.
 
-"Mark," the administrator of Dimensions Living says. "We saw you walking Greta around the block yesterday."
+"Mark," the administrator of Evergreen Meadows Senior Community says. "We saw you walking Greta around the block yesterday."
 
 "I know," I say, filled with pride. "By next week we can be walking to the shopping mall!"
 
-"That is a problem," she says. "You are helping Greta become used to travelling off the property. She may wander off and forget how to get home. If she returns to Dimensions in the back seat of a police car, we have to either place her in memory care or she has to find a new place to live. And right now, we don't have any room in memory care."
+"That is a problem," she says. "You are helping Greta become used to travelling off the property. She may wander off and forget how to get home. If she returns to Evergreen Meadows in the back seat of a police car, we have to either place her in memory care or she has to find a new place to live. And right now, we don't have any room in memory care."
 
 Again I am being told to *straighten up, buster*. Nicely, but the message is clear.
 
@@ -26,7 +26,7 @@ When residents wander off-property, this is called "eloping." It is different fr
 
 ## Late Nights
 
-Greta has been pacing the halls of Dimensions Living. Normally not a problem -- I lurk around the halls as well. The difference between Greta and me is that Greta shouts "HELP. WHERE IS EVERYBODY?" The staff helps her get back to her room and safely back in bed.
+Greta has been pacing the halls of Evergreen Meadows Senior Community. Normally not a problem -- I lurk around the halls as well. The difference between Greta and me is that Greta shouts "HELP. WHERE IS EVERYBODY?" The staff helps her get back to her room and safely back in bed.
 
 Yesterday the staff saw her heading out of the parking lot. They send Joan to chase her down.
 

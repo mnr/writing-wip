@@ -34,4 +34,4 @@ Greta lived alone after Gene died. She moved to a new house a few blocks away. W
 
 "I suppose. How are you doing in school?"
 
-Greta was losing interest in her kitchen and her neighborhood. The siblings saw the indicators and realized it was time to move Greta out of her home and into someplace with more resources; a nice apartment in the independent wing of Dimensions Living in Stevens Point, Wisconsin. We have a video of Greta sticking out her tongue at us as she unhappily left her home in Neilsville.
+Greta was losing interest in her kitchen and her neighborhood. The siblings saw the indicators and realized it was time to move Greta out of her home and into someplace with more resources; a nice apartment in the independent wing of Evergreen Meadows Senior Community in Stevens Point, Wisconsin. We have a video of Greta sticking out her tongue at us as she unhappily left her home in Neilsville.

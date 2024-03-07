@@ -2,7 +2,7 @@
 
 For two months, I have been the youngest resident of my mother-in-law's senior community. I am a mere sixty-five-years old and am told I'm an interloper, an outsider to this community with no hope of truly joining for another fifteen years.
 
-In contrast to my older friends at Dimensions Living, my knees still work, I do yoga balance poses without a chair, and I (occasionally) win at pickle ball. I eat and drink pretty much what I like and I stay up past 9:00 p.m. All of these disqualify me from living at Dimensions Assisted Living Facility.
+In contrast to my older friends at Evergreen Meadows Senior Community, my knees still work, I do yoga balance poses without a chair, and I (occasionally) win at pickle ball. I eat and drink pretty much what I like and I stay up past 9:00 p.m. All of these disqualify me from living at Evergreen Meadows Senior Community.
 
 Yet, here I am. How did that happen?
 
@@ -20,7 +20,7 @@ God pushes my button, a custard pie is delivered and manifests as a lack of hous
 
 ## My Custard Cream Pie
 
-When we first arrive in Stevens Point, Janell and I try to stay in Greta's room. Dimensions Living frowns upon this co-habitation. For our part, we chafe at the closeness of three of us 24 by 7, side by side. I imagine it's as claustrophobic as riding in a 1971 Ford Country Squire from Wisconsin to Florida, but without seat belts.
+When we first arrive in Stevens Point, Janell and I try to stay in Greta's room. Evergreen Meadows Senior Community frowns upon this co-habitation. For our part, we chafe at the closeness of three of us 24 by 7, side by side. I imagine it's as claustrophobic as riding in a 1971 Ford Country Squire from Wisconsin to Florida, but without seat belts.
 
 I investigate long-term residency at the neighboring Holiday Inn: \$3,000 per month. No free breakfast, but access to the pool, weight room, and as many towels as you want. That's a lot of moola for sleeping next to the Clark County Fireman's Convention--or the FFA Regional Expo. Both events are loud and rowdy. Also not a solution.
 
@@ -32,7 +32,7 @@ We can rent an apartment--for a minimum of six months. Or not, because Stevens P
 
 ## **The Solution**
 
-Janell and I sit in the lobby discussing our predicament when Jenna, the Director of Marketing for Dimensions Living, joins us.
+Janell and I sit in the lobby discussing our predicament when Jenna, the Director of Marketing for Evergreen Meadows Senior Community, joins us.
 
 "I think I have something you'd be interested in hearing," Jenna says.
 
@@ -42,7 +42,7 @@ Janell and I perk up. Jenna is a source of local information with all the import
 
 This means we would be within a two-minute walk of Greta's front door. And did I mention this is happening during a Wisconsin winter? Any way to avoid going outside is a bonus.
 
-Janell and I realize this is our best (*only*) solution. We sign and are now residents of Dimensions Living.
+Janell and I realize this is our best (*only*) solution. We sign and are now residents of Evergreen Meadows Senior Community.
 
 In heaven, Saint Peter loses the bet (again). He curses and hands God a fiver. Betting with an all-knowing being is a losing proposition.
 
@@ -54,4 +54,4 @@ To the east are sunny windows shining a pattern of light on a red chair. Miles D
 
 Janell is downstairs with Greta. They are participating in *Drum Fit*, an exercise class requiring a chair, drum sticks, and a stability ball. Jenny (from a video screen) calls out rhythms and demonstrates suggested application of sticks to ball. She's a blonde Taiko drummer, infusing her energy into the room filled with senior citizens of limited mobility and stability.
 
-I'll join them at 11:30 am for lunch in the cafeteria. Today is beef tips on rice, green beans, a salad, roll, tapioca pudding, and beverage of choice. The kitchen serves me a large quantity because I'm the most active resident of Dimensions Living. Most everybody else gets the medium to small quantity. The kitchen staff quickly learns who needs extra salad and pudding and who leaves green beans and rice on their plate.
+I'll join them at 11:30 am for lunch in the cafeteria. Today is beef tips on rice, green beans, a salad, roll, tapioca pudding, and beverage of choice. The kitchen serves me a large quantity because I'm the most active resident of Evergreen Meadows Senior Community. Most everybody else gets the medium to small quantity. The kitchen staff quickly learns who needs extra salad and pudding and who leaves green beans and rice on their plate.

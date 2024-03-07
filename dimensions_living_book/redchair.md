@@ -12,7 +12,7 @@ I have a ghostly echo in my living room.
 
 ## The Pile
 
-Our apartment at Dimensions Living includes access to a security cage for large items. It's in the basement parking garage, next to a disordered pile of wheelchairs, walkers, assistive toilet devices, and easy lift recliners. I assume former residents left these behind. Former, as in *moved on*. I haven't dug for any history on these items, but I suspect these are no longer useful to the previous owners or their children.
+Our apartment at Evergreen Meadows Senior Community includes access to a security cage for large items. It's in the basement parking garage, next to a disordered pile of wheelchairs, walkers, assistive toilet devices, and easy lift recliners. I assume former residents left these behind. Former, as in *moved on*. I haven't dug for any history on these items, but I suspect these are no longer useful to the previous owners or their children.
 
 This flotsam rests in an uninteresting pile in an unswept corner of the garage. There's no dramatic lighting, creepy features, or ominous soundtrack to warn of a haunting. Nobody comes down here except to retrieve their cars.
 
@@ -42,7 +42,7 @@ Janell doesn't hesitate. "Get the luggage cart; we're taking this upstairs."
 
 ## Not So Fast
 
-Building Administration for Dimensions Living knows about this chair; It has a history and a death sentence. The ghost doesn't mention the bedbug infestation and appointment with a dumpster.
+Building Administration for Evergreen Meadows Senior Community knows about this chair; It has a history and a death sentence. The ghost doesn't mention the bedbug infestation and appointment with a dumpster.
 
 If I were the ghost, I would make a similar omission. From the staff, we learn this chair was one of a set; they had already disposed of its partner. Our ghost had seen the future and---like Marley in *A Christmas Carol*---is doing its best to prevent the repeat of that fate. We unknowingly take part in the clandestine rescue of this chair.
 
@@ -88,7 +88,7 @@ The return of this chair means we must banish Housekeeping. We scrub our own toi
 
 ## New Home, Same Skill
 
-At the end of our stay at Dimensions Living, we transport the chair 1,945 miles to our home in Portland, Oregon. The chair is a good traveler: doesn't require bathroom breaks, doesn't shed or bark, will listen to whatever music or audiobook we choose, and doesn't pee on the carpet when we stop at hotels. Positioned in our living room, the chair fulfills its purpose with pleasure, wrapping itself around anyone willing to pause long enough for a pre-bedtime nap.
+At the end of our stay at Evergreen Meadows Senior Community, we transport the chair 1,945 miles to our home in Portland, Oregon. The chair is a good traveler: doesn't require bathroom breaks, doesn't shed or bark, will listen to whatever music or audiobook we choose, and doesn't pee on the carpet when we stop at hotels. Positioned in our living room, the chair fulfills its purpose with pleasure, wrapping itself around anyone willing to pause long enough for a pre-bedtime nap.
 
 My younger son, Aaron, came for a visit the other day. He already heard the rumor of the red chair and the history of bedbugs. He experienced his own bedbug episode which resulted in the dumpsterizing of his leather overstuffed lounger.
 

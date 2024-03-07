@@ -5,7 +5,7 @@ format: docx
 editor: visual
 ---
 
-It's shortly after ~~lunch~~ dinner and the lobby of the independent wing is quiet. Here at Dimensions Living we keep to a Spanish or Italian schedule: Up early, active until noon, close down between noon and three for siesta, then active until six p.m. Italy and Spain are active much later at night, but lights-out at seven is the modification we have agreed to here in our United States.
+It's shortly after ~~lunch~~ dinner and the lobby of the independent wing is quiet. Here at Evergreen Meadows Senior Community we keep to a Spanish or Italian schedule: Up early, active until noon, close down between noon and three for siesta, then active until six p.m. Italy and Spain are active much later at night, but lights-out at seven is the modification we have agreed to here in our United States.
 
 The lobby does have its raucous times; Happy hour is here on Fridays at 2:00 p.m. and nickel bingo is Thursday at 6. The weekly activity calendar says there is a town hall meeting here at 2:00 p.m., but right now there are only a few residents. They are checking mail (not email) or reading the newspaper (from a large sheet of paper).
 

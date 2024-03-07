@@ -1,6 +1,6 @@
 # Tech Support {.unnumbered}
 
-I'm hanging out with Greta, my mother-in-law, at her apartment in the memory care unit of Dimensions Senior Living. I'm reading to her when my phone rings.
+I'm hanging out with Greta, my mother-in-law, at her apartment in the memory care unit of Evergreen Meadows Senior Community. I'm reading to her when my phone rings.
 
 It's from area code 503 - a long distance call from my home state of Oregon. I don't recognize the number, so I suspect a spammer. But, Greta and I could use a laugh so I answer and put the call on speaker phone.
 

@@ -12,7 +12,7 @@ Corporate design teams forget I live with college professors. Poets. Musicians. 
 
 I have discovered the current art is mounted with adhesive tape - not screws. With one quick yank, I could replace "Pheasant on the Prairie" with Dali's "The Persistence of Memory." I could dismount the western landscape and replace it with John Berkey's "Feather Ship."
 
-Remember Dave Smith? He was the Scarabocchio guy and a former resident of Dimensions. Were he still alive, I would sneak to his door late at night (after 6:00 pm) and invite him to help me replace bad with good.
+Remember Dave Smith? He was the Scarabocchio guy and a former resident of Evergreen Meadows. Were he still alive, I would sneak to his door late at night (after 6:00 pm) and invite him to help me replace bad with good.
 
 This artwork rebellion would require help. A resident at the far end of the building could push their pendant, summoning the late-night staff. It takes ten minutes to walk from the staff room to the far apartment, reset the pendant, then return. Dave and I would have five minutes to remove "Sunset Over The Desert" and hang "The Sly Shy Spotted Sagacious Snipper Snapper."
 
@@ -22,7 +22,7 @@ Thirty prints is a lot. This isn't stuff you find at Fleet Farm; you have to pro
 
 I'm certain we can enlist residents to distract the staff. The pendants are known to randomly trigger so the consequences of a button push are minimal. If we have a cadre of five button-pushers, we should be good to go.
 
-Imagine our logistics-director-in-charge-of-art-replacement standing in front of the white board in the activity room. A floor plan of Dimensions living is sketched out in red dry-erase marker.
+Imagine our logistics-director-in-charge-of-art-replacement standing in front of the white board in the activity room. A floor plan of Evergreen Meadows Senior Community is sketched out in red dry-erase marker.
 
 "Our target is Western Sunset with Cowboy hanging outside of the director's office," says our logistics director. She draws a green circle on the floor plan. "Bob, you'll move to the end of the independent wing, second floor, right near the elevator." A black circle indicates Bob's position.
 

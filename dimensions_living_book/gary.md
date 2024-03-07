@@ -12,7 +12,7 @@ You also need to know a bit about Greta's politics.
 
 ~~She grew up in central Wisconsin and loved her Dad. He ran a tavern and made it clear to his younger patrons that drinking was not an opportunity to harass his daughters. She's seen her girlfriends and sisters deal with date rape and unwanted pregnancies. She knows pregnancies don't always go well. She loves her gay nephew. She's seen men (and priests) misbehave and small town voices hush it up. Greta will tell you we are God's children and we are less than perfect, but we still deserve his love and if God loves us, then who are we to judge?~~
 
-~~Greta lived through the polio epidemic. To her, vaccines are a miracle.~~ When COVID vaccines were offered (for *free*) at Dimensions Living, she got in line with enthusiasm. Dimensions Living was required to contact her POA of healthcare--Gary. Gary is convinced COVID is a made-up disease and the vaccine is another money grab by big pharma. When Dimensions Living contacted Gary, he denied permission for the vaccine.
+~~Greta lived through the polio epidemic. To her, vaccines are a miracle.~~ When COVID vaccines were offered (for *free*) at Evergreen Meadows Senior Community, she got in line with enthusiasm. Evergreen Meadows Senior Community was required to contact her POA of healthcare--Gary. Gary is convinced COVID is a made-up disease and the vaccine is another money grab by big pharma. When Evergreen Meadows Senior Community contacted Gary, he denied permission for the vaccine.
 
 There isn't enough space available on this page to discuss the responsibilities and limits of a POA, but it's easy enough to know that a POA is responsible for *enacting the wishes* of the person they are responsible for.
 

@@ -6,7 +6,7 @@ I had a space heater; one of those gray metal 1,500-watt devices with the two ch
 
 The heater pointed directly at my pillow with no discernible effect. For a bed, I had a two-inch foam pad and some sheets. Possibly a quilt. I was not big on home furnishings.
 
-This sub-standard sleeping arrangement repelled Janell, but she was attracted by my youthful exuberance. Forty years later, I'm still exuberant, but room 202 of Dimensions Living was going to be furnished differently. Once again, I realize how fortunate I was to marry her and put her in charge of improving my common sense.
+This sub-standard sleeping arrangement repelled Janell, but she was attracted by my youthful exuberance. Forty years later, I'm still exuberant, but room 202 of Evergreen Meadows Senior Community was going to be furnished differently. Once again, I realize how fortunate I was to marry her and put her in charge of improving my common sense.
 
 Janell's sister agrees to loan us furnishings. This furniture, including a bed and table, are located in a Milwaukee storage unit. All I have to do is move it one-hundred and fifty-five miles from Milwaukee to Stevens Point and return it when we are done.
 

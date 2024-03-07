@@ -11,7 +11,7 @@ editor: visual
 
 We all create ghostly echoes. Some echoes are formal and intentional: tombstones, memorials, buildings, statues. Some are transitory and mysterious: your sense of being watched, strange sounds in the house, objects disappearing and reappearing, dreams of conversations with the deceased. Some are the pressure of things we leave behind: clothing, fishing rods, photos, cremation ashes, toothbrushes, Facebook accounts, furniture.
 
-Our apartment at Dimensions Living includes access to a security cage for large items. It's in the basement parking garage, next to a disordered pile of wheelchairs, walkers, assistive toilet devices, and easy lift recliners. I assume former residents left these behind. Former, as in *moved on*. I haven't dug for the history, but I suspect these are no longer useful to the previous owners or their children.
+Our apartment at Evergreen Meadows Senior Community includes access to a security cage for large items. It's in the basement parking garage, next to a disordered pile of wheelchairs, walkers, assistive toilet devices, and easy lift recliners. I assume former residents left these behind. Former, as in *moved on*. I haven't dug for the history, but I suspect these are no longer useful to the previous owners or their children.
 
 This flotsam rests in an uninteresting pile in an unswept corner of the garage. There's no dramatic lighting, creepy features, or ominous soundtrack to warn of a haunting. Nobody comes down here except to retrieve their cars.
 
@@ -93,7 +93,7 @@ The return of this chair means we must banish Housekeeping. We need to scrub our
 
 ## New home, same skill
 
-At the end of our stay at Dimensions Living, we transport the chair 1,945 miles to our home in Portland, Oregon. The chair is a good traveler: doesn't require bathroom breaks, doesn't shed or bark, will listen to whatever music or audiobook we choose, and doesn't cost extra when we stop at hotels. Positioned in our living room, the chair fulfills its purpose with pleasure, wrapping itself around anyone willing to pause long enough for a pre-bedtime nap.
+At the end of our stay at Evergreen Meadows Senior Community, we transport the chair 1,945 miles to our home in Portland, Oregon. The chair is a good traveler: doesn't require bathroom breaks, doesn't shed or bark, will listen to whatever music or audiobook we choose, and doesn't cost extra when we stop at hotels. Positioned in our living room, the chair fulfills its purpose with pleasure, wrapping itself around anyone willing to pause long enough for a pre-bedtime nap.
 
 My younger son, Aaron, came for a visit the other day. He had already heard the rumor of the red chair and the history of bedbugs. He experienced his own bedbug episode which resulted in the dumpsterizing of his leather overstuffed lounger.
 
