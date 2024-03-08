@@ -1,12 +1,17 @@
-# Front Matter {.unnumbered}
+# My Favorite Mother-In-Law
 
-copyright
+### Mark Niemann-Ross
 
-dedication
+::: {style="page-break-after: always; break-after: page;"}
+:::
+
+© 2024 Mark Niemann-Ross
+
+This book is memoir. It reflects the author's present recollections of experiences over time. Some names, characteristics, and locations have been changed, some events have been compressed, and some dialogue has been recreated.
+
+# dedication
 
 # Preface
-
-This book is memoir. It reflects the author’s present recollections of experiences over time. Some names, characteristics, and locations have been changed, some events have been compressed, and some dialogue has been recreated.
 
 Something to be written in the preface. Not finished yet.
 
