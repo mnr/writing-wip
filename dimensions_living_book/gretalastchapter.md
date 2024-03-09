@@ -1,6 +1,6 @@
 # Greta Visits {.unnumbered}
 
-I wake up at two o'clock in the morning. The streetlight outside our Portland house flickers through the leaves on our tree. If I open my eyes, I'll admit I'm awake and can't go back to sleep. Janell is ~~gently~~ snoring next to me, which she'll do for another half-hour before she returns to deep sleep. I leave her alone to her dreams.
+I wake up at two o'clock in the morning. The streetlight outside our Portland house flickers through the leaves on our tree. If I open my eyes, I'll admit I'm awake and can't go back to sleep. Janell is ~~gently~~ snoring next to me, which she'll do for another half-hour before she returns to deep sleep. I leave her to her dreams.
 
 I know it's two in the morning because I heard my father's clock chiming the hour. It's a Seth-Thomas Ogee, built between 1842 and 1913. It has two weights; one for the clock and one for the chime, and it rings out each hour. No fancy Westminster chimes; just once for one-o'clock, two for two-o'clock. The clockworks are in plain sight when I open the glass front to wind it up.
 
@@ -48,13 +48,13 @@ I play a two of spades. She plays a three of hearts. I play an ace. For that, I 
 
 "Because you signed an NDA?" I play the four of spades for six points.
 
-"No," Greta laughs. "Because these spoken words don't have what it takes to describe it. What happens after you die is so much more complex and wonderful than you can understand. Explaining it is kind of like talking to chickens, right? You'll be happier if you don't try to puzzle it out."
+"No," Greta laughs. "Because these spoken words don't have what it takes to describe it. What happens after you die is so much more complex and wonderful than we can understand. Explaining it is kind of like talking to chickens, right? We'll be happier if we don't try to puzzle it out."
 
 The round ends with Greta at twenty-eight, I have twenty-three. I pause, take a drink of water. What do you ask a ghost, or whatever it is I am talking to? How to get rich? How to be all-powerful? Where did I misplace my keys?
 
-"Do you see Gene?"
+"Will you see Gene?"
 
-"I will. He's my soul mate. *Always* has been, *always* will be. I'm told Heaven will be different than here. No marriage, but life like angels. I'm looking forward to it."
+"I hope so. He's my soul mate. *Always* has been, *always* will be. I'm told Heaven will be different than here. No marriage, but life like angels. I'm looking forward to it."
 
 I deal, we put cards in the crib. Greta plays the eight of clubs. I play a seven for two points. Greta plays another seven for an additional two points. Greta 30, Mark 25.
 
