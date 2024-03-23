@@ -6,21 +6,21 @@ I've known Greta for forty years and she likes to tell me stories about growing 
 
 "Oh, you are really picking my brain now," she says. She looks into the forty years before we met, then comes back. I know that's a sign I'm going to hear something new and always unexpected.
 
-Greta was born in 1934 in Marshfield, Wisconsin. She grew up on a farm (as did everyone in Wisconsin in 1930). Her father maintained a small dairy herd and opened a roadside tavern where she helped serve roasted chicken and beer. Her dad served minors, although he was quick to tell these kids "you've had enough" and made it clear drinking was not an opportunity to harass his daughters.
+Greta was born in 1934 in Marshfield, Wisconsin. Her father maintained a small dairy herd and opened a roadside tavern where she helped serve roasted chicken and beer. Her dad served minors, although he was quick to tell these kids "you've had enough" and made it clear drinking was not an opportunity to harass his daughters.
 
 She loved her dad; he would take her to town when he went for business and buy her a treat. Her sister was jealous, and Greta told her that Dad would take her as well - she just needed to ask. Apparently she never did.
 
-She saw girlfriends and sisters deal with date rape and unwanted pregnancies. She knows pregnancies don't always go well. Greta lived through the polio epidemic. To her, vaccines are a miracle.
+She saw friends deal with date rape and unwanted pregnancies. She knows pregnancies don't always go well. Greta lived through the polio epidemic. To her, vaccines are a miracle.
 
-Greta went to college to become a teacher. She has told us (several times) about her experience in teachers college. She was in charge of at least one of the annual trips and we have seen the pictures, diary entries, and budget. Greta was quite the spark plug, singing and dancing until early in the morning, then getting her fellow students up and in the buses for another day driving through the mountains.
+Greta went to college to become a teacher. She has told us (several times) about her experience in teachers college. She was in charge of the finances for at least one of the annual trips and we have seen the pictures, diary entries, and budget. Greta was quite the spark plug, singing and dancing until early in the morning, then getting her fellow students up and in the buses for another day driving through the mountains.
 
 Greta first met Gene Ross at the dance hall in Dorchester, Wisconsin in 1951. They kept in touch while Gene was stationed in the Chorwan Valley of Korea. I'm not privileged enough to have read any of their letters, but I have seen the newspaper clippings and service papers saved by Gene's mother. I only knew Gene as a quiet and steady man; it's difficult to imagine him firing a 105 mm howitzer or placing 24 M16 rockets into a T66 launcher. He returned after fifteen months and never talked about the shrapnel in his arm.
 
 Greta married Gene in 1956. She birthed five children in Neillsville, Wisconsin. In 1950, the population was 2,663 people. In 2020 the population was at 2,384. Not much has changed in seventy years.
 
-Greta carried lunch down to Gene's Citgo service station and did the banking for the business. They purchased a four-bedroom, two bath house with 1,800 square feet of floor space for a rambunctious family. Upstairs were two bedrooms; boys on the left, girls on the right. Gene and Greta had a bedroom downstairs, the fourth bedroom was Gene's office.
+Greta carried a hand-packed lunch down to Gene at his Citgo service station and did the banking for the business. They purchased a four-bedroom, two bath house with 1,800 square feet of floor space for a rambunctious family. Upstairs were two bedrooms; boys on the left, girls on the right. Gene and Greta had a bedroom downstairs, the fourth bedroom was Gene's office.
 
-Her children, like all children, tested her limits. Her middle son memorized joke books and would repeat them, rapid-fire, at the dinner table. By the time the kids were laughing, choking, and spitting up milk from their noses, Gene sent them to the basement. I picture Gene and Greta sitting at the quiet table, trying to keep an air of somber wisdom, but eventually smirking and breaking out in snorts themselves. Parental decorum *must* be maintained.
+Her children, like all children, tested her limits. Her youngest son memorized joke books and would repeat them, rapid-fire, at the dinner table. By the time the kids were laughing, choking, and spitting up milk from their noses, Gene sent them to the basement. I picture Gene and Greta sitting at the quiet table, trying to keep an air of somber wisdom, but eventually smirking and breaking out in snorts themselves. Parental decorum *must* be maintained.
 
 One daughter was famous for sneaking out from her second-floor bedroom by climbing down the antenna mast next to the house. She had to avoid the nearby kitchen window, especially if anyone was doing late night dishes. Once, upon her return, she was halfway up the mast when a passing car caught her in its headlights. I'm told the car stopped for a minute, then drove on. She continued her climb and nothing more was ever said. That word never travelled back to Gene and Greta is surprising considering a town the size of Neillsville.
 
@@ -66,7 +66,7 @@ We entered town on highway 10 through downtown, took a left at highway 73, drove
 
 I stand about six-foot, two-inches tall; the tallest of all the Niemann kids. My dad had the nickname of "shorty," which I originally thought was because of his height, but later learned it was due to his haircut. I am genetically like my grandfather, Louie, who stood 6-foot-6 and towered over Ella, his five-foot-and-a-little-bit-short wife.
 
-Greta is about five-foot-nothing and barely comes up to my shoulder. When I first met Greta, she came out to the front door as I was unfolding myself from the front seat of my surplus postal jeep. She gave me an unflinching hug in spite of the road odor I carried. To return her hug I had to bend over-almost getting down on my knees to equalize our height. She was so damned pleased to meet me.
+Greta is about five-foot-nothing and barely comes up to my armpit. When I first met Greta, she came out to the front door as I was unfolding myself from the front seat of my surplus postal jeep. She gave me an unflinching hug in spite of the road odor I carried. To return her hug I had to bend over-almost getting down on my knees to equalize our height. She was so damned pleased to meet me.
 
 Janell and I married, had kids, moved from the Midwest to Wyoming, then Colorado, then Portland, Oregon. Gene died shortly after we moved into our Portland home. Greta kept showing up. We have a spare bedroom and she loves to clean house. I told her several times she should move to Portland. She laughed and turned us down each time. I wasn't kidding.
 
