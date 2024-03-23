@@ -10,7 +10,7 @@ The range was avocado green with a glass-top stove, an electric oven and a warme
 
 For thirty years, she cooked three meals a day without fail and without complaint. I wasn't there to observe Janell's formative years, but I can only imagine the uproar of slinging breakfast for five children, some late for school, some needing a diaper change. Gene did what he could, ate a half piece of toast, washed it down with a cup of coffee and went to the gas station.
 
-I have first-hand experience on what Greta considered an acceptable dinner. It wasn't fancy, but it was plentiful and satisfying. It was delivered to the table with the timing of a professional chef. It was warm. Gene said grace, and Greta always added how she was lucky to have such a good provider. I remember thinking that if I was to continue this relationship with Janell, there were pretty clear expectations of my role in any resulting marriage.
+I have first-hand experience on what Greta considered an acceptable dinner. It wasn't fancy, but it was plentiful and satisfying. It was delivered to the table with the timing of a professional chef. It was warm. The family prayed, and Greta always added how she was lucky to have such a good provider. I remember thinking that if I was to continue this relationship with Janell, there were pretty clear expectations of my role in any resulting marriage.
 
 "Eat it, then it will be gone," Greta would say, passing the entree and salad around the table a third time. The refrigerator was full of leftovers from yesterday until she brought out plates for snacking on during the evening family game.
 

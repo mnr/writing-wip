@@ -1,6 +1,6 @@
 # The Independent Life {.unnumbered}
 
-Life in the independent wing of Evergreen Meadows Senior Community is akin to a college dorm, without the heavy drinking, overactive sexuality, and loud rock music. Maybe it is - I don't have surveillance camera footage to confirm my assumptions. I do know the male/female ratio is in favor of the men; the odds are good, but the goods are odd.
+Life in the independent wing of Evergreen Meadows Senior Community is akin to a college dorm, without the heavy drinking, overactive sexuality, and loud rock music. Maybe it is - I don't have surveillance camera footage to confirm my assumptions. I do know the male/female ratio is in favor of the men.
 
 Greta's apartment has a kitchen and her kitchen has the equipment from her previous home. She has the capacity to prepare a meal for thirty relatives, plus sending them home with a bag of sandwiches for the ride home. Seating might be a challenge, she has a total of six chairs.
 
@@ -14,7 +14,7 @@ Greta's new friend Bobbi shows up at the door, knocks, and Greta lets her in. Vi
 
 "Are we allowed to drink beer here?" Greta asks.
 
-"I don't know," admits Bobbi. "Let's grab one and sneak into the staircase."
+"I don't know," admits Bobbi. "Let's grab one and sneak into the hall closet."
 
 I am not making this up. The Evergreen Meadows Senior Community marketing director will attest to the fact of finding Greta and Bobbi in the staircase, drinking a clandestine beer. She asked them why they were sneaking around and got the full story. By the way, independent residents can do anything they damn well please, as long as it doesn't scare the staff. Drinking beer in the staircase, or their room, or the common spaces is allowed. But it's much more fun if it's not.
 
@@ -40,7 +40,7 @@ Later we'll talk about the memory care wing. But it's not time for that yet.
 
 The Evergreen Meadows Senior Community kitchen staff are efficient and precise. There's a lot of food to prepare and it needs to be served warm, arriving at the table in a narrow window of time. Their budget precludes juggling a fluid schedule of reservations. Show up according to the plan, please, or miss dinner.
 
-Greta wasn't making it to breakfast, lunch, or dinner. In the past, when she controlled the meal schedule, things happened with a careful eye to the clock. Gene finished work at 6:00 pm, walked home in five minutes, washed his hands and sat down at the table. Dinner was on the table at 6:08 pm every evening. Given her history of running *her kitchen* in the way she saw fit, I'm not surprised she pushed back on being told when to show up for meals.
+Greta wasn't making it to breakfast, lunch, or dinner. In the past, when she controlled the meal schedule, things happened with a careful eye to the clock. Gene finished work at 6:00 pm, drove home in five minutes, washed his hands and sat down at the table. Dinner was on the table at 6:08 pm every evening. Given her history of running *her kitchen* in the way she saw fit, I'm not surprised she pushed back on being told when to show up for meals.
 
 *Nobody* is going to tell Greta when dinner is served. She may be small, but she is mighty, and dinner will be ready when she says it's ready. *Understand?*
 

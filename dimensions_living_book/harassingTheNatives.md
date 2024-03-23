@@ -10,7 +10,7 @@ Margaret is shorter than five feet, I'm taller than six. She has a curved spine 
 
 She is clearly considering a different orifice, but chooses a more discrete option. I'm shocked, I say. SHOCKED to hear such a big thing come from such a small woman. We smile and she is on her way.
 
-Later she stops by to ask forgiveness for her spicy response. Janell steps in, saying "Margaret, you said exactly the right thing. You're my new best friend." I'm being ganged up on by the women - deservedly so.
+Later she stops by to ask forgiveness for her spicy response. Janell steps in, saying "Margaret, you said exactly the right thing. You're Mark's new best friend." I'm being ganged up on by the women - deservedly so.
 
 When she's not telling me to stuff it, Margaret is morose. Her body is failing and she is ready for the Lord to call her home, a common euphemism for a merciful death. I kneel down at her table in the dining hall, place my left arm on the back of her chair, my right hand on her arm, and I look her in eyes. She has my full attention and I listen as she tells me what she hopes for.
 
