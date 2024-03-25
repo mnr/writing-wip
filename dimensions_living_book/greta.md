@@ -6,7 +6,7 @@ I've known Greta for forty years and she likes to tell me stories about growing 
 
 "Oh, you are really picking my brain now," she says. She looks into the forty years before we met, then comes back. I know that's a sign I'm going to hear something new and always unexpected.
 
-Greta was born in 1934 in Marshfield, Wisconsin. Her father maintained a small dairy herd and opened a roadside tavern where she helped serve roasted chicken and beer. Her dad served minors, although he was quick to tell these kids "you've had enough" and made it clear drinking was not an opportunity to harass his daughters.
+Greta was born in 1934 outside of Dorchester, Wisconsin. Her father maintained a small dairy herd and opened a roadside tavern where she helped serve roasted chicken and beer. Her dad served minors, although he was quick to tell these kids "you've had enough" and made it clear drinking was not an opportunity to harass his daughters.
 
 She loved her dad; he would take her to town when he went for business and buy her a treat. Her sister was jealous, and Greta told her that Dad would take her as well - she just needed to ask. Apparently she never did.
 
