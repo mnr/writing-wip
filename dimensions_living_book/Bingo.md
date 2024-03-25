@@ -4,21 +4,21 @@ Every Sunday, a weekly activity guide appears in my mailbox. Fitness class is on
 
 That's all very nice, but how we *long* for bingo night.
 
-## Two Important Things
+## Important Things
 
-*Nickel Bingo is every Thursday night at 6:00 p.m.*
+*Nickel Bingo is every Thursday at 6:00 p.m.*
 
-There are two notable things about this sentence. Lesser of the two, but still significant, is the time: Nickel Bingo happens at 6 p.m. Activities occurring past 5:00 p.m. are *late-evening*. ~~Supper~~ ~~Dinner~~ Supper is served from 4:30 to 5:30 p.m.; past then, the halls become the domain of the night owls. Any resident gatherings after six p.m. feel surreptitious. Walk unannounced into one of the activity rooms and you may find residents quietly playing Rummikub, but that's just to avert suspicion; when you move out of earshot, they will resume plotting world domination.
+There are two notable parts of this sentence. Lesser, but still significant, is the time: Nickel Bingo happens at 6 p.m. Activities occurring past 5:00 p.m. are *late-evening*. ~~Supper~~ ~~Dinner~~ Supper is served from 4:30 to 5:30 p.m.; after that, the halls become the domain of the night owls. Any resident gatherings after six p.m. feel surreptitious. Walk unannounced into one of the activity rooms and you may find residents quietly playing Rummikub, but that's just to avert suspicion; when you move out of earshot, they will resume plotting world domination.
 
-Before living here, these late-night residents huddled around the corner table in a seedy bar, speaking in lowered voices and pausing their negotiations when the server came by to refill drinks. After I have lived here for a month, they trust me a bit. But they still change conversation when I approach.
+Before living here, these late-nighters huddled around the corner table in a seedy bar, speaking in lowered voices and pausing their negotiations when the server came by to refill drinks. After I have lived here for a month, they trust me a bit. But they still change conversation when I approach.
 
 At six o'clock on Thursday evenings, the late-nighters forego Rummikub and move to the Independent Dining Room for *nickel bingo*.
 
 ## Nickel Bingo
 
-Nickel Bingo is the second notable thing in the above sentence. There are *other* bingo games during the week, notably candy bingo and jewelry bingo, but these are minor-league compared to nickel bingo. If you win at candy or jewelry bingo, you get to choose a piece of candy (or a piece of jewelry). But, *you don't put anything in the cup to play*. For these games, you can show up empty-handed and still win. The bingo sharks take part in these lesser events, but only as a side to the big event on Thursday evening.
+Nickel Bingo is the second notable thing in the above sentence. There are *other* games during the week, notably candy bingo and jewelry bingo, but these are minor-league compared to nickel bingo. If you win at candy or jewelry bingo, you get to choose a piece of candy (or a piece of jewelry). But, *you don't put anything in the cup to play*. You can show up empty-handed and still win. The bingo sharks participate in these lesser events, but only as a side to the big event on Thursday evening.
 
-Very few men take part in candy or jewelry bingo. I asked the activity coordinators if there is ever gun bingo, fishing lure bingo, or whiskey bingo. (answer: *no!*) I've thought of organizing an underground bingo association for the men; the poorly lit basement would be ideal for a cigar-smoking, whiskey-drinking Friday night game. So far, I’ve abstained from instigating this clandestine event. I don't want to be the cause (or subject) of an *official memo* on inappropriate evening activities.
+Very few men show up for candy or jewelry bingo. I asked the activity coordinators if there is ever gun, fishing lure, or whiskey bingo. (answer: *no!*) I've thought of organizing an underground bingo association for the men; the poorly lit basement would be ideal for a cigar-smoking, whiskey-drinking Friday night game. So far, I’ve abstained from instigating this clandestine event. I don't want to be the cause (or subject) of an *official memo* on inappropriate evening activities.
 
 ::: {.callout-note icon="false"}
 ## Official Memos
@@ -28,7 +28,7 @@ Official memos come from the Facility Director and appear in your campus mail sl
 
 ## Games
 
-In my family, games were a thing to do with your hands while we socialized. In the Ross family, games are serious. "*Are you going to talk, or are you going to play?*" They want to win the game, not just play. After a few rounds, I realize I don't have the level of competitiveness required. So I watch and make humorous commentary from the sidelines.
+In my family, games were a thing to do with your hands while we socialized. In the Ross family, games are serious. "*Are you going to talk, or are you going to play?*" They want to win the game. After a few rounds, I realize I don't have the level of competitiveness required. So I watch and make humorous commentary from the sidelines.
 
 Greta will happily play cribbage well past the time my humor can stay awake. She's quick, recognizes the points for certain combinations of cards and announces her score after a glance. Apparently it's an automatic reflex, like breathing or heart beats or flinching away from my strong coffee.
 
@@ -38,11 +38,11 @@ Instead of cribbage, I take Greta to community bingo. She misses some of the cal
 
 ## Bingo Basics
 
-Bingo knowledge will help you understand the drama associated with nickel bingo. I'll make this as brief as possible, after which I'll explain why our bingo night frequently descends into mayhem.
+Bingo knowledge will help you understand the drama associated with nickel bingo. I'll make this as brief as possible, after which I'll explain why our quiet little games frequently descend into mayhem.
 
-Explained simply, bingo is a game of drawing a straight line through five random numbers on a grid. A caller selects numbers then players mark them if they are on their card. When the marks form a row or column, the player calls out "BINGO." Everyone expresses amazement, and the game is reset.
+Explained simply, bingo is a game of drawing a straight line through five random numbers on a grid. A caller selects those numbers, then players mark them if they are on their card. When the marks form a row or column, the player calls out "BINGO." Everyone expresses amazement, and the game is reset.
 
-Players select a bingo card from a stack. I don't believe you can bring your own card. This isn't like pool where you own a custom-made stick. Private cards, at the least, would be a topic of conversation for weeks; at worst, it would be the cause of another *official memo*.
+Players select a bingo card from a stack. I don't believe you can bring your own card. This isn't like pool where you own a custom-made stick. Private cards, at the least, would be a topic of conversation for weeks; at worst, it would be the cause of another *official memo*. There is very little strategy to bingo; it’s simply something to do with a group of friends.
 
 ## The Player Table
 
@@ -50,9 +50,9 @@ Our players agreed on assigned seating, even though an *official memo* discourag
 
 Each player has two bingo cards. (I could play more, but two is the norm. And I've learned to stick to the norm. Mostly. Occasionally. *It's complicated*.) 
 
-A small bowl sits in the middle of our table. It might be empty or it might contain change. At the beginning of each round, we contribute one nickel per card, placing the coins in the bowl. Two cards, two nickels. Therefore, we call this game nickel bingo. Four people at the table times two cards results in eight nickels in the bowl. Which equals forty cents. Instead of two nickels, we may deposit one dime. If someone deposits a quarter, they can remove fifteen cents from the bowl.
+A small bowl sits in the middle of our table. It might be empty or it might contain change. At the beginning of each round, we contribute one nickel per card, placing the coins in the bowl. Two cards, two nickels. Therefore, we call this game nickel bingo. Four people at the table times two cards results in eight nickels in the bowl. Which equals forty cents. Instead of two nickels, we may deposit one dime. If someone deposits a quarter, they can remove fifteen cents.
 
-If I forget my jar of nickels, I sponge off Greta. She’s gracious, but I worry this will strain our relationship. Her change includes quarters, dimes, pennies, and sometimes dollar bills. Non-nickels cause confusion. For God’s sake, don’t bring foreign currency. This would precipitate another *official memo*.
+If I forget my jar of nickels, I sponge off Greta. She’s gracious, but I worry this will strain our relationship. Her change includes quarters, dimes, pennies, and sometimes dollar bills. For God’s sake, don’t bring foreign currency. This would precipitate another *official memo*.
 
 Before I remove money from the bowl, I am *inordinately* clear about my action and intention. Someone might misconstrue sudden movement. Fortunately, weapons are not allowed in our building.
 
@@ -80,19 +80,19 @@ During my training to become certified as a bingo money collector, I also learne
 
 1.  I arrive at the table and develop empathy with the players. I assure them they will win during this round. They assume I am lying to gain their favor, which is true.
 
-2.  Someone will need change, most likely for a dollar. I count out nickels from the bingo fees I've already collected, then exchange nickels for the dollar.
+2.  Someone needs change, most likely for a dollar. I count out nickels from the bingo fees I've already collected, then exchange them for the dollar.
 
 3.  I reach to collect the bowl. In this scenario, someone will object; "You already collected for this round."
 
-I may think I am *certain* I have not collected. But I am only one vote out of five, the other four being the players seated at the table. They may assume the bowl contains money for the next round. The act of making change interrupted the normal interaction between players and the collector. Or sadly, their short-term memory is a bit wobbly. Untangling this error is tortuous. I tried to reason through a narrative of the collection, but there is no point to this. Again---smile. Move on.
+I am *certain* I have not collected. But I am only one vote out of five, the other four being the players seated at the table. They assume the bowl contains money for the next round. The act of making change interrupted the normal interaction between players and the collector. Or sadly, their short-term memory is a bit wobbly. Untangling this error is tortuous. I tried to reason through a narrative of the collection, but there is no point to this. Again---smile. Move on.
 
 Someone may not contribute or is flustered with the quick flow of money across the table. I learned to carry a supplemental pocket of nickels and make a lightning loan where necessary. *"I've got you covered,"* I tell my new friend. In a few minutes, everyone forgets about the loan, but the friendship remains. I count that as a win.
 
-As you might realize, collections became an issue of major contention and even made it to a topic of discussion at a town hall. Two volunteers stepped up with a plan; now we have a collection system inspired by the traditions of the Lutheran Church.
+As you might realize, collections became an issue of major contention and even made it to a topic of discussion at a town hall. Volunteers stepped up with a plan; now we have a collection system inspired by the traditions of the Lutheran Church.
 
 ## Game Phase Two---The Calling
 
-After collecting, the bingo caller proceeds with the announcement of the numbers. Again, let me explain the simple concept; then I'll explain the nuances that lead to shouting.
+After collecting, the bingo caller proceeds with the announcement of the numbers. Again, let me explain the simple concept; then the nuances that lead to shouting.
 
 ::: {.callout-note icon="false"}
 ## Bingo Caller Certification
@@ -100,7 +100,7 @@ After collecting, the bingo caller proceeds with the announcement of the numbers
 You might think I am kidding about bingo caller certification. I am not. Depending on location, you may be required to take a class, pass a test, and/or annually renew your license. Search the internet for *bingo certification* for details.
 :::
 
-To start, the caller draws one ball from a bucket of 75 and announces the letter/number combination ("G-48. That's GEE...FOUR...EIGHT), then---and this is important---places the ball in the correct place in a master matrix. With the ball safely in place, the caller repeats the process. The master matrix is an easy way to confirm which numbers have been called. Which is really important when someone calls...
+To start, the caller draws one ball from a bucket of 75 and announces the letter/number combination ("G-48. That's GEE...FOUR...EIGHT), then---and this is important---places that ball in a master matrix. With the ball safely in place, the caller repeats the process. The matrix is an easy way to confirm which numbers have been called. Which is important when someone calls...
 
 **BINGO!**
 
@@ -110,11 +110,11 @@ To start, the caller draws one ball from a bucket of 75 and announces the letter
 
 Qualities of a good bingo caller---the sender, in this discussion---include enunciation, volume, and pacing. This is much like an auctioneer, but slower. There is such a thing as lightning bingo---but not here.
 
-Ideally, the caller will draw a ball from the bucket, then look at the letter and number on the ball, call out the number clearly and carefully, pause, repeat the letter and number, place the ball in the master matrix, pause, shuffle the balls, and draw the next ball.
+Ideally, the caller will draw a ball from the bucket, then look at the letter and number on the ball, call out the number clearly and carefully, pause, repeat the letter and number, place the ball in the matrix, pause, shuffle the balls, and draw the next one.
 
-However, some callers forgot their training and gain bad habits: Speaking softly. Sloppy pronunciation. Calling too fast. When auditioning a caller, we favor experience as pastor, square-dance caller, sports announcer, elementary school teacher, or game-show host. Unfortunately, the qualification of the caller is not the only chaotic force in action.
+However, some callers forget their training and gain bad habits: Speaking softly. Sloppy pronunciation. Calling too fast. When auditioning a caller, we favor experience as pastor, square-dance caller, sports announcer, elementary school teacher, or game-show host. Unfortunately, the qualification of the caller is not the only chaotic force in action.
 
-Pacing is every bit as important as volume and enunciation. As we age, our brains suffer a reduction in processing speed. When I was twenty-years-old, I could do advanced math in my head. I could also perform deep-knee bends while lifting seventy-pound weights. Forty years later, math takes longer and my knees support less weight. Pausing between bingo calls gives everyone a chance to hear the number, parse the number, check both bingo cards, slide the plastic cover on a number, wiggle the cover if it sticks, confirm the number with a neighbor, check for a bingo pattern, and re-focus to prepare for the next number.
+Pacing is every bit as important as volume and enunciation. As we age, our brains suffer a reduction in processing speed. When I was twenty-years-old, I could do math in my head. I could also perform deep-knee bends while lifting seventy-pound weights. Forty years later, math takes longer and my knees support less weight. Pausing between bingo calls gives everyone a chance to hear the number, parse the number, check both bingo cards, slide the plastic cover, wiggle the cover if it sticks, confirm the number with a neighbor, check for a bingo pattern, and re-focus to prepare for the next call.
 
 To develop empathy, imagine a professor calling out polynomial equations at the pace of one per minute. I might solve the first. Possibly the second. By the third I would call for a pause, and by the fourth I would be irretrievably lost and complaining to my table-mates. Madness and shouting would ensue. Bingo players don't like it when callers move too fast.
 
@@ -126,23 +126,23 @@ About those damn bingo balls. They are plastic; every time the caller stirs the 
 
 RATTLERATTLERATTLE causes a cascade of secondary noise, caused by one or more calls to repeat the last number, followed by some of the bingo players repeating the number (out of sync, so the response is also confused) followed by the bingo caller demanding silence, which is followed by more bingo players again asserting the latest number simultaneous to a different group of players asking if it was a different number, followed by the caller repeating the number, followed by someone asking if that is the last number or the next number. Simultaneously, there is background rumbling about the caller being inaudible or the players needing to pay better attention.
 
-Also problematic are outsiders: relatives, children, nursing staff, janitors. Relatives and children are the worst, as they have no respect for the sanctity of the game in progress. Typically, they appear at the door of the bingo parlor, squeal, and call out; "GRANDMA! WE'RE HERE!" They invade our sanctuary en masse, surround their relative and talk loudly about their *car trip* and *how good it is to see them* and *how big the kids have grown* and *we have this pie we baked for you* and *what's going on here* and *Oh, I love bingo* and *we should join in*.
+Also problematic are outsiders: relatives, children, nursing staff, janitors. Relatives and children are the worst, as they have no respect for the sanctity of the game in progress. Typically, they appear at the door, squeal, and call out; "GRANDMA! WE'RE HERE!" They invade our sanctuary en masse, surround their relative and talk loudly about their *car trip* and *how good it is to see them* and *how big the kids have grown* and *we have this pie we baked for you* and *what's going on here* and *Oh, I love bingo* and *we should join in*.
 
 I'm enthusiastic about visitors. They brighten up everyone's day. But *gawdammit*, we're trying to play **bingo** here. ***Nickel Bingo!***
 
 Likewise, the nursing staff will sometimes stop by for blood pressure and pulseOx. They truly are heroes and wrangle medications with grace and care. But the brief interruption in game play means possibly missed numbers, causing one or more calls to repeat the last number, followed by some bingo players repeating the number ... and so on.
 
-If maintenance works late, they may vacuum in the next room. A vacuum cleaner produces "white noise," and it masks the bingo caller's voice. Players won't be able to hear one or more calls to repeat the last number ... and further so on and so forth.
+The maintenance team tries to be quiet, but sometimes they vacuum in the next room. A vacuum cleaner produces "white noise," and it masks the bingo caller's voice. Players won't be able to hear one or more calls to repeat the last number ... and further so on and so forth.
 
 #### Hearing
 
-If the caller enunciates, projects, and paces---and someone's kid isn't playing with a vacuum cleaner or banging out chopsticks on the piano---then it is reasonable to assume everything will go smoothly. 
+If the caller enunciates, projects, and paces---and someone's kid isn't banging out chopsticks on the piano---then it is reasonable to assume everything will go smoothly. 
 
-By age 80, it's not uncommon to experience a hearing loss of 50% in the frequency range of the human voice. Roughly one-third of the bingo players have some level of dementia, one symptom being confusion and agitation when dealing with the cacophony of many people talking at once. My friends are doing their best, but they need a bit of slack.
+By age 80, it's not uncommon to experience a hearing loss of 50% in the frequency range of the human voice. Roughly one-third of the bingo players have some level of dementia, a symptom being confusion and agitation when dealing with the cacophony of many people talking at once. 
 
-Do you wonder how this feels? Try balancing your checkbook while teaching a first-year band class. Add in a persistent five-year-old learning to tie their own shoes. Formally, this is cognitive overload. Informally this is *Can you all just be quiet for five minutes? Oh my gawd I'm getting a headache!*
+Do you wonder how this feels? Try balancing your checkbook while teaching a freshman band class. Add in a persistent five-year-old learning to tie their own shoes. Formally, this is cognitive overload. Informally this is *Can you all just be quiet for ten minutes? Oh my gawd I'm getting a headache!*
 
-By the way, good table mates look out for each other. After I scan my bingo cards, I stealthily scan my neighbor's cards and politely point out any numbers they missed. Done quietly, this is a gesture of kindness.
+By the way, good table mates look out for each other. After I scan my bingo cards, I stealthily check my neighbor's cards and politely point out any numbers they missed. Done quietly, this is a gesture of kindness.
 
 ## Game Phase Three---BINGO
 
@@ -152,7 +152,7 @@ There are three winning patterns: Five in a row, five in a column, and five diag
 
 Upon hearing bingo, the caller pauses the game and verifies the winner.
 
-An experienced caller will remind players *not* to clear their board until the bingo is confirmed. An inexperienced caller will forget this step and players will clear their boards. If a bingo isn’t confirmed, the confusion quotient of the room will rise. A player who mistakenly cleared their board will request a re-call of all the drawn numbers, but that takes time and is not popular. 
+An experienced caller will remind players *not* to clear their board until the bingo is confirmed. An inexperienced caller will forget this step. If a bingo isn’t confirmed, the confusion quotient of the room will rise. Any player who mistakenly cleared their board will request a re-call of all the drawn numbers, but that takes time and is not popular. 
 
 Confirming a bingo is mechanically easy, but can be problematic. If everything runs smoothly, the winning player reads out-loud the numbers comprising their bingo, the caller confirms those numbers were actually called, and if in agreement, the caller announces a winning bingo. To the winner goes the nickels and everyone resets their bingo cards.
 
