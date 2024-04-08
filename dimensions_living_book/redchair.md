@@ -14,13 +14,13 @@ I have a ghostly echo in my living room.
 
 Our apartment at Evergreen Meadows Senior Community includes access to a security cage for large items. It's in the basement parking garage, next to a disordered pile of wheelchairs, walkers, assistive toilet devices, and easy lift recliners. I assume former residents left these behind. Former, as in *moved on*. I haven't dug for any history on these items, but I suspect these are no longer useful to the previous owners or their children.
 
-This flotsam rests in an uninteresting pile in an unswept corner of the garage. There's no dramatic lighting, creepy features, or ominous soundtrack to warn of a haunting. Nobody comes down here except to retrieve their cars.
+This flotsam rests in an uninteresting pile in an unswept corner of the garage. Nobody comes down here except to retrieve their car. There's no dramatic lighting, creepy features, or ominous soundtrack to warn of a haunting.
 
 This is where I meet the red chair.
 
 ## Theft of the Red Chair
 
-Janell and I go for a ride on a bicycle trail. When we return, I store my bike in the basement security cage and wander over to the pile. Amidst the walkers and wheelchairs is a red leather La-Z-Boy recliner. It is in perfect condition, no rips or worn-through patches. The chair has a large wood lever to control the footrest. Lean back and it unfolds to a horizontal position. Move to sit upright and it folds to a normal chair shape. Its purpose is to make you comfortable; this is why it exists.
+It's a beautiful day in May and Janell and I return from a bike ride; I store my bike in the basement security cage, then wander over to the pile. Amidst the walkers and wheelchairs is a red leather La-Z-Boy recliner. It is in perfect condition, no rips or worn-through patches. The chair has a large wood lever to control the footrest. Lean back and it unfolds to a horizontal position. Move to sit upright and it folds to a normal chair shape. Its purpose is to make you comfortable; this is why it exists.
 
 The only wear and tear is a discolored area corresponding to the previous owner's head and faded spots on the armrests. Echoes of a past life.
 
@@ -38,7 +38,7 @@ The chair does its best to hide the dust on its arms and seat.
 
 "*You need such a chair!*" concludes the ghost. It pauses, waiting for our decision.
 
-Janell doesn't hesitate. "Get the luggage cart; we're taking this upstairs."
+Janell doesn't hesitate. "Get a dolly; we're taking this upstairs."
 
 ## Not So Fast
 
@@ -46,23 +46,23 @@ Building Administration for Evergreen Meadows Senior Community knows about this 
 
 If I were the ghost, I would make a similar omission. From the staff, we learn this chair was one of a set; they had already disposed of its partner. Our ghost had seen the future and---like Marley in *A Christmas Carol*---is doing its best to prevent the repeat of that fate. We unknowingly take part in the clandestine rescue of this chair.
 
-Housekeeping sees the chair in our apartment and reports its salvation. Administration sends their angel of destruction; Joe from maintenance. The message is final: we must return the chair to suffer its demise. The certification of assisted living facilities does not allow bedbugs; this chair is a carrier and so must be expunged.
+Using our best spatial skills, we fit it in the elevator, sneak it to our room, and give it a place of prominence in our small living room.
+
+A week later, housekeeping sees the chair and reports its salvation. Administration sends their angel of destruction; Joe from maintenance. The message is clear and final: we must return the chair to suffer its demise. The certification of assisted living facilities does not allow bedbugs; this chair is a carrier and so must be expunged.
 
 It is unfair to paint Administration as the villain in this story. This lone chair threatens the existence of a multi-million dollar senior care facility, closure of which will cause the unemployment of thirty staff and the expulsion of two hundred residents onto the streets. The staff do their best, given the constraints of state licensing guidelines and the boundaries of good common sense. The chair is an innocent victim of government regulation.
 
-Missing from this drama is the actual presence of bedbugs. To sanitize the chair, Maintenance had previously heated it to 200 degrees---bedbugs die at 115 degrees. Like a Greek hero, the chair passes through the gates of hell to gain redemption.
+Missing from this drama is the actual presence of bedbugs. To sanitize the chair, Maintenance had previously heated it to 200 degrees---bedbugs die at 115 degrees. Like a Greek hero, the chair passed through the gates of hell to gain redemption.
 
-We have sat in this chair for five days with no bites. There are no bedbugs. We ignore Administration's warning.
+We have sat in this chair for days with no bites. There are no bedbugs. We ignore Administration's warning.
 
-It is only a week later when I am stopped in the hall. Joe informs me that if I load the chair on a dolly, he will be glad to remove it. He is polite, but this is not a suggestion. The chair must be destroyed; we may not intervene on its behalf. *Bedbugs. State regulations. Employment.*
+It is only a week after the first warning when I am stopped in the hall. Joe informs me that if I load the chair on a dolly, he will be glad to remove it. He is polite, but this is not a suggestion. The chair must be destroyed; we may not intervene on its behalf. *Bedbugs. State regulations. Employment.*
 
-I have a photograph of Greta sleeping in this chair. She is tucked in with a colorful afghan and has an angelic smile. The chair is at peace; it is fulfilling a destiny. In good conscience I cannot stand by and allow it to be destroyed.
+I have a photograph of Greta sleeping in this chair. She is tucked in with a colorful afghan and has an angelic smile. The chair is at peace; it is fulfilling a destiny. In the corner of our apartment stand the ghost and the chair, looking at us with hopeful eyes. In good conscience I cannot stand by and allow it to be destroyed.
 
 But how?
 
 ## Hidden Fugitive
-
-In the corner of our apartment stand the ghost and the chair, looking at us with hopeful eyes.
 
 Jon, my college roommate, lives nearby. He collects old cars and stray dogs. Actually, his wife collects dogs, Jon collects cars. Dogs and old cars are alike except maintenance of the dogs is a fraction of that of the cars. Jon enters this story with an important asset: he owns a barn.
 
@@ -92,7 +92,7 @@ At the end of our stay at Evergreen Meadows Senior Community, we transport the c
 
 My younger son, Aaron, came for a visit the other day. He already heard the rumor of the red chair and the history of bedbugs. He experienced his own bedbug episode which resulted in the dumpsterizing of his leather overstuffed lounger.
 
-Aaron regards the red chair much the same way you might regard a road-kill deer dragged into the house.
+Aaron regards the red chair much the same way you might regard a road-kill dragged into the house.
 
 "So," he said. He stands somewhat leaned back, hands in pockets. He raises one eyebrow. "This is the chair?"
 
@@ -100,7 +100,7 @@ The chair straightens its shoulders and looks at Aaron with a hopeful expression
 
 "It's mechanically perfect!" I say. "It's valued at \$1,800 retail. We need such a chair!"
 
-Aaron isn't convinced, and his posture doesn't change. The chair looks from Aaron to me, hoping for reassurance I'll protect it. I pat the back of the chair; no worries, nobody is taking it to the dumpster.
+Aaron isn't convinced and his posture doesn't change. The chair looks from Aaron to me, hoping for reassurance I'll protect it. I pat the back of the chair; no worries little buddy, nobody is taking you to the dumpster.
 
 ## Ghosts
 
