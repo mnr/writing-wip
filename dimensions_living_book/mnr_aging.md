@@ -14,9 +14,9 @@ Now I can't remember where I put my keys, much less the key signature of the mus
 
 To document my *sudden* aging, the United States government sends me paperwork about Social Security and Medicare. I laugh about how those are for old people. I stop laughing when I realize I'm the old people they are talking about.
 
-I have grandchildren. My hair and beard is white. My skin is thinner, my knees complain when I stand up. Industry head-hunters have stopped calling me with job offers. In five years, I'll be seventy.
+I have grandchildren. My hair and beard are white. My skin is thinner, my knees complain when I stand up. Industry head-hunters have stopped calling me with job offers. In five years, I'll be seventy.
 
-I have finally gained a fine patina of wisdom. When I was twenty-five, I strove to be respected by my peers. Now I find that patina is easy to come by; it's called "liver spots."
+When I was twenty-five, I strove to be respected by my peers. I strived for a fine patina of wisdom. Now I find that patina is easy to come by; it's called "liver spots."
 
 This is the first time I've gotten old and I am totally unprepared. I was hoping the literature accompanying the Medicare paperwork would offer a seminar (hopefully in some exotic location) about gracefully aging. There are such seminars, but they are taught by forty-year-old celebrities and are mainly concerned about choosing make-up and fashion. Nothing about how an old white guy is supposed to proceed with confidence. (Of course, old white men have never lacked for an undeserved sense of confidence.)
 
