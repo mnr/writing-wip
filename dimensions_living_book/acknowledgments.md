@@ -8,6 +8,8 @@
 
 Staff of Dimensions Living (be specific)
 
-**Readers and Editors**: Don Barnes, Robin Rolfe, Abbie Weisenbloom
+**Readers and Editors**: Don Barnes, Robin Rolfe, Abbie Weisenbloom,
+
+**The Westminster Writer's Group**: John Goff, Janet Patin, Dick Morgan, Mari Partenheimer, Greg Moore, Paul Bigler, Amy Houchen, and Linda MacIntyre
 
 Janell Niemann-Ross
