@@ -18,7 +18,7 @@ I head off to clean and trim my nails, push the cuticles around, make things pre
 
 Today, Greta's toenails and fingernails need some attention. Janell is normally the designated caretaker on girlie things, but she takes a schadenfreude attitude, volunteers me, then watches as I squirm. I lock my self-inflicted notions of manhood in a box, make an appointment at "Josephine's Nail Salon" and load Greta and myself in the car.
 
-The toughest part of a manicure + pedicure is knowing when to talk. When I get the oil changed in the car, I surrender the keys, exchange a joke with the manager, grab a bag of free popcorn, and camp out with my email. Manicures are a different event; I don't have any good jokes about fingers, there is no popcorn, and I can't check my email because my fingers are busy getting soaked, buffed, or trimmed. Pedicures are another thing; what do I say to someone who is shaving off my calluses, digging out schmutz from under my toenails, and massaging my insteps. Do we discuss soap operas? (I don't watch any). Politics? (absolutely not in Wisconsin). Master-slave morality as espoused by Nietzsche? (I think not).
+The toughest part of a manicure + pedicure is knowing when to talk. When I get the oil changed in the car, I surrender the keys, exchange a joke with the manager, grab a bag of free popcorn, and camp out with my email. Manicures are a different event; I don't have any good jokes about fingers, there is no popcorn, and I can't check my email because my fingers are busy getting soaked, buffed, or trimmed. Pedicures are another thing; what do I say to someone who is shaving off my calluses, digging out schmutz from under my toenails, and massaging my insteps. Do we discuss soap operas? (I don't watch any). Master-slave morality as espoused by Nietzsche? (I think not).
 
 This time, I don't have that problem; Greta is always chatty and we fall into easy conversation. I occupy myself by figuring out the mystical icons on the control panel in the armrest, providing Greta with the benefit of my newly acquired mastery of the massage chair. I've had more relaxing massages from pneumatic jackhammers.
 
@@ -36,11 +36,11 @@ Three days later, we attend a funeral for a friend of Greta's from her early mar
 
 I help Greta get comfortable at a table with her friends, make sure everyone has a cup of coffee, then fade into the background. The conversation is about people and events I have never known, so I wander off to the bar.
 
-We're in a conservative Wisconsin town and the demographic of this crowded bar reflects the local population; mainly farmers, bikers, and tradesmen, all former army grunts who believe an occasional bar fight is just good, clean fun. I have the sense to order a generic beer (no craft beers here), which costs me a buck and comes in an eight-ounce glass with an etched logo. I extend my hand to pick up the glass from the bar; the bartender looks at the glass, then my hand, then at me.
+Bikers and other toughs fill this crowded bar; all former army grunts who believe an occasional bar fight is just good, clean fun. I have the sense to order a generic beer (no craft beers here), which costs me a buck and comes in an eight-ounce glass with an etched logo. I extend my hand to pick up the glass from the bar; the bartender looks at the glass, then my hand, then at me.
 
 I forgot about the nail polish.
 
-If these patrons beat me to a pulp for being a drag-queen-lefty-woke-elitist-hack, I won't be able to drive Greta back home, so I need to reframe this situation before I run out of teeth. I play the favorite son-in-law card.
+If these patrons beat me to a pulp for being a drag-queen-elitist-hack, I won't be able to drive Greta back home, so I need to reframe this situation before I run out of teeth. I play the favorite son-in-law card.
 
 "My mother-in-law chose this color," I say. "She needed a companion and all her friends were busy. Otherwise she would have been lonely."
 
@@ -60,7 +60,7 @@ Motherhood is a strong card to play and it works. The bikers aren't going to cha
 
 I bought Greta that beer and stuck around while she drank it. I had no loss of blood and was able to drive her home. Maybe I'm being overly-dramatic (I am), but at the time, there were a lot of large men who were not wearing nail polish. There was one of me. Add Greta and there were two of us with paint.
 
-I grew up in St. Paul, Minnesota with an entitled attitude gained from living in a big city. I then went to school in Menomonie, Wisconsin, a small town of 20,000. It was only a few days before I offended one of my classmates by suggesting farmers were somehow deficient.
+I grew up in St. Paul, Minnesota with an entitled attitude gained from living in a big city. I then went to school in Menomonie, Wisconsin, a small town of 12,000. It was only a few days before I offended one of my classmates by suggesting farmers were bumpkins.
 
 "Don't make fun of farmers with your mouth full," he informed me.
 
