@@ -8,7 +8,7 @@ I also received a clock from my mother. It is much more ornate and the chime is 
 
 I fiddle with email for a moment, then go downstairs for a snack. I keep a jar of pickled Spicy Brussels sprouts for this sort of thing. Janell hates them, so I enjoy the treat without feeling the need to save some for her.
 
-I pour a glass of water and head back to the stairs, passing the living room. I glance over, and see Greta sitting in the red chair. Both her and the chair seem to be content.
+I pour a glass of water and head back to the stairs, passing the living room. I hear someone humming. I glance over, and see Greta sitting in the red chair. Both her and the chair seem to be content.
 
 My rational self knows Greta is 1,945 miles to the east, sleeping in her bed at Evergreen Meadows Senior Community. She isn't here, just as the red chair doesn't manifest ghosts.
 
@@ -48,13 +48,13 @@ I play a two of spades. She plays a three of hearts. I play an ace. For that, I 
 
 "Because you signed an NDA?" I play the four of spades for six points.
 
-"No," Greta laughs. "Because these spoken words don't have what it takes to describe it. What happens after you die is so much more complex and wonderful than we can understand. Explaining it is kind of like talking to chickens, right? We'll be happier if we don't try to puzzle it out."
+"No," Greta laughs. "Because these spoken words don't have what it takes to describe it. Explaining it is kind of like talking to chickens, right? We'll be happier if we don't try to puzzle it out."
 
 The round ends with Greta at twenty-eight, I have twenty-three. I pause, take a drink of water. What do you ask a ghost, or whatever it is I am talking to? How to get rich? How to be all-powerful? Where did I misplace my keys?
 
 "Will you see Gene?"
 
-"I hope so. He's my soul mate. *Always* has been, *always* will be. I'm told Heaven will be different than here. No marriage, but life like angels. I'm looking forward to it."
+"I hope so. He's my soul mate. *Always* has been, *always* will be. I'm looking forward to it."
 
 I deal, we put cards in the crib. Greta plays the eight of clubs. I play a seven for two points. Greta plays another seven for an additional two points. Greta 30, Mark 25.
 
@@ -62,7 +62,7 @@ I deal, we put cards in the crib. Greta plays the eight of clubs. I play a seven
 
 "I doubt it. I'll tell her you were here."
 
-"Don't bother. I'll tell her myself."
+"Don't bother. I'll tell her myself." Greta is fading from view. "Tell her she made a good choice when she married you."
 
 "I miss my parents," I tell her. "I'll miss you too."
 
