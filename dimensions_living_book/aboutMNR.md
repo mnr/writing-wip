@@ -10,6 +10,6 @@ He lives in Portland, Oregon, paddles boats, and gives compliments to strangers.
 
 There's a lot happening in the world of this book. Find out more at this website:
 
-![](images/qr fave mother in law.png){width="273"}
+![](images/qr%20fave%20mother%20in%20law.png){width="273"}
 
 [More about my Favorite Mother-In-Law](http://niemannross.com/link/morefavemil)
