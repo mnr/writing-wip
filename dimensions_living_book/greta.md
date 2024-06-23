@@ -20,7 +20,7 @@ Greta married Gene in 1956. She birthed five children in Neillsville, Wisconsin.
 
 Greta carried a hand-packed lunch down to Gene at his Citgo service station and did the banking for the business. They purchased a four-bedroom, two bath house with 1,800 square feet of floor space for a rambunctious family. Upstairs were two bedrooms; boys on the left, girls on the right. Gene and Greta had a bedroom downstairs, the fourth bedroom was Gene's office.
 
-Her children, like all children, tested her limits. Her youngest son memorized joke books and would repeat them, rapid-fire, at the dinner table. By the time the kids were laughing, choking, and spitting up milk from their noses, Gene sent them to the basement. I picture Gene and Greta sitting at the quiet table, trying to keep an air of somber wisdom, but eventually smirking and breaking out in snorts themselves. Parental decorum *must* be maintained.
+Her children, like all children, tested her limits. Her youngest son memorized joke books and would repeat them, rapid-fire, at the dinner table. By the time the kids were laughing, choking, and spitting up milk from their noses, Gene sent them to the basement. I picture Gene and Greta sitting at the quiet table, trying to keep an air of somber wisdom, but eventually smirking and breaking out in snorts themselves.
 
 One daughter was famous for sneaking out from her second-floor bedroom by climbing down the antenna mast next to the house. She had to avoid the nearby kitchen window, especially if anyone was doing late night dishes. Once, upon her return, she was halfway up the mast when a passing car caught her in its headlights. I'm told the car stopped for a minute, then drove on. She continued her climb and nothing more was ever said. That word never travelled back to Gene and Greta is surprising considering a town the size of Neillsville.
 
@@ -34,25 +34,25 @@ Janell tells me she ignored several of the scenic overlooks in favor of reading 
 
 Greta and I conversed over the phone a year before I met her in person. I had returned from a trip and wanted to follow up on a potential romance with Janell Ross, but didn't have her phone number. This was before the internet, so I went to a phone booth and called directory assistance - 411 for those who don't remember the number.
 
-"Directory assistance," said the operator. This was a real person - not a recording, not an AI. "What city are you calling?"
+"Directory assistance," said the operator. This was a real person—not a recording, not an AI. "What city are you calling?"
 
-"Um, Neilsville, Wisconsin?" I had a letter with a return address of Neilsville, so I assumed I could reach her there. "I'm looking for Janell Ross."
+"Um, Neillsville, Wisconsin?" I had a letter with a return address of Neillsville, so I assumed I could reach her there. "I'm looking for Janell Ross."
 
 "I don't have a Janell Ross. I do have a Eugene Ross. I can connect you with that number."
 
 "That works." The phone clicked and rang. A voice answered.
 
-"This is Greta," says the voice on the phone.
+"This is Greta," said the voice on the phone.
 
-"Hi Greta," I say. "I don't think you know me, but I'm trying to call Janell. Can I get her phone number?"
+"Hi Greta," I replied. "I don't think you know me, but I'm trying to call Janell. Can I get her phone number?"
 
-Greta doesn't ask me if I'm a stalker, or suggest I could give her *my* phone number and she would pass it to Janell, or anything related to protecting her daughter from miscreants. She doesn't pause before giving me Janell's phone number in Green Bay, Wisconsin. It didn't occur to me she should be a bit less trusting than she was.
+Greta didn't ask me if I was a stalker, or suggest I could give her *my* phone number and she would pass it to Janell, or anything related to protecting her daughter from miscreants. She didn't pause before giving me Janell's phone number in Green Bay, Wisconsin. It didn't occur to me she should be a bit less trusting than she was.
 
 That's Greta.
 
 ## Meeting Greta
 
-I first met Greta when I was twenty-four years old. Janell, who is now my favorite wife, introduced me to her family. I was too self-confident to be nervous about how they might feel about me. As long as I didn't smoke pot in the living room after dinner, I would get high marks. (I could make a funny comment about a "high Mark" - as in a *stoned* Mark - but I'll resist the temptation.)
+I first met Greta when I was twenty-four years old. Janell, who is now my favorite wife, introduced me to her family. I was too self-confident to be nervous about how they might feel about me. As long as I didn't smoke pot in the living room after dinner, I would get high marks.
 
 I knew nothing about Neillsville until I went there with Janell. We drove into town and I started laughing.
 
@@ -62,21 +62,23 @@ I knew nothing about Neillsville until I went there with Janell. We drove into t
 
 "Neillsville is where I grew up," Janell informed me. Her tone was frosty. I decided it was best to keep my thoughts on sophistication vs population to myself. It was not a topic to pursue if I was hoping to get lucky.
 
-We entered town on highway 10 through downtown, took a left at highway 73, drove through a dying downtown and crossed O'Neill Creek. From there, it's a short drive to the family home and double-car garage. We pulled up in the driveway and honked.
+We entered town on Highway 10 through downtown, took a left at highway 73, drove through a dying downtown and crossed O'Neill Creek. From there, it's a short drive to the family home and double-car garage. We pulled up in the driveway and honked.
 
-I stand about six-foot, two-inches tall; the tallest of all the Niemann kids. My dad had the nickname of "shorty," which I originally thought was because of his height, but later learned it was due to his haircut. I am genetically like my grandfather, Louie, who stood 6-foot-6 and towered over Ella, his five-foot-and-a-little-bit-short wife.
+I stand about Six-Foot, Two-Inches tall; the tallest of all the Niemann kids. My dad had the nickname of "shorty," which I originally thought was because of his height, but later learned it was due to his haircut. I am genetically like my grandfather, Louie, who stood 6-foot-6 and towered over Ella, his five-foot-and-a-little-bit-short wife.
 
 Greta is about five-foot-nothing and barely comes up to my armpit. When I first met Greta, she came out to the front door as I was unfolding myself from the front seat of my surplus postal jeep. She gave me an unflinching hug in spite of the road odor I carried. To return her hug I had to bend over-almost getting down on my knees to equalize our height. She was so damned pleased to meet me.
 
 Janell and I married, had kids, moved from the Midwest to Wyoming, then Colorado, then Portland, Oregon. Gene died shortly after we moved into our Portland home. Greta kept showing up. We have a spare bedroom and she loves to clean house. I told her several times she should move to Portland. She laughed and turned us down each time. I wasn't kidding.
 
-Greta and I had one particular conversation I remember. We were walking on the Oregon coast, just the two of us. We got to talking about abortion and her Catholic faith. I'm Presbyterian (a liberal flavor of Protestant), but she never held that against me. I was explaining my stance on abortion, expressing my belief abortion was a medical issue and was a decision between a woman and her doctor. The church she belongs to was unwavering in the belief that abortion was wrong. Nevertheless, we had an open and respectful discussion about the issue, she gracefully accepted my thoughts, which gave me encouragement to accept hers.
+Greta and I had one particular conversation I remember. We were walking on the Oregon coast, just the two of us. We got to talking about abortion and her Catholic faith. I'm a liberal Presbyterian, but she never held that against me. I was explaining my stance on abortion, expressing my belief abortion was a medical issue and was a decision between a woman and her doctor. The church she belongs to was unwavering in the belief that abortion was wrong. Nevertheless, we had an open and respectful discussion about the issue, she gracefully accepted my thoughts, which gave me encouragement to accept hers.
 
 ## Religion
 
 Janell grew up Catholic. We married at my childhood church, North Como Presbyterian in Roseville, Minnesota. To cover all of our theological bases, we enlisted a Presbyterian minister and a Catholic Deacon to officiate.
 
-In response to the wedding announcement, we received a letter from Janell's aunt, who shared her disappointment that Janell was marrying outside the Catholic religion. I suppose she expected I would convert to Catholicism. The Catholic church, for their part, refused to allow me to participate in Catholic sacraments since I was a protestant outcast. My emotions have mellowed over the years, but I still clench my teeth when I recall the conversation with the Catholic Father at a pre-marriage encounter I attended with Janell. The Priest informed me I was *persona-non-grata* and would have to remain seated during the celebration of mass. The internet provides pages of rationalization about why this is, but none of it dampens the sting of being told I'm less than perfect in God's eye.
+In response to the wedding announcement, we received a letter from Janell's aunt, who shared her disappointment that Janell was marrying outside the Catholic religion. I suppose she expected I would convert to Catholicism.
+
+The Catholic church, for their part, refused to allow me to participate in Catholic sacraments since I was a protestant outcast. My emotions have mellowed over the years, but I still clench my teeth when I recall the conversation with the Catholic Father at a premarriage encounter I attended with Janell. The Priest informed me I was *persona non grata* and would have to remain seated during the celebration of mass. The internet provides pages of rationalization about why this is, but none of it dampens the sting of segregation.
 
 But then, there's Greta. She never brought this up. Never. Not once. She loved me for who I was. She overlooked my faith, my bad hygiene, my goofy dress code. She only saw the man her daughter loved and the potential I had as a son-in-law.
 
@@ -86,7 +88,7 @@ She loves her gay nephew. She's seen men (and priests) misbehave and small town 
 
 Greta laughs at my jokes. When we visit she looks past Janell to see if I'm there. If I am, Janell is dismissed and I get the first hug. I've told Greta she is my favorite mother-in-law (she is my *only* mother-in-law) and she agrees that I am her favorite son-in-law. (The other son-in-law is aware of this but chooses to ignore my little insults).
 
-My role in Greta's life is comedic relief--I'm the fun guy. With apologies to the family members who wrangle medications and bills and doctor visits, my job is to make Greta laugh. When Greta is feeling blue, I put on my walking shoes, leave my home in Portland, Oregon, and drive five days to Stevens Point, Wisconsin. I stay for a week, usually longer.
+My role in Greta's life is comedic relief&mdash;I'm the fun guy. With apologies to the family members who wrangle medications and bills and doctor visits, my job is to make Greta laugh. When Greta is feeling blue, I put on my walking shoes, leave my home in Portland, Oregon, and drive five days to Stevens Point, Wisconsin. I stay for a week, usually longer.
 
 I'm not sure why I have a close relationship with Greta. We didn't survive a plane crash in the Alps, foraging for food together in the frozen mountains. She didn't donate one of her kidneys to save me from a terminal illness. I've never borrowed money from her. Perhaps once for ice cream. But still, when I see her, my heart sings.
 

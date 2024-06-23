@@ -10,7 +10,7 @@ Greta is alarmed to hear this, but only because she has forgotten she doesn't ha
 
 "Perfect," I reply. "We've been having some problems with Facetime and I was hoping someone from Microsoft would be available to help."
 
-You may know Facetime is an Apple product--not Microsoft. I am deliberately misleading Thomas, but this mismatch doesn't seem to be a concern.
+You may know Facetime is an Apple product&mdash;not Microsoft. I am deliberately misleading Thomas, but this mismatch doesn't seem to be a concern.
 
 "That is good," replies Thomas. "Are you sitting in front of the computer?"
 
@@ -40,7 +40,7 @@ In fact, Greta's children have purchased an internet-connected picture frame. We
 
 I made my fortune in high-technology and approach new technology with enthusiasm and optimism. I've worked on projects that have changed society and industry. I look with admiration at the emergence of new technologies and the thrill of the youngsters introducing this new round of world-changers.
 
-However, I've become a skeptic. Simply--the creators of these devices are clueless about what it takes to bring Greta closer to her family.
+However, I've become a skeptic. Simply&mdash;the creators of these devices are clueless about what it takes to bring Greta closer to her family.
 
 ## Reading to Greta
 
@@ -48,7 +48,7 @@ When I'm in Stevens Point, I'm with Greta most of the day, reading. She has macu
 
 "How does she know this?" Greta remarks. "That is so very thoughtful."
 
-"I don't know," I respond. I've tried to get Claire to read her poems to Greta, but Claire won't do it. I understand---these poems come from deep inside her life. But I wish I had better insight so I could share this moment of lucidity with Greta.
+"I don't know," I respond. I've tried to get Claire to read her poems to Greta, but Claire won't do it. I understand&mdash;-these poems come from deep inside her life. But I wish I had better insight so I could share this moment of lucidity with Greta.
 
 Tomorrow, I will read the same book of poems to Greta, and she will say much the same things with the same sense of wonder. I'm saddened because Greta doesn't have the brain chemistry necessary to carry these poems with her, but envious of her constant sense of amazement and appreciation. She never takes Claire's poetry for granted.
 
@@ -70,7 +70,7 @@ When we are done reading Claire's book, I pick up the internet-connected picture
 
 When Greta tires, or is called for a meal, she will forget these images until the next time we sit on the couch. I will narrate these images and the smiling people they contain. She won't pick this device up on her own - the pictures are meaningless without someone providing context and insight. By itself, this wondrous picture frame is no more significant than the clock on the wall.
 
-*Oh my gosh*--I've almost forgotten Thomas from Microsoft Technical Support. I click the hold button and bring him back on speaker phone.
+*Oh my gosh*&mdash;I've almost forgotten Thomas from Microsoft Technical Support. I click the hold button and bring him back on speaker phone.
 
 "Thomas, are you still there?" I hold the phone up in my right hand so Greta can see. It helps her attention to visualize what she is hearing. In my left hand is the picture frame. "Greta and I were just getting her computer. We're looking at pictures!"
 

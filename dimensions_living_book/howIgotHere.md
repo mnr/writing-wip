@@ -2,15 +2,15 @@
 
 For two months, I have been the youngest resident of my mother-in-law's senior community. I am a mere sixty-five-years old and am told I'm an interloper, an outsider to this community with no hope of truly joining for another fifteen years.
 
-In contrast to my older friends at Evergreen Meadows Senior Community, my knees still work, I do yoga balance poses without a chair, and I (occasionally) win at pickle ball. I eat and drink pretty much what I like and I stay up past 9:00 p.m. All of these disqualify me from living at Evergreen Meadows Senior Community.
+In contrast to my older friends at Evergreen Meadows Senior Community, my knees still work, I do yoga balance poses without a chair, and I (occasionally) win at pickleball. I eat and drink pretty much what I like and I stay up past 9:00 p.m. All of these disqualify me from living at Evergreen Meadows Senior Community.
 
 Yet, here I am. How did that happen?
 
 ## **Housing**
 
-The God I worship doth not smite nor crush nor strike down mine enemies. But oh, man--watch out for that omnipotent sense of humor. I'm certain God has a dashboard next to his almighty throne. The dashboard is covered with an infinite number of push-buttons. Each button has the name of one of his children.
+The God I worship doth not smite nor crush nor strike down mine enemies. But oh, man—watch out for that omnipotent sense of humor. I'm certain God has a dashboard next to his almighty throne. The dashboard is covered with an infinite number of push-buttons. Each button has the name of one of his children.
 
-When he deems it necessary, he speaks in a booming voice, saying "I have called you by name, you are mine." With a flourish big enough to encompass a universe, he pushes a button. One of the angels working in Heavenly IT support notes a display, flashing the words "Custard Cream Pie Successfully Delivered." Here on Earth, these metaphorical pies-in-the-face manifest themselves in many ways. For some, it is a slip on a banana peel. For others, being chased by a rooster through a cow pasture.
+When he deems it necessary, he speaks in a booming voice, saying "I have called you by name, you are mine." With a flourish big enough to encompass a universe, he pushes a button. One of the angels working in Heavenly IT Support notes a display, flashing the words "Custard Cream Pie Successfully Delivered." Here on Earth, these metaphorical pies-in-the-face manifest themselves in many ways. For some, it is a slip on a banana peel. For others, being chased by a rooster through a cow pasture.
 
 God turns to St. Peter with a smile and says, "Wouldst thou likest to wager upon Mark? Five drachma sayeth he will accepteth any crazy idea I sendeth to his path."
 
@@ -22,13 +22,13 @@ God pushes my button, a custard pie is delivered and manifests as a lack of hous
 
 When we first arrive in Stevens Point, Janell and I try to stay in Greta's room. Evergreen Meadows Senior Community frowns upon this co-habitation. For our part, we chafe at the closeness of three of us 24 by 7, side by side. I imagine it's as claustrophobic as riding in a 1971 Ford Country Squire from Wisconsin to Florida, but without seat belts.
 
-I investigate long-term residency at the neighboring Holiday Inn: \$3,000 per month. No free breakfast, but access to the pool, weight room, and as many towels as you want. That's a lot of moola for sleeping next to the Clark County Fireman's Convention--or the FFA Regional Expo. Both events are loud and rowdy. Also not a solution.
+I investigate long-term residency at the neighboring Holiday Inn: \$3,000 per month. No free breakfast, but access to the pool, weight room, and as many towels as you want. That's a lot of moola for sleeping next to the Clark County Fireman's Convention—or the FFA Regional Expo. Both events are loud and rowdy. Also not a solution.
 
 I investigate AirBnB. There are no month-long stays available. I can string several one-week stays end-to-end, living the life of an urban nomad. We'll spend more time moving than making Greta laugh. This, too: not a solution.
 
-We can purchase a house. We can then furnish the house. We can start service for electric, water, sewer, and garbage. Or we can hang out with Greta--but not both. Obviously not a solution.
+We can purchase a house. We can then furnish the house. We can start service for electric, water, sewer, and garbage. Or we can hang out with Greta—but not both. Obviously not a solution.
 
-We can rent an apartment--for a minimum of six months. Or not, because Stevens Point has no available six month leases. This is also not a solution.
+We can rent an apartment—for a minimum of six months. Or not, because Stevens Point has no available six month leases. This is also not a solution.
 
 ## **The Solution**
 

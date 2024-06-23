@@ -4,13 +4,13 @@ Greta and her kitchen were legendary. Everyone was fed and watered from the mome
 
 When I recall my early memories of Greta, she is always in *her kitchen*. I emphasize "her kitchen" on purpose. I recall being able to sit at the table; I don't recall standing and talking. I would have been in the way.
 
-I wrote an article for *Wired* magazine about Greta. The Apple Macintosh had just been introduced and the software industry was realizing command-line interfaces were as ugly and non-intuitive as they were. We started to use phrases like "user-friendly", "point-and-click" and "windows." I experienced Greta waltzing around her kitchen, manipulating the oven and stove like a set of precision jeweler's tools. The story reflected on the relationship between Greta and her range, imploring my peers to aspire to the same relationship between these new computers and the people that would use them.
+I wrote an article for *Wired* magazine about Greta. The Apple Macintosh had just been introduced and the software industry was realizing command-line interfaces were ugly and non-intuitive. We started to use phrases like "user-friendly", "point-and-click" and "windows." I experienced Greta waltzing around her kitchen, manipulating the oven and stove like a set of precision jeweler's tools. My story reflected on the relationship between Greta and her range, imploring my peers to aspire to the same relationship between these new computers and the people that would use them.
 
-The range was avocado green with a glass-top stove, an electric oven and a warmer drawer. There was a clock with hands (not digital) and if you read the instructions, you could use the timer to turn the oven on and off. When Greta was in motion, the kitchen smelled of frying pork chops and onions.
+The stove was avocado green with a glass-top range, an electric oven and a warmer drawer. There was a clock with hands (not digital) and if you read the instructions, you could use the timer to turn the oven on and off. When Greta was in motion, the kitchen smelled of frying pork chops and onions.
 
 For thirty years, she cooked three meals a day without fail and without complaint. I wasn't there to observe Janell's formative years, but I can only imagine the uproar of slinging breakfast for five children, some late for school, some needing a diaper change. Gene did what he could, ate a half piece of toast, washed it down with a cup of coffee and went to the gas station.
 
-I have first-hand experience on what Greta considered an acceptable dinner. It wasn't fancy, but it was plentiful and satisfying. It was delivered to the table with the timing of a professional chef. It was warm. The family prayed, and Greta always added how she was lucky to have such a good provider. I remember thinking that if I was to continue this relationship with Janell, there were pretty clear expectations of my role in any resulting marriage.
+I have first-hand experience of what Greta considered an acceptable dinner. It wasn't fancy, but it was plentiful and satisfying. It was delivered to the table with the timing of a professional chef. It was warm. The family prayed, and Greta always added how she was lucky to have such a good provider. I remember thinking that if I was to continue this relationship with Janell, there were pretty clear expectations of my role in any resulting marriage.
 
 "Eat it, then it will be gone," Greta would say, passing the entree and salad around the table a third time. The refrigerator was full of leftovers from yesterday until she brought out plates for snacking on during the evening family game.
 
@@ -34,4 +34,4 @@ Greta lived alone after Gene died. She moved to a new house a few blocks away. W
 
 "I suppose. How are you doing in school?"
 
-Greta was losing interest in her kitchen and her neighborhood. The siblings saw the indicators and realized it was time to move Greta out of her home and into someplace with more resources; a nice apartment in the independent wing of Evergreen Meadows Senior Community in Stevens Point, Wisconsin. We have a video of Greta sticking out her tongue at us as she unhappily left her home in Neilsville.
+Greta was losing interest in her kitchen and her neighborhood. The siblings realized it was time to move Greta out of her home and into someplace with more resources; a nice apartment in the independent wing of Evergreen Meadows Senior Community in Stevens Point, Wisconsin. We have a video of Greta sticking out her tongue at us as she unhappily left her home in Neillsville.

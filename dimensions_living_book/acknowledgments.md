@@ -2,7 +2,7 @@
 
 **Siblings:** Bob Ross, Kathleen Rusovick. Connie - thanks for the edits
 
-**In Laws:** Lisa Ross, Mike Rusovick
+**In-laws:** Lisa Ross, Mike Rusovick
 
 **Barn Supplied By:** Jon Gehrke and Sharon Baumer and Ruby
 

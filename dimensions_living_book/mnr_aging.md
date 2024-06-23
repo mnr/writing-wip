@@ -16,7 +16,7 @@ To document my *sudden* aging, the United States government sends me paperwork a
 
 I have grandchildren. My hair and beard are white. My skin is thinner, my knees complain when I stand up. Industry head-hunters have stopped calling me with job offers.
 
-When I was twenty-five, I strove to be respected by my peers. I strived for a fine patina of wisdom. Now I find that patina is easy to come by; it's called "liver spots."
+When I was twenty-five, I strove to be respected by my peers. I worked hard for a fine patina of wisdom. Now I find that patina is easy to come by; it's called "liver spots."
 
 This is the first time I've gotten old and I am totally unprepared. I was hoping the literature accompanying the Medicare paperwork would offer a seminar (hopefully in some exotic location) about aging gracefully. There are such seminars, but they are taught by forty-year-old celebrities and are mainly concerned about choosing make-up and fashion. Nothing about how an old white guy is supposed to proceed with confidence. (Of course, old white men have never lacked for an undeserved sense of confidence.)
 

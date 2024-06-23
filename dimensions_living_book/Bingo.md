@@ -56,7 +56,7 @@ If I forget my jar of nickels, I sponge off Greta. She’s gracious, but I worry
 
 Before I remove money from the bowl, I am *inordinately* clear about my action and intention. Someone might misconstrue sudden movement. Fortunately, weapons are not allowed in our building.
 
-## Game Phase One---The Collection
+## Game Phase One—The Collection
 
 Before each round of bingo begins, the designated money collector circulates among the tables and gathers coins from each bowl. We assume the collector confirms each table has contributed the correct amount (*but maybe not. More on this in a minute*). Coins are placed at the head table and the bingo caller proceeds.
 
@@ -66,7 +66,7 @@ Collecting fees must be done with efficiency. Everyone waits for the game to beg
 
 You might think collection is an inconsequential job, but it is not. An informal and self-designated sub-committee of residents bestows the honor of collector upon an individual. The qualifications are not available for public review anywhere that I've seen, but I believe the main qualifier is squeezing between tightly packed tables, walkers, and wheelchairs. This requires the ability to bend your knees and locomote without support. I am proud to note I was asked to perform this task and discharged my duties with the earnestness of a first-time student council president.
 
-Now---I propose a conundrum for you to consider. *What is the proper response if the change is not correct for the number of bingo cards visible on the table?*
+Now—-I propose a conundrum for you to consider. *What is the proper response if the change is not correct for the number of bingo cards visible on the table?*
 
 The obvious strategy would be to ask if everyone has contributed. When I'm fortunate, one member will realize it is time to ante-up and contribute their fair share. Unfortunately, this rarely happens.
 
@@ -82,15 +82,15 @@ During my training to become certified as a bingo money collector, I also learne
 
 3.  I reach to collect the bowl. In this scenario, someone will object; "You already collected for this round."
 
-I am *certain* I have not collected. But I am only one vote out of five, the other four being the players seated at the table. They assume the bowl contains money for the next round. The act of making change interrupted the normal interaction between players and the collector. Or sadly, their short-term memory is a bit wobbly. Untangling this error is tortuous. I tried to reason through a narrative of the collection, but there is no point to this. Again---smile. Move on.
+I am *certain* I have not collected. But I am only one vote out of five, the other four being the players seated at the table. They assume the bowl contains money for the next round. The act of making change interrupted the normal interaction between players and the collector. Or sadly, their short-term memory is a bit wobbly. Untangling this error is torturous. I tried to reason through a narrative of the collection, but there is no point to this. Again—smile. Move on.
 
 Someone may not contribute or is flustered with the quick flow of money across the table. I learned to carry a supplemental pocket of nickels and make a lightning loan where necessary. *"I've got you covered,"* I tell my new friend. In a few minutes, everyone forgets about the loan, but the friendship remains. I count that as a win.
 
 As you might realize, collections became an issue of major contention and even made it to a topic of discussion at a town hall. Volunteers stepped up with a plan; now we have a collection system inspired by the traditions of the Lutheran Church.
 
-## Game Phase Two---The Calling
+## Game Phase Two—The Calling
 
-After the collection, the bingo caller proceeds with the announcing of numbers. Again, let me explain the simple concept; then the nuances that lead to shouting.
+After the collection, the bingo caller proceeds with the announcing of numbers. Again, let me explain the simple concept, then the nuances that lead to shouting.
 
 ::: {.callout-note icon="false"}
 ## Bingo Caller Certification
@@ -98,7 +98,7 @@ After the collection, the bingo caller proceeds with the announcing of numbers. 
 You might think I am kidding about bingo caller certification. I am not. Depending on location, you may be required to take a class, pass a test, and/or annually renew your license. Search the internet for *bingo certification* for details.
 :::
 
-To start, the caller draws one ball from a bucket of 75 and announces the letter/number combination ("G-48. That's GEE...FOUR...EIGHT), then---and this is important---places that ball in a master matrix. With the ball safely in place, the caller repeats the process. The matrix is an easy way to confirm which numbers have been called. Which is important when someone calls...
+To start, the caller draws one ball from a bucket of 75 and announces the letter/number combination ("G-48. That's GEE...FOUR...EIGHT), then—and this is important—places that ball in a master matrix. With the ball safely in place, the caller repeats the process. The matrix is an easy way to confirm which numbers have been called. Which is important when someone calls...
 
 **BINGO!**
 
@@ -106,7 +106,7 @@ To start, the caller draws one ball from a bucket of 75 and announces the letter
 
 #### The Caller
 
-Qualities of a good bingo caller include enunciation, volume, and pacing. This is much like an auctioneer, but slower. There is such a thing as lightning bingo---but not here.
+Qualities of a good bingo caller include enunciation, volume, and pacing. This is much like an auctioneer, but slower. There is such a thing as lightning bingo—but not here.
 
 Ideally, the caller will draw a ball from the bucket, then call out the number clearly and carefully, pause, repeat the letter and number, place the ball in the matrix, pause, shuffle the balls, and draw another.
 
@@ -132,7 +132,7 @@ The maintenance team tries to be quiet, but sometimes they vacuum in the next ro
 
 #### Hearing
 
-If the caller enunciates, projects, and paces---and someone's kid isn't banging out chopsticks on the piano---then it is reasonable to assume everything will go smoothly.
+If the caller enunciates, projects, and paces—and someone's kid isn't banging out chopsticks on the piano—then it is reasonable to assume everything will go smoothly.
 
 By age 80, it's not uncommon to experience a hearing loss of 50% in the frequency range of the human voice. Roughly one-third of the bingo players have some level of dementia, a symptom being confusion and agitation when dealing with the cacophony of many people talking at once.
 
@@ -140,7 +140,7 @@ Do you wonder how this feels? Try balancing your checkbook while teaching a fres
 
 By the way, good table mates look out for each other. After I scan my bingo cards, I stealthily check my neighbor's cards and politely point out any numbers they missed. Done quietly, this is a gesture of kindness.
 
-## Game Phase Three---BINGO
+## Game Phase Three—BINGO
 
 It eventually happens. Sometimes from another table. Sometimes from my table. Sometimes I double-take at my card and hear myself yell **BINGO**!
 
@@ -150,17 +150,17 @@ Upon hearing bingo, the caller pauses the game and verifies the winner.
 
 An experienced caller will remind players *not* to clear their board until the bingo is confirmed. If a bingo isn’t confirmed, the confusion quotient of the room will rise. Any player who mistakenly cleared their board will request a re-call of all the drawn numbers, but that takes time and is not popular.
 
-Confirming a bingo is mechanically easy. The winning player reads out-loud the numbers comprising their bingo, the caller confirms those numbers were actually called, and if in agreement, the caller announces a winning bingo. To the winner goes the nickels and everyone resets their bingo cards.
+Confirming a bingo is mechanically easy. The winning player reads out loud the numbers comprising their bingo, the caller confirms those numbers were actually called, and if in agreement, the caller announces a winning bingo. To the winner goes the nickels and everyone resets their bingo cards.
 
-Sometimes it isn't easy. As in all steps of bingo, problems appear during the implementation. The concept of "out loud" has various interpretations with multiple variables, including speed of delivery and volume of the player. But...maybe the caller's hearing isn't as good as it used to be. Maybe other players are chatting/gossiping/remarking at how close *they* were at winning. Maybe the caller's memory for numbers isn't 100%. It happens, but hopefully not often and hopefully not to you more than once. There are a limited number of hours available to us, so pay attention.
+Sometimes it isn't easy. As in all steps of bingo, problems appear during the implementation. The concept of "out loud" has various interpretations with multiple variables, including speed of delivery and volume of the player. But...maybe the caller's hearing isn't as good as it used to be. Maybe other players are chatting/gossiping/remarking at how close *they* were to winning. Maybe the caller's memory for numbers isn't 100%. It happens, but hopefully not often and hopefully not to you more than once. There are a limited number of hours available to us, so pay attention.
 
 ### Blackout Bingo
 
-Each evening bingo session includes ten rounds with the standard row/column/diagonal pattern. As mentioned above, these games cost one nickel per card. There is an additional, final round which uses a blackout pattern---cover **all** windows on the card. The cost per card doubles to *ten cents per card*. The table ante doubles from forty cents to eighty cents. Our bingo room has space for seven tables, so winning blackout bingo is a big payout---over FIVE DOLLARS!
+Each evening bingo session includes ten rounds with the standard row/column/diagonal pattern. As mentioned above, these games cost one nickel per card. There is an additional, final round which uses a blackout pattern—cover **all** windows on the card. The cost per card doubles to *ten cents per card*. The table ante doubles from forty cents to eighty cents. Our bingo room has space for seven tables, so winning blackout bingo is a big payout—-over FIVE DOLLARS!
 
 Blackout bingo takes longer than standard row/column/diagonal patterns, but the suspense is *killer!* I feel my blood pressure rise as I watch the card approach 100% coverage. Several times someone else calling **BINGO** has crushed my fantasy of a big payout. *Dammit!*
 
-## Game Phase Four---PAYOUT
+## Game Phase Four—PAYOUT
 
 I've won several times! A victory dance is tempting. I would beat my chest, throw my winning bingo card across the room and shout "**I DOMINATE! I AM THE BINGO JEDI MASTER! COWER IN FEAR, ALL WHO BEHOLD ME!**" I haven't done this. My knees are not up to dancing around. My older table mates would be ill-advised to beat their chests, considering any history of heart trouble. Finally, throwing anything across the room is likely to poke someone's eye out. Surely an official memo will be the result.
 
@@ -184,7 +184,7 @@ I divide up the money in mostly equal piles. I pour that money into the winner's
 
 ## Cheating at bingo
 
-We're all pretty sure James cheats. He wins *a lot*---at least, more than he should. I think I figured out how he does it. James sits with his back to a wall so no one can look over his shoulder. He uses small picture easels to hold his two bingo cards upright (Everyone else positions their cards flat on the table).
+We're all pretty sure James cheats. He wins *a lot*—at least, more than he should. I think I figured out how he does it. James sits with his back to a wall so no one can look over his shoulder. He uses small picture easels to hold his two bingo cards upright (Everyone else positions their cards flat on the table).
 
 Here's the trick: In his mind, he combines these two cards into one, doubling his chances of a matching number. When he calls bingo and reads back his numbers, he may read the first number from the first card, then the second number from the *second* card, the third number from the first (or second) card, and so-on.
 

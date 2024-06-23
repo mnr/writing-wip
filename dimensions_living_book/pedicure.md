@@ -4,7 +4,7 @@ I am sitting in a robotic massage chair, my feet are in a bucket of water; Greta
 
 I don't care what they think. I'm having a moment with Greta.
 
-Greta likes to look good. Her hair is quaffed and she's always been a spiffy dresser. Her fingernails and toenails are trimmed, polished, and painted. Greta is a classy woman.
+Greta likes to look good. Her hair is coiffed and she's always been a spiffy dresser. Her fingernails and toenails are trimmed, polished, and painted. Greta is a classy woman.
 
 In contrast, I have curated the look of someone who just stepped out of the woods. I trim my nails with a Swiss army knife, my pants are ripped in non-fashionable places, and I wear a shirt when I must.
 

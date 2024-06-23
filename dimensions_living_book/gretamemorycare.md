@@ -22,11 +22,11 @@ This all seems like a great achievement until I am called into the ~~principal's
 
 Again I am being told to *straighten up, buster*. Nicely, but the message is clear.
 
-When residents wander off-property, this is called "eloping." It is different from the high-school ill-advised marriage activity. Like marriage eloping, participants sometimes get lost and sometimes get in trouble. Families become upset and take legal action. That's bad. I shouldn't be teaching Greta to wander.
+When residents wander off-property, this is called "eloping." It is different from the high-school ill-advised marriage activity. But like marriage eloping, participants sometimes get lost and sometimes get in trouble. Families become upset and take legal action. That's bad. I shouldn't be teaching Greta to wander.
 
 ## Late Nights
 
-Greta has been pacing the halls of Evergreen Meadows Senior Community. Normally not a problem -- I lurk around the halls as well. The difference between Greta and me is that Greta shouts "HELP. WHERE IS EVERYBODY?" The staff helps her get back to her room and safely back in bed.
+Greta has been pacing the halls of Evergreen Meadows Senior Community. Normally not a problem—I lurk around the halls as well. The difference between Greta and me is that Greta shouts "HELP. WHERE IS EVERYBODY?" The staff helps her get back to her room and safely back in bed.
 
 Yesterday the staff saw her heading out of the parking lot. They send Joan to chase her down.
 
@@ -36,7 +36,7 @@ Yesterday the staff saw her heading out of the parking lot. They send Joan to ch
 
 It's actually dinner time, and she is heading for the highway. Both are clear indicators; it's time for Greta to move to the memory care unit.
 
-The decision to move Greta is difficult. Greta is chatty and social. Most of the folks in memory care are neither. Worse, Greta knows what memory care is all about. She's been back here to visit some friends and was able to carry on one-way conversations. She was relieved to make it back out of the locked doors keeping residents from wandering into the street. But this is inescapable; Greta needs the extra support she will receive from the memory care staff.
+The decision to move Greta is difficult. Greta is chatty and social. Most of the folks in memory care are neither. Worse, Greta knows what memory care is all about. She's been back there to visit some friends and was able to carry on one-way conversations. She was relieved to make it back out of the locked doors keeping residents from wandering into the street. But this is inescapable; Greta needs the extra support she will receive from the memory care staff.
 
 Her children concoct an elaborate plot to move her into this new apartment. Some of us take her out for the weekend. Others take advantage of her absence to carry things to the new place and store things she won't need or that won't fit. On Sunday evening, we return with Greta.
 

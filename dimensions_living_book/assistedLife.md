@@ -1,6 +1,6 @@
 # The Independent Life {.unnumbered}
 
-Life in the independent wing of Evergreen Meadows Senior Community is akin to a college dorm, without the heavy drinking, overactive sexuality, and loud rock music. Maybe it is - I don't have surveillance camera footage to confirm my assumptions. I do know the male/female ratio is in favor of the men.
+Life in the independent wing of Evergreen Meadows Senior Community is akin to a college dorm: without the heavy drinking, overactive sexuality, and loud rock music. Maybe it is - I don't have surveillance camera footage to confirm my assumptions. I do know the male/female ratio is in favor of the men.
 
 Greta's apartment has a kitchen and her kitchen has the equipment from her previous home. She has the capacity to prepare a meal for thirty relatives, plus sending them home with a bag of sandwiches for the ride home. Seating might be a challenge, she has a total of six chairs.
 
@@ -8,7 +8,7 @@ The unfortunate hair in the lasagna is that Greta has moved in during the Covid 
 
 But, as Dr. Ian Malcolm dryly observes, "Life finds a way." (Jurassic Park. Look it up.) Evergreen Meadows Senior Community simply doesn't have enough staff to police the halls all day and all night.
 
-Greta's new friend Bobbi shows up at the door, knocks, and Greta lets her in. Virus be dammed.
+Greta's new friend Bobbi shows up at the door, knocks, and Greta lets her in. Virus be damned.
 
 "Want to have a beer?" Bobbi asks.
 
@@ -46,7 +46,7 @@ Greta wasn't making it to breakfast, lunch, or dinner. In the past, when she con
 
 Greta wasn't eating. She didn't venture out of her room. She called her children, telling them she was alone and afraid and hungry. She wanted to return to her home where she knew where the kitchen was and where her friends were and where she could walk to St. Mary's Catholic Church.
 
-She didn't say it directly, but she needed assistance. So her children accommodated her needs. Greta made her first move at Evergreen Meadows Senior Community, leaving her apartment in the independent wing for a smaller room in the assisted portion of the building. The staff began looking in to suggest she go for a meal, or mass, or bingo. They couldn't tell her what to do, but they were aggressively helpful.
+She didn't say it directly, but she needed assistance. So her children accommodated her needs. Greta made her first move at Evergreen Meadows Senior Community, leaving her apartment in the independent wing for a smaller room in the assisted portion of the building. The staff began looking in to suggest she go for a meal, or Mass, or bingo. They couldn't tell her what to do, but they were aggressively helpful.
 
 She regained weight. She made friends and was invited to sit at table number one (an honor). Her world expanded. She was more talkative and friendly.
 
@@ -70,7 +70,7 @@ Here's the catch. If you need 24x7 care, you can't move back to Evergreen Meadow
 
 Here's the loophole. *If the siblings hired 24x7 care for Greta then she could return to Evergreen Meadows*. But damn, that's expensive!
 
-There are a few details I haven't mentioned just yet;
+There are a few details I haven't mentioned just yet:
 
 Janell retired a few months previous.
 

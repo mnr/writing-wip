@@ -2,7 +2,7 @@
 
 Walking to Greta's apartment, I noticed the artwork on the walls.
 
-It's bland; something you see in hotel lobbies. Let us ponder the classic painting of the genre, titled "Hunting Grouse." It's a wash of fall colors, mostly orange fading to brown. There is, predictably, a grouse in flight and a hunter in the distant background. The bird is flying to the left, the hunter is walking to the right. The subjects of the painting are trying their hardest to escape this mundane print.
+It's bland: something you see in hotel lobbies. Let us ponder the classic painting of the genre, titled "Hunting Grouse." It's a wash of fall colors, mostly orange fading to brown. There is, predictably, a grouse in flight and a hunter in the distant background. The bird is flying to the left, the hunter is walking to the right. The subjects of the painting are trying their hardest to escape this mundane print.
 
 This art is designed to be less interesting the longer you look at it. These paintings are chosen so the colors of the art match the paint of the hallway, rather than choosing wall colors to accentuate the art. The corporate Optics and Design department strives for a calming theme that won't disrupt anyone's delicate sensibilities.
 
@@ -48,6 +48,6 @@ For art to be appreciated, you must spend time with it. Flipping through a coffe
 
 To appreciate the community I live with takes time. You can't wander through on a Sunday afternoon and hope to notice subtle details. You will walk by the artwork of the grouse and hunter but never see it. You'll never look up and notice the umbrella at the corner of California and Florida. If your parent bothers to explain this umbrella, you might dismiss the whole story as another symptom of an aging mind.
 
-You can't just march in and expect the world to reveal itself at your demand. Instead, you must be patient and allow the hallway to unfold as it is ready. There are comfortable chairs--you should try one.
+You can't just march in and expect the world to reveal itself at your demand. Instead, you must be patient and allow the hallway to unfold as it is ready. There are comfortable chairs—you should try one.
 
 Later, when you depart, would you do me a favor? If you see any artwork around the rear of the building, please discretely place it in the back of your pickup. You may keep it or dispose of it as you see fit. Strike Team Zeta appreciates your assistance.

@@ -2,7 +2,7 @@
 
 There are seven hallways in the residence where I live; three are in the assisted living wing, three are in the independent wing, and one is in the memory wing. Each hallway services six or more rooms. Each room has a door with a small cubby that invites personal expression. Most cubbies post pictures of Jesus or Mary. Many feature ceramic dogs or cats (but not both). There are plants and flags and war memorabilia and wind chimes and drawings by grandchildren.
 
-A few display artwork created by the occupant; our neighbor Jan paints mandala patterns on rocks. Dave Smith, a professor, dabbled in an abstract type of art he described as *Scarabocchio*--Italian for *scribble*. His door was a wild collage of politics, opinions, and multi-colored doodles. It screamed I AM ECCENTRIC, I AM PROUD OF IT, IT IS WHO I AM. When you are in Stevens Point, Wisconsin, you can visit his museum.
+A few display artwork created by the occupant; our neighbor Jan paints mandala patterns on rocks. Dave Smith, a professor, dabbled in an abstract type of art he described as *Scarabocchio*—Italian for *scribble*. His door was a wild collage of politics, opinions, and multi-colored doodles. It screamed I AM ECCENTRIC, I AM PROUD OF IT, IT IS WHO I AM. When you are in Stevens Point, Wisconsin, you can visit his museum.
 
 I’ve seen no lawn flamingos, neon beer signs, dancing hula girls, gumball machines, coin-operated video games, or historical plaques.
 
@@ -38,5 +38,4 @@ Chasing after her to correct the mistake would point out the lapse in memory and
 
 Those of us working with a fully functional brain recognize and remember things like room numbers and hallway directions. That part of Greta is fading away. Honestly, I think numbers and names are boring; I would find it much more appealing to navigate via whimsical visuals.
 
-What will Janell think when I hang a moose head in the kitchen and tell her it's a navigational aid?
-## 
+What will Janell think when I hang a moose head in the kitchen and tell her it's a navigational aid? \##
