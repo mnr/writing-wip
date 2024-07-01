@@ -9,6 +9,8 @@ book:
   cover-image: cover.png
   chapters:
     - index.md
+    - dedication.md
+    - foreward.md
     - mnr_aging.md
     - greta.md
     - fires.md
