@@ -1,0 +1,1 @@
+**A foreword is written by someone other than the author and tells the readers why they should read the book.** **A preface is written by the author and tells readers how and why the book came into being**.
