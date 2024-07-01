@@ -6,6 +6,8 @@ Mark Niemann-Ross writes about whatever he damn well chooses. Mostly science fic
 
 He lives in Portland, Oregon, paddles boats, and gives compliments to strangers.
 
+You can find him at http://www.niemannross.com
+
 ## Learn More about My Favorite Mother-In-Law
 
 There's a lot happening in the world of this book. Find out more at this website:
