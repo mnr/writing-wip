@@ -108,6 +108,6 @@ Greta looks up from cards. "I loved life," she says. "There's a lot of things in
 
 I look up and she is gone. Just an empty red chair, a cribbage board, and a glass of water. The house is quiet except for the clock.
 
-Due to genetics and monitoring my blood pressure, I'll live to be a hundred: not an exaggeration. When Greta isn't able to laugh at my jokes, I'll need to find someone else to carry on that task. I guess that's one reason (among many) to delight in grandchildren.
+I'm planning to live to be a hundred: not an exaggeration. When Greta isn't able to laugh at my jokes, I'll need to find someone else to carry on that task. I guess that's one reason (among many) to delight in grandchildren.
 
 I'm a better person because of the time I have spent with Greta. I look forward to spending more time with her peers—who will quickly become my peers. I've decided to embrace my age with enthusiasm and try to live up to the lessons I've learned from my favorite mother-in-law.
