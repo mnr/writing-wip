@@ -37,7 +37,7 @@ format:
   pdf:
     documentclass: scrreprt
   docx:
-    reference-doc: custom-reference.docx
+    reference-doc: smashword_template.docx
   epub:
     toc: true
     date: "2023-01-22"
