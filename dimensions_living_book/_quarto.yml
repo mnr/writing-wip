@@ -9,8 +9,6 @@ book:
   cover-image: cover.png
   chapters:
     - index.md
-    - dedication.md
-    - foreward.md
     - mnr_aging.md
     - greta.md
     - fires.md
@@ -30,7 +28,6 @@ book:
     - gretamemorycare.md
     - goodbyeToDimensions.md
     - gretalastchapter.md
-    - eulogy.md
     - acknowledgments.md
     - aboutMNR.md
 
