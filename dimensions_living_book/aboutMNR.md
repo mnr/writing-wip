@@ -2,9 +2,7 @@
 
 Thank you for reading "My Favorite Mother-In-Law." If you enjoyed it, won’t you please take a moment to leave me a review at your favorite retailer?
 
-![](AuthorPhoto.jpg){width="206"}
-
-Mark Niemann-Ross writes mostly science fiction, sometimes programming in R, often about tinkering with Raspberry Pi (the single board computer, not the pastry).
+![](images/AuthorPhoto.jpg)Mark Niemann-Ross writes mostly science fiction, sometimes programming in R, often about tinkering with Raspberry Pi (the single board computer, not the pastry).
 
 He lives in Portland, Oregon, paddles boats, and gives compliments to strangers.
 
