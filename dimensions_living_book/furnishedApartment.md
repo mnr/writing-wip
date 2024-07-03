@@ -64,12 +64,7 @@ The car has a jack for changing a tire. Perfect. I jack up the trailer, back up 
 
 There is a graphic counseling device called Johari's Window. It is used to help people understand their relationship with themselves and others. It is a grid of four squares: two rows, two columns. The columns are "Known to self" and "Not known to self." The rows are "Known to others" and "Not known to others." Each of the cells contains something revealing about the person or situation. Here is an example:
 
-|                       | Known To Others                                | Not Known To Others                                      |
-|-----------------|-------------------------|------------------------------|
-| **Known To Self**     | I am driving to Milwaukee with a 6x12 trailer. | I am getting low on gas.                                 |
-| **Not Known To Self** | Janell knows I should be less than confident.  | I have neglected to tighten the hitch latch to the ball. |
-
-: Johari's Window
+![](images/johari_window.png)
 
 Remember; God is omniscient, so this doesn't apply to them/her/him/three-in-one. By association, everyone at the bar knows all as well, so they see the approaching punchline.
 
