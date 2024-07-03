@@ -2,7 +2,7 @@
 
 ![](AuthorPhoto.jpg){width="206"}
 
-Mark Niemann-Ross writes about whatever he damn well chooses. Mostly science fiction, sometimes programming in R, often about tinkering with Raspberry Pi (the single board computer, not the pastry).
+Mark Niemann-Ross writes mostly science fiction, sometimes programming in R, often about tinkering with Raspberry Pi (the single board computer, not the pastry).
 
 He lives in Portland, Oregon, paddles boats, and gives compliments to strangers.
 
