@@ -20,11 +20,13 @@ Nickel Bingo is the second notable thing in the above sentence. There are *other
 
 Very few men show up for candy or jewelry bingo. I asked the activity coordinators if there is ever gun, fishing lure, or whiskey bingo. (answer: *no!*) I've thought of organizing an underground bingo association for the men; the poorly lit basement garage would be ideal for a cigar-smoking, scotch-drinking Friday night game. So far, I’ve abstained from instigating this clandestine event. I don't want to be the cause (or subject) of an *official memo* on inappropriate evening activities.
 
-::: {.callout-note icon="false"}
 ## Official Memos
 
-Official memos come from the Facility Director and appear in your campus mail slot; sometimes posted in the elevator. The memo vaguely insinuates a precipitating situation, but the intent is clear: *"Keep it up, buster, and your children will interview other residence halls for your next placement."*
-:::
+```         
+Official memos come from the Facility Director and appear in your campus mail slot; sometimes posted in the elevator. The memo vaguely insinuates a precipitating situation, but the intent is clear: 
+
+"Keep it up, buster, and your children will interview other residence halls for your next placement."
+```
 
 ## Games
 
@@ -92,11 +94,11 @@ As you might realize, collections became an issue of major contention and even m
 
 After the collection, the bingo caller proceeds with the announcing of numbers. Again, let me explain the simple concept, then the nuances that lead to shouting.
 
-::: {.callout-note icon="false"}
 ## Bingo Caller Certification
 
-You might think I am kidding about bingo caller certification. I am not. Depending on location, you may be required to take a class, pass a test, and/or annually renew your license. Search the internet for *bingo certification* for details.
-:::
+```         
+You might think I am kidding about bingo caller certification. I am not. Depending on location, you may be required to take a class, pass a test, and/or annually renew your license. Search the internet for "bingo certification" for details.
+```
 
 To start, the caller draws one ball from a bucket of 75 and announces the letter/number combination ("G-48. That's GEE...FOUR...EIGHT), then—and this is important—places that ball in a master matrix. With the ball safely in place, the caller repeats the process. The matrix is an easy way to confirm which numbers have been called. Which is important when someone calls...
 
