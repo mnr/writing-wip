@@ -11,8 +11,8 @@
 **My Favorite Mother-In-Law**\
 *By Mark Niemann-Ross*
 
-Mark faces the unexpected challenges of getting older and finds a mentor in his mother-in-law, Greta, as she transitions into assisted living.
+Mark faces the challenge of getting older and finds a mentor in his mother-in-law, Greta, as she transitions into assisted living.
 
-Mark captures the essence of life in this vibrant community, where every day brings fresh adventures, from navigating hallway artwork to the thrill of nickel bingo. In this heartwarming memoir, Mark shares stories of Greta's adventures, misadventures, and the timeless lessons she imparted. With a blend of humor and poignancy, "My Favorite Mother-In-Law" is a celebration of family, love, and the enduring bond between a son-in-law and his remarkable mother-in-law.
+Mark captures the essence of life in this vibrant community, where every day brings fresh adventures, from navigating hallway artwork to the thrill of nickel bingo. In this playful memoir, Mark shares stories of Greta's adventures, misadventures, and the timeless lessons she imparted. With a blend of humor and poignancy, "My Favorite Mother-In-Law" is a celebration of family, love, and the enduring bond between a son-in-law and his mother-in-law.
 
-Join Mark, Greta, and the residents of Evergreen Meadows Senior Community as they steal furniture, lurk in the halls, and share their experience of living fully at any age.
+Join Mark, Greta, and the residents of Evergreen Meadows Senior Community as they steal furniture, lurk in the halls, and share their experience of living fully at every age.
