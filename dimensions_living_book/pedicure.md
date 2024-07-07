@@ -8,7 +8,7 @@ Greta likes to look good. Her hair is coiffed and she's always been a spiffy dre
 
 In contrast, I have curated the look of someone who just stepped out of the woods. I trim my nails with a Swiss army knife, my pants are ripped in non-fashionable places, and I wear a shirt when I must.
 
-Greta goes to the hair stylist at Evergreen Meadows, but they don't do toenails or fingernails. Some community members get together on Tuesday afternoons and pull out a box of expired nail enamel, but nobody is trimming cuticles, exfoliating or de-callusing. It's mani-pedi lite. (That may not be the technical terms for this type of thing, but mani-pedi's are not my field of expertise.)
+Greta goes to the hair stylist at Evergreen Meadows, but they don't do toenails or fingernails. Community members get together on Tuesday afternoons and pull out a box of expired nail enamel, but nobody is trimming cuticles, exfoliating or de-callusing. It's mani-pedi lite. (That may not be the technical terms for this type of thing, but mani-pedi's are not my field of expertise.)
 
 I create educational videos for LinkedIn Learning. I demonstrate assembling electronics to an overhead camera; similar to a baking show with an overhead mirror. Nobody wants to look at my dirty fingernails so my producer, Raye, insists I get a manicure. Sometimes I forget.
 
@@ -16,7 +16,7 @@ I create educational videos for LinkedIn Learning. I demonstrate assembling elec
 
 I head off to clean and trim my nails, push the cuticles around, make things pretty. No nail polish, please. I do what my producer says - it's good policy. I have received manicures and I have the sponges and buffing pads necessary for the ordeal.
 
-Today, Greta's toenails and fingernails need some attention. Janell is normally the designated caretaker on girlie things, but she takes a schadenfreude attitude, volunteers me, then watches as I squirm. I lock my self-inflicted notions of manhood in a box, make an appointment at "Josephine's Nail Salon" and load Greta and myself in the car.
+Today, Greta's toenails and fingernails need attention. Janell is normally the designated caretaker on girlie things, but she takes a schadenfreude attitude, volunteers me, then watches as I squirm. I lock my self-inflicted notions of manhood in a box, make an appointment at "Josephine's Nail Salon" and load Greta and myself in the car.
 
 The toughest part of a manicure + pedicure is knowing when to talk. When I get the oil changed in the car, I surrender the keys, exchange a joke with the manager, grab a bag of free popcorn, and camp out with my email. Manicures are a different event; I don't have any good jokes about fingers, there is no popcorn, and I can't check my email because my fingers are busy getting soaked, buffed, or trimmed. Pedicures are another thing; what do I say to someone who is shaving off my calluses, digging out schmutz from under my toenails, and massaging my insteps. Do we discuss soap operas? (I don't watch any). Master-slave morality as espoused by Nietzsche? (I think not).
 
@@ -28,7 +28,7 @@ After my feet and hands have been sanded and prepped, the painting begins. The m
 
 "Oh, ick," Greta says. She's looking at my painted fingernails. "That color is too red. I'm going to pick something different." She paws through the box of Rust-Oleum bottles and comes out with fire-engine red.
 
-I now have a problem which will compound itself in the coming days. I can stop and switch to match Greta's choice, but this means enduring the grinding necessary to remove the current color. I elect to continue with Valentine Fuschia for my remaining fifteen nails. The manicurist irradiates my fingers with some army-surplus plutonium and the polish becomes heat-resistant and immune to chipping. Those are qualities of good engine paint, so I assume that is true here as well.
+I now have a problem which will compound itself in the coming days. I can stop and switch to match Greta's choice, but this means enduring the grinding necessary to remove the current color. I elect to continue with Valentine Fuschia for my remaining fifteen nails. The manicurist irradiates my fingers with army-surplus plutonium and the polish becomes heat-resistant and immune to chipping. Those are qualities of good engine paint, so I assume that is true here as well.
 
 Manicures and pedicures aren't unpleasant; unlike dental work, giving blood, or a vasectomy. Greta and I laugh at the absurdity of it all, then go to Culver's for a treat of frozen custard. The server at Culver's gives my fingers a glance, then takes our order. I can tell there is something slightly askew about our interaction, but don't spend time puzzling it out.
 
