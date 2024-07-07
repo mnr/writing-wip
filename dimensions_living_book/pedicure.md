@@ -26,7 +26,7 @@ Earlier, Greta chose nail polish for both of us; a small bottle labeled "Valenti
 
 After my feet and hands have been sanded and prepped, the painting begins. The manicurist skips a coat of primer before applying Valentine Fuschia. She is quick and efficient and has five fingers completed when Greta interjects;
 
-"Oh, ick," Greta says. She's looking at my painted fingernails. "That color is too red. I'm going to pick something different." She paws through the box of Rust-Oleum bottles and comes out with fire-engine red.
+"Oh, ick," Greta says. She's looking at my painted fingernails. "That color is too red. I'm going to pick something different." She paws through the box of Rust-Oleum bottles and comes out with a more conservative pink.
 
 I now have a problem which will compound itself in the coming days. I can stop and switch to match Greta's choice, but this means enduring the grinding necessary to remove the current color. I elect to continue with Valentine Fuschia for my remaining fifteen nails. The manicurist irradiates my fingers with army-surplus plutonium and the polish becomes heat-resistant and immune to chipping. Those are qualities of good engine paint, so I assume that is true here as well.
 
@@ -50,11 +50,11 @@ But we're not in Kansas, or Portland, anymore. The bikers gathered around me say
 
 God smiles at his little joke, then sends Greta into the bar. She sidles up next to me; the bikers part and let her through.
 
-"Hi Marky," she says. "Did you buy me a beer yet?"
+"Hi Marky," she says. "Did you buy me a beer?"
 
 "Gentlemen, this is Greta, my favorite-mother-in-law," I say. "Greta, please show them your nail polish. Please."
 
-Greta looks at me as if *I'm* the one losing my mind, but produces her fingernails. Our colors aren't exactly the same, but similar enough to have come from the same paint can.
+Greta looks at me as if *I'm* the one losing my mind, but produces her fingernails. Our colors aren't exactly the same, but similar enough to have come from the same hardware store.
 
 Motherhood is a strong card to play and it works. The bikers aren't going to challenge Greta (nobody wants to get dressed down by an honored citizen half their height and a third of their weight.) I take a healthy chug of beer and burp; good-old-boy tactics.
 
@@ -66,4 +66,4 @@ I grew up in St. Paul, Minnesota with an entitled attitude gained from living in
 
 He was right. It was one of those unexpected lessons I learned at college. I require remedial sessions now and again. Portland tends to the liberal side of things, but I remind myself I live in a political bubble. If the VFW can see clear to my wearing Valentine Fuschia, certainly I can seek to embrace their view of the world as well.
 
-At Greta's funeral, I'll proudly wear fingernail polish in honor of the lesson she taught me. The next time I'm at the auto-parts store, I'll ask for a bottle of fire-engine red paint and a small brush.
+At Greta's funeral, I'll proudly wear fingernail polish in honor of the lesson she taught me. The next time I'm at the auto-parts store, I'll ask for a bottle of red paint and a small brush.
