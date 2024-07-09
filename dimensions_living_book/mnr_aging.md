@@ -22,6 +22,6 @@ This is the first time I've gotten old and I am totally unprepared. I was hoping
 
 I realize I should observe someone older than myself. If I paid careful attention, I could see their triumphs and their failures. I could take careful notes and optimize my own experience. I need a mentor to show me how to get older.
 
-Fortunate me: I have a perfect mentor and I'm related to her.
+Fortunate me: I have a perfect mentor.
 
 My favorite Mother-In-Law!
