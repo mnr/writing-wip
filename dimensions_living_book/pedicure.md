@@ -66,7 +66,7 @@ I grew up in St. Paul, Minnesota with an entitled attitude gained from living in
 
 "Don't make fun of farmers with your mouth full," he informed me. He was right. It was one of those unexpected lessons I learned at college.
 
-Greta was forever willing to love those people around her, even when loving was a hard task. If I had things to do over again, I would follow her example and look for the good in everyone I encounter.
+Greta was forever willing to love those people around her, even when loving was a hard task. If I had things to do over again, I would try to follow her example and look for the good in everyone I encounter. Greta set a high bar on this one.
 
 I require remedial sessions now and again. Portland tends to the liberal side of things, but I remind myself I live in a political bubble. If the VFW can see clear to my wearing Valentine Fuschia, certainly I can seek to embrace their view of the world as well.
 
