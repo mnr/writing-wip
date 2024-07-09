@@ -60,10 +60,14 @@ Motherhood is a strong card to play and it works. The bikers aren't going to cha
 
 I bought Greta that beer and stuck around while she drank it. I had no loss of blood and was able to drive her home. Maybe I'm being overly-dramatic (I am), but at the time, there were a lot of large men who were not wearing nail polish. There was one of me. Add Greta and there were two of us with paint.
 
+## Tolerance
+
 I grew up in St. Paul, Minnesota with an entitled attitude gained from living in a big city. I then went to school in Menomonie, Wisconsin, a small town of 12,000. It was only a few days before I offended one of my classmates by suggesting farmers were bumpkins.
 
-"Don't make fun of farmers with your mouth full," he informed me.
+"Don't make fun of farmers with your mouth full," he informed me. He was right. It was one of those unexpected lessons I learned at college.
 
-He was right. It was one of those unexpected lessons I learned at college. I require remedial sessions now and again. Portland tends to the liberal side of things, but I remind myself I live in a political bubble. If the VFW can see clear to my wearing Valentine Fuschia, certainly I can seek to embrace their view of the world as well.
+Greta was forever willing to love those people around her, even when loving was a hard task. If I had things to do over again, I would follow her example and look for the good in everyone I encounter.
+
+I require remedial sessions now and again. Portland tends to the liberal side of things, but I remind myself I live in a political bubble. If the VFW can see clear to my wearing Valentine Fuschia, certainly I can seek to embrace their view of the world as well.
 
 At Greta's funeral, I'll proudly wear fingernail polish in honor of the lesson she taught me. The next time I'm at the auto-parts store, I'll ask for a bottle of red paint and a small brush.
