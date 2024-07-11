@@ -6,7 +6,7 @@ book:
   author: "Mark Niemann-Ross"
   date: "1/22/2023"
   page-navigation: true
-  cover-image: cover.png
+  cover-image: cover.jpg
   chapters:
     - index.md
     - mnr_aging.md
