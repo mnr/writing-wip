@@ -38,4 +38,4 @@ Chasing after her to correct the mistake would point out the lapse in memory and
 
 Those of us working with a fully functional brain recognize and remember things like room numbers and hallway directions. That part of Greta is fading away. Honestly, I think numbers and names are boring; I would find it much more appealing to navigate via whimsical visuals.
 
-What will Janell think when I hang a moose head in the kitchen and tell her it's a navigational aid? \##
+What will Janell think when I hang a moose head in the kitchen and tell her it's a navigational aid?
