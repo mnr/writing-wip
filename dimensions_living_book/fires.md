@@ -18,8 +18,6 @@ It's important to understand how competently Greta managed her family. For many 
 
 Greta would have handled it. The booth would have been painted. And pinstriped. And she would have fixed lunch for the out-of-his-mind CEO who suggested a repaint in the first place. Then she would have headed back home to prepare dinner for her family.
 
-That's Greta.
-
 ## Fire
 
 Greta lived alone after Gene died. She moved to a new house a few blocks away. We noticed she was willing to let us cook. Over time, she *expected* we would cook meals. Slowly, we picked up clues her interest in the kitchen was waning. For anyone else, this might be just a symptom of living alone. But this was unsettling for those of us who knew Greta.
