@@ -30,7 +30,7 @@ Official memos come from the Facility Director and appear in your campus mail sl
 
 ## Games
 
-In my family, games were a thing to do with your hands while we socialized. In the Ross family, games are serious. "*Are you going to talk, or are you going to play?*" They here to win. After a few rounds, I realize I don't have the level of competitiveness required. So I watch and make irreverant commentary from the sidelines.
+In my family, games were a thing to do with your hands while we socialized. In the Ross family, games are serious. "*Are you going to talk, or are you going to play?*" They here to win. After a few rounds, I realize I don't have the level of competitiveness required. So I watch and make irreverent commentary from the sidelines.
 
 Greta will happily play cribbage well past my bedtime. She's quick, recognizes the points for certain combinations of cards and announces her score after a glance. Apparently it's an automatic reflex, like breathing or heart beats or flinching away from the strong coffee I make.
 
