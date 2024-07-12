@@ -18,7 +18,7 @@ This all seems like a great achievement until I am called into the ~~principal's
 
 "I know," I say, filled with pride. "By next week we can be walking to the shopping mall!"
 
-"That is a problem," she says. "You are helping Greta become used to travelling off the property. She may wander off and forget how to get home. If she returns to Evergreen Meadows in the back seat of a police car, we have to either place her in memory care or she has to find a new place to live. And right now, we don't have any room in memory care."
+"That is a problem," she says. "You are helping Greta become used to traveling off the property. She may wander off and forget how to get home. If she returns to Evergreen Meadows in the back seat of a police car, we have to either place her in memory care or she has to find a new place to live. And right now, we don't have any room in memory care."
 
 Again I am being told to *straighten up, buster*. Nicely, but the message is clear.
 
