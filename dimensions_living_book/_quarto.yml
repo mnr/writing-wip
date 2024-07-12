@@ -37,7 +37,7 @@ format:
   pdf:
     documentclass: scrreprt
   docx:
-    reference-doc: smashword_template.docx
+    reference-doc: book_templates/spark_template.docx
   epub:
     toc: true
     date: "2023-01-22"
