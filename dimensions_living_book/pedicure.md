@@ -22,13 +22,13 @@ The toughest part of a manicure + pedicure is knowing when to talk. When I get t
 
 This time, I don't have that problem; Greta is always chatty and we fall into easy conversation. I occupy myself by figuring out the mystical icons on the control panel in the armrest, providing Greta with the benefit of my newly acquired mastery of the massage chair. I've had more relaxing massages from pneumatic jackhammers.
 
-Earlier, Greta chose nail polish for both of us; a small bottle labeled "Valentine Fuschia." From what I can tell, it is just Rust-Oleum Ford Red automotive engine enamel but in a smaller bottle. It would take a lot of these little bottles to cover an engine block.
+Earlier, Greta chose nail polish for both of us; a small bottle labeled "Valentine Fuchsia." From what I can tell, it is just Rust-Oleum Ford Red automotive engine enamel but in a smaller bottle. It would take a lot of these little bottles to cover an engine block.
 
-After my feet and hands have been sanded and prepped, the painting begins. The manicurist skips a coat of primer before applying Valentine Fuschia. She is quick and efficient and has five fingers completed when Greta interjects;
+After my feet and hands have been sanded and prepped, the painting begins. The manicurist skips a coat of primer before applying Valentine Fuchsia. She is quick and efficient and has five fingers completed when Greta interjects;
 
 "Oh, ick," Greta says. She's looking at my painted fingernails. "That color is too red. I'm going to pick something different." She paws through the box of Rust-Oleum bottles and comes out with a more conservative pink.
 
-I now have a problem which will compound itself in the coming days. I can stop and switch to match Greta's choice, but this means enduring the grinding necessary to remove the current color. I elect to continue with Valentine Fuschia for my remaining fifteen nails. The manicurist irradiates my fingers with army-surplus plutonium and the polish becomes heat-resistant and immune to chipping. Those are qualities of good engine paint, so I assume that is true here as well.
+I now have a problem which will compound itself in the coming days. I can stop and switch to match Greta's choice, but this means enduring the grinding necessary to remove the current color. I elect to continue with Valentine Fuchsia for my remaining fifteen nails. The manicurist irradiates my fingers with army-surplus plutonium and the polish becomes heat-resistant and immune to chipping. Those are qualities of good engine paint, so I assume that is true here as well.
 
 Manicures and pedicures aren't unpleasant; unlike dental work, giving blood, or a vasectomy. Greta and I laugh at the absurdity of it all, then go to Culver's for a treat of frozen custard. The server at Culver's gives my fingers a glance, then takes our order. I can tell there is something slightly askew about our interaction, but don't spend time puzzling it out.
 
@@ -68,6 +68,6 @@ I grew up in St. Paul, Minnesota with an entitled attitude gained from living in
 
 Greta was forever willing to love those people around her, even when loving was a hard task. If I had things to do over again, I would try to follow her example and look for the good in everyone I encounter. Greta set a high bar on this one.
 
-I require remedial sessions now and again. Portland tends to the liberal side of things, but I remind myself I live in a political bubble. If the VFW can see clear to my wearing Valentine Fuschia, certainly I can seek to embrace their view of the world as well.
+I require remedial sessions now and again. Portland tends to the liberal side of things, but I remind myself I live in a political bubble. If the VFW can see clear to my wearing Valentine Fuchsia, certainly I can seek to embrace their view of the world as well.
 
 At Greta's funeral, I'll proudly wear fingernail polish in honor of the lesson she taught me. The next time I'm at the auto-parts store, I'll ask for a bottle of red paint and a small brush.
