@@ -4,7 +4,7 @@ The Ross family has always been gracious and welcoming, traits they learned from
 
 I am part of the exclusive club of Ross in-laws. We joke and snark about the siblings, but we love them dearly. Thanks Lisa and Mike. We're going to write a handbook on surviving with the Ross family. And Mike; let me know when it is your turn to be the favorite son-in-law. I'll be happy to ship you the T-shirt, ballcap, and lapel pin.
 
-The barn and repostitory for stolen property was courtesy of Jon and Sharon (and Iris, Ike, and Ruby). Thanks for not kicking me out of the dorm room, even when I deserved it.
+The barn and repository for stolen property was courtesy of Jon and Sharon (and Iris, Ike, and Ruby). Thanks for not kicking me out of the dorm room, even when I deserved it.
 
 I am grateful to the assisted living facility where much of this happened. They requested I respect the anonymity of staff and residents, but you know who you are and hopefully, you know the universe of respect I have for you and your profession. Thank you for being Greta's best friends.
 
