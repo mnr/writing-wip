@@ -4,7 +4,8 @@ project:
 book:
   title: "My Favorite Mother-In-Law"
   author: "Mark Niemann-Ross"
-  date: "1/22/2023"
+  date: today
+  date-format: "MM/DD/YYYY"
   page-navigation: true
   cover-image: cover.jpg
   chapters:
@@ -40,7 +41,8 @@ format:
     reference-doc: book_templates/spark_template.docx
   epub:
     toc: true
-    date: "2023-01-22"
+    date: today
+    date-format: "MM/DD/YYYY"
     lang: en-GB
 
 editor: visual
