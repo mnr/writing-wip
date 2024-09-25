@@ -10,13 +10,13 @@ Instead, my muse has a Master's degree in harassment with a minor in karate. She
 
 She unexpectedly pops in one afternoon after Drum Fit exercise class. I am staring out the window, watching Zero the dog chase the same squirrel he chases every day. I don't realize muse is here until she slaps me upside my head with a round-house, full-arm swing that catches me just on the top of my skull, pitching me forward and leaving a bruise. If I'd been wearing a baseball cap it would've flown across the room.
 
-"Welcome back," I say. I rub my head and stare at her with a peeved look I learned from Gladice.
+"Welcome back," I say. I rub my head and stare at her with a peeved look I learned from Margaret.
 
 "Why are you ignoring me?" she asks. I assume her pronouns are she/her, but since she is incorporeal, they could be anything. "I've provided you with a wealth of writing prompts, but you complain and do nothing."
 
 "Writing prompts?" I ask. "I haven't seen anything from you lately."
 
-"Gladice? Greta?" she says. "Red Chair? Bingo? Who do you think got you this living situation? God is capricious, but he does listen to prayers. Mine at least. And by the way, you're welcome. I'll check up in a week."
+"Margaret? Greta?" she says. "Red Chair? Bingo? Who do you think got you this living situation? God is capricious, but he does listen to prayers. Mine at least. And by the way, you're welcome. I'll check up in a week."
 
 She disappears in a theatrical poof of smoke, leaving me with a room full of stories waiting for my attention. Now that I know how to see them, they become insistent, crowding around like puppies at mealtime. Science fiction will have to wait until I transcribe the puppies to paper.
 
