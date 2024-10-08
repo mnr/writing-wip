@@ -40,7 +40,7 @@ God seems to have taken an interest in my trip to Milwaukee.
 
 *"The one headed to Milwaukee," replies God. "Gospel Mark has the day off."*
 
-*"It's on the list," St. Peter wearily points to the clipboard he has been carrying for the last millennium. He turns to the second page. "It's on line 1,048,323,499,092:"Mark drives to Milwaukee to pick up furniture."*
+*"It's on the list," St. Peter wearily points to the clipboard he has been carrying for the last millennium. He turns to the second page. "It's on line 1,048,323,499,092* <!--# One Trillion, Forty-Eight Billion, Three Hundred Twenty-Three Million, Four Hundred Ninety-Nine Thousand, Ninety-Two -->*:"Mark drives to Milwaukee to pick up furniture."*
 
 *"Right. That's the one." God delivers the pint to the prostitute sitting at the end of the bar (Everyone is welcome here). "Let's add some color to his life."*
 
@@ -68,7 +68,7 @@ There is a graphic counseling device called Johari's Window. It is used to help 
 
 Remember; God is omniscient, so this doesn't apply to them/her/him/three-in-one. By association, everyone at the bar knows all as well, so they see the approaching punchline.
 
-Cruising down the highway at 65 mph (My rearview mirror reflects WARNING: DO NOT EXCEED 55 MPH WITH THIS TRAILER) I question my pre-flight checklist. Did I put on the safety chains? (Yes). Did the trailer tires have air? (Yes). Was the trailer empty? (Yes). Did I tighten the hitch latch to the ball? (Possibly not. Sure I did. Can't remember. Yes. No.) Perhaps I should check.
+Cruising down the highway at 65 mph (My rear view mirror reflects WARNING: DO NOT EXCEED 55 MPH WITH THIS TRAILER) I question my pre-flight checklist. Did I put on the safety chains? (Yes). Did the trailer tires have air? (Yes). Was the trailer empty? (Yes). Did I tighten the hitch latch to the ball? (Possibly not. Sure I did. Can't remember. Yes. No.) Perhaps I should check.
 
 Ahead is a rest stop - perfect for checking hitches. I turn smoothly and decelerate. Unfortunately, the Wisconsin Department of Transportation has neglected their maintenance on this rest area. There are potholes. BIG potholes filled with water. Potholes so frequent and so large they are impossible to dodge. I hit one, then a second. I look in the rear-view mirror and see the trailer lurching and bucking behind me. I feel a tug; the trailer has clearly jumped off the ball and is now free to run me down or puncture my gas tank. I sloooowly come to a stop, trying not to irritate this 6x12 untethered monster trailing my car.
 
