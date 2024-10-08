@@ -30,7 +30,7 @@ Official memos come from the Facility Director and appear in your campus mail sl
 
 ## Games
 
-In my family, games were a thing to do with your hands while we socialized. In the Ross family, games are serious. "*Are you going to talk, or are you going to play?*" They here to win. After a few rounds, I realize I don't have the level of competitiveness required. So I watch and make irreverent commentary from the sidelines.
+In my family, games were a thing to do with your hands while we socialized. In the Ross family, games are serious. "*Are you going to talk, or are you going to play?*" They are here to win. After a few rounds, I realize I don't have the level of competitiveness required. So I watch and make irreverent commentary from the sidelines.
 
 Greta will happily play cribbage well past my bedtime. She's quick, recognizes the points for certain combinations of cards and announces her score after a glance. Apparently it's an automatic reflex, like breathing or heart beats or flinching away from the strong coffee I make.
 
@@ -68,7 +68,7 @@ Collecting fees must be done with efficiency. Everyone waits for the game to beg
 
 You might think collection is an inconsequential job, but it is not. An informal and self-designated sub-committee of residents bestows the honor of collector upon an individual. The qualifications are not available for public review anywhere that I've seen, but I believe the main qualifier is squeezing between tightly packed tables, walkers, and wheelchairs. This requires the ability to bend your knees and locomote without support. I am proud to note I was asked to perform this task and discharged my duties with the earnestness of a first-time student council president.
 
-Now—-I propose a conundrum for you to consider. *What is the proper response if the change is not correct for the number of bingo cards visible on the table?*
+Now—I propose a conundrum for you to consider. *What is the proper response if the change is not correct for the number of bingo cards visible on the table?*
 
 The obvious strategy would be to ask if everyone has contributed. When I'm fortunate, one member will realize it is time to ante-up and contribute their fair share. Unfortunately, this rarely happens.
 
@@ -86,7 +86,7 @@ During my training to become certified as a bingo money collector, I also learne
 
 I am *certain* I have not collected. But I am only one vote out of five, the other four being the players seated at the table. They assume the bowl contains money for the next round. The act of making change interrupted the normal interaction between players and the collector. Or sadly, their short-term memory is a bit wobbly. Untangling this error is torturous. I tried to reason through a narrative of the collection, but there is no point to this. Again—smile. Move on.
 
-Someone may not contribute or is flustered with the quick flow of money across the table. I learned to carry a supplemental pocket of nickels and make a lightning loan where necessary. *"I've got you covered,"* I tell my new friend. In a few minutes, everyone forgets about the loan, but the friendship remains. I count that as a win.
+Someone may not have contributed or is flustered with the quick flow of money across the table. I learned to carry a supplemental pocket of nickels and make a lightning loan where necessary. *"I've got you covered,"* I tell my new friend. In a few minutes, everyone forgets about the loan, but the friendship remains. I count that as a win.
 
 As you might realize, collections became an issue of major contention and even made it to a topic of discussion at a town hall. Volunteers stepped up with a plan; now we have a collection system inspired by the traditions of the Lutheran Church.
 
