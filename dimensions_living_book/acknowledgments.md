@@ -8,6 +8,6 @@ The barn and repository for stolen property was courtesy of Jon and Sharon (and 
 
 I am grateful to the assisted living facility where much of this happened. They requested I respect the anonymity of staff and residents, but you know who you are and hopefully, you know the universe of respect I have for you and your profession. Thank you for being Greta's best friends.
 
-Ask any writer about the task of getting useful reviews and edits. Their response will start with an exasperated sigh, then you will hear of the difficulty of finding someone who will provide a useful review. I am indebted to Don Barnes, Robin Rolfe, Abbie Weisenbloom., John Goff, Janet Patin, Dick Morgan, Mari Partenheimer, Greg Moore, Paul Bigler, Amy Houchen, and Linda MacIntyre.
+Ask any writer about the task of getting useful reviews and edits. Their response will start with an exasperated sigh, then you will hear of the difficulty of finding someone who will provide a useful review. I am indebted to Don Barnes, Robin Rolfe, Abbie Weisenbloom, John Goff, Janet Patin, Dick Morgan, Mari Partenheimer, Greg Moore, Paul Bigler, Amy Houchen, and Linda MacIntyre.
 
 Finally, Janell. Thank you for welcoming me into your life and for the opportunity to meet one of the finest people I have ever known. I'm sorry I shrunk your laundry.
