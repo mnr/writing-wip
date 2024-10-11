@@ -1,0 +1,50 @@
+project:
+  type: book
+
+book:
+  title: "My Favorite Mother-In-Law"
+  author: "Mark Niemann-Ross"
+  date: today
+  date-format: "MM/DD/YYYY"
+  page-navigation: true
+  cover-image: cover.jpg
+  chapters:
+    - index.md
+    - mnr_aging.md
+    - greta.md
+    - fires.md
+    - sundown.md
+    - assistedLife.md
+    - siblings.md
+    - howIgotHere.md
+    - harassingTheNatives.md
+    - myMuse.md
+    - furnishedApartment.md
+    - redchair.md
+    - Bingo.md
+    - pedicure.md
+    - hallwayNavigation.md
+    - artwork.md
+    - candyBasket.md
+    - ruby.md
+    - gretamemorycare.md
+    - goodbyeToDimensions.md
+    - gretalastchapter.md
+    - acknowledgments.md
+    - aboutMNR.md
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+  docx:
+    reference-doc: book_templates/spark_template.docx
+  epub:
+    toc: true
+    date: today
+    date-format: "MM/DD/YYYY"
+    lang: en-GB
+
+editor: visual
+
