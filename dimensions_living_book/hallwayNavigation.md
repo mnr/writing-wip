@@ -24,7 +24,7 @@ If you need a local example, take a tour of Epic Systems Incorporated Intergalac
 
 With a few modifications, my father would step out of his room, look for the bicycle, turn left at the alligator, go straight until he was in Germany. He realized one route to the cafeteria was marked by a large mirror at the far end of the hall. Thereafter, he arrived at dinner by walking towards himself.
 
-To travel to Greta's apartment, I turn left at the mandala rock, right at the bluebird house, and go straight to the ceramic dachshunds. She liked to cook, so I've been looking for a child-sized kitchen range to place outside her door.
+To travel to Greta's apartment, I turn left at the mandala rock, right at the bluebird house, and go straight to the ceramic dachshunds. Greta liked to cook, so I've been looking for a child-sized kitchen range to place outside her door.
 
 Temple Grandin, an animal behaviorist, writes about three kinds of thinkers: visual, music and math, and verbal logic. She believes we assume everyone operates in the same area as ourselves. For example, I'm a verbal logic thinker and assume everyone loves words. Janell frequently (patiently) reminds me this isn't true. ("*Nobody cares about the logic behind bingo!*") My youngest son is a solid math thinker, and fought with high school teachers who insisted he write out, in English, the process he used to solve a math problem. ("*Math is a precise language. English is random. Why should I use an imperfect language to describe math?*")
 
