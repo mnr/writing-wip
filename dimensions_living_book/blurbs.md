@@ -1,5 +1,21 @@
-# Blurbs {.unnumbered}
+# What Others are Saying about My Favorite Mother-In-Law
 
-“Note: Front-of-the-book blurbs (testimonials or snippets of reviews) are not required for inclusion in the Smashwords Premium Catalog. In fact, there are potential downsides to adding blurbs inside the book. If you add too much testimonial content to the front of your book, it can decrease readership because it can create distance between the reader and the start of your book. The reader doesn’t want to flip multiple pages to start reading. The blurbs also count toward your free sample at the retailers, which means readers who download your free sample may not even reach the start of the book if blurbs are too long. I’d recommend you keep blurbs out of your front matter and instead use choice quotes in the metadata of your book description. You’ll provide Smashwords your book description on the Smashwords Publish page, at the time you upload your book. If still want blurbs in your book, consider using them at the end of your book to promote other books, or, if you insist on having them in your front matter, put them at the very top of the book, before the Title & Copyright page (see the Dan Poynter example below\[…\]”
+> *I wholeheartedly enjoyed this book! We get a glimpse into the life of a wonderful woman named Greta and the light-hearted antics of living in a retirement home from the view of her favorite son-in-law. He touched on religion throughout the book with such levity, it was honestly refreshing! Beautifully written!*
+>
+> Taylor on Goodreads
 
-Excerpt From Smashwords Style Guide Mark Coker This material may be protected by copyright.
+> *This book will have you laughing and teary eyed. What an adventure Mark and Janell have with Greta I really like reading about the red chair, also about Ruby at first I didn’t understand why Greta was not friendly with Ruby, not giving anything away. Than the pictures heist this was funny to me. I believe you will enjoy this book as I do. I will reread this book again*
+>
+> *\
+> I give My Favorite Mother In Law a 5 Star Review*
+>
+> Catherine on Goodreads
+
+> **Fabulous aging/end of life story**
+>
+> *This is a book in which one can laugh at the same words that could cause tears. Everyone gets older one day at a time. But when do we really take the time to reflect on all of the bygone years, and recognize that we are now at the “old” age that was once reserved for our aunts and uncles and grandparents?*
+>
+> *\
+> Mark brings wonderful insight and humor to the inevitable…I highly recommend My Favorite Mother-in- law!*
+>
+> Connie on Amazon
