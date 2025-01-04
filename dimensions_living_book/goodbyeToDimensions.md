@@ -24,7 +24,7 @@ I wasn't sure where this would lead, but I responded positively.
 
 Charles stopped mid-response. His hat displays the name of his battleship during the Korean war. He may have realized some of those homeless drug addicts on the TV are his brothers-in-arms.
 
-From that moment on, we explored stories with our different viewpoints. We always part with a laugh and agree it's up to us. Charles is a hard-won, and most valued friend.
+From that moment on, we explored stories with our different viewpoints. We always part with a laugh and agree it's up to us. Charles is a hard-won and most valued friend.
 
 Charles uses a walker, and deviations from a direct path are an extra effort for him. Today, he gets up from his table in the corner and begins the walk back to his room. This time he drifts to the right, away from the exit, towards where I'm sitting with Margaret.
 
