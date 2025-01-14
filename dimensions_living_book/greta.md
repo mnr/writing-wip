@@ -28,7 +28,7 @@ One son collected beer cans. A *lot* of beer cans; empty ones. *Who emptied all 
 
 This family of seven traveled extensively: Ohio, Michigan, South Dakota, Florida, the Spokane World Fair, Idaho, Colorado, the Apostle Islands in Lake Superior, New York City, Colorado and more. The chariot was a 1971 Ford Country Squire with wood-like side panels. Enough room for everyone, but I've heard there were fights anyways.
 
-Janell tells me she ignored several of the scenic overlooks in favor of reading steamy stories in the back of *RedBook* magazine and learning how to kiss boys. In contrast, I was reading *Boy's Life,* learning how to start fires and run away from bears. This explains a lot about the early years of our marriage.
+Janell (The oldest daughter and my favorite wife) tells me she ignored several of the scenic overlooks in favor of reading steamy stories in the back of *RedBook* magazine and learning how to kiss boys. In contrast, I was reading *Boy's Life,* learning how to start fires and run away from bears. This explains a lot about the early years of our marriage.
 
 ## Greta has no trust issues
 
@@ -52,7 +52,7 @@ That's Greta.
 
 ## Meeting Greta
 
-I first met Greta when I was twenty-four years old. Janell, who is now my favorite wife, introduced me to her family. I was too self-confident to be nervous about how they might feel about me. As long as I didn't smoke pot in the living room after dinner, I would get high marks.
+I first met Greta when I was twenty-four years old. Janell introduced me to her family. I was too self-confident to be nervous about how they might feel about me. As long as I didn't smoke pot in the living room after dinner, I would get high marks.
 
 I knew nothing about Neillsville until I went there with Janell. We drove into town and I started laughing.
 
@@ -88,7 +88,7 @@ She loves her gay nephew. She's seen men (and priests) misbehave and small town 
 
 Greta laughs at my jokes. When we visit she looks past Janell to see if I'm there. If I am, Janell is dismissed and I get the first hug. I've told Greta she is my favorite mother-in-law (she is my *only* mother-in-law) and she agrees that I am her favorite son-in-law. (The other son-in-law is aware of this but chooses to ignore my little insults).
 
-My role in Greta's life is comedic relief&mdash;I'm the fun guy. With apologies to the family members who wrangle medications and bills and doctor visits, my job is to make Greta laugh. When Greta is feeling blue, I put on my walking shoes, leave my home in Portland, Oregon, and drive five days to Stevens Point, Wisconsin. I stay for a week, usually longer.
+My role in Greta's life is comedic relief—I'm the fun guy. With apologies to the family members who wrangle medications and bills and doctor visits, my job is to make Greta laugh. When Greta is feeling blue, I put on my walking shoes, leave my home in Portland, Oregon, and drive five days to Stevens Point, Wisconsin. I stay for a week, usually longer.
 
 I'm not sure why I have a close relationship with Greta. We didn't survive a plane crash in the Alps, foraging for food together in the frozen mountains. She didn't donate one of her kidneys to save me from a terminal illness. I've never borrowed money from her. Perhaps once for ice cream. But still, when I see her, my heart sings.
 
