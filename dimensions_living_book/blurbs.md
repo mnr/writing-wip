@@ -19,3 +19,7 @@
 > Mark brings wonderful insight and humor to the inevitable…I highly recommend My Favorite Mother-in- law!*
 >
 > Connie on Amazon
+>
+> *Your submission, My Favorite Mother-In-Law, has been selected to be added to the library’s e-book collection as part of the Library Writers Project.  We had over 60 submissions to the Library Writers Project this year and yours was a standout.*  
+>
+> Kady Ferris - Electronic Content Librarian
