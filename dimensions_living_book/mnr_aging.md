@@ -1,6 +1,6 @@
 # Aging {.unnumbered}
 
-I've been twenty-five for about four decades. This month, I awoke to find I'm suddenly sixty-five. I use adverbs sparingly, but in this case, "suddenly" fits.
+I've been twenty-five for about four decades. Today, I awoke to find I'm suddenly sixty-five. I use adverbs sparingly, but in this case, "suddenly" fits.
 
 Sixty-five is harder than twenty-five.
 
